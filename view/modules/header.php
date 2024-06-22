@@ -49,7 +49,7 @@
             <div class="column--Hi5zl"><a class="logo-container--Tz23y logo-dark--btVhJ" data-cy="player_ui__header__logo" href="/tr-tr/"></a></div>
             <div class="column--Hi5zl">
                <div class="buttons--Hta6M">
-                  <div class="btn-login--xx0Ej" data-cy="player_ui__header__button__login">
+                  <div class="btn-login--xx0Ej" data-cy="player_ui__header__button__login" onclick="openmodal('loginModal')">
                      <div class="ellipsis--EjZIN">GİRİŞ</div>
                      <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -64,7 +64,7 @@
                         </svg>
                      </span>
                   </div>
-                  <div class="btn-join-now--KsXRP" data-cy="player_ui__header__button__join_now">
+                  <div class="btn-join-now--KsXRP" data-cy="player_ui__header__button__join_now"  onclick="openmodal('registerModal')">
                      <div class="ellipsis--EjZIN">Kayıt ol</div>
                      <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">

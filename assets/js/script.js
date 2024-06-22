@@ -44,7 +44,8 @@ function openusermenu(){
    $(".side-menu-wrapper--OD41n").toggleClass("not-visible--iK0Vj");
 } 
 function openbalancemenu(){
-$("#balance-menu").toggleClass("active");
+$(".dropdown--HJjq7").toggleClass("not-visible--ARwS7"); 
+$(".icon--Z3mH6").toggleClass("expanded--W2OFu");
 } 
 function openmodals(id){
 closemodals();

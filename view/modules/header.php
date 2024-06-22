@@ -141,7 +141,7 @@ div:where(.swal2-icon).swal2-warning {
                                        </span>
                                     </button>
                                     <div class="button--cHbLR">
-                                       <div class="header--oUxec" data-cy="player_ui__header__button__balance">
+                                       <div class="header--oUxec" onclick="openbalancemenu()" data-cy="player_ui__header__button__balance">
                                           <div class="icon--UpI83"><span>$</span></div>
                                           <div class="balance-info--extAr">
                                              <div>Bakiye</div>

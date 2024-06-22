@@ -443,971 +443,1291 @@
                </div>
             </div>
             <div class="casino-content--krtue">
-               <div class="casino-games--qGslk">
-                  <div class="games--IGQQd" style="height: 836px;">
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Sugar Rush 1000</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
-                              </div>
-                           </div>
+            <div class="casino-games--qGslk">
+   <div class="games--IGQQd" style="height: 1352px;">
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 0px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f8088-40c6-7eed-8797-e05e56a3b016__SitNYW5pYStEaWFtb25kcytTLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f8088-40c6-7eed-8797-e05e56a3b016__SitNYW5pYStEaWFtb25kcytTLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f8088-40c6-7eed-8797-e05e56a3b016__SitNYW5pYStEaWFtb25kcytTLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f8088-40c6-7eed-8797-e05e56a3b016__SitNYW5pYStEaWFtb25kcytTLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">J Mania Diamonds 94</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Ruby Play</div>
-                              </div>
-                           </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
                         </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e9ef3-6390-7cac-a41f-f2dc9fcd3a22__ZmFsY29uX3Nsb3RzX19Td2VldCtGcnVpdHNfX1MuanBn.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e9ef3-6390-7cac-a41f-f2dc9fcd3a22__ZmFsY29uX3Nsb3RzX19Td2VldCtGcnVpdHNfX1MuanBn.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e9ef3-6390-7cac-a41f-f2dc9fcd3a22__ZmFsY29uX3Nsb3RzX19Td2VldCtGcnVpdHNfX1MuanBn.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e9ef3-6390-7cac-a41f-f2dc9fcd3a22__ZmFsY29uX3Nsb3RzX19Td2VldCtGcnVpdHNfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Sweet Fruits</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Falcon Gaming</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Starlight Princess Pachi</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f750-7e71-83a0-902d1e9ca4eb__c2xvdGdmYW1hbmUtOTZfX1Nsb3RHRitBbWFuZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f750-7e71-83a0-902d1e9ca4eb__c2xvdGdmYW1hbmUtOTZfX1Nsb3RHRitBbWFuZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f750-7e71-83a0-902d1e9ca4eb__c2xvdGdmYW1hbmUtOTZfX1Nsb3RHRitBbWFuZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f750-7e71-83a0-902d1e9ca4eb__c2xvdGdmYW1hbmUtOTZfX1Nsb3RHRitBbWFuZSs5Nl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">SlotGF Amane 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 0px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Mad Hit Wild Alice 94</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Ruby Play</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Sweet Bonanza 1000</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f8ae-7cc3-ba78-f1aede18aac4__aG9tZXJ1bjc3Ny05Nl9fSG9tZStSdW4rNzc3Kzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f8ae-7cc3-ba78-f1aede18aac4__aG9tZXJ1bjc3Ny05Nl9fSG9tZStSdW4rNzc3Kzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f8ae-7cc3-ba78-f1aede18aac4__aG9tZXJ1bjc3Ny05Nl9fSG9tZStSdW4rNzc3Kzk2X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f8ae-7cc3-ba78-f1aede18aac4__aG9tZXJ1bjc3Ny05Nl9fSG9tZStSdW4rNzc3Kzk2X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Home Run 777 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018eae15-ea99-778b-ae2c-19abc705c31d__MzArY29pbnMrUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018eae15-ea99-778b-ae2c-19abc705c31d__MzArY29pbnMrUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018eae15-ea99-778b-ae2c-19abc705c31d__MzArY29pbnMrUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018eae15-ea99-778b-ae2c-19abc705c31d__MzArY29pbnMrUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">30 Coins™</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Wazdan</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f31a-7adb-84d8-ff758f969c9f__dmFtcGlyZXNnb25ld2lsZC05Nl9fVmFtcGlyZXMrR29uZStXaWxkKzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f31a-7adb-84d8-ff758f969c9f__dmFtcGlyZXNnb25ld2lsZC05Nl9fVmFtcGlyZXMrR29uZStXaWxkKzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f31a-7adb-84d8-ff758f969c9f__dmFtcGlyZXNnb25ld2lsZC05Nl9fVmFtcGlyZXMrR29uZStXaWxkKzk2X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f31a-7adb-84d8-ff758f969c9f__dmFtcGlyZXNnb25ld2lsZC05Nl9fVmFtcGlyZXMrR29uZStXaWxkKzk2X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Vampires Gone Wild 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Arctic  Coins</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Fugaso</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 209px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2b3-7f4f-9b15-d3343f4781a0__dGV4YXN3aWxkanVzdGljZS05Nl9fVGV4YXMrV2lsZCtKdXN0aWNlKzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2b3-7f4f-9b15-d3343f4781a0__dGV4YXN3aWxkanVzdGljZS05Nl9fVGV4YXMrV2lsZCtKdXN0aWNlKzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2b3-7f4f-9b15-d3343f4781a0__dGV4YXN3aWxkanVzdGljZS05Nl9fVGV4YXMrV2lsZCtKdXN0aWNlKzk2X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2b3-7f4f-9b15-d3343f4781a0__dGV4YXN3aWxkanVzdGljZS05Nl9fVGV4YXMrV2lsZCtKdXN0aWNlKzk2X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Texas Wild Justice 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f08e-7b34-9691-2b69946cae98__c2xvdGdmYWxpY2UtOTZfX1Nsb3RHRitBbGljZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f08e-7b34-9691-2b69946cae98__c2xvdGdmYWxpY2UtOTZfX1Nsb3RHRitBbGljZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f08e-7b34-9691-2b69946cae98__c2xvdGdmYWxpY2UtOTZfX1Nsb3RHRitBbGljZSs5Nl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f08e-7b34-9691-2b69946cae98__c2xvdGdmYWxpY2UtOTZfX1Nsb3RHRitBbGljZSs5Nl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">SlotGF Alice 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f142-7088-97d4-85448cb8b4eb__bm90ZW9mZGVhdGgtOTZfX05vdGUrb2YrRGVhdGgrOTZfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f142-7088-97d4-85448cb8b4eb__bm90ZW9mZGVhdGgtOTZfX05vdGUrb2YrRGVhdGgrOTZfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f142-7088-97d4-85448cb8b4eb__bm90ZW9mZGVhdGgtOTZfX05vdGUrb2YrRGVhdGgrOTZfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f142-7088-97d4-85448cb8b4eb__bm90ZW9mZGVhdGgtOTZfX05vdGUrb2YrRGVhdGgrOTZfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Note of Death 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2a3-7244-8363-8bf159573a61__a25pZ2h0c2ZpZ2h0LTk2X19LbmlnaHRzK0ZpZ2h0Kzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2a3-7244-8363-8bf159573a61__a25pZ2h0c2ZpZ2h0LTk2X19LbmlnaHRzK0ZpZ2h0Kzk2X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2a3-7244-8363-8bf159573a61__a25pZ2h0c2ZpZ2h0LTk2X19LbmlnaHRzK0ZpZ2h0Kzk2X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f2a3-7244-8363-8bf159573a61__a25pZ2h0c2ZpZ2h0LTk2X19LbmlnaHRzK0ZpZ2h0Kzk2X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Knights Fight 96</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f498-781d-881e-501fce69896e__bGVnYWN5b2ZpbWhvdGVwX19MZWdhY3krb2YrSW1ob3RlcF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f498-781d-881e-501fce69896e__bGVnYWN5b2ZpbWhvdGVwX19MZWdhY3krb2YrSW1ob3RlcF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f498-781d-881e-501fce69896e__bGVnYWN5b2ZpbWhvdGVwX19MZWdhY3krb2YrSW1ob3RlcF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ec20c-f498-781d-881e-501fce69896e__bGVnYWN5b2ZpbWhvdGVwX19MZWdhY3krb2YrSW1ob3RlcF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Legacy of Imhotep</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Yolted</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e42ce-cd8b-7b80-b939-842fe414f5c5__cmx4LmthLmthLmpva2VybGVwcmVjaGF1bnMtaG53X19Kb2tlcitMZXByZWNoYXVucytIb2xkK2FuZCtXaW5fX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e42ce-cd8b-7b80-b939-842fe414f5c5__cmx4LmthLmthLmpva2VybGVwcmVjaGF1bnMtaG53X19Kb2tlcitMZXByZWNoYXVucytIb2xkK2FuZCtXaW5fX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e42ce-cd8b-7b80-b939-842fe414f5c5__cmx4LmthLmthLmpva2VybGVwcmVjaGF1bnMtaG53X19Kb2tlcitMZXByZWNoYXVucytIb2xkK2FuZCtXaW5fX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e42ce-cd8b-7b80-b939-842fe414f5c5__cmx4LmthLmthLmpva2VybGVwcmVjaGF1bnMtaG53X19Kb2tlcitMZXByZWNoYXVucytIb2xkK2FuZCtXaW5fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Joker Leprechauns Hold and Win</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Kalamba</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 418px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee53-617a-7b96-8486-bfdb08982629__bGVwcmVjaGF1bnN2YXVsdF9fTGVwcmVjaGF1biUyN3MrVmF1bHRfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee53-617a-7b96-8486-bfdb08982629__bGVwcmVjaGF1bnN2YXVsdF9fTGVwcmVjaGF1biUyN3MrVmF1bHRfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee53-617a-7b96-8486-bfdb08982629__bGVwcmVjaGF1bnN2YXVsdF9fTGVwcmVjaGF1biUyN3MrVmF1bHRfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee53-617a-7b96-8486-bfdb08982629__bGVwcmVjaGF1bnN2YXVsdF9fTGVwcmVjaGF1biUyN3MrVmF1bHRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Leprechaun's Vault</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">PlayN Go</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee3f-8e0c-77cb-a289-5bacd78bdf0f__c2hhbXJvY2ttaW5lcl9fU2hhbXJvY2srTWluZXJfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee3f-8e0c-77cb-a289-5bacd78bdf0f__c2hhbXJvY2ttaW5lcl9fU2hhbXJvY2srTWluZXJfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee3f-8e0c-77cb-a289-5bacd78bdf0f__c2hhbXJvY2ttaW5lcl9fU2hhbXJvY2srTWluZXJfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cee3f-8e0c-77cb-a289-5bacd78bdf0f__c2hhbXJvY2ttaW5lcl9fU2hhbXJvY2srTWluZXJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Shamrock Miner</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">PlayN Go</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e192c-a025-7d03-bd40-6a776c7259d3__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e192c-a025-7d03-bd40-6a776c7259d3__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e192c-a025-7d03-bd40-6a776c7259d3__Uy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e192c-a025-7d03-bd40-6a776c7259d3__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Dawn of Kings</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Hacksaw Gaming</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e18bb-2423-7908-9c4b-90b029ead02d__dnMxMGJiYm56X19CaWcrQmFzcytEYXkrYXQrdGhlK1JhY2VzX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e18bb-2423-7908-9c4b-90b029ead02d__dnMxMGJiYm56X19CaWcrQmFzcytEYXkrYXQrdGhlK1JhY2VzX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e18bb-2423-7908-9c4b-90b029ead02d__dnMxMGJiYm56X19CaWcrQmFzcytEYXkrYXQrdGhlK1JhY2VzX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018e18bb-2423-7908-9c4b-90b029ead02d__dnMxMGJiYm56X19CaWcrQmFzcytEYXkrYXQrdGhlK1JhY2VzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Big Bass Day at the Races</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c60-724c-a1d0-b64d11fb699b__MjIyMjZfX1ZlZ2FzK1N0YXJzdHJ1Y2srUnVubmluZytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c60-724c-a1d0-b64d11fb699b__MjIyMjZfX1ZlZ2FzK1N0YXJzdHJ1Y2srUnVubmluZytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c60-724c-a1d0-b64d11fb699b__MjIyMjZfX1ZlZ2FzK1N0YXJzdHJ1Y2srUnVubmluZytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c60-724c-a1d0-b64d11fb699b__MjIyMjZfX1ZlZ2FzK1N0YXJzdHJ1Y2srUnVubmluZytXaW5zX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Vegas Starstruck: Running Wins</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Fugaso</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf38e-3ce6-7dfa-ab72-68e9dd6cdc6d__cnBfNjE0X19NYWQrSGl0K01hcmxpbitCb25hbnphKzk0X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf38e-3ce6-7dfa-ab72-68e9dd6cdc6d__cnBfNjE0X19NYWQrSGl0K01hcmxpbitCb25hbnphKzk0X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf38e-3ce6-7dfa-ab72-68e9dd6cdc6d__cnBfNjE0X19NYWQrSGl0K01hcmxpbitCb25hbnphKzk0X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf38e-3ce6-7dfa-ab72-68e9dd6cdc6d__cnBfNjE0X19NYWQrSGl0K01hcmxpbitCb25hbnphKzk0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Mad Hit Marlin Bonanza 94</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Ruby Play</div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 627px;">
-                        <div style="height: 209px;">
-                           <div class="game-container--aaM6z">
-                              <div class="item--fVWE_">
-                                 <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 123px;">
-                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bdc11-415d-7e42-a51d-2ec04be8b85b__cnBfNTMxX19JbW1vcnRhbCtXYXlzK0RpYW1vbmRzKzk0X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bdc11-415d-7e42-a51d-2ec04be8b85b__cnBfNTMxX19JbW1vcnRhbCtXYXlzK0RpYW1vbmRzKzk0X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bdc11-415d-7e42-a51d-2ec04be8b85b__cnBfNTMxX19JbW1vcnRhbCtXYXlzK0RpYW1vbmRzKzk0X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bdc11-415d-7e42-a51d-2ec04be8b85b__cnBfNTMxX19JbW1vcnRhbCtXYXlzK0RpYW1vbmRzKzk0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
-                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                                       </div>
-                                    </div>
-                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
-                                       <div>
-                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
-                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
-                                                </svg>
-                                             </span>
-                                          </button>
-                                       </div>
-                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
-                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
-                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                             </svg>
-                                          </span>
-                                       </button>
-                                       <div><button class="btn--s9WPp button-demo-play--TxMhg" data-cy=""><span class="button-demo-play-content--QVNhF">Demo oyun</span></button></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
-                                 <div class="ellipsis--EjZIN game-name--HlJEc">Immortal Ways Diamonds 94</div>
-                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Ruby Play</div>
-                              </div>
-                           </div>
-                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
                      </div>
                   </div>
-                  <div class="wrapper--uemYn"><button class="load-more--nL7NE">Daha fazla göster</button></div>
                </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Canlı Slot Lobi</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Livespins</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 272px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Stock Market</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 544px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Vegas Ball Bonanza</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 816px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Mega Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1088px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Sweet Bonanza CandyLand</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1360px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Mega Wheel</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1632px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">PowerUP Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1904px; top: 0px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Auto Mega Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 0px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Crazy Coin Flip</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 272px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Boom City</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 544px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Snake &amp; Ladders Live</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 816px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Gonzo's Treasure Map</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1088px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Dead or Alive: Saloon</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1360px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Red Door Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1632px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Casino Hold'em</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1904px; top: 338px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Fan Tan</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 0px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Auto Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 272px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Speed Auto Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 544px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Immersive Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 816px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">MONOPOLY Big Baller</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1088px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person Mega Ball</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1360px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Mega Ball</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1632px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Auto Lightning Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1904px; top: 676px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Lightning Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 0px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66af2e3f-5d24-49b7-b388-57db478cce66__TGlnaHRuaW5nNjAwMDAwMV9fTGlnaHRuaW5nK0xvdHRvX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66af2e3f-5d24-49b7-b388-57db478cce66__TGlnaHRuaW5nNjAwMDAwMV9fTGlnaHRuaW5nK0xvdHRvX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66af2e3f-5d24-49b7-b388-57db478cce66__TGlnaHRuaW5nNjAwMDAwMV9fTGlnaHRuaW5nK0xvdHRvX19TLnBuZw==.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66af2e3f-5d24-49b7-b388-57db478cce66__TGlnaHRuaW5nNjAwMDAwMV9fTGlnaHRuaW5nK0xvdHRvX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Lightning Lotto</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 272px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c1b7d80-7992-49e1-bb9f-629ce7fe73cf__TGlnaHRuaW5nRGljZTAwMV9fTGlnaHRuaW5nK0RpY2VfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c1b7d80-7992-49e1-bb9f-629ce7fe73cf__TGlnaHRuaW5nRGljZTAwMV9fTGlnaHRuaW5nK0RpY2VfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c1b7d80-7992-49e1-bb9f-629ce7fe73cf__TGlnaHRuaW5nRGljZTAwMV9fTGlnaHRuaW5nK0RpY2VfX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c1b7d80-7992-49e1-bb9f-629ce7fe73cf__TGlnaHRuaW5nRGljZTAwMV9fTGlnaHRuaW5nK0RpY2VfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">Lightning Dice</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 544px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">MONOPOLY Live</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 816px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e55a95b-3081-4e02-b506-4977121b82c2__cm5nWFhYdHJlbWVMQjAwMV9fRmlyc3QrUGVyc29uK1hYWHRyZW1lK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e55a95b-3081-4e02-b506-4977121b82c2__cm5nWFhYdHJlbWVMQjAwMV9fRmlyc3QrUGVyc29uK1hYWHRyZW1lK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e55a95b-3081-4e02-b506-4977121b82c2__cm5nWFhYdHJlbWVMQjAwMV9fRmlyc3QrUGVyc29uK1hYWHRyZW1lK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e55a95b-3081-4e02-b506-4977121b82c2__cm5nWFhYdHJlbWVMQjAwMV9fRmlyc3QrUGVyc29uK1hYWHRyZW1lK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person XXXtreme Lightning Baccarat</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1088px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person Lightning Roulette</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1360px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8b62b28-e40b-407e-bcb4-d58b03e3d2f1__cm5nTGlnaHRuaW5nNjAwMV9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytMb3R0b19fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8b62b28-e40b-407e-bcb4-d58b03e3d2f1__cm5nTGlnaHRuaW5nNjAwMV9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytMb3R0b19fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8b62b28-e40b-407e-bcb4-d58b03e3d2f1__cm5nTGlnaHRuaW5nNjAwMV9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytMb3R0b19fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8b62b28-e40b-407e-bcb4-d58b03e3d2f1__cm5nTGlnaHRuaW5nNjAwMV9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytMb3R0b19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person Lightning Lotto</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1632px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3457844a-f504-4a71-a732-ba60ab9b8aff__cm5nLWJqLWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCbGFja2phY2tfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3457844a-f504-4a71-a732-ba60ab9b8aff__cm5nLWJqLWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCbGFja2phY2tfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3457844a-f504-4a71-a732-ba60ab9b8aff__cm5nLWJqLWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCbGFja2phY2tfX1MucG5n.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3457844a-f504-4a71-a732-ba60ab9b8aff__cm5nLWJqLWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCbGFja2phY2tfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person Lightning Blackjack</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="positioned--UX1Yo" style="width: 272px; height: 338px; left: 1904px; top: 1014px;">
+         <div style="height: 338px;">
+            <div class="game-container--aaM6z">
+               <div class="item--fVWE_">
+                  <div class="inner--fgjuJ">
+                     <div class="background--pDksl" style="height: 252px;">
+                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                           <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/114a2e29-c633-45f4-a42f-c86002f1ea14__cm5nLWxiYWNjYXJhdDAwMF9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/114a2e29-c633-45f4-a42f-c86002f1ea14__cm5nLWxiYWNjYXJhdDAwMF9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 1x,
+                              https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/114a2e29-c633-45f4-a42f-c86002f1ea14__cm5nLWxiYWNjYXJhdDAwMF9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=80&amp;height=600&amp;format=webp 2x" alt="image" loading="lazy" width="252" height="252" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/114a2e29-c633-45f4-a42f-c86002f1ea14__cm5nLWxiYWNjYXJhdDAwMF9fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytCYWNjYXJhdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="252" height="252" style="aspect-ratio: 1 / 1;">
+                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                        </div>
+                     </div>
+                     <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                        <div>
+                           <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                              <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                    <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                           </button>
+                        </div>
+                        <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                           <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </button>
+                        <div></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                  <div class="ellipsis--EjZIN game-name--HlJEc">First Person Lightning Baccarat</div>
+                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="wrapper--uemYn"><button class="load-more--nL7NE">Daha fazla göster</button></div>
+</div>
                <div class="top-winner-container--tcAJb">
                   <div class="top-winners--DsJQq">
                      <div class="title-container--jVccc">

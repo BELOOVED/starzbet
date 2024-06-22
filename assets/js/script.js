@@ -34,6 +34,11 @@ closemodal();
 openmodal('profile');
 }
 }
+function openmenu(){
+   $("#burgerbutton").toggleClass("hidden");
+   $("#xbutton").toggleClass("hidden");
+   $("#xmenu").toggleClass("navbar-active--HCx__");
+   } 
 function openusermenu(){
 $("#user-settings").toggleClass("active");
 } 

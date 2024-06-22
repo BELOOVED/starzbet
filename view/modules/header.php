@@ -516,7 +516,7 @@ div:where(.swal2-icon).swal2-warning {
                                  </div>
                                  <div>
                                     <button class="burger--AKyD0">
-                                       <span class="wrapper--fQhcx text-color--WQCrS"
+                                       <span id="burgerbutton" class="wrapper--fQhcx text-color--WQCrS"
                                           style="height: 24px; width: 24px; min-width: 24px;">
                                           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                              viewBox="0 0 16 16" fill="none">
@@ -525,8 +525,9 @@ div:where(.swal2-icon).swal2-warning {
                                              </path>
                                           </svg>
                                        </span>
+                                       <span class="wrapper--fQhcx text-color--WQCrS hidden" id="xbutton" style="height: 24px; width: 24px; min-width: 24px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H16V2H0V0ZM8 7H16V9H8V7ZM16 16V14H0V16H16Z" fill="currentColor"></path></svg></span>
                                     </button>
-                                    <div class="navbar--s_wl9">
+                                    <div class="navbar--s_wl9" id="xmenu">
                                        <div class="nav-section--xsIDt">
                                           <a class="item--g6cPq" href="/">
                                              <span class="wrapper--fQhcx"

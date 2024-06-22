@@ -250,7 +250,7 @@ div:where(.swal2-icon).swal2-warning {
                                                    <div class="block--xp4SI">
                                                       <div class="ellipsis--EjZIN title-amount--BUlhw">Bakiye</div>
                                                       <div class="ellipsis--EjZIN amount--tAmhJ">
-                                                         <div class="hidden--EQoAu balance--jXXVM"><span data-cy="player_ui__side_menu__value__main_balance">₺ <?=$us['login']?></span><span>••••</span></div>
+                                                         <div class="hidden--EQoAu balance--jXXVM"><span data-cy="player_ui__side_menu__value__main_balance">₺ <?=$us['balance']?></span><span>••••</span></div>
                                                       </div>
                                                    </div>
                                                 </div>

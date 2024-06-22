@@ -13,6 +13,7 @@ function deopa(){
 closesmodal();
 
 $("#"+id).removeClass("hidden");
+$(".full-screen-container--tDOkN").removeClass("hidden");
 
 }
 function closesmodal(){

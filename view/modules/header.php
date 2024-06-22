@@ -18,6 +18,13 @@
    <meta name="mobile-web-app-capable" content="yes">
    <meta name="theme-color" content="#fff">
    <meta name="application-name" content="Starzbet">
+   <link href="/assets/css/stylesheet_6.css" rel=stylesheet>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_5.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_4.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_3.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_2.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_1.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_0.css" crossorigin=anonymous>
    <link rel="apple-touch-icon" sizes="57x57"
       href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-57x57.png">
    <link rel="apple-touch-icon" sizes="60x60"

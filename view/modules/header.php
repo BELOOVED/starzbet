@@ -68,11 +68,49 @@
    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
    <script src="/assets/js/script.js"></script>
    <script src="/assets/js/app.js"></script>
-   <style>
-      .hidden {
+   <script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
+    <style>
+      .hidden{
+         display: none !important;
+      }
+    </style>
+     <style>
+      .hidden{
          display: none;
       }
-   </style>
+      .sidePanel-holder-bc{
+         z-index: 10000;
+      }
+    </style>
+    <style>
+      div:where(.swal2-container).swal2-center>.swal2-popup {
+    grid-column: 2;
+    grid-row: 2;
+    align-self: center;
+    justify-self: center;
+    background: #0e1f4e !important;
+    box-shadow: 1px 1px 20px #333 !important;
+    border-radius: 20px !important;
+    color: #fff !important;
+}
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: initial;
+    background-color: #ebb058 !important;
+    color: #fff !important;
+    font-size: 1em;
+}
+div:where(.swal2-icon).swal2-warning {
+    border-color: #ebb058 !important;
+    color: #ebb058 !important;
+}
+    </style>
    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" />
    <!-- Add the slick-theme.css if you want default styling -->
    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />

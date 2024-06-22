@@ -3,7 +3,7 @@
                <div class="avatar--B42th"></div>
                <div class="username-container--xBcuW">
                   <div class="username--CzgA_">
-                     <div class="ellipsis--EjZIN" data-cy="player_ui__my_account_menu__value__username"><?$us['login']?></div>
+                     <div class="ellipsis--EjZIN" data-cy="player_ui__my_account_menu__value__username"><?=$us['login']?></div>
                      <div>
                         <span class="wrapper--fQhcx blue-color--piLBm" style="height: 12px; width: 12px; min-width: 12px;">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -19,7 +19,7 @@
                         </span>
                      </div>
                   </div>
-                  <div class="amount--Ex7vp balance--jXXVM"><span>₺ <?$us['balance']?></span><span>••••</span></div>
+                  <div class="amount--Ex7vp balance--jXXVM"><span>₺ <?=$us['balance']?></span><span>••••</span></div>
                </div>
             </div>
             <div class="menu--prt93" data-cy="player_ui__my_account_menu__container__navigation">

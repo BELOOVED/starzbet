@@ -6,9 +6,7 @@ include 'inc/anti.php';
 include 'inc/check.php';
 $q = $_GET['q'];
 
-if (!isset($_SESSION["drm"])){
-	die('success');
-}
+
 
 if ($q == 'login') {
   antiflood();

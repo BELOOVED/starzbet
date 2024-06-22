@@ -432,16 +432,16 @@
             </div>
             <div class="casino-content--krtue">
                <div class="casino-games--qGslk">
-                  <div class="games--IGQQd" style="height: 1032px;">
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 0px; top: 0px;">
-                        <div style="height: 258px;">
+                  <div class="games--IGQQd" style="height: 836px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -473,15 +473,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 192px; top: 0px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d4586-9b15-7e4f-887d-d8b94fa57e15__bGl2ZStzcGlucyUyQy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -513,15 +513,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 384px; top: 0px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e84818c1-780e-4d22-a081-a47b6e98eff2__MTUwMV9fVmVnYXMrQmFsbCtCb25hbnphX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -553,15 +553,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 576px; top: 0px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7e3-76ce-8d05-6d84ecc1a2ff__MTcwMV9fVHJlYXN1cmUrSXNsYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -593,15 +593,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 0px; top: 258px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -633,15 +633,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 192px; top: 258px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 0px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -673,15 +673,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 384px; top: 258px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bde0855d-335c-4f95-ba86-659efa3185da__ODAxX19MaXZlKy0rTWVnYStXaGVlbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -713,15 +713,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 576px; top: 258px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -753,15 +753,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 0px; top: 516px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/202385b3-ae09-41c8-b491-30493b286d96__MjEwX19BdXRvK01lZ2ErUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -793,15 +793,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 192px; top: 516px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -833,15 +833,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 384px; top: 516px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94e7f393-e775-44be-8519-8c34d76f1394__MTYwMV9fU25ha2UrJTI2K0xhZGRlcnMrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -873,15 +873,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 576px; top: 516px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 209px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -913,15 +913,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 0px; top: 774px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 418px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c8f3f9af-c915-402c-a4bb-a254b0d39097__ZG9hc2Fsb29uMDAwMDAwMV9fRGVhZCtvcitBbGl2ZStTYWxvb25fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -953,15 +953,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 192px; top: 774px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 418px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -993,15 +993,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 384px; top: 774px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 418px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9cf6874b-fa07-4f8a-b8b4-3a49fecb559c__SG9sZGVtVGFibGUwMDAwMV9fQ2FzaW5vK0hvbGQlMjdlbV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -1033,15 +1033,15 @@
                            </div>
                         </div>
                      </div>
-                     <div class="positioned--UX1Yo" style="width: 192px; height: 258px; left: 576px; top: 774px;">
-                        <div style="height: 258px;">
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 418px;">
+                        <div style="height: 209px;">
                            <div class="game-container--aaM6z">
                               <div class="item--fVWE_">
                                  <div class="inner--fgjuJ">
-                                    <div class="background--pDksl" style="height: 172px;">
+                                    <div class="background--pDksl" style="height: 123px;">
                                        <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
-                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
-                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="172" height="172" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="172" height="172" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/46937299-77d5-4ca2-ac4c-8c2ee022a420__RmFuVGFuMDAwMDAwMDAwMV9fRmFuK1Rhbl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
                                           <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                                        </div>
                                     </div>
@@ -1068,6 +1068,326 @@
                               </div>
                               <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                  <div class="ellipsis--EjZIN game-name--HlJEc">Fan Tan</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 418px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/009156c3-6c24-4a12-83a4-54b0d34c658d__MjI1X19BdXRvLVJvdWxldHRlKzFfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">Auto Roulette</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 418px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">Speed Auto Roulette</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 0px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">Immersive Roulette</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 143px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">MONOPOLY Big Baller</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 286px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">MONOPOLY Live</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 429px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">First Person Mega Ball</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 572px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e7dfa9c8-d90f-46b7-8878-62102b4814fd__TWVnYUJhbGwwMDAwMDAwMV9fTWVnYStCYWxsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">Mega Ball</div>
+                                 <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="positioned--UX1Yo" style="width: 143px; height: 209px; left: 715px; top: 627px;">
+                        <div style="height: 209px;">
+                           <div class="game-container--aaM6z">
+                              <div class="item--fVWE_">
+                                 <div class="inner--fgjuJ">
+                                    <div class="background--pDksl" style="height: 123px;">
+                                       <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                          <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=150&amp;format=webp 1x,
+                                             https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=300&amp;format=webp 2x" alt="image" loading="lazy" width="123" height="123" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="123" height="123" style="aspect-ratio: 1 / 1;">
+                                          <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                       </div>
+                                    </div>
+                                    <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                       <div>
+                                          <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                   <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                       </div>
+                                       <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                          <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <div></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                 <div class="ellipsis--EjZIN game-name--HlJEc">Auto Lightning Roulette</div>
                                  <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
                               </div>
                            </div>
@@ -1109,15 +1429,49 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a8e-ea69-7b28-8b9d-73c4bf591150__YXJ0aWMtc21hbGwucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                            </div>
                            <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Arctic  Coins</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">MK**65</div>
-                              <div class="ellipsis--EjZIN">210,420.00 ₺</div>
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">um***on</div>
+                              <div class="ellipsis--EjZIN">295,471.50 ₺</div>
                            </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cb0fe-5859-7d9d-a41d-7a02d6fbdf75__cmx4LmhhY2tzYXcuaGFja3Nhdy4xMTE1X19XYW50ZWRfX1MuanBn.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cb0fe-5859-7d9d-a41d-7a02d6fbdf75__cmx4LmhhY2tzYXcuaGFja3Nhdy4xMTE1X19XYW50ZWRfX1MuanBn.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cb0fe-5859-7d9d-a41d-7a02d6fbdf75__cmx4LmhhY2tzYXcuaGFja3Nhdy4xMTE1X19XYW50ZWRfX1MuanBn.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cb0fe-5859-7d9d-a41d-7a02d6fbdf75__cmx4LmhhY2tzYXcuaGFja3Nhdy4xMTE1X19XYW50ZWRfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Wanted Dead or Wild</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">282,920.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">238,748.80 ₺</div>
+                           </div>
+                           <span class="replay-link--Zhz71">
+                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                              <span>Replay</span>
+                           </span>
                         </div>
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
@@ -1130,6 +1484,19 @@
                               <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
                               <div class="ellipsis--EjZIN player--K8Xs5">Em****73</div>
                               <div class="ellipsis--EjZIN">201,650.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">198,968.00 ₺</div>
                            </div>
                         </div>
                         <div class="top-winner--Czjy_">
@@ -1167,8 +1534,47 @@
                            </div>
                            <div class="top-winner-content--JFy_f">
                               <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">um***on</div>
+                              <div class="ellipsis--EjZIN">183,193.50 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
                               <div class="ellipsis--EjZIN player--K8Xs5">Ab*******in</div>
                               <div class="ellipsis--EjZIN">159,971.20 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">146,160.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Bu******hu</div>
+                              <div class="ellipsis--EjZIN">142,218.00 ₺</div>
                            </div>
                         </div>
                         <div class="top-winner--Czjy_">
@@ -1200,19 +1606,6 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6348ecf8-c5cf-4288-93e4-91997dbf62e8__dnM1dWx0cmFfX1VsdHJhK0hvbGQrYW5kK1NwaW5fX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6348ecf8-c5cf-4288-93e4-91997dbf62e8__dnM1dWx0cmFfX1VsdHJhK0hvbGQrYW5kK1NwaW5fX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6348ecf8-c5cf-4288-93e4-91997dbf62e8__dnM1dWx0cmFfX1VsdHJhK0hvbGQrYW5kK1NwaW5fX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6348ecf8-c5cf-4288-93e4-91997dbf62e8__dnM1dWx0cmFfX1VsdHJhK0hvbGQrYW5kK1NwaW5fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Ultra Hold and Spin</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Er**04</div>
-                              <div class="ellipsis--EjZIN">131,250.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -1226,6 +1619,19 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">129,062.25 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c48-7f94-914b-608352bf6f1a__MjIxNzNfX0luZmVybm8rRmlyZStCYWxsc19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c48-7f94-914b-608352bf6f1a__MjIxNzNfX0luZmVybm8rRmlyZStCYWxsc19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c48-7f94-914b-608352bf6f1a__MjIxNzNfX0luZmVybm8rRmlyZStCYWxsc19fUy5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d5a3b-0c48-7f94-914b-608352bf6f1a__MjIxNzNfX0luZmVybm8rRmlyZStCYWxsc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -1234,6 +1640,32 @@
                               <div class="ellipsis--EjZIN">Inferno  Fire  Balls</div>
                               <div class="ellipsis--EjZIN player--K8Xs5">MK**65</div>
                               <div class="ellipsis--EjZIN">119,140.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">112,848.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">um***on</div>
+                              <div class="ellipsis--EjZIN">108,328.00 ₺</div>
                            </div>
                         </div>
                         <div class="top-winner--Czjy_">
@@ -1265,14 +1697,35 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbac2-6ef7-7ef3-8f0f-082ebb62acfb__YmlnK2Jhc3NzK3JlYWwuanBn.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbac2-6ef7-7ef3-8f0f-082ebb62acfb__YmlnK2Jhc3NzK3JlYWwuanBn.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbac2-6ef7-7ef3-8f0f-082ebb62acfb__YmlnK2Jhc3NzK3JlYWwuanBn.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbac2-6ef7-7ef3-8f0f-082ebb62acfb__YmlnK2Jhc3NzK3JlYWwuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Big Bass Bonanza - Reel Action</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">103,375.00 ₺</div>
+                           </div>
+                           <span class="replay-link--Zhz71">
+                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                              <span>Replay</span>
+                           </span>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                            </div>
                            <div class="top-winner-content--JFy_f">
                               <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ve***im</div>
-                              <div class="ellipsis--EjZIN">99,600.00 ₺</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">95,645.00 ₺</div>
                            </div>
                            <span class="replay-link--Zhz71">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1299,19 +1752,6 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d3c5f2f8-2186-47aa-b845-4f453cfdc9f9__dnMyMHByb2NvdW50X19XaXNkb20rb2YrQXRoZW5hX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d3c5f2f8-2186-47aa-b845-4f453cfdc9f9__dnMyMHByb2NvdW50X19XaXNkb20rb2YrQXRoZW5hX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d3c5f2f8-2186-47aa-b845-4f453cfdc9f9__dnMyMHByb2NvdW50X19XaXNkb20rb2YrQXRoZW5hX19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d3c5f2f8-2186-47aa-b845-4f453cfdc9f9__dnMyMHByb2NvdW50X19XaXNkb20rb2YrQXRoZW5hX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Wisdom of Athena</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">ml***50</div>
-                              <div class="ellipsis--EjZIN">91,548.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -1325,6 +1765,19 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed409bdd-f718-4a26-8b23-da94ac7db290__RGFzeEJvb3RfX0Rhc3hCb290X19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed409bdd-f718-4a26-8b23-da94ac7db290__RGFzeEJvb3RfX0Rhc3hCb290X19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed409bdd-f718-4a26-8b23-da94ac7db290__RGFzeEJvb3RfX0Rhc3hCb290X19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed409bdd-f718-4a26-8b23-da94ac7db290__RGFzeEJvb3RfX0Rhc3hCb290X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Das xBoot</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">86,509.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -1333,6 +1786,53 @@
                               <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
                               <div class="ellipsis--EjZIN player--K8Xs5">ml***50</div>
                               <div class="ellipsis--EjZIN">86,130.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">The Dog House Megaways</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">83,694.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1e521183-63e0-4844-86f8-3333d26e4146__dnMxMnRyb3BpY2FuYV9fQ2x1YitUcm9waWNhbmFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1e521183-63e0-4844-86f8-3333d26e4146__dnMxMnRyb3BpY2FuYV9fQ2x1YitUcm9waWNhbmFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1e521183-63e0-4844-86f8-3333d26e4146__dnMxMnRyb3BpY2FuYV9fQ2x1YitUcm9waWNhbmFfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1e521183-63e0-4844-86f8-3333d26e4146__dnMxMnRyb3BpY2FuYV9fQ2x1YitUcm9waWNhbmFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Club Tropicana</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Du**or</div>
+                              <div class="ellipsis--EjZIN">80,280.00 ₺</div>
+                           </div>
+                           <span class="replay-link--Zhz71">
+                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                              <span>Replay</span>
+                           </span>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sweet Bonanza</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Se***45</div>
+                              <div class="ellipsis--EjZIN">76,376.00 ₺</div>
                            </div>
                         </div>
                         <div class="top-winner--Czjy_">
@@ -1398,6 +1898,19 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Bonanza Billion</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">se************71</div>
+                              <div class="ellipsis--EjZIN">65,877.50 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
                               <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
                                  https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -1432,14 +1945,14 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ec236-66fc-7e71-92d8-a571894d1236__Uy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ec236-66fc-7e71-92d8-a571894d1236__Uy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ec236-66fc-7e71-92d8-a571894d1236__Uy5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ec236-66fc-7e71-92d8-a571894d1236__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                            </div>
                            <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">ga******07</div>
-                              <div class="ellipsis--EjZIN">63,857.00 ₺</div>
+                              <div class="ellipsis--EjZIN">Big Bass - Secrets of the Golden Lake</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">64,900.00 ₺</div>
                            </div>
                            <span class="replay-link--Zhz71">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1470,6 +1983,19 @@
                               </span>
                               <span>Replay</span>
                            </span>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
+                              <div class="ellipsis--EjZIN">63,150.00 ₺</div>
+                           </div>
                         </div>
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
@@ -1521,14 +2047,14 @@
                         <div class="top-winner--Czjy_">
                            <div class="hover--R97ae"></div>
                            <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7edadf7a-f36f-4f1b-83b3-2a277bec3e3c__dnMyMGJubnpkaWNlX19Td2VldCtCb25hbnphK0RpY2VfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7edadf7a-f36f-4f1b-83b3-2a277bec3e3c__dnMyMGJubnpkaWNlX19Td2VldCtCb25hbnphK0RpY2VfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7edadf7a-f36f-4f1b-83b3-2a277bec3e3c__dnMyMGJubnpkaWNlX19Td2VldCtCb25hbnphK0RpY2VfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7edadf7a-f36f-4f1b-83b3-2a277bec3e3c__dnMyMGJubnpkaWNlX19Td2VldCtCb25hbnphK0RpY2VfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
                               <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
                            </div>
                            <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza Dice</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ga***79</div>
-                              <div class="ellipsis--EjZIN">54,972.00 ₺</div>
+                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">bo****31</div>
+                              <div class="ellipsis--EjZIN">55,975.00 ₺</div>
                            </div>
                            <span class="replay-link--Zhz71">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1548,8 +2074,81 @@
                            </div>
                            <div class="top-winner-content--JFy_f">
                               <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ve***im</div>
-                              <div class="ellipsis--EjZIN">50,827.50 ₺</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Os******65</div>
+                              <div class="ellipsis--EjZIN">51,883.50 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/745e05c6-e2da-4edd-ac39-ea430012eabc__dnMxMGJia2lyX19CaWcrQmFzcytCb25hbnphKy0rS2VlcGluZytpdCtSZWVsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/745e05c6-e2da-4edd-ac39-ea430012eabc__dnMxMGJia2lyX19CaWcrQmFzcytCb25hbnphKy0rS2VlcGluZytpdCtSZWVsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/745e05c6-e2da-4edd-ac39-ea430012eabc__dnMxMGJia2lyX19CaWcrQmFzcytCb25hbnphKy0rS2VlcGluZytpdCtSZWVsX19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/745e05c6-e2da-4edd-ac39-ea430012eabc__dnMxMGJia2lyX19CaWcrQmFzcytCb25hbnphKy0rS2VlcGluZytpdCtSZWVsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Big Bass Bonanza - Keeping it Reel</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
+                              <div class="ellipsis--EjZIN">51,840.00 ₺</div>
+                           </div>
+                           <span class="replay-link--Zhz71">
+                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                 </svg>
+                              </span>
+                              <span>Replay</span>
+                           </span>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee8d393b-315d-4c0e-9051-477c5c7efce4__dnMyMGZydWl0cGFydHlfX0ZydWl0K1BhcnR5X19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee8d393b-315d-4c0e-9051-477c5c7efce4__dnMyMGZydWl0cGFydHlfX0ZydWl0K1BhcnR5X19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee8d393b-315d-4c0e-9051-477c5c7efce4__dnMyMGZydWl0cGFydHlfX0ZydWl0K1BhcnR5X19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee8d393b-315d-4c0e-9051-477c5c7efce4__dnMyMGZydWl0cGFydHlfX0ZydWl0K1BhcnR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Fruit Party</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Mu*****89</div>
+                              <div class="ellipsis--EjZIN">51,552.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Or****06</div>
+                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Dice &amp; Roll</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">ah****93</div>
+                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
+                           </div>
+                        </div>
+                        <div class="top-winner--Czjy_">
+                           <div class="hover--R97ae"></div>
+                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
+                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
+                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
+                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                           </div>
+                           <div class="top-winner-content--JFy_f">
+                              <div class="ellipsis--EjZIN">Gates of Olympus</div>
+                              <div class="ellipsis--EjZIN player--K8Xs5">Bg**os</div>
+                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
                            </div>
                            <span class="replay-link--Zhz71">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1581,308 +2180,327 @@
                               <span>Replay</span>
                            </span>
                         </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="recently-wrapper--Ut3Yh">
+            <div class="games-section--XAmpH games-section--ArUO1">
+               <div class="section-wrapper--bPOnZ">
+                  <div class="section-header--iPLWs">
+                     <div class="section-title--GiC6Z">
+                        <div class="section-title-marker--UkG2u" style="background-color: rgb(72, 145, 255); box-shadow: rgba(72, 145, 255, 0.4) 0px 0px 12px 0px;"></div>
+                        <span class="wrapper--fQhcx dark-text-color--f1um7 section-title-logo--d76If" style="height: 24px; width: 24px; min-width: 24px;">
+                           <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <g clip-path="url(#clip0_2681_18568)">
+                                 <path d="M6.72999 25.5299C6.41999 28.3799 5.85999 31.2099 5.03999 33.9899C4.87999 34.5099 5.28999 34.9999 5.79999 34.9999C5.86999 34.9999 5.93999 34.9999 6.01999 34.9699C8.78999 34.1599 11.62 33.5899 14.46 33.2699C10.97 31.8099 8.17999 29.0199 6.72999 25.5299ZM33.99 5.02991C31.21 5.84991 28.38 6.40991 25.53 6.72991C29.02 8.17991 31.81 10.9699 33.27 14.4599C33.59 11.6199 34.16 8.78991 34.97 6.01991C35.15 5.41991 34.59 4.85991 33.99 5.02991ZM34.97 33.9899C34.16 31.2199 33.59 28.3899 33.27 25.5499C31.81 29.0299 29.03 31.8099 25.55 33.2699C28.39 33.5899 31.22 34.1599 33.99 34.9699C34.51 35.1199 35 34.7199 35 34.2199C35 34.1399 34.99 34.0699 34.97 33.9899ZM6.01999 5.02991C5.49999 4.87991 5.00999 5.28991 5.00999 5.78991C5.00999 5.86991 5.01999 5.93991 5.03999 6.01991C5.85999 8.79991 6.41999 11.6299 6.72999 14.4799C8.18999 10.9799 10.98 8.18991 14.48 6.72991C11.63 6.40991 8.79999 5.84991 6.01999 5.02991Z" fill="url(#paint0_linear_2681_18568)"></path>
+                                 <path d="M6.37 15.46C4.49 16.9 2.49 18.19 0.4 19.34C0.14 19.48 0 19.74 0 20C0 20.26 0.14 20.53 0.4 20.67C2.49 21.81 4.49 23.11 6.37 24.54C5.89 23.11 5.63 21.59 5.63 20C5.63 18.41 5.89 16.88 6.37 15.46ZM20 34.38C18.41 34.38 16.89 34.12 15.47 33.64C16.9 35.52 18.2 37.52 19.34 39.61C19.48 39.87 19.74 40 20 40C20.26 40 20.52 39.87 20.67 39.61C21.82 37.52 23.11 35.52 24.54 33.64C23.11 34.12 21.59 34.38 20 34.38ZM20.67 0.4C20.52 0.13 20.26 0 20 0C19.74 0 19.48 0.13 19.34 0.4C18.2 2.49 16.9 4.49 15.46 6.37C16.88 5.89 18.41 5.63 20 5.63C21.59 5.63 23.12 5.89 24.55 6.37C23.11 4.49 21.82 2.49 20.67 0.4ZM19.34 21.5C19.08 21.4 18.83 21.31 18.59 21.22H18.6C16.77 20.51 15.33 19.45 15.33 17.2C15.33 14.83 17.17 12.67 20.06 13.3C21.64 13.64 29.26 17.08 31.79 18.57C31.08 12.69 26.06 8.13 20 8.13C13.45 8.13 8.13 13.45 8.13 20C8.13 20.42 8.15 20.83 8.19 21.23C9.43 21.6 11.83 22.18 14.15 22.7C16.91 23.32 19.55 23.86 20.03 23.86C20.57 23.86 21.26 23.59 21.26 22.89C21.26 22.36 20.62 21.98 19.34 21.5ZM31.82 18.78C30.57 18.41 28.18 17.83 25.86 17.31C23.1 16.69 20.46 16.15 19.98 16.15C19.44 16.15 18.75 16.42 18.75 17.12C18.75 17.65 19.39 18.03 20.67 18.51C20.93 18.61 21.18 18.7 21.42 18.79H21.41C23.24 19.5 24.68 20.56 24.68 22.81C24.68 25.18 22.84 27.34 19.95 26.71C18.37 26.37 10.75 22.93 8.22 21.44C8.93 27.31 13.94 31.88 20 31.88C26.55 31.88 31.88 26.55 31.88 20C31.88 19.59 31.86 19.18 31.82 18.78ZM19.34 21.5C19.08 21.4 18.83 21.31 18.59 21.22H18.6C16.77 20.51 15.33 19.45 15.33 17.2C15.33 14.83 17.17 12.67 20.06 13.3C21.64 13.64 29.26 17.08 31.79 18.57C31.08 12.69 26.06 8.13 20 8.13C13.45 8.13 8.13 13.45 8.13 20C8.13 20.42 8.15 20.83 8.19 21.23C9.43 21.6 11.83 22.18 14.15 22.7C16.91 23.32 19.55 23.86 20.03 23.86C20.57 23.86 21.26 23.59 21.26 22.89C21.26 22.36 20.62 21.98 19.34 21.5ZM31.82 18.78C30.57 18.41 28.18 17.83 25.86 17.31C23.1 16.69 20.46 16.15 19.98 16.15C19.44 16.15 18.75 16.42 18.75 17.12C18.75 17.65 19.39 18.03 20.67 18.51C20.93 18.61 21.18 18.7 21.42 18.79H21.41C23.24 19.5 24.68 20.56 24.68 22.81C24.68 25.18 22.84 27.34 19.95 26.71C18.37 26.37 10.75 22.93 8.22 21.44C8.93 27.31 13.94 31.88 20 31.88C26.55 31.88 31.88 26.55 31.88 20C31.88 19.59 31.86 19.18 31.82 18.78ZM19.34 21.5C19.08 21.4 18.83 21.31 18.59 21.22H18.6C16.77 20.51 15.33 19.45 15.33 17.2C15.33 14.83 17.17 12.67 20.06 13.3C21.64 13.64 29.26 17.08 31.79 18.57C31.08 12.69 26.06 8.13 20 8.13C13.45 8.13 8.13 13.45 8.13 20C8.13 20.42 8.15 20.83 8.19 21.23C9.43 21.6 11.83 22.18 14.15 22.7C16.91 23.32 19.55 23.86 20.03 23.86C20.57 23.86 21.26 23.59 21.26 22.89C21.26 22.36 20.62 21.98 19.34 21.5ZM31.82 18.78C30.57 18.41 28.18 17.83 25.86 17.31C23.1 16.69 20.46 16.15 19.98 16.15C19.44 16.15 18.75 16.42 18.75 17.12C18.75 17.65 19.39 18.03 20.67 18.51C20.93 18.61 21.18 18.7 21.42 18.79H21.41C23.24 19.5 24.68 20.56 24.68 22.81C24.68 25.18 22.84 27.34 19.95 26.71C18.37 26.37 10.75 22.93 8.22 21.44C8.93 27.31 13.94 31.88 20 31.88C26.55 31.88 31.88 26.55 31.88 20C31.88 19.59 31.86 19.18 31.82 18.78ZM39.61 19.34C37.52 18.19 35.52 16.9 33.64 15.46C34.12 16.88 34.38 18.41 34.38 20C34.38 21.59 34.12 23.11 33.64 24.54C35.52 23.11 37.52 21.81 39.61 20.67C40.13 20.38 40.13 19.62 39.61 19.34ZM25.86 17.31C23.1 16.69 20.46 16.15 19.98 16.15C19.44 16.15 18.75 16.42 18.75 17.12C18.75 17.65 19.39 18.03 20.67 18.51C20.93 18.61 21.18 18.7 21.42 18.79H21.41C23.24 19.5 24.68 20.56 24.68 22.81C24.68 25.18 22.84 27.34 19.95 26.71C18.37 26.37 10.75 22.93 8.22 21.44C8.93 27.31 13.94 31.88 20 31.88C26.55 31.88 31.88 26.55 31.88 20C31.88 19.59 31.86 19.18 31.82 18.78C30.57 18.41 28.18 17.83 25.86 17.31ZM20.03 23.86C20.57 23.86 21.26 23.59 21.26 22.89C21.26 22.36 20.62 21.98 19.34 21.5C19.08 21.4 18.83 21.31 18.59 21.22H18.6C16.77 20.51 15.33 19.45 15.33 17.2C15.33 14.83 17.17 12.67 20.06 13.3C21.64 13.64 29.26 17.08 31.79 18.57C31.08 12.69 26.06 8.13 20 8.13C13.45 8.13 8.13 13.45 8.13 20C8.13 20.42 8.15 20.83 8.19 21.23C9.43 21.6 11.83 22.18 14.15 22.7C16.91 23.32 19.55 23.86 20.03 23.86ZM31.82 18.78C30.57 18.41 28.18 17.83 25.86 17.31C23.1 16.69 20.46 16.15 19.98 16.15C19.44 16.15 18.75 16.42 18.75 17.12C18.75 17.65 19.39 18.03 20.67 18.51C20.93 18.61 21.18 18.7 21.42 18.79H21.41C23.24 19.5 24.68 20.56 24.68 22.81C24.68 25.18 22.84 27.34 19.95 26.71C18.37 26.37 10.75 22.93 8.22 21.44C8.93 27.31 13.94 31.88 20 31.88C26.55 31.88 31.88 26.55 31.88 20C31.88 19.59 31.86 19.18 31.82 18.78ZM19.34 21.5C19.08 21.4 18.83 21.31 18.59 21.22H18.6C16.77 20.51 15.33 19.45 15.33 17.2C15.33 14.83 17.17 12.67 20.06 13.3C21.64 13.64 29.26 17.08 31.79 18.57C31.08 12.69 26.06 8.13 20 8.13C13.45 8.13 8.13 13.45 8.13 20C8.13 20.42 8.15 20.83 8.19 21.23C9.43 21.6 11.83 22.18 14.15 22.7C16.91 23.32 19.55 23.86 20.03 23.86C20.57 23.86 21.26 23.59 21.26 22.89C21.26 22.36 20.62 21.98 19.34 21.5Z" fill="url(#paint1_linear_2681_18568)"></path>
+                              </g>
+                              <defs>
+                                 <linearGradient id="paint0_linear_2681_18568" x1="20" y1="5" x2="20" y2="35" gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#4891FF"></stop>
+                                    <stop offset="1" stop-color="#7949FF"></stop>
+                                 </linearGradient>
+                                 <linearGradient id="paint1_linear_2681_18568" x1="20.4169" y1="-4.42777e-06" x2="20.4169" y2="40" gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#FF9E00"></stop>
+                                    <stop offset="1" stop-color="#FF6D00"></stop>
+                                 </linearGradient>
+                                 <clipPath id="clip0_2681_18568">
+                                    <rect width="40" height="40" fill="white"></rect>
+                                 </clipPath>
+                              </defs>
+                           </svg>
+                        </span>
+                        <div class="ellipsis--EjZIN section-title-text--qVqWo">Son Oynanılan Oyunlar</div>
+                     </div>
+                     <div class="section-controls--hcGr1"></div>
+                  </div>
+                  <div class="scroll--N81zQ section-scroll--IpbiU">
+                     <button class="prev-button--Uhane" disabled="">
+                        <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 10px; width: 12px; min-width: 12px;">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                              <g clip-path="url(#clip0_2323_247545)">
+                                 <path d="M11.2787 4.18157C11.2296 4.17382 11.1799 4.17025 11.1302 4.17088L2.66447 4.17088L2.84906 4.08745C3.0295 4.00446 3.19365 3.89152 3.33417 3.75373L5.70818 1.44691C6.02084 1.15689 6.07338 0.690336 5.83268 0.341471C5.55254 -0.0302844 5.0153 -0.111002 4.63269 0.161212C4.60178 0.183216 4.5724 0.207202 4.54479 0.233013L0.251816 4.40448C-0.0836801 4.73011 -0.0839753 5.25835 0.251145 5.58435C0.251359 5.58456 0.251601 5.58479 0.251815 5.585L4.54479 9.75647C4.88055 10.0818 5.42417 10.0811 5.75903 9.75483C5.78537 9.72915 5.80998 9.70182 5.83268 9.67304C6.07338 9.32417 6.02084 8.85762 5.70818 8.5676L3.33846 6.25661C3.21249 6.13407 3.06766 6.03132 2.90916 5.95209L2.65159 5.83946L11.083 5.83946C11.5216 5.85529 11.9064 5.55758 11.9888 5.13866C12.0647 4.68384 11.7468 4.25535 11.2787 4.18157Z" fill="currentColor"></path>
+                              </g>
+                              <defs>
+                                 <clipPath id="clip0_2323_247545">
+                                    <rect width="12" height="10" fill="white"></rect>
+                                 </clipPath>
+                              </defs>
+                           </svg>
+                        </span>
+                     </button>
+                     <button class="next-button--UJ1He">
+                        <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 10px; width: 12px; min-width: 12px;">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="10" viewBox="0 0 12 10" fill="none">
+                              <g clip-path="url(#clip0_2323_247545)">
+                                 <path d="M11.2787 4.18157C11.2296 4.17382 11.1799 4.17025 11.1302 4.17088L2.66447 4.17088L2.84906 4.08745C3.0295 4.00446 3.19365 3.89152 3.33417 3.75373L5.70818 1.44691C6.02084 1.15689 6.07338 0.690336 5.83268 0.341471C5.55254 -0.0302844 5.0153 -0.111002 4.63269 0.161212C4.60178 0.183216 4.5724 0.207202 4.54479 0.233013L0.251816 4.40448C-0.0836801 4.73011 -0.0839753 5.25835 0.251145 5.58435C0.251359 5.58456 0.251601 5.58479 0.251815 5.585L4.54479 9.75647C4.88055 10.0818 5.42417 10.0811 5.75903 9.75483C5.78537 9.72915 5.80998 9.70182 5.83268 9.67304C6.07338 9.32417 6.02084 8.85762 5.70818 8.5676L3.33846 6.25661C3.21249 6.13407 3.06766 6.03132 2.90916 5.95209L2.65159 5.83946L11.083 5.83946C11.5216 5.85529 11.9064 5.55758 11.9888 5.13866C12.0647 4.68384 11.7468 4.25535 11.2787 4.18157Z" fill="currentColor"></path>
+                              </g>
+                              <defs>
+                                 <clipPath id="clip0_2323_247545">
+                                    <rect width="12" height="10" fill="white"></rect>
+                                 </clipPath>
+                              </defs>
+                           </svg>
+                        </span>
+                     </button>
+                     <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
+                        <div class="track-wrapper--MChQg">
+                           <div class="track--yXji4 section-track--xU9QU">
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">Sweet Bonanza CandyLand</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/61ea7fe5-c74f-4b49-935b-8fd761c4a042__NTE0X19CbGFja2phY2srNCstK0F6dXJlX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/61ea7fe5-c74f-4b49-935b-8fd761c4a042__NTE0X19CbGFja2phY2srNCstK0F6dXJlX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/61ea7fe5-c74f-4b49-935b-8fd761c4a042__NTE0X19CbGFja2phY2srNCstK0F6dXJlX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/61ea7fe5-c74f-4b49-935b-8fd761c4a042__NTE0X19CbGFja2phY2srNCstK0F6dXJlX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">Blackjack 4 - Azure</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d5e89ecd-17a8-4f68-9867-82ddfc1199b7__Um5nTWVnYUJhbGwwMDAwMV9fRmlyc3QrUGVyc29uK01lZ2ErQmFsbF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">First Person Mega Ball</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4b04abf0-3124-4821-a850-907606a17649__R29uem9UTTAwMDAwMDAwMV9fR29uem8lMjdzK1RyZWFzdXJlK01hcF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">Gonzo's Treasure Map</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8064-0ec9-748a-9916-24194525b0de__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">Stock Market</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">XXXtreme Lightning Roulette</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                 </div>
+                              </div>
+                              <div class="game-container--aaM6z" style="width: 160px; min-width: 160px; margin: 0px 0px 24px;">
+                                 <div class="item--fVWE_">
+                                    <div class="inner--fgjuJ">
+                                       <div class="background--pDksl" style="height: 160px;">
+                                          <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                             <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c45b8312-7c7d-4200-9d2d-90e1d99754c7__MzAxX19CbGFja2phY2srMTFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c45b8312-7c7d-4200-9d2d-90e1d99754c7__MzAxX19CbGFja2phY2srMTFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c45b8312-7c7d-4200-9d2d-90e1d99754c7__MzAxX19CbGFja2phY2srMTFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="160" height="160" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c45b8312-7c7d-4200-9d2d-90e1d99754c7__MzAxX19CbGFja2phY2srMTFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="160" height="160" style="aspect-ratio: 1 / 1;">
+                                             <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                          </div>
+                                       </div>
+                                       <div class="game-overlay--ZW8Ud game-overlay-visible--oKS0E">
+                                          <div>
+                                             <button class="btn--s9WPp fav-button--ew8wi" data-cy="">
+                                                <span class="wrapper--fQhcx white--ivynY" style="height: 18px; width: 18px; min-width: 18px;">
+                                                   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                                      <path d="M8.10348 0.814347C8.47045 0.0716786 9.52955 0.0716773 9.89652 0.814346L11.8574 4.78276C12.0031 5.07746 12.2842 5.28177 12.6095 5.32927L16.9945 5.96953C17.8147 6.08929 18.1415 7.09769 17.5473 7.67576L14.3773 10.7601C14.1411 10.9899 14.0333 11.3213 14.0891 11.6461L14.8372 16.0033C14.9774 16.8202 14.1202 17.4433 13.3865 17.0578L9.46507 14.9977C9.17389 14.8448 8.82611 14.8448 8.53493 14.9977L4.61346 17.0578C3.87977 17.4433 3.02257 16.8202 3.16281 16.0033L3.91092 11.6461C3.96668 11.3213 3.85887 10.9899 3.6227 10.7601L0.452658 7.67576C-0.141464 7.09769 0.185293 6.08929 1.00554 5.96953L5.39052 5.32927C5.71579 5.28177 5.99695 5.07746 6.14257 4.78276L8.10348 0.814347Z" fill="currentColor"></path>
+                                                   </svg>
+                                                </span>
+                                             </button>
+                                          </div>
+                                          <button class="btn--s9WPp button-play--oDOq6" data-cy="">
+                                             <span class="wrapper--fQhcx white--ivynY" style="height: 32px; width: 32px; min-width: 32px;">
+                                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
+                                                </svg>
+                                             </span>
+                                          </button>
+                                          <div></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                    <div class="ellipsis--EjZIN game-name--HlJEc">Blackjack 11</div>
+                                    <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                 </div>
+                              </div>
                            </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Or****06</div>
-                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Dice &amp; Roll</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">ah****93</div>
-                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Hot &amp; Cash</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">bi****nn</div>
-                              <div class="ellipsis--EjZIN">50,000.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">ba*****58</div>
-                              <div class="ellipsis--EjZIN">49,882.50 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c26dc17-ddc4-4835-b7a1-770dab8377c6__dnMxMmJiYl9fQmlnZ2VyK0Jhc3MrQm9uYW56YV9fUy5qcGc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c26dc17-ddc4-4835-b7a1-770dab8377c6__dnMxMmJiYl9fQmlnZ2VyK0Jhc3MrQm9uYW56YV9fUy5qcGc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c26dc17-ddc4-4835-b7a1-770dab8377c6__dnMxMmJiYl9fQmlnZ2VyK0Jhc3MrQm9uYW56YV9fUy5qcGc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0c26dc17-ddc4-4835-b7a1-770dab8377c6__dnMxMmJiYl9fQmlnZ2VyK0Jhc3MrQm9uYW56YV9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Bigger Bass Bonanza</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ah****rl</div>
-                              <div class="ellipsis--EjZIN">48,000.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ka*********23</div>
-                              <div class="ellipsis--EjZIN">47,838.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04df8ac5-ad71-4e54-bb25-b72d618311fb__dnMyMGZydWl0c3dfX1N3ZWV0K0JvbmFuemFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Mi********ak</div>
-                              <div class="ellipsis--EjZIN">46,492.50 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">pi****35</div>
-                              <div class="ellipsis--EjZIN">45,881.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ta*******07</div>
-                              <div class="ellipsis--EjZIN">45,000.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Starlight Princess Pachi</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ba****nh</div>
-                              <div class="ellipsis--EjZIN">45,000.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7cb-786c-86fb-bb9d08df99d8__dnMyMHN0YXJsaWdodHhfX1N0YXJsaWdodCtQcmluY2VzcysxMDAwX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7cb-786c-86fb-bb9d08df99d8__dnMyMHN0YXJsaWdodHhfX1N0YXJsaWdodCtQcmluY2VzcysxMDAwX19TLnBuZw==.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7cb-786c-86fb-bb9d08df99d8__dnMyMHN0YXJsaWdodHhfX1N0YXJsaWdodCtQcmluY2VzcysxMDAwX19TLnBuZw==.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7cb-786c-86fb-bb9d08df99d8__dnMyMHN0YXJsaWdodHhfX1N0YXJsaWdodCtQcmluY2VzcysxMDAwX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Starlight Princess 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">On*****65</div>
-                              <div class="ellipsis--EjZIN">45,000.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Gates of Olympus 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Ku****31</div>
-                              <div class="ellipsis--EjZIN">44,421.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">br*****35</div>
-                              <div class="ellipsis--EjZIN">43,476.60 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018f961f-83a5-7355-ac5e-28b9685ffc73__U3RhcmxpZ2h0K1ByaW5jZXNzK1BhY2hpK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Starlight Princess Pachi</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Se*****63</div>
-                              <div class="ellipsis--EjZIN">43,100.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">sl*******tv</div>
-                              <div class="ellipsis--EjZIN">42,628.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/0190365e-4e09-703d-b4d4-b3a01c4e543d__NDk0eDQ5NC5qcGc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/0190365e-4e09-703d-b4d4-b3a01c4e543d__NDk0eDQ5NC5qcGc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/0190365e-4e09-703d-b4d4-b3a01c4e543d__NDk0eDQ5NC5qcGc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/0190365e-4e09-703d-b4d4-b3a01c4e543d__NDk0eDQ5NC5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Go High Panda 96</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">He*****35</div>
-                              <div class="ellipsis--EjZIN">42,000.00 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">su***28</div>
-                              <div class="ellipsis--EjZIN">40,874.40 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sweet Bonanza 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Sa****02</div>
-                              <div class="ellipsis--EjZIN">40,586.40 ₺</div>
-                           </div>
-                        </div>
-                        <div class="top-winner--Czjy_">
-                           <div class="hover--R97ae"></div>
-                           <div class="lazy-game-img--PJ2je loaded--rSoeq img--kCGXx" style="aspect-ratio: 1 / 1;">
-                              <img class="img--kCGXx img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=100&amp;format=webp 1x,
-                                 https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=80&amp;width=200&amp;format=webp 2x" alt="image" loading="lazy" width="60" height="60" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e0a69-50ca-7ce4-98b4-f0fdd180c4c3__c3VnYXItcnVzaC1zbWFsbC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--kCGXx" width="60" height="60" style="aspect-ratio: 1 / 1;">
-                              <div class="img--kCGXx gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
-                           </div>
-                           <div class="top-winner-content--JFy_f">
-                              <div class="ellipsis--EjZIN">Sugar Rush 1000</div>
-                              <div class="ellipsis--EjZIN player--K8Xs5">Hs*****33</div>
-                              <div class="ellipsis--EjZIN">40,505.00 ₺</div>
-                           </div>
-                           <span class="replay-link--Zhz71">
-                              <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
-                                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 0C7.16356 0 0 7.16344 0 16C0 24.8366 7.16356 32 16 32C24.8364 32 32 24.8366 32 16C32 7.16344 24.8364 0 16 0ZM21.53 16.8481L13.53 21.8481C13.3681 21.9492 13.1841 22 13 22C12.8333 22 12.6663 21.9585 12.5151 21.8745C12.1973 21.6982 12 21.3638 12 21V11C12 10.6362 12.1973 10.3018 12.5151 10.1255C12.833 9.94825 13.2217 9.959 13.53 10.1519L21.53 15.1519C21.8223 15.335 22 15.6553 22 16C22 16.3447 21.8223 16.6651 21.53 16.8481Z" fill="currentColor"></path>
-                                 </svg>
-                              </span>
-                              <span>Replay</span>
-                           </span>
                         </div>
                      </div>
                   </div>

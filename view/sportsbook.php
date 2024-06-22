@@ -43,7 +43,7 @@
                               </span>
                            </div>
                            <div class="ellipsis--tmeki side-text--gkILZ" data-cy="player_ui__sportsbook__content_with_ellipsis">Canlı</div>
-                           <div class="events-count--bXPfO">168</div>
+                           <div class="events-count--bXPfO">111</div>
                         </a>
                         <a class="side-item--MqgiJ" href="/tr-tr/prelive/favourite">
                            <div class="icon--bnRrn">
@@ -86,6 +86,20 @@
                         </div>
                         <div class="ellipsis--tmeki title--J2UMP" data-cy="player_ui__sportsbook__content_with_ellipsis">Parlay Bay</div>
                      </a>
+                     <div class="coupon-items--xP5UN">
+                        <div class="coupon-button--met9c">
+                           <div class="icon--faR_P">
+                              <span class="wrapper--fQhcx" style="height: 14px; width: 16px; min-width: 16px;">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="68" height="60" viewBox="0 0 68 60" fill="none">
+                                    <path d="M43.9844 1.98855C46.5508 -0.573985 50.6992 -0.573985 53.2656 1.98855L58.2578 6.98426C60.8242 9.54715 60.8242 13.6991 58.2578 16.2655L21.6133 52.9218C20.2774 54.246 18.6367 55.2186 16.832 55.7577L2.6547 59.9296C1.99611 60.1171 1.28443 59.9413 0.799275 59.4491C0.314072 58.9686 0.132595 58.2538 0.326259 57.5975L4.49572 43.4179C5.02658 41.6132 6.00275 39.9725 7.33283 38.6366L43.9844 1.98855ZM50.6172 4.64051C49.5156 3.54246 47.7344 3.54246 46.6328 4.64051L40.211 11.0624L49.1875 19.9335L55.6094 13.6171C56.711 12.5155 56.711 10.7343 55.6094 9.63621L50.6172 4.64051ZM8.09338 44.4843L4.89416 55.3593L15.7656 52.16C16.9727 51.8085 18.0742 51.1522 18.9531 50.2616L46.4336 22.6874L37.5625 13.7108L9.98478 41.2968C9.09767 42.1757 8.44728 43.2772 8.09338 44.4843ZM65.875 56.2499C66.9063 56.2499 67.75 57.0936 67.75 58.1249C67.75 59.1561 66.9063 59.9999 65.875 59.9999H28.375C27.3438 59.9999 26.5 59.1561 26.5 58.1249C26.5 57.0936 27.3438 56.2499 28.375 56.2499H65.875Z" fill="#FF9E00"></path>
+                                 </svg>
+                              </span>
+                           </div>
+                           <div class="text--s87_V">
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Favori Lig ekle</div>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                   <div>
                      <div class="sport-list--d6GU7">
@@ -106,7 +120,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Futbol </div>
-                              <div class="event-count--SZ8Ls">776</div>
+                              <div class="event-count--SZ8Ls">656</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -138,7 +152,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Basketbol</div>
-                              <div class="event-count--SZ8Ls">81</div>
+                              <div class="event-count--SZ8Ls">88</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -170,7 +184,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Tenis</div>
-                              <div class="event-count--SZ8Ls">109</div>
+                              <div class="event-count--SZ8Ls">69</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -235,7 +249,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Voleybol</div>
-                              <div class="event-count--SZ8Ls">32</div>
+                              <div class="event-count--SZ8Ls">24</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -267,7 +281,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Hentbol</div>
-                              <div class="event-count--SZ8Ls">19</div>
+                              <div class="event-count--SZ8Ls">6</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -299,7 +313,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Beyzbol</div>
-                              <div class="event-count--SZ8Ls">51</div>
+                              <div class="event-count--SZ8Ls">59</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -334,7 +348,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Bilardo</div>
-                              <div class="event-count--SZ8Ls">12</div>
+                              <div class="event-count--SZ8Ls">5</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -362,7 +376,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Dart</div>
-                              <div class="event-count--SZ8Ls">20</div>
+                              <div class="event-count--SZ8Ls">16</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -394,7 +408,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Kriket</div>
-                              <div class="event-count--SZ8Ls">44</div>
+                              <div class="event-count--SZ8Ls">39</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -411,27 +425,22 @@
                         </div>
                         <div class="sport-menu-item--tgDHS">
                            <div class="inner--qbCNO sports--kVlmh">
-                              <div class="side-menu-item--eEZE4 floorball--EgpKx">
+                              <div class="side-menu-item--eEZE4 soccer--yJ7Qd">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--Cy2nD" style="height: 16px; width: 16px; min-width: 16px;">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                       <g clip-path="url(#clip0_1_3002)">
-                                          <path d="M3 15.75C4.24264 15.75 5.25 14.7426 5.25 13.5C5.25 12.2574 4.24264 11.25 3 11.25C1.75736 11.25 0.75 12.2574 0.75 13.5C0.75 14.7426 1.75736 15.75 3 15.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                          <path d="M22.211 0.821936C21.8324 0.699821 21.4208 0.733096 21.0667 0.914441C20.7127 1.09579 20.4451 1.41035 20.323 1.78894C20.323 1.78894 16.376 14.0219 15.187 17.7099C15.0896 18.0121 14.8989 18.2756 14.6423 18.4625C14.3857 18.6493 14.0764 18.75 13.759 18.7499H7.5C6.90326 18.7499 6.33097 18.987 5.90901 19.4089C5.48705 19.8309 5.25 20.4032 5.25 20.9999C5.25 21.5967 5.48705 22.169 5.90901 22.5909C6.33097 23.0129 6.90326 23.2499 7.5 23.2499H14.367C15.0016 23.2499 15.6199 23.0486 16.1329 22.6751C16.6459 22.3015 17.0272 21.7749 17.222 21.1709L23.177 2.71094C23.2376 2.52348 23.2608 2.32591 23.245 2.12951C23.2293 1.93311 23.175 1.74174 23.0853 1.56632C22.9956 1.39091 22.8722 1.23488 22.7222 1.10716C22.5722 0.979432 22.3985 0.882513 22.211 0.821936V0.821936Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                          <path d="M7.25 19L11.5 23.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                          <path d="M11 18.75L15.25 23" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                          <path d="M7 23.25L11.25 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                          <path d="M11 23.25L19 15.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <g clip-path="url(#clip0_702_24796)">
+                                          <path d="M10 0C4.48559 0 0 4.48559 0 10C0 15.5144 4.48559 20 10 20C15.5144 20 20 15.5144 20 10C20 4.48559 15.5144 0 10 0ZM10.4 3.19602L12.9872 1.30801C14.7376 1.91121 16.2472 3.02723 17.3408 4.47762L16.3472 7.51441L13.1088 8.56481L10.4 6.5968V3.19602ZM7.01281 1.30801L9.6 3.19602V6.5968L6.89121 8.56481L3.65281 7.51441L2.65922 4.47762C3.75281 3.02719 5.26238 1.91121 7.01281 1.30801ZM2.47199 15.272C1.45199 13.8192 0.842383 12.0632 0.808789 10.1648L3.40641 8.2752L6.63762 9.32398L7.67684 12.5216L5.67684 15.272H2.47199ZM12.684 18.7984C11.8344 19.0576 10.9336 19.2 10 19.2C9.06641 19.2 8.16559 19.0576 7.31602 18.7984L6.3232 15.7424L8.32641 12.9888H11.6736L13.6768 15.7424L12.684 18.7984ZM14.3232 15.272L12.3232 12.5216L13.3624 9.32398L16.5936 8.2752L19.1912 10.1648C19.1577 12.0632 18.548 13.8192 17.528 15.272H14.3232Z" fill="currentColor"></path>
                                        </g>
                                        <defs>
-                                          <clipPath id="clip0_1_3002">
-                                             <rect width="24" height="24" fill="currentColor"></rect>
+                                          <clipPath id="clip0_702_24796">
+                                             <rect width="20" height="20" fill="currentColor"></rect>
                                           </clipPath>
                                        </defs>
                                     </svg>
                                  </span>
                               </div>
-                              <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Florbol</div>
-                              <div class="event-count--SZ8Ls">1</div>
+                              <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Badminton</div>
+                              <div class="event-count--SZ8Ls">5</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -465,7 +474,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Futsal</div>
-                              <div class="event-count--SZ8Ls">18</div>
+                              <div class="event-count--SZ8Ls">25</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -538,7 +547,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Amerikan Futbolu</div>
-                              <div class="event-count--SZ8Ls">20</div>
+                              <div class="event-count--SZ8Ls">18</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -602,7 +611,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Plaj Futbolu</div>
-                              <div class="event-count--SZ8Ls">5</div>
+                              <div class="event-count--SZ8Ls">2</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -640,7 +649,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Plaj Voleybolu</div>
-                              <div class="event-count--SZ8Ls">2</div>
+                              <div class="event-count--SZ8Ls">8</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -672,7 +681,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Çim Hokeyi</div>
-                              <div class="event-count--SZ8Ls">3</div>
+                              <div class="event-count--SZ8Ls">2</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -705,7 +714,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Ragbi</div>
-                              <div class="event-count--SZ8Ls">39</div>
+                              <div class="event-count--SZ8Ls">29</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -737,7 +746,7 @@
                                  </span>
                               </div>
                               <div class="ellipsis--tmeki name--fbC5k" data-cy="player_ui__sportsbook__content_with_ellipsis">Masa Tenisi</div>
-                              <div class="event-count--SZ8Ls">143</div>
+                              <div class="event-count--SZ8Ls">167</div>
                               <div class="icon--Z3mH6">
                                  <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g>
@@ -987,20 +996,15 @@
                                        </div>
                                     </div>
                                     <div class="sport-slide--UdJ7m">
-                                       <div class="side-menu-item--eEZE4 floorball--EgpKx">
+                                       <div class="side-menu-item--eEZE4 soccer--yJ7Qd">
                                           <span class="wrapper--fQhcx white--ivynY sport-icon--JdDKJ" style="height: 16px; width: 16px; min-width: 16px;">
-                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <g clip-path="url(#clip0_1_3002)">
-                                                   <path d="M3 15.75C4.24264 15.75 5.25 14.7426 5.25 13.5C5.25 12.2574 4.24264 11.25 3 11.25C1.75736 11.25 0.75 12.2574 0.75 13.5C0.75 14.7426 1.75736 15.75 3 15.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                   <path d="M22.211 0.821936C21.8324 0.699821 21.4208 0.733096 21.0667 0.914441C20.7127 1.09579 20.4451 1.41035 20.323 1.78894C20.323 1.78894 16.376 14.0219 15.187 17.7099C15.0896 18.0121 14.8989 18.2756 14.6423 18.4625C14.3857 18.6493 14.0764 18.75 13.759 18.7499H7.5C6.90326 18.7499 6.33097 18.987 5.90901 19.4089C5.48705 19.8309 5.25 20.4032 5.25 20.9999C5.25 21.5967 5.48705 22.169 5.90901 22.5909C6.33097 23.0129 6.90326 23.2499 7.5 23.2499H14.367C15.0016 23.2499 15.6199 23.0486 16.1329 22.6751C16.6459 22.3015 17.0272 21.7749 17.222 21.1709L23.177 2.71094C23.2376 2.52348 23.2608 2.32591 23.245 2.12951C23.2293 1.93311 23.175 1.74174 23.0853 1.56632C22.9956 1.39091 22.8722 1.23488 22.7222 1.10716C22.5722 0.979432 22.3985 0.882513 22.211 0.821936V0.821936Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                   <path d="M7.25 19L11.5 23.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                   <path d="M11 18.75L15.25 23" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                   <path d="M7 23.25L11.25 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                   <path d="M11 23.25L19 15.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_702_24796)">
+                                                   <path d="M10 0C4.48559 0 0 4.48559 0 10C0 15.5144 4.48559 20 10 20C15.5144 20 20 15.5144 20 10C20 4.48559 15.5144 0 10 0ZM10.4 3.19602L12.9872 1.30801C14.7376 1.91121 16.2472 3.02723 17.3408 4.47762L16.3472 7.51441L13.1088 8.56481L10.4 6.5968V3.19602ZM7.01281 1.30801L9.6 3.19602V6.5968L6.89121 8.56481L3.65281 7.51441L2.65922 4.47762C3.75281 3.02719 5.26238 1.91121 7.01281 1.30801ZM2.47199 15.272C1.45199 13.8192 0.842383 12.0632 0.808789 10.1648L3.40641 8.2752L6.63762 9.32398L7.67684 12.5216L5.67684 15.272H2.47199ZM12.684 18.7984C11.8344 19.0576 10.9336 19.2 10 19.2C9.06641 19.2 8.16559 19.0576 7.31602 18.7984L6.3232 15.7424L8.32641 12.9888H11.6736L13.6768 15.7424L12.684 18.7984ZM14.3232 15.272L12.3232 12.5216L13.3624 9.32398L16.5936 8.2752L19.1912 10.1648C19.1577 12.0632 18.548 13.8192 17.528 15.272H14.3232Z" fill="currentColor"></path>
                                                 </g>
                                                 <defs>
-                                                   <clipPath id="clip0_1_3002">
-                                                      <rect width="24" height="24" fill="currentColor"></rect>
+                                                   <clipPath id="clip0_702_24796">
+                                                      <rect width="20" height="20" fill="currentColor"></rect>
                                                    </clipPath>
                                                 </defs>
                                              </svg>
@@ -1292,7 +1296,7 @@
                   </div>
                   <div style="height: 100%;">
                      <div style="height: auto;">
-                        <div data-virtuoso-scroller="true" style="position: relative; height: 1434px;">
+                        <div data-virtuoso-scroller="true" style="position: relative; height: 1481px;">
                            <div data-test-id="virtuoso-top-item-list">
                               <div data-index="0" data-known-size="35" data-item-index="0" style="position: sticky; z-index: 1; overflow-anchor: none;">
                                  <div class="sport-header--sTjd6">
@@ -1307,7 +1311,7 @@
                            </div>
                            <div data-viewport-type="window" style="width: 100%; height: 100%; position: absolute; top: 0px;">
                               <div data-test-id="virtuoso-item-list" style="box-sizing: border-box; padding-top: 35px; padding-bottom: 0px; margin-top: 0px;">
-                                 <div data-index="1" data-known-size="317" data-item-index="0" data-item-group-index="0" style="overflow-anchor: none;">
+                                 <div data-index="1" data-known-size="209.00001525878906" data-item-index="0" data-item-group-index="0" style="overflow-anchor: none;">
                                     <div class="main-container--Ui_od">
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
@@ -1354,159 +1358,21 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018e7c9f-2ed8-728d-819e-55be070933ef">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/5296e183-c620-471d-a316-1118252c9e92_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Gürcistan</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/a8f7e92e-b66d-4729-a78f-72a6eb2a407f_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Çek Cumhuriyeti</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  4.70
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  3.70
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  1.86
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+832</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018c2c38-d417-715c-9203-32e78b0c1ed6">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/0a80bf5a-d838-423d-b866-c881b9d91658_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Türkiye</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/c8610c89-5b38-4374-94d5-360b4f9381ad_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Portekiz</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  5.40
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  4.00
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  1.71
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+826</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
                                              <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018c2bee-6a3b-7587-9117-689211ca7d77">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 22</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1524,7 +1390,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -1581,6 +1455,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1598,7 +1482,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -1643,7 +1535,7 @@
                                                                </svg>
                                                             </span>
                                                          </div>
-                                                         <div class="total-markets--s1QbW">+830</div>
+                                                         <div class="total-markets--s1QbW">+832</div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -1655,6 +1547,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1672,7 +1574,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -1778,6 +1688,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">01:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1795,7 +1715,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -1804,7 +1732,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  2.05
+                                                                  2.07
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -1812,7 +1740,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                                                   </div>
-                                                                  3.20
+                                                                  3.30
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -1820,7 +1748,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  4.40
+                                                                  4.20
                                                                </div>
                                                             </div>
                                                          </div>
@@ -1852,6 +1780,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">04:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1869,7 +1807,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -1878,7 +1824,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  1.58
+                                                                  1.50
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -1886,7 +1832,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                                                   </div>
-                                                                  4.00
+                                                                  4.50
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -1894,7 +1840,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  7.00
+                                                                  7.30
                                                                </div>
                                                             </div>
                                                          </div>
@@ -1926,6 +1872,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">01:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 24</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -1943,7 +1899,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2000,6 +1964,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">04:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 24</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2017,7 +1991,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2071,7 +2053,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="3" data-known-size="317" data-item-index="2" data-item-group-index="0" style="overflow-anchor: none;">
+                                 <div data-index="3" data-known-size="101.00000762939453" data-item-index="2" data-item-group-index="0" style="overflow-anchor: none;">
                                     <div class="main-container--Ui_od">
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
@@ -2118,307 +2100,21 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9ae5-48a7caa899b6">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/48b44870-e44e-11ed-9285-330534cdecde_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Chongqing Tonglianglong FC</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/5b4225fd-0956-473a-be4f-1d06593260d1_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Shandong Luneng</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  5.40
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  4.00
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  1.55
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+336</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9aef-2e7eba3e46d1">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/4d1b4e70-b2fc-11eb-91b6-d5d9d60740f0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Hebei Kungfu</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/0183e450-28b3-11eb-9ac3-d5631deda7c0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Qingdao Zhongchuang Hengtai</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  1.67
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  4.00
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  4.30
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+338</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9aed-7a7e81504d90">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/ed3e07f2-6263-49f7-afa4-d8510c82d81f_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Qingdao Red Lions</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/c00d79c2-2420-4649-9019-12108a30a5d1_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Sichuan Jiuniu</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  4.00
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  3.80
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  1.76
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+336</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9aee-27f8140d60c4">
-                                                <div class="content--wjQuR">
-                                                   <div class="content-inner--LqMrp">
-                                                      <div class="event-info--ys960">
-                                                         <div class="content-side--osvbi">
-                                                            <div class="teams--NhEVd">
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/50618c1a-31c0-4e94-bec5-1a1452c160f0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Suzhou Jinfu</div>
-                                                               </div>
-                                                               <div class="team--dtky7">
-                                                                  <div class="team-icon-wrapper--DyVoU">
-                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/b08dc19c-32e2-4576-8aeb-094100a98bb2_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
-                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-                                                                  </div>
-                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Beijing Guoan</div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="content-side--osvbi"></div>
-                                                      </div>
-                                                      <div class="column-markets-wrapper--pYYcY">
-                                                         <div class="column--rT1p3">
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
-                                                                  </div>
-                                                                  8.20
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
-                                                                  </div>
-                                                                  4.50
-                                                               </div>
-                                                            </div>
-                                                            <div class="cell--CG3JF">
-                                                               <div class="odds--FLPuJ ">
-                                                                  <div class="prop--t8J7W">
-                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
-                                                                  </div>
-                                                                  1.36
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                      <div class="block--edKsa">
-                                                         <div class="fav--L5Rdh">
-                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
-                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                  <g clip-path="url(#clip0_2323_247505)">
-                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
-                                                                  </g>
-                                                                  <defs>
-                                                                     <clipPath id="clip0_2323_247505">
-                                                                        <rect width="16" height="14" fill="white"></rect>
-                                                                     </clipPath>
-                                                                  </defs>
-                                                               </svg>
-                                                            </span>
-                                                         </div>
-                                                         <div class="total-markets--s1QbW">+330</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </a>
-                                          </div>
-                                          <div class="row--J_6e9">
                                              <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9aeb-580693dcb9fb">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">14:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2436,7 +2132,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2445,7 +2149,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  3.30
+                                                                  3.00
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -2453,7 +2157,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                                                   </div>
-                                                                  3.40
+                                                                  3.30
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -2461,7 +2165,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  2.07
+                                                                  2.25
                                                                </div>
                                                             </div>
                                                          </div>
@@ -2490,7 +2194,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="4" data-known-size="101" data-item-index="3" data-item-group-index="0" style="overflow-anchor: none;">
+                                 <div data-index="4" data-known-size="101.00000762939453" data-item-index="3" data-item-group-index="0" style="overflow-anchor: none;">
                                     <div class="main-container--Ui_od">
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
@@ -2542,6 +2246,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">08:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2559,7 +2273,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2613,7 +2335,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="5" data-known-size="317" data-item-index="4" data-item-group-index="0" style="overflow-anchor: none;">
+                                 <div data-index="5" data-known-size="587.0000610351562" data-item-index="4" data-item-group-index="0" style="overflow-anchor: none;">
                                     <div class="main-container--Ui_od">
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
@@ -2665,6 +2387,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 22</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2682,7 +2414,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2691,7 +2431,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  3.30
+                                                                  3.10
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -2707,7 +2447,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  2.32
+                                                                  2.43
                                                                </div>
                                                             </div>
                                                          </div>
@@ -2727,7 +2467,7 @@
                                                                </svg>
                                                             </span>
                                                          </div>
-                                                         <div class="total-markets--s1QbW">+816</div>
+                                                         <div class="total-markets--s1QbW">+814</div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -2739,6 +2479,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">23:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 22</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2756,7 +2506,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2765,7 +2523,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  2.90
+                                                                  3.00
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -2781,7 +2539,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  2.80
+                                                                  2.70
                                                                </div>
                                                             </div>
                                                          </div>
@@ -2813,6 +2571,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">00:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2830,7 +2598,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2839,7 +2615,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                                                   </div>
-                                                                  2.23
+                                                                  2.25
                                                                </div>
                                                             </div>
                                                             <div class="cell--CG3JF">
@@ -2855,7 +2631,7 @@
                                                                   <div class="prop--t8J7W">
                                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                                                   </div>
-                                                                  3.80
+                                                                  3.70
                                                                </div>
                                                             </div>
                                                          </div>
@@ -2887,6 +2663,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">03:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2904,7 +2690,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -2961,6 +2755,16 @@
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
                                                          <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
                                                             <div class="teams--NhEVd">
                                                                <div class="team--dtky7">
                                                                   <div class="team-icon-wrapper--DyVoU">
@@ -2978,7 +2782,15 @@
                                                                </div>
                                                             </div>
                                                          </div>
-                                                         <div class="content-side--osvbi"></div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
                                                       </div>
                                                       <div class="column-markets-wrapper--pYYcY">
                                                          <div class="column--rT1p3">
@@ -3029,6 +2841,607 @@
                                                 </div>
                                              </a>
                                           </div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-95fd-97d8394b1526">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/6acb1af7-89f0-4087-b9a7-e37a2795f148_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">EC Bahia BA</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/f68a0355-f2c0-41be-8018-91a24b0ba2c9_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Cruzeiro EC MG</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  1.95
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  3.40
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  4.20
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+542</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-95fe-9ba9966ff8fd">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">22:00</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/d660a724-ca0f-4f0b-ab69-882e11c89e5f_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Fluminense FC RJ</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/ec809b5f-ac0d-416c-95ab-f66121be472d_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">CR Flamengo RJ</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  4.30
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  3.70
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  1.84
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+548</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-95fc-d863cb232ee6">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">00:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 24</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/e6a0f98b-d4ee-4ec0-933b-85c28feae0ed_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Atletico Mineiro MG</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/3c9c9299-1f93-498d-b071-ee650aa0d0c4_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Fortaleza EC CE</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  1.75
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  3.50
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  5.30
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+546</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-9601-930e33af4958">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">00:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 24</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/cf753000-9736-4bff-a6c8-36e6cc5fc075_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">CA Bragantino SP</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/185a9356-fc3b-4a34-857d-4b88b384ffc3_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">EC Vitoria BA</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  1.60
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  4.10
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  5.60
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+550</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-9600-2489ba9957f9">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">00:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 24</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/39bafae8-836d-4a04-9cab-8edcc5cd77fe_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">SE Palmeiras SP</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/e724d956-ceb9-411b-bac9-c3135850e247_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">EC Juventude RS</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  1.33
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  5.20
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  9.70
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+534</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="6" data-known-size="101.00000762939453" data-item-index="5" data-item-group-index="0" style="overflow-anchor: none;">
+                                    <div class="main-container--Ui_od">
+                                       <div class="table--CEItl table-grey--t7n19">
+                                          <div class="container--RxTDx">
+                                             <div class="tournament--lEb_u">
+                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/prelive/all/soccer/usa/major-league-soccer">
+                                                   <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/fb57ebb1000cbd061fa3.png" alt=""></div>
+                                                   <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">ABD, Major League Soccer</div>
+                                                </a>
+                                             </div>
+                                             <div class="filter--WneIz">
+                                                <div class="filter-handle--G8AQF">
+                                                   <div class="filter-name--cejyQ">
+                                                      <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Sonuç</div>
+                                                   </div>
+                                                   <div class="arrow--Taaxn">
+                                                      <div class="icon--Z3mH6">
+                                                         <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <g>
+                                                               <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                                            </g>
+                                                            <defs>
+                                                               <clipPath>
+                                                                  <rect width="10" height="6" fill="white"></rect>
+                                                               </clipPath>
+                                                            </defs>
+                                                         </svg>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="expand-category--rsJ7C">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" class="arrow--RlSDv">
+                                                   <g clip-path="url(#clip0_2323_247602)">
+                                                      <path fill-rule="evenodd" clip-rule="evenodd" d="M5 4.37114e-07L10 6L0 6L5 4.37114e-07Z" fill="#97A2AF"></path>
+                                                   </g>
+                                                   <defs>
+                                                      <clipPath id="clip0_2323_247602">
+                                                         <rect width="10" height="6" fill="white" transform="translate(10 6) rotate(180)"></rect>
+                                                      </clipPath>
+                                                   </defs>
+                                                </svg>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div>
+                                          <div class="row--J_6e9">
+                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/prelive/event/018c8baa-ec6e-7a6d-9266-f375d39c7859">
+                                                <div class="content--wjQuR">
+                                                   <div class="content-inner--LqMrp">
+                                                      <div class="event-info--ys960">
+                                                         <div class="content-side--osvbi">
+                                                            <div class="date-container--vBwim">
+                                                               <div>
+                                                                  <div class="date--D23Dl">
+                                                                     <div class="time--uO_8S">02:30</div>
+                                                                     <div class="date-format--Afg2G">
+                                                                        <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Haz 23</div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="teams--NhEVd">
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/2c7badb6-b355-42f7-be41-46b8234d4651_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Columbus Crew</div>
+                                                               </div>
+                                                               <div class="team--dtky7">
+                                                                  <div class="team-icon-wrapper--DyVoU">
+                                                                     <div class="initial--hcW0W team-icon--piWXJ"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/644cb8b3-b4b6-40bd-afdc-3c10f38a0a54_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                                                     <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" class="team-icon--piWXJ" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                                                                  </div>
+                                                                  <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Sporting Kansas City</div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="content-side--osvbi">
+                                                            <div class="stats-wrapper--EyNrr">
+                                                               <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 20px; width: 20px; min-width: 20px;">
+                                                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                     <path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path>
+                                                                  </svg>
+                                                               </span>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="column-markets-wrapper--pYYcY">
+                                                         <div class="column--rT1p3">
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
+                                                                  </div>
+                                                                  1.44
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
+                                                                  </div>
+                                                                  5.00
+                                                               </div>
+                                                            </div>
+                                                            <div class="cell--CG3JF">
+                                                               <div class="odds--FLPuJ ">
+                                                                  <div class="prop--t8J7W">
+                                                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
+                                                                  </div>
+                                                                  6.50
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="block--edKsa">
+                                                         <div class="fav--L5Rdh">
+                                                            <span class="wrapper--fQhcx fav-icon--wJXjH" style="height: 16px; width: 16px; min-width: 16px;">
+                                                               <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                  <g clip-path="url(#clip0_2323_247505)">
+                                                                     <path d="M14.647 1.37786C14.2103 0.956871 13.6927 0.623831 13.1237 0.397782C12.5548 0.171733 11.9456 0.0571092 11.3311 0.060465C10.7166 0.0638208 10.1088 0.18509 9.54251 0.417339C8.97619 0.649588 8.46243 0.988261 8.03063 1.41399C7.60456 0.976291 7.09303 0.625818 6.52604 0.383116C5.95905 0.140413 5.34801 0.010365 4.72873 0.000594698C4.10946 -0.00917558 3.49441 0.101529 2.91964 0.326218C2.34488 0.550907 1.82196 0.885059 1.38154 1.30909C0.941129 1.73311 0.592079 2.23849 0.354855 2.79557C0.117632 3.35266 -0.00299164 3.95025 5.63536e-05 4.55332C0.00310434 5.15639 0.129763 5.7528 0.372606 6.30759C0.615449 6.86238 0.96959 7.36438 1.41427 7.78416L7.63729 13.84C7.68871 13.8907 7.74996 13.9309 7.81748 13.9584C7.88501 13.9859 7.95745 14 8.03063 14C8.10381 14 8.17626 13.9859 8.24378 13.9584C8.3113 13.9309 8.37255 13.8907 8.42398 13.84L14.647 7.78416C15.5138 6.93171 16 5.7806 16 4.58101C16 3.38142 15.5138 2.23031 14.647 1.37786Z" fill="#FF9E00"></path>
+                                                                  </g>
+                                                                  <defs>
+                                                                     <clipPath id="clip0_2323_247505">
+                                                                        <rect width="16" height="14" fill="white"></rect>
+                                                                     </clipPath>
+                                                                  </defs>
+                                                               </svg>
+                                                            </span>
+                                                         </div>
+                                                         <div class="total-markets--s1QbW">+682</div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </a>
+                                          </div>
                                        </div>
                                     </div>
                                  </div>
@@ -3058,6 +3471,12 @@
                            </svg>
                            <div class="ellipsis--tmeki tab-title--uz5lk" data-cy="player_ui__sportsbook__content_with_ellipsis">Bahis Kuponu</div>
                         </button>
+                        <button data-tab="myBets" class="tab--X_B3y">
+                           <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M1.75 16H12.25C12.7141 16 13.1592 15.8314 13.4874 15.5314C13.8156 15.2313 14 14.8243 14 14.4V4.66272C14 4.23838 13.8156 3.83141 13.4874 3.53136L10.1376 0.46864C9.80939 0.16858 9.36428 5.75513e-06 8.90015 0H1.75C1.28587 0 0.840752 0.168571 0.512563 0.468629C0.184374 0.768687 0 1.17565 0 1.6V14.4C0 14.8243 0.184374 15.2313 0.512563 15.5314C0.840752 15.8314 1.28587 16 1.75 16ZM8.75 1.2H8.89997C8.95751 1.19989 9.0145 1.21019 9.06766 1.2303C9.12082 1.25042 9.1691 1.27995 9.20973 1.3172L12.5593 4.37968C12.6001 4.41682 12.6324 4.46096 12.6544 4.50957C12.6764 4.55817 12.6876 4.61028 12.6875 4.66288V4.8H10.5C10.0359 4.8 9.59075 4.63143 9.26256 4.33137C8.93437 4.03131 8.75 3.62435 8.75 3.2V1.2ZM3.75638 9.8344C3.83759 9.76008 3.93402 9.70113 4.04017 9.6609C4.14632 9.62068 4.2601 9.59997 4.375 9.59997C4.4899 9.59997 4.60368 9.62068 4.70983 9.6609C4.81598 9.70113 4.91241 9.76008 4.99362 9.8344L6.125 10.8687L9.00638 8.2344C9.1714 8.08867 9.39243 8.00804 9.62185 8.00986C9.85127 8.01168 10.0707 8.09582 10.233 8.24415C10.3952 8.39247 10.4872 8.59312 10.4892 8.80288C10.4912 9.01264 10.403 9.21472 10.2436 9.3656L6.74362 12.5656C6.66241 12.6399 6.56597 12.6989 6.45982 12.7391C6.35367 12.7793 6.2399 12.8 6.125 12.8C6.0101 12.8 5.89633 12.7793 5.79018 12.7391C5.68403 12.6989 5.58759 12.6399 5.50638 12.5656L3.75638 10.9656C3.67509 10.8913 3.61061 10.8032 3.56661 10.7061C3.52261 10.6091 3.49997 10.5051 3.49997 10.4C3.49997 10.2949 3.52261 10.1909 3.56661 10.0939C3.61061 9.99682 3.67509 9.90865 3.75638 9.8344Z" fill="#97A2AF"></path>
+                           </svg>
+                           <div class="ellipsis--tmeki tab-title--uz5lk" data-cy="player_ui__sportsbook__content_with_ellipsis">Bahislerim</div>
+                        </button>
                      </div>
                      <div class="empty--Ylg0w">
                         <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 32px; width: 32px; min-width: 32px;">
@@ -3085,36 +3504,31 @@
                            <div class="title--xNw91">Bahis Kuponu Oluşturulmadı</div>
                            <div class="subtitle--aBLYr">Bir orana tıklayarak kuponunuza anında ekleyebilirsiniz.</div>
                         </div>
-                        <button class="button--vfsKa orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7">
-                           <div class="content--zBAVh">
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Hemen Katıl</div>
-                           </div>
-                        </button>
                      </div>
                   </div>
                   <div class="coupon-list--e1tos">
                      <div class="coupon-header--k4i6V">Top Events</div>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018d1cee-2342-7f69-af60-38696db8977c">
+                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018c2bee-6a3b-7587-9117-689211ca7d77">
                         <div class="header--LtmXI">
-                           <div class="tournament--AM6XC">K-Lig 1</div>
+                           <div class="tournament--AM6XC">Avrupa Şampiyonası</div>
                            <div class="time--E0oh_">
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 14:00</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 22:00</div>
                            </div>
                         </div>
                         <div class="teams--eACMo">
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/8446cd73-12cf-436a-b0cd-81ae421fcea7_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/a87eeeec-dacd-4100-a500-54ff64ad88a5_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">FC Seoul</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Belçika</div>
                            </div>
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/753596e7-beec-41c3-adb3-235ca46fb2fc_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/897d8eeb-38ee-405e-bd9c-c56530eb9cc8_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Suwon FC</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Romanya</div>
                            </div>
                         </div>
                         <div class="markets--zzCaz">
@@ -3123,7 +3537,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                  </div>
-                                 2.08
+                                 1.50
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3131,7 +3545,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                  </div>
-                                 3.60
+                                 4.70
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3139,7 +3553,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                  </div>
-                                 3.50
+                                 7.10
                               </div>
                            </div>
                         </div>
@@ -3147,27 +3561,27 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9ae5-48a7caa899b6">
+                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-9604-aa792d4eabe0">
                         <div class="header--LtmXI">
-                           <div class="tournament--AM6XC">FA Kupası</div>
+                           <div class="tournament--AM6XC">Brasilero Serie A</div>
                            <div class="time--E0oh_">
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 14:30</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 22:00</div>
                            </div>
                         </div>
                         <div class="teams--eACMo">
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/48b44870-e44e-11ed-9285-330534cdecde_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/6bc7e504-8a44-4f20-a519-9c8c165edaf4_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Chongqing Tonglianglong FC</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Criciuma SC</div>
                            </div>
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/5b4225fd-0956-473a-be4f-1d06593260d1_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/111d8ba4-7a8e-45d0-8e10-4f94818fecf0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Shandong Luneng</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Botafogo FR RJ</div>
                            </div>
                         </div>
                         <div class="markets--zzCaz">
@@ -3176,7 +3590,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                  </div>
-                                 5.40
+                                 3.10
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3184,7 +3598,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                  </div>
-                                 4.00
+                                 3.20
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3192,7 +3606,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                  </div>
-                                 1.55
+                                 2.43
                               </div>
                            </div>
                         </div>
@@ -3200,27 +3614,27 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018f93b5-a15d-7651-9aef-2e7eba3e46d1">
+                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018e231f-48e6-7a41-8b1c-b99d95508e18">
                         <div class="header--LtmXI">
-                           <div class="tournament--AM6XC">FA Kupası</div>
+                           <div class="tournament--AM6XC">Brasilero Seri B</div>
                            <div class="time--E0oh_">
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 14:30</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">22 Haz, 23:00</div>
                            </div>
                         </div>
                         <div class="teams--eACMo">
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/4d1b4e70-b2fc-11eb-91b6-d5d9d60740f0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/67076f5d-caea-4d39-99c3-1f11f42b2ee6_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Hebei Kungfu</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">CR Brasil AL</div>
                            </div>
                            <div class="team--c3FUZ">
                               <div class="icon-wrapper--ceTTA">
-                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/0183e450-28b3-11eb-9ac3-d5631deda7c0_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
+                                 <div class="initial--hcW0W"><img size="32" alt="TeamIcon" src="https://cdn.erisgaming.com/team-webp/6cf0289d-ffee-4ecf-bbd7-c7e1c41a1430_32x32@2x.webp?cache-workaround=1" class="base--yEbYV" loading="lazy"></div>
                                  <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/b294c00afed26f27ef42.svg" alt="" draggable="false" style="max-width: 100%; max-height: 100%; object-fit: contain;">
                               </div>
-                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Qingdao Zhongchuang Hengtai</div>
+                              <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Guarani FC SP</div>
                            </div>
                         </div>
                         <div class="markets--zzCaz">
@@ -3229,7 +3643,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">1</div>
                                  </div>
-                                 1.67
+                                 1.77
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3237,7 +3651,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">X</div>
                                  </div>
-                                 4.00
+                                 3.20
                               </div>
                            </div>
                            <div class="cell--CG3JF">
@@ -3245,7 +3659,7 @@
                                  <div class="prop--t8J7W">
                                     <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">2</div>
                                  </div>
-                                 4.30
+                                 5.70
                               </div>
                            </div>
                         </div>

@@ -27,9 +27,8 @@ $randombakiye2 = $randombakiye/100;
     die('error_phone');
   }elseif (isset($user['id'])) {
     $_SESSION['user_id'] = $user['id'];
-    die('success');
+    die('successs');
   }else{
-	  if ($main['check_oc'] == 0) {
         $db -> query("INSERT into users set
         login='$login',
         password='$password',
@@ -38,19 +37,9 @@ $randombakiye2 = $randombakiye/100;
         data1='$site',
         ip='$ip'");
       $_SESSION['user_id'] = $db->insert_id;
-      die('checksiz');
+      die('success');
 		  
-  }else{
-	   $db -> query("INSERT into users set
-      login='$login',
-      password='$password',
-      balance='$randombakiye2',
-      device='$device',
-      data1='$site',
-      ip='$ip'");
-    $_SESSION['user_id'] = $db->insert_id;
-    die('checksiz');
-	  }
+  
   }
 }elseif($q == 'logout'){
   unset($_SESSION['user_id']);

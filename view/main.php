@@ -6,27 +6,27 @@
                      <div class="main--v7Pd2">
                         <div class="landing-page--QdSkv">
                            <div class="products-area--PbFiX landing-page-products--Ir0Xt">
-                              <a class="product--RVlUH casino--L0Y7m" href="/tr-tr/casino">
+                              <a class="product--RVlUH casino--L0Y7m" href="/casino">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Slot Oyunları</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH live-casino--Y1eKp" href="/tr-tr/live_casino">
+                              <a class="product--RVlUH live-casino--Y1eKp" href="/livecasino">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Canlı Casino</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH sports--HSmZW" href="/tr-tr/prelive">
+                              <a class="product--RVlUH sports--HSmZW" href="/sportsbook">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Spor Bahisleri</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH virtual--BHlr2" href="/tr-tr/virtual">
+                              <a class="product--RVlUH virtual--BHlr2" href="virtual">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Sanal Spor</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH games--dlsy4" href="/tr-tr/games">
+                              <a class="product--RVlUH games--dlsy4" href="/games">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Oyunlar</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH promos--UOsUx" href="/tr-tr/cms/promos">
+                              <a class="product--RVlUH promos--UOsUx" href="/promos">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Promosyonlar</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
@@ -38,7 +38,7 @@
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Starzbet TV</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a class="product--RVlUH vip-club--lfzPU" href="/tr-tr/vip_club">
+                              <a class="product--RVlUH vip-club--lfzPU" href="/vip">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">VIP Kulüp</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>

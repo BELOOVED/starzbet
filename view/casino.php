@@ -414,8 +414,8 @@
                                  <div class=casino-content--krtue>
                                     <div class=casino-games--qGslk>
                                        <div class=games--IGQQd style=height:1016px>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:0px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:0px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -453,8 +453,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:188px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:188px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -492,8 +492,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:376px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:376px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -531,8 +531,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:564px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:564px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -570,8 +570,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:752px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:752px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -609,8 +609,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:940px;top:0px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:940px;top:0px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -648,8 +648,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:0px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:0px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -687,8 +687,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:188px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:188px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -726,8 +726,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:376px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:376px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -765,8 +765,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:564px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:564px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -804,8 +804,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:752px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:752px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -843,8 +843,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:940px;top:254px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:940px;top:170px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -882,8 +882,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:0px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:0px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -921,8 +921,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:188px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:188px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -960,8 +960,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:376px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:376px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -999,8 +999,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:564px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:564px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1038,8 +1038,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:752px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:752px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1077,8 +1077,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:940px;top:508px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:940px;top:508px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1116,8 +1116,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:0px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:0px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1155,8 +1155,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:188px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:188px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1194,8 +1194,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:376px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:376px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1233,8 +1233,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:564px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:564px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1272,8 +1272,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:752px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:752px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>
@@ -1311,8 +1311,8 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div class=positioned--UX1Yo style=width:188px;height:254px;left:940px;top:762px>
-                                             <div style=height:254px>
+                                          <div class=positioned--UX1Yo style=width:188px;height:170px;left:940px;top:762px>
+                                             <div style=height:170px>
                                                 <div class=game-container--aaM6z>
                                                    <div class=item--fVWE_>
                                                       <div class=inner--fgjuJ>

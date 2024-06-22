@@ -452,7 +452,7 @@
                            </span>
                            <div class="ellipsis--EjZIN">E-Spor</div>
                         </a>
-                        <a aria-current="page" class="item--OuIVC active-item--vhi2D" href="/casino">
+                        <a class="item--OuIVC" href="/casino">
                            <span class="wrapper--fQhcx" style="height: 24px; width: 24px; min-width: 24px;">
                               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" fill="none">
                                  <g clip-path="url(#clip0_704_34626)">

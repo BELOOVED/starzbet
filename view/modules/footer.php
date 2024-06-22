@@ -636,7 +636,7 @@
                                              </svg>
                      </div>
                   </div>
-                  <div class="close--ONLO3" data-cy="player_ui__auth__button__close">
+                  <div class="close--ONLO3" onclick="closesmodal()" data-cy="player_ui__auth__button__close">
                      <span class="wrapper--fQhcx dark-text-color--f1um7"
                         style="height: 12px; width: 12px; min-width: 12px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="none">
@@ -647,7 +647,7 @@
                      </span>
                   </div>
                </div>
-               <form id="login" novalidate="">
+               <form id="login_form" action="javascript:;" onsubmit="logIn()">
                   <div class="login-form--o_gFn" data-cy="player_ui__auth__page__form">
                      <div>
                         <div class="field--O6vAn">
@@ -675,7 +675,7 @@
                                     </span>
                                  </div>
                                  <input data-item="text-input" class="input--juThV with-prefix--q0l9I"
-                                    placeholder="Kullanıcı Adı" data-cy="player_ui__sign_in__input__username" value="">
+                                    placeholder="Kullanıcı Adı" name="login" data-cy="player_ui__sign_in__input__username" value="">
                               </div>
                            </div>
                            <div class="field-footer--MxQJp"></div>
@@ -705,7 +705,7 @@
                                     </span>
                                  </div>
                                  <input data-item="text-input"
-                                    class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre"
+                                    class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" name="password" placeholder="Şifre"
                                     type="password" data-cy="player_ui__sign_in__input__password" value="">
                                  <div class="eye-wrapper--uayiJ hidden--8_3Ly"
                                     data-cy="player_ui__sign_in__button__show_hide_password">
@@ -769,7 +769,7 @@
                            </span>
                         </div>
                         <button class="button--erynX blue-gradient--N3l7m button--Xk1Ls"
-                           data-cy="player_ui__auth__button__sign_in">
+                           data-cy="player_ui__auth__button__sign_in" type="submit">
                            <div class="content--zBAVh main-button-content--Z93sZ">
                               <div class="ellipsis--EjZIN">GİRİŞ</div>
                               <span class="wrapper--fQhcx text-color--WQCrS"
@@ -835,7 +835,7 @@
                         <div class="title2--HeoGU">Birkaç dakika içinde üyelik oluşturun.</div>
                      </div>
                   </div>
-                  <div class="close--Guwlp" data-cy="player_ui__auth__button__close">
+                  <div class="close--Guwlp" onclick="closesmodal()" data-cy="player_ui__auth__button__close">
                      <span class="wrapper--fQhcx dark-text-color--f1um7"
                         style="height: 12px; width: 12px; min-width: 12px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="none">
@@ -848,7 +848,7 @@
                </div>
                <div class="controls--UVEOt">
                   <div class="control--FbLoL active--GFLkD" data-cy="player_ui__sign_up__button__regular_membership">
-                     <div class="ellipsis--EjZIN">Normal Üyelik</div>
+                     <div class="ellipsis--EjZIN">Üye Ol</div>
                   </div>
                </div>
                <form id="registration" novalidate="">

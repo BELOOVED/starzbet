@@ -515,7 +515,7 @@ div:where(.swal2-icon).swal2-warning {
                                     </svg>
                                  </div>
                                  <div>
-                                    <button class="burger--AKyD0">
+                                    <button class="burger--AKyD0" onclick="openmenu()">
                                        <span id="burgerbutton" class="wrapper--fQhcx text-color--WQCrS"
                                           style="height: 24px; width: 24px; min-width: 24px;">
                                           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"

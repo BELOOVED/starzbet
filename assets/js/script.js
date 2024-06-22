@@ -13,7 +13,6 @@ function deopa(){
 closesmodal();
 
 $("#"+id).removeClass("hidden");
-$(".modal--Pplvp").removeClass("hidden");
 
 }
 function closesmodal(){

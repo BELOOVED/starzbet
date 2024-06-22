@@ -40,7 +40,8 @@ function openmenu(){
    $("#xmenu").toggleClass("navbar-active--HCx__");
    } 
 function openusermenu(){
-$("#user-settings").toggleClass("active");
+   $(".icon--Z3mH6").toggleClass("expanded--W2OFu");
+   $(".side-menu-wrapper--OD41n").toggleClass("not-visible--iK0Vj");
 } 
 function openbalancemenu(){
 $("#balance-menu").toggleClass("active");

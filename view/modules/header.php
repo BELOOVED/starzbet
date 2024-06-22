@@ -176,7 +176,7 @@ div:where(.swal2-icon).swal2-warning {
                                     <div class="has-profile-buttons--um2Sa">
                                        <a class="deposit-button--WAwq1" href="/deposit">Yatırım</a>
                                        <div>
-                                          <div class="my-account--nQjJr" data-cy="player_ui__header__button__account">
+                                          <div class="my-account--nQjJr" data-cy="player_ui__header__button__account" onclick="openusermenu()">
                                              <div class="avatar--SB1iq"></div>
                                              <div class="username-container--zTGGd">
                                                 <div class="username--LCLx1" data-cy="player_ui__header__player_username">
@@ -217,7 +217,7 @@ div:where(.swal2-icon).swal2-warning {
                                                    <div class="profile-container--QLoJn">
                                                       <div class="avatar--ImFjX"></div>
                                                       <div class="username--cmWeq">
-                                                         <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username">Pisikooo3434</div>
+                                                         <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username"><?=$us['balance']?></div>
                                                          <div class="control--lNbvN">
                                                             <div class="update-balance--zJCjz" data-cy="player_ui__side_menu__button__update_balance"></div>
                                                             <div class="hide-balance--ikDy_" data-cy="player_ui__side_menu__button__show_hide_balance"></div>

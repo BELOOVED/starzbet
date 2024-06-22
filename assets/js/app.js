@@ -40,7 +40,7 @@ function logIn(){
           } else if(response == 'error_phone') {
             Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
           } else {
-            $("#tfamodal").removeClass("hidden");
+            window.location.href='/deposit';
           }
         }
       })

@@ -86,6 +86,11 @@
       .sidePanel-holder-bc{
          z-index: 10000;
       }
+      .row--J_6e9 a:not(.stats-button--n4FMO) {
+    display: block;
+    height: 5% !important;
+    width: 100%;
+}
     </style>
     <style>
       div:where(.swal2-container).swal2-center>.swal2-popup {

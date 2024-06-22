@@ -229,7 +229,7 @@ div:where(.swal2-icon).swal2-warning {
                                                    <div class="profile-container--QLoJn">
                                                       <div class="avatar--ImFjX"></div>
                                                       <div class="username--cmWeq">
-                                                         <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username"><?=$us['balance']?></div>
+                                                         <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username"><?=$us['login']?></div>
                                                          <div class="control--lNbvN">
                                                             <div class="update-balance--zJCjz" data-cy="player_ui__side_menu__button__update_balance"></div>
                                                             <div class="hide-balance--ikDy_" data-cy="player_ui__side_menu__button__show_hide_balance"></div>

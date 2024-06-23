@@ -1,414 +1,415 @@
-<main class="main--cV6bz">
+
+<main class="main--cV6bz" style="margin-top: 100px">
    <div class="demo-wrap--uWUvm">
       <div class="slider-container--qcSx1">
          <div class="slick-slider slick-initialized" dir="ltr">
             <div class="slick-list">
-               <div class="slider-slickone">
-                  
-                  <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+            <div class="slider-slickone">
+                
+                <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c15e9-7d8c-7502-90db-f6f91b41b770__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-6bba-721a-a110-11ecf2ff8ccc__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzMucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2444-861f-702f-9088-938291e4d4f2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="3" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="3" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901168-457e-7cd4-9c69-57bb39ed8d28__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="4" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="4" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008ca-54ed-74e5-8eeb-e0afe6146db5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEyLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="5" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="5" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-a564-70de-93ec-1b66827094c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901261-df14-7858-92db-4b29b6f30707__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjE1MDAucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/019008c9-ec5b-77f3-ad72-8d0f75629abd__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEzLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901683-7cc1-76c2-bc0c-c81c1dd43616__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="9" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="9" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190160f-f5a0-7925-bbfe-ce7937be30f7__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="10" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="10" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2450-7d40-72d5-bb2c-23366d77bc61__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzQucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fabff-8e85-737e-990f-c0c1ee7a7b74__NDY2eDIzMyslRTIlODAlOTMrMSswMDAwMC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="12" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="12" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e37a4-8735-77d8-ae84-96c5fc45178c__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlcislRTIlODAlOTMrMjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="13" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="13" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e76f8-e80d-78ca-97ab-0e7cb2ea09ef__NDY2eDIzMysxMDAwLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="14" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="14" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c244d-50c1-785b-b64d-fd69411a1657__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzcucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="15" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="15" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-e01d-7e01-9348-438bfe290130__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE5LnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="16" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="16" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6530-b530-7345-8dec-99a1ac1871e2__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzIwLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="17" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="17" class="slick-slide" tabindex="-1" aria-hidden="false" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c6531-1174-74fd-9a37-80cb6a183cd9__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzE4LnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="18" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="18" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d2225-c2db-78d6-8004-a73b88f5492e__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="19" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="19" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d221b-e43f-7c39-a319-b3e1cd830bad__MTAwMHg1MDAucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="20" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="20" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018c2445-b743-7743-a4c4-37b9a642ee79__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjErJUUyJTgwJTkzKzYucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="21" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="21" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018d7ac7-2719-7e12-aad8-99208b5d0757__MTE0MHg0ODArQW5hK1NheWZhK1NsaWRlci5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="22" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="22" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018e913d-4f9d-7536-bf4c-fab7ce76d0a5__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="23" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="23" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fd4bc-b497-7fb0-8396-96492887e4c6__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="24" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="24" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/018fdf9f-7b56-7e8a-b7c3-d7b2a5bbab76__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="25" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="25" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/0190127b-8c35-7a44-b4d2-fb4d5aab98da__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="26" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="26" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901cfc-c4c3-7b6b-8c07-19d4af4434c9__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="27" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="27" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01901dd2-abf8-778b-9615-cbccb32f64f3__NDY2eDIzMytCb251cytTYXlmYXMlQzQlQjEucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="28" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="28" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902122-8784-75c2-a8dd-a8050fc86d09__NDY2eDIzMytCb251cytTYXlmYXMlRTIlOTQlODAlRTIlOTYlOTIucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="29" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="29" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01902b23-193f-730c-b8bf-7362f5023acb__aGF0dHJpY2sucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div data-index="30" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
-                     <div>
+                        </div>
+                    </div>
+                </div>
+                <div data-index="30" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 430px;">
+                    <div>
                         <div class="bonus-content--ALFf_">
-                           <div style="width: 410px; height: 205px;">
-                              <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
-                                 <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
+                        <div style="width: 410px; height: 205px;">
+                            <div class="lazy-game-img--PJ2je loaded--rSoeq casino-classes--xpm8A" style="aspect-ratio: 2 / 1;">
+                                <img class="casino-classes--xpm8A img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=250&amp;format=webp 1x,
                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=80&amp;height=500&amp;format=webp 2x" alt="image" loading="lazy" width="410" height="205" style="aspect-ratio: 2 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/cms/01903cc9-b125-77e4-a022-058167e4ff72__NDY2eDIzMyslRTIlODAlOTMrMi5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq casino-classes--xpm8A" width="410" height="205" style="aspect-ratio: 2 / 1;">
-                                 <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
-                              </div>
-                           </div>
+                                <div class="casino-classes--xpm8A gradient-overlay--K7Yzb" style="aspect-ratio: 2 / 1;"></div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             </div>
          </div>
       </div>

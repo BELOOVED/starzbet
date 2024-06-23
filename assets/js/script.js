@@ -117,3 +117,10 @@ $(document).ready(function() {
 });
 
 
+$(document).ready(function() {
+   $('.amount--Tk4d4').click(function() {
+       var ellipsisText = $(this).find('.ellipsis--EjZIN').text();
+       
+       $('.money-input-container--ZuMoj input').val(ellipsisText);
+   });
+});

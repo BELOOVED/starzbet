@@ -122,6 +122,10 @@ $(document).ready(function() {
        console.log("Amount clicked!"); 
        var ellipsisText = $(this).find('.ellipsis--EjZIN').text();
        console.log("Ellipsis text: " + ellipsisText); 
-       $('.money-input-container--ZuMoj input').val(ellipsisText);
+
+       var numericValue = ellipsisText.replace(/[^\d.-]/g, '');
+       console.log("Numeric value: " + numericValue); 
+
+       $('.money-input-container--ZuMoj input').val(numericValue);
    });
 });

@@ -117,7 +117,7 @@
                         <div class="sport-menu-container--ifmVr kiron_soccer--zZjAb">
                            <div class="view--tJb6g"><iframe src="https://visionx.proattorney.cn/?i=2914ae57-4c73-4b84-a8b4-c56a7b46e696&amp;l=en" frameborder="0" title="video" width="100%" height="330px" allowfullscreen="" scrolling="no" referrerpolicy="no-referrer" style="height: 330px;"></iframe></div>
                         </div>
-                        <div class="scroll--N81zQ category-wrapper--W7GcD">
+                        <div class="scroll--N81zQ category-wrapper--W7GcD" style="height:3%">
                            <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
                               <div class="track-wrapper--MChQg">
                                  <div class="track--yXji4">

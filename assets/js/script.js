@@ -143,8 +143,8 @@ $(document).ready(function() {
    });
 });
 $(document).ready(function() {
-   $('.copy--qGwNJ').on('click', function() {
-       var textToCopy = $('.ellipsis--EjZIN').text();
+   $('.form-item-content--_NgyH .copy--qGwNJ').on('click', function() {
+       var textToCopy = $(this).closest('.form-item-content--_NgyH').find('.ellipsis--EjZIN').text();
        
        var tempTextarea = $('<textarea>');
        tempTextarea.val(textToCopy).appendTo('body').select();

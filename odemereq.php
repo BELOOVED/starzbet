@@ -1,6 +1,6 @@
 <?php
-  include '../inc/config.php';
-  include '../inc/anti.php';
+  include 'inc/config.php';
+  include 'inc/anti.php';
   $q = $_GET["q"];
   if ($q == "payment") {
     antiflood();

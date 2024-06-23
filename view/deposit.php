@@ -779,7 +779,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </div>
             </div>
             <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="" class="formsa hidden" onsubmit="setPayment('havale')">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('havale')">
                   <div>
                      <div class="bank-name-title--OvV9U">Akbank</div>
                      <div class="form-group--mhi_H footer--NWSIY">

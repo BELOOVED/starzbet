@@ -1324,5 +1324,5 @@ function loginorp1ay(){
    
 </script>
 </body>
-
+<?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 </html>

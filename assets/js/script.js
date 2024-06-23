@@ -142,3 +142,18 @@ $(document).ready(function() {
        $('[step="2"]').removeClass('hidden');
    });
 });
+$(document).ready(function() {
+   $('.form-item-content--_NgyH .copy--qGwNJ').click(function() {
+       var ellipsisText = $(this).siblings('.ellipsis--EjZIN').text();
+       console.log("Ellipsis text: " + ellipsisText); 
+       
+       var copiedText = ellipsisText;
+       
+       var messageWrapper = $(this).siblings('.message-wrapper--JG_60');
+       messageWrapper.removeClass('hidden');
+       
+       setTimeout(function() {
+           messageWrapper.addClass('hidden');
+       }, 3000);
+   });
+});

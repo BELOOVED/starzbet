@@ -286,7 +286,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class=casino-container--EayFQ>
+                           <div class=casino-container--EayFQ  onclick="loginorp1ay()">
                               <div class=casino--gJDxU>
                                  <div class=menu-wrapper--ySVzp>
                                     <div class=menu--jpmJs>

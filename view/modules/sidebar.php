@@ -24,7 +24,7 @@
             </div>
             <div class="menu--prt93" data-cy="player_ui__my_account_menu__container__navigation">
                <div>
-                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__banking">
+                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__banking" onclick="openmenuu('mn1')">
                      <div class="expand-title--JUGJ0">
                         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -57,7 +57,7 @@
                         </svg>
                      </div>
                   </div>
-                  <div class="expand-items--iMOpi">
+                  <div class="expand-items--iMOpi" id="mn1">
                      <a aria-current="page" class="expended-item--kxkpS active--dEiMl active" data-cy="player_ui__my_account_menu__menu_element__deposit" href="/deposit">
                         <div class="dot--Jp8NZ"></div>
                         <div class="expended-item-text--CcSre">
@@ -85,7 +85,7 @@
                   </div>
                </div>
                <div>
-                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__my_account">
+                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__my_account" onclick="openmenuu('mn2')">
                      <div class="expand-title--JUGJ0">
                         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -113,9 +113,10 @@
                         </svg>
                      </div>
                   </div>
+                  <div class="expand-items--iMOpi hidden" id="mn2"><a class="expended-item--kxkpS" data-cy="player_ui__my_account_menu__menu_element__details" href="/my_details"><div class="dot--Jp8NZ"></div><div class="expended-item-text--CcSre"><div class="ellipsis--EjZIN">Detaylar</div></div></a></div>
                </div>
                <div>
-                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__security">
+                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__security" onclick="openmenuu('mn3')">
                      <div class="expand-title--JUGJ0">
                         <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="16" viewBox="0 0 10 16" fill="none">
@@ -145,9 +146,10 @@
                         </svg>
                      </div>
                   </div>
+                  <div class="expand-items--iMOpi hidden" id="mn3"><a class="expended-item--kxkpS" data-cy="player_ui__my_account_menu__menu_element__security" href="/password"><div class="dot--Jp8NZ"></div><div class="expended-item-text--CcSre"><div class="ellipsis--EjZIN">Güvenlik</div></div></a><a class="expended-item--kxkpS" href="/2_fa"><div class="dot--Jp8NZ"></div><div class="expended-item-text--CcSre"><div class="ellipsis--EjZIN">2FA</div></div></a><a class="expended-item--kxkpS" href="/devices"><div class="dot--Jp8NZ"></div><div class="expended-item-text--CcSre"><div class="ellipsis--EjZIN">Cihazlar</div></div></a></div>
                </div>
                <div>
-                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__help">
+                  <div class="expand-preview--OZ8md" data-cy="player_ui__my_account_menu__node__help" onclick="openmenuu('mn4')">
                      <div class="expand-title--JUGJ0">
                         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -169,6 +171,7 @@
                         </svg>
                      </div>
                   </div>
+                  <div class="expand-items--iMOpi hidden" id="mn4"><a aria-current="page" class="expended-item--kxkpS active--dEiMl active" data-cy="player_ui__my_account_menu__menu_element__request_call_back" href="/call_requests"><div class="dot--Jp8NZ"></div><div class="expended-item-text--CcSre"><div class="ellipsis--EjZIN">Aranma talep et</div></div></a></div>
                </div>
                <div class="menu--eQSVE button-list--G78Bp">
                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG list-item--BFlho" data-cy="player_ui__my_account_menu__menu_element__notifications" href="/notifications">

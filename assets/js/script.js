@@ -79,4 +79,7 @@ function daylight() {
    $('#sun').toggleClass('hidden');
    $('#moon').toggleClass('hidden');
 }
-
+function openmenuu(id){
+   $("#mn" + id).toggleClass("hidden");
+   $(this).find(".icon--Z3mH6").toggleClass("expanded--W2OFu");
+}

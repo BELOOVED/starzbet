@@ -98,7 +98,7 @@ div:where(.swal2-icon).swal2-warning {
     .item--m3nnx {
     box-sizing: border-box;
     cursor: pointer;
-    height: 70 !important;
+    height: 70% !important;
     position: relative;
     width: 100%;
 }

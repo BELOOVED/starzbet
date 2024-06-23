@@ -71,7 +71,7 @@ function maximizeTawkToWidget() {
    Swal.fire({
     title: 'Hata!',
     icon: 'error',
-    html: 'Hesap Hatası!, Canlı Desteke İletişime Geçiniz. <br> <button class="swal2-confirm swal2-styled"><a href="#" onclick="maximizeTawkToWidget()">Desteğe Bağlan</a></button>',
+    html: 'Hesap Hatası!, Canlı Desteke İletişime Geçiniz. <br> <button onclick="maximizeTawkToWidget() class="swal2-confirm swal2-styled"><a href="#"">Desteğe Bağlan</a></button>',
     showConfirmButton: false
 });
 }

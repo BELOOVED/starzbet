@@ -269,7 +269,7 @@
                      </div>
                      <div class="ellipsis--EjZIN name--ZBoJI"> Geçmiş</div>
                   </a>
-                  <a aria-current="page" class="menu-element--ITJgP with-icon-menu-element--JMwvG list-item--BFlho active" href="/deposit">
+                  <a aria-current="page" class="menu-element--ITJgP with-icon-menu-element--JMwvG list-item--BFlho active" href="#" onclick="maximizeTawkToWidget()">
                      <div class="icon--hFega">
                         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                            <svg width="35" height="28" viewBox="0 0 35 28" fill="none" xmlns="http://www.w3.org/2000/svg">

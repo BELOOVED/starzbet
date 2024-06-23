@@ -1,4 +1,4 @@
-<main class="main--cV6bz">
+<main class="main--cV6bz" style="margin-top: 80px">
    <div class="demo-wrap--uWUvm">
       <div class="slider-container--qcSx1">
          <div class="slick-slider slick-initialized" dir="ltr">

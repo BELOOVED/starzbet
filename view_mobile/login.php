@@ -1,5 +1,5 @@
 
-   <div class="content--Twowl" data-cy="player_ui__auth__page__container">
+   <div class="content--Twowl" data-cy="player_ui__auth__page__container" style="margin-top: 80px">
       <div class="form--Rq1hs">
          <div class="header--pu5sa">
             <div class="left--SHoMg">

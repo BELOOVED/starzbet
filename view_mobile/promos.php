@@ -1,4 +1,4 @@
-<main class="main--cV6bz">
+<main class="main--cV6bz" style="margin-top: 80px">
    <div class="navbar--JI1Ty">
       <div class="promotion-page-wrapper--VmTmN">
          <div class="inner-wrapper-class--mot2F">

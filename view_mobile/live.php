@@ -1,4 +1,4 @@
-<main class="main--cV6bz">
+<main class="main--cV6bz" style="margin-top: 80px">
    <div class="dark--fqC7c" data-theme="dark">
       <div class="mobile-app--NdqgA ">
          <div class="wrapper--oXipE">

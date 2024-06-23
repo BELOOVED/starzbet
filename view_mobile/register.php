@@ -1,5 +1,5 @@
 
-   <div class="content--puEIS" data-cy="player_ui__auth__page__container">
+   <div class="content--puEIS" data-cy="player_ui__auth__page__container" style="margin-top: 80px">
       <div class="form--PmW1x">
          <div class="header--TpiNB">
             <div class="left--ZFZfZ">

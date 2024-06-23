@@ -473,7 +473,7 @@
                      <div class="page-title-link--tLCWJ">
                         <div
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
-                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/tr-tr/cms/i̇nfo/about-us">
+                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/">
                               <div class="rich-text--cJbo2">
                                  <p>
                                     <span></span>
@@ -490,7 +490,7 @@
                         <div
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
                            <a class="" data-cy="player_ui__cms__eternal-page-link"
-                              href="/tr-tr/cms/i̇nfo/bahis-siteleri">
+                              href="/">
                               <div class="rich-text--cJbo2">
                                  <p>
                                     <span></span>
@@ -506,7 +506,7 @@
                      <div class="page-title-link--tLCWJ">
                         <div
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
-                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/tr-tr/cms/i̇nfo/poker">
+                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/">
                               <div class="rich-text--cJbo2">
                                  <p>
                                     <span></span>
@@ -523,7 +523,7 @@
                         <div
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
                            <a class="" data-cy="player_ui__cms__eternal-page-link"
-                              href="/tr-tr/cms/i̇nfo/genel-çevrim-kuralları">
+                              href="/">
                               <div class="rich-text--cJbo2">
                                  <p>
                                     <span></span>
@@ -558,7 +558,7 @@
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
                            <div class="">
                               <div class="ellipsis--EjZIN">
-                                 <a href="https://cutt.ly/sw1EFFkz">
+                                 <a href="/">
                                     <div class="rich-text--cJbo2">
                                        <p>
                                           <span></span>
@@ -576,7 +576,7 @@
                      <div class="page-title-link--tLCWJ">
                         <div
                            class="text--H1t1B font-size-16--DjFX4 line-height-24--jSkAs font-weight-500--y2LzW capitalize--SB5RI">
-                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/tr-tr/cms/terms">
+                           <a class="" data-cy="player_ui__cms__eternal-page-link" href="/">
                               <div class="rich-text--cJbo2">
                                  <p>
                                     <span></span>

@@ -1325,6 +1325,7 @@ function loginorp1ay(){
    function maximizeTawkToWidget() {
    Tawk_API.maximize();
    window.Tawk_API.hideWidget();
+   swal.close();
     
  }
  window.Tawk_API.onLoad = function(){

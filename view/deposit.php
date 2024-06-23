@@ -924,7 +924,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </button>
             </div>
             <div class="children-container--y7YuW" step="2">
-               <form id="depositForm" novalidate="">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('papara')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -948,7 +948,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -987,7 +987,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </form>
             </div>
             <div class="children-container--y7YuW hidden" step="3">
-               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('papara')" >
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">

@@ -110,9 +110,10 @@ $(document).ready(function() {
        
        $('.bank-name-title--OvV9U').text(cardTitleText);
 
-       $(this).find('[step="1"]').removeClass('hidden');
+       $('[step="1"]').addClass('hidden');
 
-       $(this).find('[step="2"]').addClass('hidden');
+       $('[step="2"]').removeClass('hidden');
    });
 });
+
 

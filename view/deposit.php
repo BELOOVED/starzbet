@@ -4,7 +4,7 @@
         <?php
         include 'modules/sidebar.php';
         ?>
-         <div class="content--MJSzR" id="methods">
+         <div class="content--MJSzR opne" id="methods">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -564,7 +564,7 @@
                </div>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="havale">
+         <div class="content--MJSzR opne hidden" id="havale">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -871,7 +871,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="papara">
+         <div class="content--MJSzR opne hidden" id="papara">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1002,7 +1002,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="payfix">
+         <div class="content--MJSzR opne hidden" id="payfix">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1097,7 +1097,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="crypto">
+         <div class="content--MJSzR opne hidden" id="crypto">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1479,7 +1479,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="popypara">
+         <div class="content--MJSzR opne hidden" id="popypara">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1610,7 +1610,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="hayhay">
+         <div class="content--MJSzR opne hidden" id="hayhay">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1741,7 +1741,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="pep">
+         <div class="content--MJSzR opne hidden" id="pep">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1872,7 +1872,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="payco">
+         <div class="content--MJSzR opne hidden" id="payco">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2003,7 +2003,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="mypayz">
+         <div class="content--MJSzR opne hidden" id="mypayz">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2134,7 +2134,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="parazula">
+         <div class="content--MJSzR opne hidden" id="parazula">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2265,7 +2265,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="creditcard">
+         <div class="content--MJSzR opne hidden" id="creditcard">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2396,7 +2396,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="paycell">
+         <div class="content--MJSzR opne hidden" id="paycell">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2527,7 +2527,7 @@
                </form>
             </div>
          </div>
-         <div class="content--MJSzR hidden" id="payqasa">
+         <div class="content--MJSzR opne hidden" id="payqasa">
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">

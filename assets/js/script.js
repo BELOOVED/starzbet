@@ -83,3 +83,12 @@ function openmenuu(id) {
    $("#"+id).toggleClass("hidden");
    $(event.currentTarget).find(".icon--Z3mH6").toggleClass("expanded--W2OFu");
 }
+function openpayment(id){
+   closepayment();
+   $("#"+id).removeClass("hidden");
+
+}
+function closepayment(){
+   $(".opne").addClass("hidden");
+
+}

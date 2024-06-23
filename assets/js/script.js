@@ -98,3 +98,21 @@ function closepayment1(){
 
 
 }
+function openpayment1(id){
+   closepayment();
+   $(".card--JiQ_T").removeClass("hidden");
+
+}
+
+$(document).ready(function() {
+   $('.card--JiQ_T').click(function() {
+       var cardTitleText = $(this).find('.card-title--mM9MT').text();
+       
+       $('.bank-name-title--OvV9U').text(cardTitleText);
+
+       $(this).find('[step="1"]').removeClass('hidden');
+
+       $(this).find('[step="2"]').addClass('hidden');
+   });
+});
+

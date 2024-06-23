@@ -586,7 +586,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/my_details">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Havale</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -893,7 +893,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1024,7 +1024,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Payfix</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1119,7 +1119,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Crypto</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1501,7 +1501,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1632,7 +1632,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1763,7 +1763,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -1894,7 +1894,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -2025,7 +2025,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -2156,7 +2156,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -2287,7 +2287,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -2418,7 +2418,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>
@@ -2549,7 +2549,7 @@
                   </div>
                   <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
                </div>
-               <button class="button--Cl3tp" data-cy="player_ui__my_account_menu__button__go_back">
+               <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.41 16.58L10.83 12L15.41 7.41L14 6L8 12L14 18L15.41 16.58Z" fill="currentColor"></path>

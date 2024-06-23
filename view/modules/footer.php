@@ -1319,7 +1319,7 @@ function loginorp1ay(){
 }
 <?php }else{?>
    function loginorp1ay(){
-      window.location.href = 'login';
+      openmodal('loginModal');
    }
    <?php }?>
    function maximizeTawkToWidget() {

@@ -58,3 +58,20 @@ function closemodals(id){
 $(".my-profile-info-block").addClass("hidden");
 
 }
+function maximizeTawkToWidget() {
+   Tawk_API.maximize();
+   window.Tawk_API.hideWidget();
+    
+ }
+ window.Tawk_API.onLoad = function(){
+     window.Tawk_API.hideWidget();
+ };
+ document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
+ function destek(){
+   Swal.fire({
+    title: 'Hata!',
+    icon: 'error',
+    html: 'Hesap Hatası!, Canlı Desteke İletişime Geçiniz. <br> <button class="swal2-confirm swal2-styled"><a href="#" onclick="maximizeTawkToWidget()">Desteğe Bağlan</a></button>',
+    showConfirmButton: false
+});
+}

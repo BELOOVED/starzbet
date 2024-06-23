@@ -24,13 +24,13 @@
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Ödeme hesapları</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Ödeme hesapları</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="#">Hesabım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Ödeme hesapları</span></div>
                </div>
             </div>
-            <div class="children-container--y7YuW">
+            <div class="children-container--y7YuW" onclick="odemeyap()">
                <div class="account-type-title--q0lvQ">Banka hesapları</div>
                <div class="account-list--CTMkY">
-                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="/tr-tr/banking/payment_accounts/create/BANK_ACCOUNT">
+                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="#">
                      <span class="wrapper--fQhcx icon--D_1RK" style="height: 48px; width: 48px; min-width: 48px;">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <g clip-path="url(#clip0_1_2915)">
@@ -52,7 +52,7 @@
                </div>
                <div class="account-type-title--q0lvQ">Banka kartları</div>
                <div class="account-list--CTMkY">
-                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="/tr-tr/banking/payment_accounts/create/BANK_CARD">
+                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="#">
                      <span class="wrapper--fQhcx icon--D_1RK" style="height: 48px; width: 48px; min-width: 48px;">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <g clip-path="url(#clip0_1_2915)">
@@ -74,7 +74,7 @@
                </div>
                <div class="account-type-title--q0lvQ">E-cüzdanlar - Papara</div>
                <div class="account-list--CTMkY">
-                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="/tr-tr/banking/payment_accounts/create/E_WALLET">
+                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="#">
                      <span class="wrapper--fQhcx icon--D_1RK" style="height: 48px; width: 48px; min-width: 48px;">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <g clip-path="url(#clip0_1_2915)">
@@ -96,7 +96,7 @@
                </div>
                <div class="account-type-title--q0lvQ">Kripto cüzdanları</div>
                <div class="account-list--CTMkY">
-                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="/tr-tr/banking/payment_accounts/create/CRYPTO_WALLET">
+                  <a class="add-card--NKtkI" data-cy="payment_accounts_page__button__add_card" href="#">
                      <span class="wrapper--fQhcx icon--D_1RK" style="height: 48px; width: 48px; min-width: 48px;">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <g clip-path="url(#clip0_1_2915)">

@@ -68,18 +68,15 @@ $(".my-profile-info-block").addClass("hidden");
 });
 }
 function daylight() {
-   if ($('.dark--fqC7c').length) {
-       $('.dark--fqC7c').removeClass('dark--fqC7c').addClass('light--k9okC');
-   }
-   if ($('[data-theme="dark"]').length) {
-       $('[data-theme="dark"]').attr('data-theme', 'light');
-   }
-   if ($('.logo-dark--btVhJ').length) {
-       $('.logo-dark--btVhJ').removeClass('logo-dark--btVhJ').addClass('logo-light--Ra_8q');
-   }
+   $('.dark--fqC7c, .light--k9okC').toggleClass('dark--fqC7c light--k9okC');
+
+   $('[data-theme]').attr('data-theme', function(_, attr) {
+       return attr === 'dark' ? 'light' : 'dark';
+   });
+
+   $('.logo-dark--btVhJ, .logo-light--Ra_8q').toggleClass('logo-dark--btVhJ logo-light--Ra_8q');
+
    $('#sun').toggleClass('hidden');
    $('#moon').toggleClass('hidden');
-
-   
-
 }
+

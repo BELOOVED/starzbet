@@ -155,7 +155,7 @@ div:where(.swal2-icon).swal2-warning {
                         <div class="panel-wrapper--TcBRR">
                            <div class="panel--nPImo">
                               <div class="column--Hi5zl"><a class="logo-container--Tz23y logo-dark--btVhJ"
-                                    data-cy="player_ui__header__logo" href="/tr-tr/"></a></div>
+                                    data-cy="player_ui__header__logo" href="/"></a></div>
                               <div class="column--Hi5zl">
                               <?php if(isset($us['id'])){ ?>
                                  <div class="logged--sUdxV">
@@ -359,7 +359,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       </div>
                                                       <div class="ellipsis--EjZIN name--ZBoJI">VIP Kulüp</div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__history" href="/tr-tr/history/account">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__history" href="/account">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -385,7 +385,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       </div>
                                                       <div class="ellipsis--EjZIN name--ZBoJI">Geçmiş</div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__request_call_back" href="/tr-tr/my_account/call_requests">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__request_call_back" href="/call_requests">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -438,7 +438,7 @@ div:where(.swal2-icon).swal2-warning {
                                              </div>
                                           </div>
                                        </div>
-                                       <a class="notifications--A6ci4" data-cy="player_ui__header__button__notifications" href="/tr-tr/notifications">
+                                       <a class="notifications--A6ci4" data-cy="player_ui__header__button__notifications" href="/notifications">
                                           <span class="wrapper--fQhcx icon--vh9Yo" style="height: 20px; width: 16px; min-width: 16px;">
                                              <svg width="16" height="20" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_5259_98815)">

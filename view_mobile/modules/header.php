@@ -94,6 +94,15 @@ div:where(.swal2-icon).swal2-warning {
    <!-- Add the slick-theme.css if you want default styling -->
    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
    <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+   <style>
+    .item--m3nnx {
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 70 !important;
+    position: relative;
+    width: 100%;
+}
+   </style>
     </head>
    <body data-mobile="true" data-touch="true" data-webp="true" style="">
       

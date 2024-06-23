@@ -3,7 +3,7 @@
       <div class="slider-container--qcSx1">
          <div class="slick-slider slick-initialized" dir="ltr">
             <div class="slick-list">
-               <div class="slider-slickone">
+               <div class="slick-track" style="width: 27090px; opacity: 1; transform: translate3d(-2580px, 0px, 0px); transition: -webkit-transform 1500ms ease 0s;">
                   <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 430px;">
                      <div>
                         <div class="bonus-content--ALFf_">

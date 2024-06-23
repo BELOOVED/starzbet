@@ -30,7 +30,7 @@
                                        </svg>
                                     </span>
                                  </button>
-                                 <div class="scrollInner--Ge2VN scroll-inner-class-name--Jk0Si" style=user-select:none;-webkit-user-drag:none;touch-action:auto>
+                                 <div class="scrollInner--Ge2VN scroll-inner-class-name--Jk0Si" style=user-select:none;-webkit-user-drag:none;touch-action:auto;overflow-x:scroll;>
                                     <div class=track-wrapper--MChQg>
                                        <div class="track--yXji4 track-class-name--o5woD">
                                           <div class=bonus-content--ALFf_>
@@ -286,7 +286,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class=casino-container--EayFQ>
+                           <div class=casino-container--EayFQ onclick="loginorp1ay()">
                               <div class=casino--gJDxU>
                                  <div class=menu-wrapper--ySVzp>
                                     <div class=menu--jpmJs>
@@ -311,61 +311,61 @@
                                                                   </svg>
                                                                </span>
                                                             </div>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c00c1-db84-7b20-9b73-7a5b1741ba17>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Turnuva</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/1c8fe704-4766-4608-8723-042d1c7b56fd>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Freespin Satın Alın</div>
                                                             </a>
-                                                            <a class="label--K5yxx active-label--zAogu" href=https://starzbet86.com/tr-tr/casino/label/c4c9e582-7068-4233-bbdc-37ec9fca0926 aria-current=page>
+                                                            <a class="label--K5yxx active-label--zAogu" href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Tümü</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/da9c050e-d828-42bb-95e5-66e72403d6cc>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Popüler</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c4a8f-6e12-7c1a-a6d2-dc47013980fd>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Yeni Oyunlar </div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/0e2c384f-a4c1-4675-9f2b-9aabc98eed03>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">En İyi Seçimler</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/aca43386-e8a8-4bef-8acd-8c0a6db6cd43>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Jackpots</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/ea0905da-264d-4b31-882e-a42f81833c50>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">En Çok Kazandıran</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c00bd-f24f-79fc-8e53-5dc5d21fe345>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Megaways Slot</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c00d0-88d3-77a2-8f0f-19b59b00b33f>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Drop&amp;Wins</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c00f0-07e9-7cb0-a2a4-594d73ea6bc1>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Book Of Oyunları</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c00f0-e574-7faa-8d8b-4dbaa2664a7d>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Big Bass Serisi</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c01e1-6566-7f3e-bf87-6aa7592f44e8>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Meyve Oyunları</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c01e8-6706-7a92-97a6-e2e485036a2d>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">JackpotPlays</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c2fdc-968c-7e5b-87e1-53058b82571d>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Atari Oyunları</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c3074-7f52-7cff-a56f-0a555641acbb>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Antik Mısır Oyunları</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c362b-f728-76ce-a085-b12d61976cbb>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Zar Oyunları</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c3689-d0ff-770e-b5f1-1c89fabd725d>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Hayvanlar Alemi Oyunları **</div>
                                                             </a>
-                                                            <a class=label--K5yxx href=https://starzbet86.com/tr-tr/casino/label/018c368c-4292-7364-baa3-86b82c883305>
+                                                            <a class=label--K5yxx href="#">
                                                                <div class="ellipsis--EjZIN name--xbTl2">Balıkçılık ve Avcılık</div>
                                                             </a>
                                                          </div>

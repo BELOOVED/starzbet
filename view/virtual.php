@@ -4,19 +4,19 @@
          <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
             <div class="track-wrapper--MChQg">
                <div class="track--yXji4">
-                  <a class="provider--Uu2xe active--BfDGO" href="/tr-tr/virtual/kiron" aria-current="page">
+                  <a class="provider--Uu2xe active--BfDGO" href="#">
                      <div class="provider-icon--sU7x0 KIRON_ICON--p_mOM"></div>
                      <div class="ellipsis--EjZIN provider-name--j2UTa">Kiron</div>
                   </a>
-                  <a class="provider--Uu2xe" href="/tr-tr/virtual/leap_gaming">
+                  <a class="provider--Uu2xe" href="#">
                      <div class="provider-icon--sU7x0 LEAP_GAMING_ICON--yijD2"></div>
                      <div class="ellipsis--EjZIN provider-name--j2UTa">Leap Gaming</div>
                   </a>
-                  <a class="provider--Uu2xe" href="/tr-tr/virtual/1x2_network">
+                  <a class="provider--Uu2xe" href="#">
                      <div class="provider-icon--sU7x0 ONE_X_TWO_NETWORK_ICON--BMv8G"></div>
                      <div class="ellipsis--EjZIN provider-name--j2UTa">1x2 Network</div>
                   </a>
-                  <a class="provider--Uu2xe" href="/tr-tr/virtual/golden_race">
+                  <a class="provider--Uu2xe" href="#">
                      <div class="provider-icon--sU7x0 TVBET_GOLDEN_RACE_ICON--kgP4X"></div>
                      <div class="ellipsis--EjZIN provider-name--j2UTa">Golden Race</div>
                   </a>
@@ -26,11 +26,11 @@
       </div>
       <div class="dark--fqC7c" data-theme="dark">
          <div class="app--pHAFZ">
-            <div class="container--PoUAy">
+            <div class="container--PoUAy" onclick="loginorp1ay()">
                <div class="container--2lMh_">
                   <div class="center-container--UHL2K">
                      <div>
-                        <div class="scroll--N81zQ slider-wrapper--u2RcP">
+                        <div class="scroll--N81zQ slider-wrapper--u2RcP" stlye="height:0% !important">
                            <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
                               <div class="track-wrapper--MChQg">
                                  <div class="track--yXji4">

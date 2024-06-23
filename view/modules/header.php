@@ -18,6 +18,13 @@
    <meta name="mobile-web-app-capable" content="yes">
    <meta name="theme-color" content="#fff">
    <meta name="application-name" content="Starzbet">
+   <link href="/assets/css/stylesheet_13.css" rel=stylesheet>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_12.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_11.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_10.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_9.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_8.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_7.css" crossorigin=anonymous>
    <link href="/assets/css/stylesheet_6.css" rel=stylesheet>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_5.css" crossorigin=anonymous>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_4.css" crossorigin=anonymous>
@@ -145,7 +152,7 @@ div:where(.swal2-icon).swal2-warning {
                               <div class="column--Hi5zl">
                               <?php if(isset($us['id'])){ ?>
                                  <div class="logged--sUdxV">
-                                    <button class="support-button--f21Kg">
+                                    <button class="support-button--f21Kg" onclick="maximizeTawkToWidget()">
                                        <span class="wrapper--fQhcx white--ivynY" style="height: 24px; width: 24px; min-width: 24px;">
                                           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                                              <path d="M14.6713 5.50441H14.0941C13.9362 5.50441 13.9309 5.39572 13.9254 5.34163C13.6227 2.34355 11.2027 0 8.27168 0H7.72832C4.819 0 2.41311 2.30894 2.0816 5.27519C2.07314 5.35118 2.06871 5.50441 1.93575 5.50441H1.32861C0.930136 5.50441 0 5.94518 0 8.17114V9.33936C0 10.9903 0.930136 11.371 1.32861 11.371H3.26024C3.65872 11.371 3.98473 11.0283 3.98473 10.6095V6.26599C3.98473 5.84711 3.65872 5.50441 3.26024 5.50441C3.26024 5.50441 3.1693 5.49602 3.19247 5.32574C3.51122 2.98144 5.41417 1.16476 7.72832 1.16476H8.27168C10.5701 1.16476 12.4781 2.95461 12.8011 5.27799C12.8116 5.3529 12.8504 5.50441 12.7398 5.50441C12.3413 5.50441 12.0153 5.84711 12.0153 6.26599V10.6095C12.0153 11.0283 12.3413 11.371 12.7398 11.371H13.1025C13.2022 11.371 13.1853 11.4548 13.1764 11.497C12.8809 12.8995 12.2174 14.4906 10.7282 14.4906H9.62516C9.51258 14.4906 9.4848 14.4039 9.46339 14.3628C9.28469 14.0196 8.93816 13.7868 8.53972 13.7868H7.52334C6.94196 13.7868 6.47062 14.2822 6.47062 14.8934C6.47062 15.5046 6.94196 16 7.52334 16H8.53972C8.94356 16 9.29418 15.7609 9.47066 15.4101C9.48608 15.3794 9.49871 15.3157 9.61784 15.3157H10.7282C11.7397 15.3157 13.0933 14.7873 13.7978 12.2701C13.8728 12.0018 13.9337 11.7345 13.9833 11.4768C13.9901 11.4414 13.9944 11.3711 14.0997 11.3711H14.6714C15.0699 11.3711 16 10.9903 16 9.3394V8.17119C16 5.97691 15.0698 5.50441 14.6713 5.50441Z" fill="currentColor"></path>

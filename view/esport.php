@@ -1,12 +1,12 @@
 <div class="main--v7Pd2 main-landing--F1yhb">
    <div class="dark--fqC7c" data-theme="dark">
       <div class="app--pHAFZ">
-         <div class="container--PoUAy">
+         <div class="container--PoUAy"  onclick="loginorp1ay()">
             <div class="container--dJjW5">
                <div class="left-side--Wrz0Y">
                   <div class="menu-wrapper--Rlvij">
                      <div class="side-common-items--xyADi">
-                        <a class="side-item--MqgiJ" href="/tr-tr/esport">
+                        <a class="side-item--MqgiJ" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx blue-color--piLBm" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -23,7 +23,7 @@
                            </div>
                            <div class="ellipsis--tmeki side-text--gkILZ" data-cy="player_ui__sportsbook__content_with_ellipsis">Ana Sayfa</div>
                         </a>
-                        <a class="side-item--MqgiJ" href="/tr-tr/esport/live">
+                        <a class="side-item--MqgiJ" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -45,7 +45,7 @@
                            <div class="ellipsis--tmeki side-text--gkILZ" data-cy="player_ui__sportsbook__content_with_ellipsis">Canlı</div>
                            <div class="events-count--bXPfO">23</div>
                         </a>
-                        <a class="side-item--MqgiJ" href="/tr-tr/esport/favourite">
+                        <a class="side-item--MqgiJ" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -64,7 +64,7 @@
                            <div class="events-count--bXPfO">0</div>
                         </a>
                      </div>
-                     <a class="sb__reset_link sports-switcher--ktpHK sports--lC62M" href="/tr-tr/prelive">
+                     <a class="sb__reset_link sports-switcher--ktpHK sports--lC62M" href="#">
                         <div class="icon--GI0CN">
                            <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                               <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -75,7 +75,7 @@
                         </div>
                         <div class="ellipsis--tmeki title--J2UMP" data-cy="player_ui__sportsbook__content_with_ellipsis">Spor bahislerine geç</div>
                      </a>
-                     <a class="sports-switcher--ktpHK sports--lC62M" href="/tr-tr/parlay_bay">
+                     <a class="sports-switcher--ktpHK sports--lC62M" href="#">
                         <div class="icon--GI0CN">
                            <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -512,7 +512,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/esport/all/lol/international/arabian-league">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/efd36d21b7ddcfa8b68b.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">International
                                                       , Arabian League
@@ -556,7 +556,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/01904089-698a-7525-97e2-62b873a41dd7">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -657,7 +657,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/01904089-698a-7525-97e3-97484fdc39fc">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -758,7 +758,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/01904089-698a-7525-97e4-fc35c4b5facd">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -859,7 +859,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/01904089-698a-7525-97e5-80dff47e1c76">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -967,7 +967,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/esport/all/lol/brazil/cblol-academy">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/4d248ec26e5b5d8a2cc1.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Brezilya, CBLOL Academy</div>
                                                 </a>
@@ -1009,7 +1009,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-81dd-7e95-936a-ce547b156d50">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1110,7 +1110,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-81dd-7e95-936b-61610c70ada5">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1211,7 +1211,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-81dd-7e95-936c-02525305f9d7">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1312,7 +1312,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-81dd-7e95-936d-64cede03bc02">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1413,7 +1413,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-81dd-7e95-936e-d01f82e4d33a">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1514,7 +1514,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab4-cbb750a18109">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1615,7 +1615,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab5-8916d65d5534">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1716,7 +1716,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab6-bb399bd35136">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1817,7 +1817,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab7-779a61fc09b5">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -1918,7 +1918,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab8-c212a173c79c">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2019,7 +2019,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aab9-d0684616961b">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2120,7 +2120,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a5-ffe8-72cd-aaba-e7f5ece9a235">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2221,7 +2221,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a6-7ec3-79d5-bbdc-cc232f67a6af">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2322,7 +2322,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019039a6-7ec3-79d5-bbdd-0802b9cfcd6c">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2430,7 +2430,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/esport/all/lol/brazil/cblol">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/4d248ec26e5b5d8a2cc1.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Brezilya, CBLoL</div>
                                                 </a>
@@ -2472,7 +2472,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019029d3-bb64-77df-84c8-1fe02ed7f671">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2591,7 +2591,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/esport/event/019029d3-bb64-77df-84c9-296b55bb012c">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2757,7 +2757,7 @@
                   </div>
                   <div class="coupon-list--e1tos">
                      <div class="coupon-header--k4i6V">Top Events</div>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018dda71-108c-7b7c-b5e8-96fb0de21ecc">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Premier Lig</div>
                            <div class="time--E0oh_">
@@ -2810,7 +2810,7 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018dda71-108c-7b7c-b5e9-94a4fa3356e0">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Premier Lig</div>
                            <div class="time--E0oh_">
@@ -2863,7 +2863,7 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018c2c38-d417-715c-9203-32e78b0c1ed6">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Avrupa Şampiyonası</div>
                            <div class="time--E0oh_">

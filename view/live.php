@@ -1,12 +1,12 @@
 <div class="main--v7Pd2 main-landing--F1yhb">
    <div class="dark--fqC7c" data-theme="dark">
       <div class="app--pHAFZ">
-         <div class="container--PoUAy">
+         <div class="container--PoUAy"  onclick="loginorp1ay()"> 
             <div class="container--dJjW5">
                <div class="left-side--Wrz0Y">
                   <div class="menu-wrapper--H3RzQ">
                      <div class="side-common-items--xyADi">
-                        <a class="side-item--MqgiJ" href="/tr-tr/prelive">
+                        <a class="side-item--MqgiJ" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx blue-color--piLBm" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -23,7 +23,7 @@
                            </div>
                            <div class="ellipsis--tmeki side-text--gkILZ" data-cy="player_ui__sportsbook__content_with_ellipsis">Ana Sayfa</div>
                         </a>
-                        <a aria-current="page" class="side-item--MqgiJ live-active--D1FuP" href="/tr-tr/live">
+                        <a aria-current="page" class="side-item--MqgiJ live-active--D1FuP" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -45,7 +45,7 @@
                            <div class="ellipsis--tmeki side-text--gkILZ" data-cy="player_ui__sportsbook__content_with_ellipsis">Canlı</div>
                            <div class="events-count--bXPfO">106</div>
                         </a>
-                        <a class="side-item--MqgiJ" href="/tr-tr/live/favourite">
+                        <a class="side-item--MqgiJ" href="#">
                            <div class="icon--bnRrn">
                               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -64,7 +64,7 @@
                            <div class="events-count--bXPfO">0</div>
                         </a>
                      </div>
-                     <a class="sb__reset_link sports-switcher--ktpHK esports--wwjz3" href="/tr-tr/esport/live">
+                     <a class="sb__reset_link sports-switcher--ktpHK esports--wwjz3" href="#">
                         <div class="icon--GI0CN">
                            <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none">
@@ -76,7 +76,7 @@
                         </div>
                         <div class="ellipsis--tmeki title--J2UMP" data-cy="player_ui__sportsbook__content_with_ellipsis">E-spor bahislerine geç</div>
                      </a>
-                     <a class="sports-switcher--ktpHK sports--lC62M" href="/tr-tr/parlay_bay">
+                     <a class="sports-switcher--ktpHK sports--lC62M" href="#">
                         <div class="icon--GI0CN">
                            <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -104,7 +104,7 @@
                   <div>
                      <div class="sport-list--LLQ5d">
                         <div class="sport-menu-item--V0IQx">
-                           <a aria-current="page" class="sb__reset_link inner--TIpbO sports--Vtt9t active-sport--cJHB5 active" href="/tr-tr/live">
+                           <a aria-current="page" class="sb__reset_link inner--TIpbO sports--Vtt9t active-sport--cJHB5 active" href="#">
                               <div class="side-menu-item--eEZE4 soccer--yJ7Qd">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -167,7 +167,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018c2c38-d417-715c-9203-32e78b0c1ed6">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -188,7 +188,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018c2c38-d417-715c-9203-32e78b0c1ed6"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/efd36d21b7ddcfa8b68b.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Uluslararası Kulüpler</div>
@@ -221,7 +221,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/6e572aa0-30a8-11ef-9516-51afbe667eaa">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -244,7 +244,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">47' - 2. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/019c8dc0-30ac-11ef-9516-51afbe667eaa">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -267,7 +267,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/858fba00-2efc-11ef-8160-f106f1422ad5">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -288,8 +288,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">48' - 2. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/858fba00-2efc-11ef-8160-f106f1422ad5"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/38f38100-273f-11ef-8094-13857c640d4f">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -310,8 +310,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/38f38100-273f-11ef-8094-13857c640d4f"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/83916a80-2710-11ef-8ebf-39ed0b9909c4">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -332,8 +332,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">50' - 2. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/83916a80-2710-11ef-8ebf-39ed0b9909c4"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/dee6bc80-2eb0-11ef-86f9-37a3de6326fe">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -354,8 +354,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">47' - 2. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/dee6bc80-2eb0-11ef-86f9-37a3de6326fe"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/f4f31800-259d-11ef-8b36-69dc6992c3bf">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -376,8 +376,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/f4f31800-259d-11ef-8b36-69dc6992c3bf"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/49a07230-2bed-11ef-8151-1da889405be5">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -398,8 +398,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/49a07230-2bed-11ef-8151-1da889405be5"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0c13f8c0-2d4a-11ef-b6f8-4d3afed1357e">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -420,7 +420,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">47' - 2. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/0c13f8c0-2d4a-11ef-b6f8-4d3afed1357e"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/50575062a72a1d1db477.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Rusya</div>
@@ -453,7 +453,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407e-4adb-7fee-b7d2-74ed3dfb6a2a">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -476,7 +476,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">46' - 2. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904080-d7e4-796b-8e69-34fcbcac59b5">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -506,7 +506,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407d-e1b2-7614-bb0a-50bea8de7d8a">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -529,7 +529,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407f-3211-7880-bf6d-3fffe22fb314">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -552,7 +552,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904077-f5ad-7e0c-b2fa-7b34aab08e6c">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -575,7 +575,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904079-b05d-735a-b93e-6633c5276b52">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -605,7 +605,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407a-eb79-7160-9938-b75410e187f4">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -635,7 +635,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407e-89f4-75bd-a60c-c4c706c4fa5e">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -665,7 +665,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904077-a171-71b5-9303-ddc729d4cf2c">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -711,7 +711,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018e5b80-8614-7ec3-9bf6-4e892891c8b8">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -732,8 +732,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018e5b80-8614-7ec3-9bf6-4e892891c8b8"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018e5b80-8614-7ec3-9bf9-93d6e7932f87">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -754,7 +754,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018e5b80-8614-7ec3-9bf9-93d6e7932f87"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/cd1dfca9d8cd728bfd77.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Beyaz Rusya</div>
@@ -787,7 +787,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018dfa84-e911-7b82-9342-2964e085dddf">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -808,7 +808,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018dfa84-e911-7b82-9342-2964e085dddf"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO tournament--d4m3g">
                                  <div class="marker--Kzj5n"></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Vtoraya Liga</div>
@@ -825,7 +825,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904079-1c60-79ee-9235-3df75219d294">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -848,7 +848,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904078-34e0-7e63-aeda-f95834a8df8c">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -903,7 +903,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01903f30-7e64-7836-9c26-5998f22f7c88">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -933,7 +933,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01903f2f-d635-7a04-8e49-d8a2ee61c6b4">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -956,7 +956,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01903f2f-d635-7a04-8e47-1383fb8fae8c">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -986,7 +986,7 @@
                                     </div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01903f2f-d635-7a04-8e48-cb1d1f7ef642">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1041,7 +1041,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018ca6e1-f771-7c49-9ccd-17d10fcd5671">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1062,8 +1062,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">2' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018ca6e1-f771-7c49-9ccd-17d10fcd5671"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018ca6e1-f771-7c49-9ccc-5e95bdb47038">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1084,7 +1084,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018ca6e1-f771-7c49-9ccc-5e95bdb47038"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/16535ea84681a9be136c.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Norveç</div>
@@ -1117,7 +1117,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018c975c-59bc-7e27-91d3-d9012c3fdb9f">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1138,7 +1138,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018c975c-59bc-7e27-91d3-d9012c3fdb9f"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO tournament--d4m3g">
                                  <div class="marker--Kzj5n"></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Lig, Kadınlar</div>
@@ -1155,7 +1155,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018cfd79-ff02-70c7-b0a2-e40751ca1a40">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1176,7 +1176,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">2' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018cfd79-ff02-70c7-b0a2-e40751ca1a40"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
                               <div class="inner--TIpbO tournament--d4m3g">
                                  <div class="marker--Kzj5n"></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">3rd Division Group 6</div>
@@ -1193,7 +1193,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018d4b3b-801b-7e8b-86c0-5b8af347fbde">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1214,7 +1214,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018d4b3b-801b-7e8b-86c0-5b8af347fbde"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/f730d2ec275091f59830.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Estonya</div>
@@ -1247,7 +1247,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/0190407f-8713-75a7-9137-827e76183fb4">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1302,7 +1302,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018def87-b0a4-7f2d-b6b8-8a5e574ec13d">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1323,8 +1323,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018def87-b0a4-7f2d-b6b8-8a5e574ec13d"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018def87-b0a4-7f2d-b6b7-ed176df7f152">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1345,7 +1345,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">46' - 2. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018def87-b0a4-7f2d-b6b7-ed176df7f152"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO tournament--d4m3g">
                                  <div class="marker--Kzj5n"></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">A Lyga</div>
@@ -1362,7 +1362,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01901b7f-84bc-7b85-8d36-2c05f722c451">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1383,7 +1383,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/01901b7f-84bc-7b85-8d36-2c05f722c451"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/6bda8e06a577e02792f8.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Tunus</div>
@@ -1416,7 +1416,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018fb905-d9ba-7fdb-9ba5-e3da02cfd43f">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1437,7 +1437,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018fb905-d9ba-7fdb-9ba5-e3da02cfd43f"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/9215fe47b03dffed48d8.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Özbekistan</div>
@@ -1470,7 +1470,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018d7e87-2d00-72cc-b116-5f109d940a03">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1491,8 +1491,8 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018d7e87-2d00-72cc-b116-5f109d940a03"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018d7e87-2d00-72cc-b114-7785f79ade57">
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1513,7 +1513,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018d7e87-2d00-72cc-b114-7785f79ade57"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/eff4ec7ee61c5b970407.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Nikaragua</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904076-373c-7e15-9775-1d96401e2c17">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1608,7 +1608,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018db19c-c5b4-7d4f-8fc8-7f1bd22fe71b">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1629,7 +1629,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018db19c-c5b4-7d4f-8fc8-7f1bd22fe71b"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/947634b922ae60106798.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Etiyopya</div>
@@ -1662,7 +1662,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/018ffc41-9d41-746e-8f6a-078fc9e8cc3a">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1683,7 +1683,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/018ffc41-9d41-746e-8f6a-078fc9e8cc3a"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
                               <div class="inner--TIpbO category--CwhhN">
                                  <div class="flag--C4Ww5"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/25fe608e37a3b5994ba7.png" alt=""></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Paraguay</div>
@@ -1716,7 +1716,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904009-6e1d-7ecf-8766-3f9f345c0824">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1739,7 +1739,7 @@
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">30' - 1. Yarı</div>
                                  </div>
                               </a>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01904026-fe6f-76b3-b92f-07fa63c9035d">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1794,7 +1794,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/019032fb-9837-791d-896a-d79452602719">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1815,7 +1815,7 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">1' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/019032fb-9837-791d-896a-d79452602719"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></a></div></a>
                               <div class="inner--TIpbO tournament--d4m3g">
                                  <div class="marker--Kzj5n"></div>
                                  <div class="ellipsis--tmeki name--iki24" data-cy="player_ui__sportsbook__content_with_ellipsis">Reserve League</div>
@@ -1832,7 +1832,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/01903f24-96c7-7a74-97d6-3ef659e48a3c">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1887,7 +1887,7 @@
                                     </svg>
                                  </div>
                               </div>
-                              <a class="sb__reset_link button--J6yjt" href="/tr-tr/live/event/019010b3-5d4b-7ad5-b86b-44f0dace3715">
+                              <a class="sb__reset_link button--J6yjt" href="#">
                                  <div class="event-info--CO9_I">
                                     <div class="row--aEjYf">
                                        <div class="team-icon-wrapper--bwYoP">
@@ -1908,11 +1908,11 @@
                                  </div>
                                  <div class="bottom--L62w2">
                                     <div class="ellipsis--tmeki time--ZPryU" data-cy="player_ui__sportsbook__content_with_ellipsis">32' - 1. Yarı</div>
-                              <a class="stats-button--rDvtm" href="/tr-tr/statistics/019010b3-5d4b-7ad5-b86b-44f0dace3715"><span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 13H3.5V8H5.5V13ZM9.5 13H7.5V3H9.5V13ZM13.5 13H11.5V6H13.5V13Z" fill="currentColor"></path></svg></span></a><div class="stats-button--rDvtm"><span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.3335 4.54651V11.4532C5.3335 11.9798 5.9135 12.2998 6.36016 12.0132L11.7868 8.55984C12.2002 8.29984 12.2002 7.69984 11.7868 7.43318L6.36016 3.98651C5.9135 3.69984 5.3335 4.01984 5.3335 4.54651Z" fill="currentColor"></path></svg></span></div></div></a>
+                              <a class="stats-button--rDvtm" href="#"></path></svg></span></div></div></a>
                            </div>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/basketball">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 basketball--m94g9">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1944,7 +1944,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/tennis">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 tennis--jfMK5">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1976,7 +1976,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/volleyball">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 volleyball--coigX">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2008,7 +2008,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/handball">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 handball--ZZYHY">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2040,7 +2040,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/snooker">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 snooker--JH5h2">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2075,7 +2075,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/cricket">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 cricket--ydScO">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2107,7 +2107,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/futsal">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 futsal--SXQOb">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2141,7 +2141,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/table-tennis">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 table_tennis--gHBIO">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2173,7 +2173,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/field-hockey">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 soccer--yJ7Qd">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2205,7 +2205,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/beach-volleyball">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 beach_volleyball--H6Slz">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2243,7 +2243,7 @@
                            </a>
                         </div>
                         <div class="sport-menu-item--V0IQx">
-                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="/tr-tr/live/sport/beach-soccer">
+                           <a class="sb__reset_link inner--TIpbO sports--Vtt9t" href="#">
                               <div class="side-menu-item--eEZE4 soccer--yJ7Qd">
                                  <span class="wrapper--fQhcx white--ivynY sport-icon--bMqZJ" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2538,14 +2538,14 @@
                                  </div>
                               </div>
                            </div>
-                           <div data-viewport-type="window" style="width: 100%; height: 100%; position: absolute; top: 0px;">
+                           <div data-viewport-type="window" style="width: 100%; height: 25%; position: absolute; top: 0px;">
                               <div data-test-id="virtuoso-item-list" style="box-sizing: border-box; padding-top: 35px; padding-bottom: 4793px; margin-top: 0px;">
                                  <div data-index="1" data-known-size="101.00000762939453" data-item-index="0" data-item-group-index="0" style="overflow-anchor: none;">
                                     <div class="main-container--Ui_od">
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/international/european-championship">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/efd36d21b7ddcfa8b68b.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Uluslararası, Avrupa Şampiyonası</div>
                                                 </a>
@@ -2587,7 +2587,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018c2c38-d417-715c-9203-32e78b0c1ed6">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2696,7 +2696,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/norway/1st-division">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/16535ea84681a9be136c.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Norveç, 1. Division</div>
                                                 </a>
@@ -2738,7 +2738,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018c975c-59bc-7e27-91d3-d9012c3fdb9f">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2844,7 +2844,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/norway/1st-division-women">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/16535ea84681a9be136c.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Norveç, 1. Lig, Kadınlar</div>
                                                 </a>
@@ -2886,7 +2886,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018cfd79-ff02-70c7-b0a2-e40751ca1a40">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -2995,7 +2995,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/iceland/1st-deild">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/d2e0ab12749001e36b01.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">İzlanda, 1st deild</div>
                                                 </a>
@@ -3037,7 +3037,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018ca6e1-f771-7c49-9ccc-5e95bdb47038">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3139,7 +3139,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018ca6e1-f771-7c49-9ccd-17d10fcd5671">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3248,7 +3248,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/belarus/vysshaya-liga">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/cd1dfca9d8cd728bfd77.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Beyaz Rusya, Vysshaya Liga</div>
                                                 </a>
@@ -3290,7 +3290,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018dfa84-e911-7b82-9342-2964e085dddf">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3396,7 +3396,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/lithuania/1-lyga">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/8df80c7d3a466be59e45.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Litvanya, 1 Lyga</div>
                                                 </a>
@@ -3438,7 +3438,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018def87-b0a4-7f2d-b6b7-ed176df7f152">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3540,7 +3540,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018def87-b0a4-7f2d-b6b8-8a5e574ec13d">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3646,7 +3646,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/russia/3rd-division">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/50575062a72a1d1db477.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Rusya, 3rd Division</div>
                                                 </a>
@@ -3688,7 +3688,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0190407a-eb79-7160-9938-b75410e187f4">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3787,7 +3787,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/01904079-b05d-735a-b93e-6633c5276b52">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -3913,7 +3913,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0190407e-4adb-7fee-b7d2-74ed3dfb6a2a">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4042,7 +4042,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/01904080-d7e4-796b-8e69-34fcbcac59b5">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4168,7 +4168,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0190407f-3211-7880-bf6d-3fffe22fb314">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4294,7 +4294,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/01904077-f5ad-7e0c-b2fa-7b34aab08e6c">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4393,7 +4393,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0190407d-e1b2-7614-bb0a-50bea8de7d8a">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4492,7 +4492,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0190407e-89f4-75bd-a60c-c4c706c4fa5e">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4594,7 +4594,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/01904077-a171-71b5-9303-ddc729d4cf2c">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4700,7 +4700,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/norway/3rd-division-group-6">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/16535ea84681a9be136c.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Norveç, 3rd Division Group 6</div>
                                                 </a>
@@ -4742,7 +4742,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/018d4b3b-801b-7e8b-86c0-5b8af347fbde">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4848,7 +4848,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/lithuania/a-lyga">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/8df80c7d3a466be59e45.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Litvanya, A Lyga</div>
                                                 </a>
@@ -4890,7 +4890,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/01901b7f-84bc-7b85-8d36-2c05f722c451">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -4999,7 +4999,7 @@
                                        <div class="table--CEItl table-grey--t7n19">
                                           <div class="container--RxTDx">
                                              <div class="tournament--lEb_u">
-                                                <a class="sb__reset_link info--MQv8B" href="/tr-tr/live/selection/soccer/international-clubs/club-friendly-games">
+                                                <a class="sb__reset_link info--MQv8B" href="#">
                                                    <div class="category-logo--NHBYl"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/efd36d21b7ddcfa8b68b.png" alt=""></div>
                                                    <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Uluslararası Kulüpler, Kulüp Hazırlık Maçları</div>
                                                 </a>
@@ -5041,7 +5041,7 @@
                                        </div>
                                        <div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/6e572aa0-30a8-11ef-9516-51afbe667eaa">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5170,7 +5170,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/dee6bc80-2eb0-11ef-86f9-37a3de6326fe">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5272,7 +5272,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/858fba00-2efc-11ef-8160-f106f1422ad5">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5374,7 +5374,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/f4f31800-259d-11ef-8b36-69dc6992c3bf">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5473,7 +5473,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/0c13f8c0-2d4a-11ef-b6f8-4d3afed1357e">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5575,7 +5575,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/49a07230-2bed-11ef-8151-1da889405be5">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5674,7 +5674,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/019c8dc0-30ac-11ef-9516-51afbe667eaa">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5773,7 +5773,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/83916a80-2710-11ef-8ebf-39ed0b9909c4">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -5875,7 +5875,7 @@
                                              </a>
                                           </div>
                                           <div class="row--J_6e9">
-                                             <a class="sb__reset_link link--ZaRkI" href="/tr-tr/live/event/38f38100-273f-11ef-8094-13857c640d4f">
+                                             <a class="sb__reset_link link--ZaRkI" href="#">
                                                 <div class="content--wjQuR">
                                                    <div class="content-inner--LqMrp">
                                                       <div class="event-info--ys960">
@@ -6039,7 +6039,7 @@
                   </div>
                   <div class="coupon-list--e1tos">
                      <div class="coupon-header--k4i6V">Top Events</div>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018c2bee-6a3b-7587-9117-689211ca7d77">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Avrupa Şampiyonası</div>
                            <div class="time--E0oh_">
@@ -6092,7 +6092,7 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018df94b-e49b-7a6d-9604-aa792d4eabe0">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Brasilero Serie A</div>
                            <div class="time--E0oh_">
@@ -6145,7 +6145,7 @@
                            <div class="ellipsis--tmeki" data-cy="player_ui__sportsbook__content_with_ellipsis">Karşılaşmaya Git</div>
                         </button>
                      </a>
-                     <a class="coupon--IAXrz" href="/tr-tr/prelive/event/018e231f-48e6-7a41-8b1c-b99d95508e18">
+                     <a class="coupon--IAXrz" href="#">
                         <div class="header--LtmXI">
                            <div class="tournament--AM6XC">Brasilero Seri B</div>
                            <div class="time--E0oh_">

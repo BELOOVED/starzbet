@@ -30,7 +30,7 @@
                   </svg>
                </span>
             </button>
-            <div class="scrollInner--Ge2VN scroll-inner-class-name--Jk0Si" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
+            <div class="scrollInner--Ge2VN scroll-inner-class-name--Jk0Si" style="user-select: none; -webkit-user-drag: none; touch-action: auto;overflow-x:scroll">
                <div class="track-wrapper--MChQg">
                   <div class="track--yXji4 track-class-name--o5woD">
                      <div class="bonus-content--ALFf_">
@@ -317,7 +317,7 @@
             </div>
          </div>
       </div>
-      <div class="casino-container--EayFQ">
+      <div class="casino-container--EayFQ" onclick="loginorp1ay()">
          <div class="casino--gJDxU">
             <div class="menu-wrapper--ySVzp">
                <div class="menu--jpmJs">
@@ -342,34 +342,34 @@
                                              </svg>
                                           </span>
                                        </div>
-                                       <a class="label--K5yxx active-label--zAogu" href="/tr-tr/games/label/c4c9e582-7068-4233-bbdc-37ec9fca0926" aria-current="page">
+                                       <a class="label--K5yxx active-label--zAogu" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Tümü</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/da9c050e-d828-42bb-95e5-66e72403d6cc">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Popüler</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/54eaf067-260d-47fc-b876-0643a52ce282">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Roulette</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/6be4c9dc-544c-45b1-9f1a-1e445fc9274e">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Starz</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/aca43386-e8a8-4bef-8acd-8c0a6db6cd43">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Jackpots</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/018c3613-ac03-7aed-9f30-54a88a38218f">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Tombala</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/018c362b-f728-76ce-a085-b12d61976cbb">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Zar Oyunları</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/018c368c-4292-7364-baa3-86b82c883305">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Balıkçılık ve Avcılık</div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/018c4a8f-6e12-7c1a-a6d2-dc47013980fd">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Yeni Oyunlar </div>
                                        </a>
-                                       <a class="label--K5yxx" href="/tr-tr/games/label/018d82ed-3e06-74c7-b76f-043704f858b3">
+                                       <a class="label--K5yxx" href="#">
                                           <div class="ellipsis--EjZIN name--xbTl2">Smartsoft 5M Turnuva</div>
                                        </a>
                                     </div>

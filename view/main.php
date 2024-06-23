@@ -30,11 +30,11 @@
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Promosyonlar</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a href="https://starzbet.app" target="_blank" class="product--RVlUH mobile-app--BkE1s" rel="noreferrer">
+                              <a href="#" target="_blank" class="product--RVlUH mobile-app--BkE1s" rel="noreferrer">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Mobil Uygulama</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
-                              <a href="https://anonlink.click/anon.php?code=starzbettv" target="_blank" class="product--RVlUH live-t-v--QayRw" rel="noreferrer">
+                              <a href="#" target="_blank" class="product--RVlUH live-t-v--QayRw" rel="noreferrer">
                                  <div class="ellipsis--EjZIN product-text--p7iPT">Starzbet TV</div>
                                  <div class="gradient--OvIgv"></div>
                               </a>
@@ -44,7 +44,7 @@
                               </a>
                            </div>
                            <div class="landing-page-sections--Mq5Om">
-                              <div class="top-winners--yVDmf">
+                              <div class="top-winners--yVDmf" onclick="window.location.href = '/casino'">
                                  <div class="section-title--GiC6Z">
                                     <div class="section-title-marker--UkG2u" style="background-color: rgb(121, 73, 255); box-shadow: rgba(121, 73, 255, 0.4) 0px 0px 12px 0px;"></div>
                                     <span class="wrapper--fQhcx dark-text-color--f1um7 section-title-logo--d76If" style="height: 24px; width: 24px; min-width: 24px;">
@@ -2262,7 +2262,7 @@
                                  </div>
                               </div>
                               <div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/games'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -2590,7 +2590,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="landing-top-events-section--Hflw6" data-location="landing">
+                                 <div class="landing-top-events-section--Hflw6" data-location="landing" onclick="window.location.href = '/sportsbook'">
                                     <div class="section-wrapper--S7glY">
                                        <div class="section-header--WIjcI">
                                           <div class="section-title--GiC6Z">
@@ -3437,7 +3437,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/casino'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -3761,7 +3761,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/casino'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -4085,7 +4085,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/casino'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -4409,7 +4409,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/livecasino'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -4733,7 +4733,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/casino'">
                                     <div class="games-section--XAmpH landing-small-section--byexQ landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -5351,7 +5351,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/livecasino'">
                                     <div class="games-section--XAmpH landing-small-section--byexQ landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -6005,7 +6005,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="games-column--b_5fy">
+                                 <div class="games-column--b_5fy" onclick="window.location.href = '/casino'">
                                     <div class="games-section--XAmpH landing-game-section--Egimk game-section--XM0KI">
                                        <div class="section-wrapper--bPOnZ">
                                           <div class="section-header--iPLWs">
@@ -6330,7 +6330,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="landing-live-spins--MxBtf">
+                              <div class="landing-live-spins--MxBtf" onclick="window.location.href = '/casino'">
                                  <div class="wrapper--Mwdmf">
                                     <div class="section-header--vQ1mo">
                                        <div class="section-title--GiC6Z">
@@ -6438,7 +6438,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="landing-top-leagues-section--cjAS7" data-location="landing">
+                              <div class="landing-top-leagues-section--cjAS7" data-location="landing" onclick="window.location.href = '/sportsbook'">
                                  <div class="section-wrapper--m4OZz">
                                     <div class="section-header--OhPDR">
                                        <div class="section-title--GiC6Z">

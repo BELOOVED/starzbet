@@ -67,3 +67,19 @@ $(".my-profile-info-block").addClass("hidden");
     showConfirmButton: false
 });
 }
+function daylight() {
+   if ($('.dark--fqC7c').length) {
+       $('.dark--fqC7c').removeClass('dark--fqC7c').addClass('light--k9okC');
+   }
+   if ($('[data-theme="dark"]').length) {
+       $('[data-theme="dark"]').attr('data-theme', 'light');
+   }
+   if ($('.logo-dark--btVhJ').length) {
+       $('.logo-dark--btVhJ').removeClass('logo-dark--btVhJ').addClass('logo-light--Ra_8q');
+   }
+   $('#sun').toggleClass('hidden');
+   $('#moon').toggleClass('hidden');
+
+   
+
+}

@@ -80,11 +80,6 @@ function daylight() {
    $('#moon').toggleClass('hidden');
 }
 function openmenuu(id) {
-   const element = document.querySelector(id);
-   const iconElement = event.currentTarget.querySelector(".icon--Z3mH6");
-   
-   if (element && iconElement) {
-      element.classList.toggle("hidden");
-      iconElement.classList.toggle("expanded--W2OFu");
-   }
+   $(id).toggleClass("hidden");
+   $(event.currentTarget).find(".icon--Z3mH6").toggleClass("expanded--W2OFu");
 }

@@ -1357,9 +1357,7 @@ function loginorp1ay(){
    swal.close();
     
  }
- window.Tawk_API.onLoad = function(){
-     window.Tawk_API.hideWidget();
- };
+ 
  document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
 </script>
 </body>

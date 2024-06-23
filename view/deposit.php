@@ -843,7 +843,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </form>
             </div>
             <div class="children-container--y7YuW hidden" step="3">
-               <form id="depositForm" novalidate="">
+               <form id="depositForm" novalidate="" >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
@@ -923,7 +923,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
+            <div class="children-container--y7YuW" step="2">
                <form id="depositForm" novalidate="">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
@@ -986,14 +986,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('papara')" >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
                            <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1015,7 +1015,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
                            <div class="form-item-title--DWn8Q">Papara tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -1055,7 +1055,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </button>
             </div>
             <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="" action="<?=$main['payfixlink']?>">
+               <form id="depositForm" novalidate="" action="https://kolaydeposit.com/payfix/">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -1079,7 +1079,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>

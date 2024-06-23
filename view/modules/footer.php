@@ -748,7 +748,7 @@
                         </button>
                      </div>
                      <div class="buttons--hJxI8">
-                        <div class="button--erynX register-button--eBmn4" data-cy="player_ui__auth__button__sign_up" onclick="openmodal('registerModal')">
+                        <div class="button--erynX register-button--eBmn4" data-cy="player_ui__auth__button__sign_up">
                            <div>
                               <div class="ellipsis--EjZIN">Kayıt ol</div>
                            </div>
@@ -795,7 +795,7 @@
                </form>
                <div class="site-link--qpVO2">
                   <div><span class="site-link-top--tGSFC">Güncel adresimize link üzerinden
-                        ulaşabilirsiniz.</span>&nbsp;<a href="#"
+                        ulaşabilirsiniz.</span>&nbsp;<a href="https://cutt.ly/starzbet"
                         class="link--uxaqW">https://cutt.ly/starzbet</a></div>
                   <div>Güncel giriş adresimize link üzerinden her zaman kesintisiz olarak ulaşabilirsiniz
                      Yeni adresi aramanıza gerek kalmadan tek tıkla güncel adresimize daima yönlendirecektir. Lütfen bu
@@ -851,7 +851,7 @@
                      <div class="ellipsis--EjZIN">Üye Ol</div>
                   </div>
                </div>
-               <form id="registration" novalidate="" id="register_form" action="javascript:;" onsubmit="signUp()">
+               <form id="registration" novalidate="">
                   <div class="register-form--KKteM" data-cy="player_ui__auth__page__form">
                      <div class="form-container--i5dbf">
                         <div class="column--w8NGa">
@@ -880,7 +880,7 @@
                                        </span>
                                     </div>
                                     <input data-item="text-input" class="input--juThV with-prefix--q0l9I"
-                                       placeholder="Kullanıcı Adı" name="login" data-cy="player_ui__sign_up__input__username"
+                                       placeholder="Kullanıcı Adı" data-cy="player_ui__sign_up__input__username"
                                        value="">
                                  </div>
                               </div>
@@ -1043,7 +1043,7 @@
                                           </div>
                                        </div>
                                     </div>
-                                    <div class="container--qcH5W"><input data-item="text-input"  name="phone"  class="input--juThV"
+                                    <div class="container--qcH5W"><input data-item="text-input" class="input--juThV"
                                           placeholder="Telefon Numarası"
                                           data-cy="player_ui__sign_up__input__phone_number" value=""></div>
                                  </div>
@@ -1075,7 +1075,7 @@
                                        </span>
                                     </div>
                                     <input data-item="text-input"
-                                       class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" name="password" placeholder="Şifre"
+                                       class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre"
                                        autocomplete="new-password" type="password"
                                        data-cy="player_ui__sign_up__input__password" value="">
                                     <div class="eye-wrapper--uayiJ hidden--8_3Ly"
@@ -1220,11 +1220,11 @@
                               <div class="wrapper--C_vgb">
                                  <div class="title--E3duC">
                                     <span>Belirtilen Şartları Kabul Ediyorum!</span>
-                                    <a target="_blank" class="sb__reset_link link--y7U62" href="/terms">
+                                    <a target="_blank" class="sb__reset_link link--y7U62" href="/tr-tr/cms/terms">
                                        <div class="ellipsis--EjZIN">KULLANIM KOŞULLARI</div>
                                     </a>
                                     <span>ve</span>
-                                    <a target="_blank" class="sb__reset_link link--y7U62" href="/privacy">
+                                    <a target="_blank" class="sb__reset_link link--y7U62" href="/tr-tr/cms/privacy">
                                        <div class="ellipsis--EjZIN">GİZLİLİK POLİTİKASI KURALLARI</div>
                                     </a>
                                  </div>
@@ -1258,7 +1258,7 @@
                         <div class="captcha-inner--ckagy"></div>
                      </div>
                      <div class="buttons--K20PS">
-                        <div class="button--p6BOj login-button--bIyGj" data-cy="player_ui__auth__button__sign_in" onclick="openmodal('loginModal')">
+                        <div class="button--p6BOj login-button--bIyGj" data-cy="player_ui__auth__button__sign_in">
                            <div class="ellipsis--EjZIN">GİRİŞ</div>
                            <span class="wrapper--fQhcx text-color--WQCrS"
                               style="height: 16px; width: 16px; min-width: 16px;">

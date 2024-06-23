@@ -119,8 +119,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
    $('.amount--Tk4d4').click(function() {
+       console.log("Amount clicked!"); 
        var ellipsisText = $(this).find('.ellipsis--EjZIN').text();
-       
+       console.log("Ellipsis text: " + ellipsisText); 
        $('.money-input-container--ZuMoj input').val(ellipsisText);
    });
 });

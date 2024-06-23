@@ -30,7 +30,7 @@
                <div class="container--2lMh_">
                   <div class="center-container--UHL2K">
                      <div>
-                        <div class="scroll--N81zQ slider-wrapper--u2RcP" stlye="height:0% !important">
+                        <div class="scroll--N81zQ slider-wrapper--u2RcP" style="height:0% !important">
                            <div class="scrollInner--Ge2VN" style="user-select: none; -webkit-user-drag: none; touch-action: auto;">
                               <div class="track-wrapper--MChQg">
                                  <div class="track--yXji4">

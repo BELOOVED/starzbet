@@ -436,17 +436,5 @@
             </div>
          </div>
       </div>
-      <div id="comm100-button-1b050682-cde5-4176-8236-3bb94c891197"><iframe allowfullscreen="1" allow="microphone;camera;midi;encrypted-media" title="Sohbet düğmesi" lang="tr" style="border: none; width: 110px; height: 110px; position: fixed; right: 0px; bottom: 55px; z-index: 2147483642; display: block;"></iframe></div>
-      <script type="text/javascript">var Comm100API=Comm100API||{};(function(t){function e(e){var a=document.createElement("script"),c=document.getElementsByTagName("script")[0];a.type="text/javascript",a.async=!0,a.src=e+t.site_id,c.parentNode.insertBefore(a,c)}t.chat_buttons=t.chat_buttons||[],t.chat_buttons.push({code_plan:"1b050682-cde5-4176-8236-3bb94c891197",div_id:"comm100-button-1b050682-cde5-4176-8236-3bb94c891197"}),t.site_id=90005302,t.main_code_plan="1b050682-cde5-4176-8236-3bb94c891197",e("https://vue.comm100.com/livechat.ashx?siteId="),setTimeout(function(){t.loaded||e("https://standby.comm100vue.com/livechat.ashx?siteId=")},5e3)})(Comm100API||{})</script><!--<!--End Comm100 Live Chat Code-->--><script async="">!function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document  ,'script','_gs'); _gs('GSN-038361-G');  _gs('set', 'anonymizeIP', true);</script><iframe id="comm100-iframe" title="comm100-iframe" style="display: none;" lang="tr"></iframe>
-      <div id="comm100-container">
-         <div>
-            <div></div>
-            <div>
-               <div></div>
-            </div>
-            <div aria-live="polite" style="position: absolute; left: -10000px; top: -10000px; width: 1px; height: 1px;"></div>
-         </div>
-      </div>
-      <script src="https://shared.dtgapi.com/widget/widget-controller/1718872755197.js"></script>
    </body>
 </html>

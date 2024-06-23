@@ -18,6 +18,13 @@
    <meta name="mobile-web-app-capable" content="yes">
    <meta name="theme-color" content="#fff">
    <meta name="application-name" content="Starzbet">
+   <link href="/assets/css/stylesheet_20.css" rel=stylesheet>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_19.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_18.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_17.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_16.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_15.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_14.css" crossorigin=anonymous>
    <link href="/assets/css/stylesheet_13.css" rel=stylesheet>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_12.css" crossorigin=anonymous>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_11.css" crossorigin=anonymous>

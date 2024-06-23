@@ -144,7 +144,7 @@ $(document).ready(function() {
 });
 $(document).ready(function() {
    $('.form-item-content--_NgyH .copy--qGwNJ').on('click', function() {
-       var textToCopy = $(this).closest('.form-item-content--_NgyH').find('.ellipsis--EjZIN').text();
+       var textToCopy = $(this).closest('.form-item-content--_NgyH').find('.ellipsis--EjZIN:first').text();
        
        var tempTextarea = $('<textarea>');
        tempTextarea.val(textToCopy).appendTo('body').select();

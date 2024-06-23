@@ -105,7 +105,7 @@
     grid-row: 2;
     align-self: center;
     justify-self: center;
-    background: var(--grey700) !important;
+    background: #1b1e23 !important;
     box-shadow: 1px 1px 20px #333 !important;
     border-radius: 20px !important;
     color: #fff !important;
@@ -114,7 +114,7 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
     border: 0;
     border-radius: 0.25em;
     background: initial;
-    background-color: var(--orange-gradient) !important;
+    background-color: #ff9e00 !important;
     color: #fff !important;
     font-size: 1em;
 }

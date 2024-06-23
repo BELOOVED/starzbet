@@ -67,7 +67,7 @@
                                  </div>
                                  <div class="slick-slider slider--yKPd3 slick-initialized" dir="ltr">
                                     <div class="slick-list">
-                                       <div class="slick-track" style="width: 57900px; opacity: 1; transform: translate3d(-16000px, 0px, 0px);">
+                                       <div class="slick-track" style="width: 57900px; opacity: 1; transform: translate3d(-30400px, 0px, 0px); transition: -webkit-transform 1500ms ease 0s;">
                                           <div data-index="-50" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true">
                                              <div>
                                                 <div class="top-winner--D4kx4">
@@ -860,7 +860,7 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div data-index="0" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none;">
+                                          <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none;">
                                              <div>
                                                 <div class="top-winner--D4kx4">
                                                    <div class="provider-icon--vUKzY AMUSNET_ICON--N8LmC"></div>
@@ -1560,7 +1560,7 @@
                                                 </div>
                                              </div>
                                           </div>
-                                          <div data-index="45" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none;">
+                                          <div data-index="45" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none;">
                                              <div>
                                                 <div class="top-winner--D4kx4">
                                                    <div class="provider-icon--vUKzY PRAGMATIC_PLAY_ICON--sxBl8"></div>
@@ -2600,7 +2600,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71dff28d-20f2-4f71-a880-f18ae936169d__MTMyMF9fQmlnK0Jhc3MrQ3Jhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71dff28d-20f2-4f71-a880-f18ae936169d__MTMyMF9fQmlnK0Jhc3MrQ3Jhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71dff28d-20f2-4f71-a880-f18ae936169d__MTMyMF9fQmlnK0Jhc3MrQ3Jhc2hfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71dff28d-20f2-4f71-a880-f18ae936169d__MTMyMF9fQmlnK0Jhc3MrQ3Jhc2hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -2612,6 +2612,438 @@
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Big Bass Crash</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c68dcde-5d67-420e-be03-02eeefeaab7b__MTMwMV9fU3BhY2VtYW5fX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c68dcde-5d67-420e-be03-02eeefeaab7b__MTMwMV9fU3BhY2VtYW5fX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c68dcde-5d67-420e-be03-02eeefeaab7b__MTMwMV9fU3BhY2VtYW5fX1MuanBn.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c68dcde-5d67-420e-be03-02eeefeaab7b__MTMwMV9fU3BhY2VtYW5fX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Spaceman</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3f68ce46-3761-4d3c-891c-e32d59db23ae__ZmFsY29uX3JhcHRvcl9fUmFwdG9yX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3f68ce46-3761-4d3c-891c-e32d59db23ae__ZmFsY29uX3JhcHRvcl9fUmFwdG9yX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3f68ce46-3761-4d3c-891c-e32d59db23ae__ZmFsY29uX3JhcHRvcl9fUmFwdG9yX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3f68ce46-3761-4d3c-891c-e32d59db23ae__ZmFsY29uX3JhcHRvcl9fUmFwdG9yX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Raptor</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Falcon Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7ac33892-6bed-4bc5-be8c-bfaa7c37472a__U3BhY2VYWV9fU3BhY2UrWFlfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7ac33892-6bed-4bc5-be8c-bfaa7c37472a__U3BhY2VYWV9fU3BhY2UrWFlfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7ac33892-6bed-4bc5-be8c-bfaa7c37472a__U3BhY2VYWV9fU3BhY2UrWFlfX1MuanBn.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7ac33892-6bed-4bc5-be8c-bfaa7c37472a__U3BhY2VYWV9fU3BhY2UrWFlfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Space XY</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">BGaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c007bd3c-6bbe-49fc-8776-808f66049686__Q3JpY2tldFhfX0NyaWNrZXRYX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c007bd3c-6bbe-49fc-8776-808f66049686__Q3JpY2tldFhfX0NyaWNrZXRYX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c007bd3c-6bbe-49fc-8776-808f66049686__Q3JpY2tldFhfX0NyaWNrZXRYX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c007bd3c-6bbe-49fc-8776-808f66049686__Q3JpY2tldFhfX0NyaWNrZXRYX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">CricketX</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6a7cb266-1b04-4b40-be64-35804e467fe1__NzAwMV9fWmVwcGVsaW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6a7cb266-1b04-4b40-be64-35804e467fe1__NzAwMV9fWmVwcGVsaW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6a7cb266-1b04-4b40-be64-35804e467fe1__NzAwMV9fWmVwcGVsaW5fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6a7cb266-1b04-4b40-be64-35804e467fe1__NzAwMV9fWmVwcGVsaW5fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Zeppelin</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Bet Solutions</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c6e19-b1b1-727b-b01d-c1c0edf6b634__UytTbGljZXJYLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c6e19-b1b1-727b-b01d-c1c0edf6b634__UytTbGljZXJYLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c6e19-b1b1-727b-b01d-c1c0edf6b634__UytTbGljZXJYLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c6e19-b1b1-727b-b01d-c1c0edf6b634__UytTbGljZXJYLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">SlicerX</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/42bebbbb-6058-4d7a-b677-eb66377c4f85__Rm9vdGJhbGxYX19Gb290YmFsbFhfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/42bebbbb-6058-4d7a-b677-eb66377c4f85__Rm9vdGJhbGxYX19Gb290YmFsbFhfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/42bebbbb-6058-4d7a-b677-eb66377c4f85__Rm9vdGJhbGxYX19Gb290YmFsbFhfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/42bebbbb-6058-4d7a-b677-eb66377c4f85__Rm9vdGJhbGxYX19Gb290YmFsbFhfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">FootballX</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b1f08f98-512f-4992-9052-2c148b44a6ff__Q2FwcGFkb2NpYV9fQ2FwcGFkb2NpYV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b1f08f98-512f-4992-9052-2c148b44a6ff__Q2FwcGFkb2NpYV9fQ2FwcGFkb2NpYV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b1f08f98-512f-4992-9052-2c148b44a6ff__Q2FwcGFkb2NpYV9fQ2FwcGFkb2NpYV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b1f08f98-512f-4992-9052-2c148b44a6ff__Q2FwcGFkb2NpYV9fQ2FwcGFkb2NpYV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Cappadocia</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e1e3d87-30be-494c-8564-652b3c110b06__MTAwMHhidXN0YV9fMTAwMFgrQlVTVEFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e1e3d87-30be-494c-8564-652b3c110b06__MTAwMHhidXN0YV9fMTAwMFgrQlVTVEFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e1e3d87-30be-494c-8564-652b3c110b06__MTAwMHhidXN0YV9fMTAwMFgrQlVTVEFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e1e3d87-30be-494c-8564-652b3c110b06__MTAwMHhidXN0YV9fMTAwMFgrQlVTVEFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">1000X BUSTA</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">4ThePlayer</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89178913-f47e-46cd-93f5-2c965d1ce994__MTAzNF9fUGlsb3QrQ3VwX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89178913-f47e-46cd-93f5-2c965d1ce994__MTAzNF9fUGlsb3QrQ3VwX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89178913-f47e-46cd-93f5-2c965d1ce994__MTAzNF9fUGlsb3QrQ3VwX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89178913-f47e-46cd-93f5-2c965d1ce994__MTAzNF9fUGlsb3QrQ3VwX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Pilot Cup</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Gamzix</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2c25dcb0-27fa-4d44-88c0-ea49560e0545__MTAzNl9fUGlsb3QrQ29pbl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2c25dcb0-27fa-4d44-88c0-ea49560e0545__MTAzNl9fUGlsb3QrQ29pbl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2c25dcb0-27fa-4d44-88c0-ea49560e0545__MTAzNl9fUGlsb3QrQ29pbl9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2c25dcb0-27fa-4d44-88c0-ea49560e0545__MTAzNl9fUGlsb3QrQ29pbl9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Pilot Coin</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Gamzix</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d0b5229-d159-4c9c-8b34-89079ea40834__MTAzMF9fUGlsb3RfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d0b5229-d159-4c9c-8b34-89079ea40834__MTAzMF9fUGlsb3RfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d0b5229-d159-4c9c-8b34-89079ea40834__MTAzMF9fUGlsb3RfX1MuanBn.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d0b5229-d159-4c9c-8b34-89079ea40834__MTAzMF9fUGlsb3RfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Pilot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Gamzix</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4bf1ca8-6986-4984-bab1-e6aa137b6eff__ODYzX19UcmlwbGUrQ2FzaCtvcitDcmFzaF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4bf1ca8-6986-4984-bab1-e6aa137b6eff__ODYzX19UcmlwbGUrQ2FzaCtvcitDcmFzaF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4bf1ca8-6986-4984-bab1-e6aa137b6eff__ODYzX19UcmlwbGUrQ2FzaCtvcitDcmFzaF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4bf1ca8-6986-4984-bab1-e6aa137b6eff__ODYzX19UcmlwbGUrQ2FzaCtvcitDcmFzaF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Triple Cash or Crash</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4fff845b-40c7-457c-9a31-f1f0e3e82007__c2xvdENyYXNoX19HT0FMK0NSQVNIX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4fff845b-40c7-457c-9a31-f1f0e3e82007__c2xvdENyYXNoX19HT0FMK0NSQVNIX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4fff845b-40c7-457c-9a31-f1f0e3e82007__c2xvdENyYXNoX19HT0FMK0NSQVNIX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4fff845b-40c7-457c-9a31-f1f0e3e82007__c2xvdENyYXNoX19HT0FMK0NSQVNIX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">GOAL CRASH</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Tripple Cherry</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/95b26748-93af-49c3-be4a-11a04df2f707__SmV0WDNfX0pldFgzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/95b26748-93af-49c3-be4a-11a04df2f707__SmV0WDNfX0pldFgzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/95b26748-93af-49c3-be4a-11a04df2f707__SmV0WDNfX0pldFgzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/95b26748-93af-49c3-be4a-11a04df2f707__SmV0WDNfX0pldFgzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">JetX3</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf394-e016-7a8a-97af-eeb9df6270f4__SGVsaWNvcHRlclhfX0hlbGljb3B0ZXJYX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf394-e016-7a8a-97af-eeb9df6270f4__SGVsaWNvcHRlclhfX0hlbGljb3B0ZXJYX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf394-e016-7a8a-97af-eeb9df6270f4__SGVsaWNvcHRlclhfX0hlbGljb3B0ZXJYX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018cf394-e016-7a8a-97af-eeb9df6270f4__SGVsaWNvcHRlclhfX0hlbGljb3B0ZXJYX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">HelicopterX</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ecacb54-e265-45f0-af54-05ad0295e0bf__NjAwMV9fTG9uZytCYWxsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ecacb54-e265-45f0-af54-05ad0295e0bf__NjAwMV9fTG9uZytCYWxsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ecacb54-e265-45f0-af54-05ad0295e0bf__NjAwMV9fTG9uZytCYWxsX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ecacb54-e265-45f0-af54-05ad0295e0bf__NjAwMV9fTG9uZytCYWxsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Long Ball</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evoplay</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ddd519f-1bff-4165-ad79-e9e7ae0dcfc3__NTY4N19fRm9vdGJhbGwrTWFuYWdlcl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ddd519f-1bff-4165-ad79-e9e7ae0dcfc3__NTY4N19fRm9vdGJhbGwrTWFuYWdlcl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ddd519f-1bff-4165-ad79-e9e7ae0dcfc3__NTY4N19fRm9vdGJhbGwrTWFuYWdlcl9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ddd519f-1bff-4165-ad79-e9e7ae0dcfc3__NTY4N19fRm9vdGJhbGwrTWFuYWdlcl9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Football Manager</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evoplay</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/13ee97fa-5d79-4ee7-90d8-b60c4e3a8e6d__VG93ZXJYX19Ub3dlclhfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/13ee97fa-5d79-4ee7-90d8-b60c4e3a8e6d__VG93ZXJYX19Ub3dlclhfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/13ee97fa-5d79-4ee7-90d8-b60c4e3a8e6d__VG93ZXJYX19Ub3dlclhfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/13ee97fa-5d79-4ee7-90d8-b60c4e3a8e6d__VG93ZXJYX19Ub3dlclhfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">TowerX</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Smartsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e753ef41-f836-4ce6-aaee-152cc05e8be4__MTM5MjVfX0NyYXNoK1hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e753ef41-f836-4ce6-aaee-152cc05e8be4__MTM5MjVfX0NyYXNoK1hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e753ef41-f836-4ce6-aaee-152cc05e8be4__MTM5MjVfX0NyYXNoK1hfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e753ef41-f836-4ce6-aaee-152cc05e8be4__MTM5MjVfX0NyYXNoK1hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Crash X</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Turbo Games</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1269e780-1ac7-4329-a025-4b048d07094a__MTM5MzZfX0NyYXNoK1grRm9vdGJhbGwrRWRpdGlvbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1269e780-1ac7-4329-a025-4b048d07094a__MTM5MzZfX0NyYXNoK1grRm9vdGJhbGwrRWRpdGlvbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1269e780-1ac7-4329-a025-4b048d07094a__MTM5MzZfX0NyYXNoK1grRm9vdGJhbGwrRWRpdGlvbl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1269e780-1ac7-4329-a025-4b048d07094a__MTM5MzZfX0NyYXNoK1grRm9vdGJhbGwrRWRpdGlvbl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Crash X Football Edition</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Turbo Games</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/070a6773-b095-4916-b70c-366b6d9c4027__NTgxMV9fTHVja3krQ3J1bWJsaW5nX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/070a6773-b095-4916-b70c-366b6d9c4027__NTgxMV9fTHVja3krQ3J1bWJsaW5nX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/070a6773-b095-4916-b70c-366b6d9c4027__NTgxMV9fTHVja3krQ3J1bWJsaW5nX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/070a6773-b095-4916-b70c-366b6d9c4027__NTgxMV9fTHVja3krQ3J1bWJsaW5nX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky Crumbling</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evoplay</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e96bbc1d-de96-4c8d-b7cd-bdf56e28962d__NTM0NF9fSGlnaCtTdHJpa2VyX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e96bbc1d-de96-4c8d-b7cd-bdf56e28962d__NTM0NF9fSGlnaCtTdHJpa2VyX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e96bbc1d-de96-4c8d-b7cd-bdf56e28962d__NTM0NF9fSGlnaCtTdHJpa2VyX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e96bbc1d-de96-4c8d-b7cd-bdf56e28962d__NTM0NF9fSGlnaCtTdHJpa2VyX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">High Striker</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evoplay</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cda20-ea0e-70d3-a7e6-fade818732dc__RGljZSt0cmFkaW5nK1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cda20-ea0e-70d3-a7e6-fade818732dc__RGljZSt0cmFkaW5nK1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cda20-ea0e-70d3-a7e6-fade818732dc__RGljZSt0cmFkaW5nK1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cda20-ea0e-70d3-a7e6-fade818732dc__RGljZSt0cmFkaW5nK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Trading Dice</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Turbo Games</div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -3583,7 +4015,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cf49f-bc2f-7a92-ba24-4ccb4aded7f9__U21hbGwucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cf49f-bc2f-7a92-ba24-4ccb4aded7f9__U21hbGwucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cf49f-bc2f-7a92-ba24-4ccb4aded7f9__U21hbGwucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018cf49f-bc2f-7a92-ba24-4ccb4aded7f9__U21hbGwucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3594,6 +4026,24 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Astro Cash</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbedf-c332-77e4-895a-7dda5267b405__aW1ncHNoX2Z1bGxzaXplX2FuaW0rJTI4MiUyOS5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbedf-c332-77e4-895a-7dda5267b405__aW1ncHNoX2Z1bGxzaXplX2FuaW0rJTI4MiUyOS5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbedf-c332-77e4-895a-7dda5267b405__aW1ncHNoX2Z1bGxzaXplX2FuaW0rJTI4MiUyOS5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fbedf-c332-77e4-895a-7dda5267b405__aW1ncHNoX2Z1bGxzaXplX2FuaW0rJTI4MiUyOS5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Buffalo Wealth - Hold &amp; Win</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
                                                       </div>
                                                    </div>
@@ -3642,7 +4092,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/064b9984-6f81-4281-9da8-3e7385a4d707__NDQxX18xMDArQnVsa3krRnJ1aXRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/064b9984-6f81-4281-9da8-3e7385a4d707__NDQxX18xMDArQnVsa3krRnJ1aXRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/064b9984-6f81-4281-9da8-3e7385a4d707__NDQxX18xMDArQnVsa3krRnJ1aXRzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/064b9984-6f81-4281-9da8-3e7385a4d707__NDQxX18xMDArQnVsa3krRnJ1aXRzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3660,7 +4110,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/507a21c5-04e3-4a60-85f8-e9d967797118__NTQ4X18xMDArQnVybmluZytIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/507a21c5-04e3-4a60-85f8-e9d967797118__NTQ4X18xMDArQnVybmluZytIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/507a21c5-04e3-4a60-85f8-e9d967797118__NTQ4X18xMDArQnVybmluZytIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/507a21c5-04e3-4a60-85f8-e9d967797118__NTQ4X18xMDArQnVybmluZytIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3696,7 +4146,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3cf74840-d1df-434c-badb-e13f5edbbd9b__NDM0X18xMDArUG93ZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3cf74840-d1df-434c-badb-e13f5edbbd9b__NDM0X18xMDArUG93ZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3cf74840-d1df-434c-badb-e13f5edbbd9b__NDM0X18xMDArUG93ZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3cf74840-d1df-434c-badb-e13f5edbbd9b__NDM0X18xMDArUG93ZXIrSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3714,7 +4164,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89c4e9e4-8bca-419e-a23f-dbae8cb4296b__NTI3X18xMDArU3VwZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89c4e9e4-8bca-419e-a23f-dbae8cb4296b__NTI3X18xMDArU3VwZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89c4e9e4-8bca-419e-a23f-dbae8cb4296b__NTI3X18xMDArU3VwZXIrSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89c4e9e4-8bca-419e-a23f-dbae8cb4296b__NTI3X18xMDArU3VwZXIrSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3732,7 +4182,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7acbf574-29d5-4f16-bb04-3ea0b43a10f3__ODQ3X18xMDArQ2F0c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7acbf574-29d5-4f16-bb04-3ea0b43a10f3__ODQ3X18xMDArQ2F0c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7acbf574-29d5-4f16-bb04-3ea0b43a10f3__ODQ3X18xMDArQ2F0c19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7acbf574-29d5-4f16-bb04-3ea0b43a10f3__ODQ3X18xMDArQ2F0c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3750,7 +4200,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60705127-5ed2-45bd-a2f1-b36bf93e6fa7__NTMzX18xMCtCdXJuaW5nK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60705127-5ed2-45bd-a2f1-b36bf93e6fa7__NTMzX18xMCtCdXJuaW5nK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60705127-5ed2-45bd-a2f1-b36bf93e6fa7__NTMzX18xMCtCdXJuaW5nK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60705127-5ed2-45bd-a2f1-b36bf93e6fa7__NTMzX18xMCtCdXJuaW5nK0hlYXJ0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3761,6 +4211,3354 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">10 Burning Heart</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81ba2221-3f15-45e9-92d8-b1ea938cbdba__NDI3X18yMCtCdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81ba2221-3f15-45e9-92d8-b1ea938cbdba__NDI3X18yMCtCdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81ba2221-3f15-45e9-92d8-b1ea938cbdba__NDI3X18yMCtCdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81ba2221-3f15-45e9-92d8-b1ea938cbdba__NDI3X18yMCtCdWxreStGcnVpdHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Bulky Fruits</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e97cb250-eedf-4ce6-9311-c681f08b0d60__NTMwX18yMCtCdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e97cb250-eedf-4ce6-9311-c681f08b0d60__NTMwX18yMCtCdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e97cb250-eedf-4ce6-9311-c681f08b0d60__NTMwX18yMCtCdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e97cb250-eedf-4ce6-9311-c681f08b0d60__NTMwX18yMCtCdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Burning Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae1fa47-7a8f-49be-9818-1c89b7caa6eb__NTQ0X18yMCtEYXp6bGluZytIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae1fa47-7a8f-49be-9818-1c89b7caa6eb__NTQ0X18yMCtEYXp6bGluZytIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae1fa47-7a8f-49be-9818-1c89b7caa6eb__NTQ0X18yMCtEYXp6bGluZytIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae1fa47-7a8f-49be-9818-1c89b7caa6eb__NTQ0X18yMCtEYXp6bGluZytIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Dazzling Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/481bdd53-8d2f-452b-8163-6f64475ee88e__ODU0X18yMCtEaWFtb25kc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/481bdd53-8d2f-452b-8163-6f64475ee88e__ODU0X18yMCtEaWFtb25kc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/481bdd53-8d2f-452b-8163-6f64475ee88e__ODU0X18yMCtEaWFtb25kc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/481bdd53-8d2f-452b-8163-6f64475ee88e__ODU0X18yMCtEaWFtb25kc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Diamonds</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/978665a5-88a0-4d96-9353-7eb64c433a88__NTkyX18yMCtHb2xkZW4rQ29pbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/978665a5-88a0-4d96-9353-7eb64c433a88__NTkyX18yMCtHb2xkZW4rQ29pbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/978665a5-88a0-4d96-9353-7eb64c433a88__NTkyX18yMCtHb2xkZW4rQ29pbnNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/978665a5-88a0-4d96-9353-7eb64c433a88__NTkyX18yMCtHb2xkZW4rQ29pbnNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Golden Coins</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d177a89f-a360-4ccb-8a57-da2084b0c8fc__NTU4X18yMCtIb3QrQmxhc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d177a89f-a360-4ccb-8a57-da2084b0c8fc__NTU4X18yMCtIb3QrQmxhc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d177a89f-a360-4ccb-8a57-da2084b0c8fc__NTU4X18yMCtIb3QrQmxhc3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d177a89f-a360-4ccb-8a57-da2084b0c8fc__NTU4X18yMCtIb3QrQmxhc3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Hot Blast</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/06cf76f0-9204-4068-89ea-7058df184430__NTU0X18yMCtKb2tlcitSZWVsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/06cf76f0-9204-4068-89ea-7058df184430__NTU0X18yMCtKb2tlcitSZWVsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/06cf76f0-9204-4068-89ea-7058df184430__NTU0X18yMCtKb2tlcitSZWVsc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/06cf76f0-9204-4068-89ea-7058df184430__NTU0X18yMCtKb2tlcitSZWVsc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Joker Reels</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/236c3198-d8bd-48ec-88f5-7e5d10c2968d__NDM1X18yMCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/236c3198-d8bd-48ec-88f5-7e5d10c2968d__NDM1X18yMCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/236c3198-d8bd-48ec-88f5-7e5d10c2968d__NDM1X18yMCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/236c3198-d8bd-48ec-88f5-7e5d10c2968d__NDM1X18yMCtQb3dlcitIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Power Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/86c29212-af76-460f-90a0-8115848a0f5d__ODAzX18yMCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/86c29212-af76-460f-90a0-8115848a0f5d__ODAzX18yMCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/86c29212-af76-460f-90a0-8115848a0f5d__ODAzX18yMCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/86c29212-af76-460f-90a0-8115848a0f5d__ODAzX18yMCtTdXBlcitIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Super Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dc2db87d-e9fc-4ee4-815f-27478e8e9f3a__NTQwX18yMCtTdXBlcitIb3QrRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dc2db87d-e9fc-4ee4-815f-27478e8e9f3a__NTQwX18yMCtTdXBlcitIb3QrRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dc2db87d-e9fc-4ee4-815f-27478e8e9f3a__NTQwX18yMCtTdXBlcitIb3QrRVFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dc2db87d-e9fc-4ee4-815f-27478e8e9f3a__NTQwX18yMCtTdXBlcitIb3QrRVFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">20 Super Hot EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6b3fee4f-aeac-4c43-a93a-43fcb5aba7b7__NTU2X18yNytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6b3fee4f-aeac-4c43-a93a-43fcb5aba7b7__NTU2X18yNytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6b3fee4f-aeac-4c43-a93a-43fcb5aba7b7__NTU2X18yNytXaW5zX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6b3fee4f-aeac-4c43-a93a-43fcb5aba7b7__NTU2X18yNytXaW5zX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">27 Wins</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1488a15c-fd10-4734-9d41-22c635c4bf54__ODgyX18yK0RyYWdvbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1488a15c-fd10-4734-9d41-22c635c4bf54__ODgyX18yK0RyYWdvbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1488a15c-fd10-4734-9d41-22c635c4bf54__ODgyX18yK0RyYWdvbnNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1488a15c-fd10-4734-9d41-22c635c4bf54__ODgyX18yK0RyYWdvbnNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">2 Dragons</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e446e53-bcfb-4f18-8452-3a9fc8a20d29__NTI4X18zMCtTcGljeStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e446e53-bcfb-4f18-8452-3a9fc8a20d29__NTI4X18zMCtTcGljeStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e446e53-bcfb-4f18-8452-3a9fc8a20d29__NTI4X18zMCtTcGljeStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4e446e53-bcfb-4f18-8452-3a9fc8a20d29__NTI4X18zMCtTcGljeStGcnVpdHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">30 Spicy Fruits</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee4d7067-ff03-464e-bb09-20efc66c1fab__NTgxX18zMCtTdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee4d7067-ff03-464e-bb09-20efc66c1fab__NTgxX18zMCtTdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee4d7067-ff03-464e-bb09-20efc66c1fab__NTgxX18zMCtTdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee4d7067-ff03-464e-bb09-20efc66c1fab__NTgxX18zMCtTdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">30 Summer Bliss</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/37a70c8f-a963-4e10-a17e-4b9293f2b629__NTYxX180MCtBbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/37a70c8f-a963-4e10-a17e-4b9293f2b629__NTYxX180MCtBbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/37a70c8f-a963-4e10-a17e-4b9293f2b629__NTYxX180MCtBbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/37a70c8f-a963-4e10-a17e-4b9293f2b629__NTYxX180MCtBbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Almighty Ramses II</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fcf8f-e04d-7183-8040-7630baf88c09__TUVEJUM0JUIwVU1NK0JVTEtZLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fcf8f-e04d-7183-8040-7630baf88c09__TUVEJUM0JUIwVU1NK0JVTEtZLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fcf8f-e04d-7183-8040-7630baf88c09__TUVEJUM0JUIwVU1NK0JVTEtZLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fcf8f-e04d-7183-8040-7630baf88c09__TUVEJUM0JUIwVU1NK0JVTEtZLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Bulky Fruits</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2af7a747-5b84-486f-b59d-c719b503de06__NTY2X180MCtCdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2af7a747-5b84-486f-b59d-c719b503de06__NTY2X180MCtCdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2af7a747-5b84-486f-b59d-c719b503de06__NTY2X180MCtCdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2af7a747-5b84-486f-b59d-c719b503de06__NTY2X180MCtCdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Burning Hot 6 Reels</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eca468a2-2057-4d66-9cde-3c782e333807__NTQ1X180MCtIb3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eca468a2-2057-4d66-9cde-3c782e333807__NTQ1X180MCtIb3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eca468a2-2057-4d66-9cde-3c782e333807__NTQ1X180MCtIb3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eca468a2-2057-4d66-9cde-3c782e333807__NTQ1X180MCtIb3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Hot &amp; Cash</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9e6b5835-c512-429f-8fbe-fee6ab975317__NTQ2X180MCtMdWNreStLaW5nX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9e6b5835-c512-429f-8fbe-fee6ab975317__NTQ2X180MCtMdWNreStLaW5nX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9e6b5835-c512-429f-8fbe-fee6ab975317__NTQ2X180MCtMdWNreStLaW5nX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9e6b5835-c512-429f-8fbe-fee6ab975317__NTQ2X180MCtMdWNreStLaW5nX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Lucky King</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cb5580d6-4db8-4e0b-bd15-636e31a799b4__NTQ3X180MCtNZWdhK0Nsb3Zlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cb5580d6-4db8-4e0b-bd15-636e31a799b4__NTQ3X180MCtNZWdhK0Nsb3Zlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cb5580d6-4db8-4e0b-bd15-636e31a799b4__NTQ3X180MCtNZWdhK0Nsb3Zlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cb5580d6-4db8-4e0b-bd15-636e31a799b4__NTQ3X180MCtNZWdhK0Nsb3Zlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Mega Clover</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/24f1d170-fdb3-49f6-bb9e-a1c300b4d1e0__NDI2X180MCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/24f1d170-fdb3-49f6-bb9e-a1c300b4d1e0__NDI2X180MCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/24f1d170-fdb3-49f6-bb9e-a1c300b4d1e0__NDI2X180MCtQb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/24f1d170-fdb3-49f6-bb9e-a1c300b4d1e0__NDI2X180MCtQb3dlcitIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Power Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/11145f01-ec6c-42d8-b897-fd0f8f9dec34__ODA0X180MCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/11145f01-ec6c-42d8-b897-fd0f8f9dec34__ODA0X180MCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/11145f01-ec6c-42d8-b897-fd0f8f9dec34__ODA0X180MCtTdXBlcitIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/11145f01-ec6c-42d8-b897-fd0f8f9dec34__ODA0X180MCtTdXBlcitIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Super Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dd9e5b69-2e5e-46b2-ae3d-afac26a1ab26__NTMxX180MCtVbHRyYStSZXNwaW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dd9e5b69-2e5e-46b2-ae3d-afac26a1ab26__NTMxX180MCtVbHRyYStSZXNwaW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dd9e5b69-2e5e-46b2-ae3d-afac26a1ab26__NTMxX180MCtVbHRyYStSZXNwaW5fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/dd9e5b69-2e5e-46b2-ae3d-afac26a1ab26__NTMxX180MCtVbHRyYStSZXNwaW5fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">40 Ultra Respin</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/20838dad-7e75-4a24-97c9-4baf1f76d3ee__OTAzX180K29mK2ErS2luZCtCb251cytQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/20838dad-7e75-4a24-97c9-4baf1f76d3ee__OTAzX180K29mK2ErS2luZCtCb251cytQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/20838dad-7e75-4a24-97c9-4baf1f76d3ee__OTAzX180K29mK2ErS2luZCtCb251cytQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/20838dad-7e75-4a24-97c9-4baf1f76d3ee__OTAzX180K29mK2ErS2luZCtCb251cytQb2tlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">4 of a Kind Bonus Poker</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/58d8529b-d9b1-471a-ad62-49decce1d26f__NTYzX181MCtBbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/58d8529b-d9b1-471a-ad62-49decce1d26f__NTYzX181MCtBbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/58d8529b-d9b1-471a-ad62-49decce1d26f__NTYzX181MCtBbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/58d8529b-d9b1-471a-ad62-49decce1d26f__NTYzX181MCtBbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">50 Amazons' Battle</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9bf3214e-18b5-4bde-ac63-1ff4c772fe22__ODc5X181MCtIb3JzZXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9bf3214e-18b5-4bde-ac63-1ff4c772fe22__ODc5X181MCtIb3JzZXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9bf3214e-18b5-4bde-ac63-1ff4c772fe22__ODc5X181MCtIb3JzZXNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9bf3214e-18b5-4bde-ac63-1ff4c772fe22__ODc5X181MCtIb3JzZXNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">50 Horses</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7453479b-007c-4cc1-ac34-3ddf8fc39007__NTMyX181K0J1cm5pbmcrSGVhcnRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7453479b-007c-4cc1-ac34-3ddf8fc39007__NTMyX181K0J1cm5pbmcrSGVhcnRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7453479b-007c-4cc1-ac34-3ddf8fc39007__NTMyX181K0J1cm5pbmcrSGVhcnRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7453479b-007c-4cc1-ac34-3ddf8fc39007__NTMyX181K0J1cm5pbmcrSGVhcnRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">5 Burning Heart</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f6e21016-25d2-419b-b2dd-763e1b38b13f__ODEwX181K0RhenpsaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f6e21016-25d2-419b-b2dd-763e1b38b13f__ODEwX181K0RhenpsaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f6e21016-25d2-419b-b2dd-763e1b38b13f__ODEwX181K0RhenpsaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f6e21016-25d2-419b-b2dd-763e1b38b13f__ODEwX181K0RhenpsaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">5 Dazzling Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7f8aeacc-1f56-476d-8bf4-a8d83a5dc8cb__NTUzX181K0dyZWF0K1N0YXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7f8aeacc-1f56-476d-8bf4-a8d83a5dc8cb__NTUzX181K0dyZWF0K1N0YXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7f8aeacc-1f56-476d-8bf4-a8d83a5dc8cb__NTUzX181K0dyZWF0K1N0YXJfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7f8aeacc-1f56-476d-8bf4-a8d83a5dc8cb__NTUzX181K0dyZWF0K1N0YXJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">5 Great Star</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eaf7eaff-3ef4-43cc-93f9-f6f462d0d021__NTU3X181K0p1Z2dsZStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eaf7eaff-3ef4-43cc-93f9-f6f462d0d021__NTU3X181K0p1Z2dsZStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eaf7eaff-3ef4-43cc-93f9-f6f462d0d021__NTU3X181K0p1Z2dsZStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eaf7eaff-3ef4-43cc-93f9-f6f462d0d021__NTU3X181K0p1Z2dsZStGcnVpdHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">5 Juggle Fruits</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b3f-79b3-8e27-f66d8b115497__NDgwX183KyUyNitDcnlzdGFsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b3f-79b3-8e27-f66d8b115497__NDgwX183KyUyNitDcnlzdGFsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b3f-79b3-8e27-f66d8b115497__NDgwX183KyUyNitDcnlzdGFsc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b3f-79b3-8e27-f66d8b115497__NDgwX183KyUyNitDcnlzdGFsc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">7 &amp; Crystals</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a22388d1-443e-4e4f-8b86-b122d8f3fd63__NTQ5X184MStXaW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a22388d1-443e-4e4f-8b86-b122d8f3fd63__NTQ5X184MStXaW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a22388d1-443e-4e4f-8b86-b122d8f3fd63__NTQ5X184MStXaW5zX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a22388d1-443e-4e4f-8b86-b122d8f3fd63__NTQ5X184MStXaW5zX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">81 Wins</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1a17ee7b-3a0d-4ef9-ab9f-a2135dccf3a3__ODUxX19BY3Rpb24rTW9uZXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1a17ee7b-3a0d-4ef9-ab9f-a2135dccf3a3__ODUxX19BY3Rpb24rTW9uZXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1a17ee7b-3a0d-4ef9-ab9f-a2135dccf3a3__ODUxX19BY3Rpb24rTW9uZXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1a17ee7b-3a0d-4ef9-ab9f-a2135dccf3a3__ODUxX19BY3Rpb24rTW9uZXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Action Money</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40c76118-de14-4794-9edc-079d16ce2991__ODEyX19BZ2Urb2YrVHJveV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40c76118-de14-4794-9edc-079d16ce2991__ODEyX19BZ2Urb2YrVHJveV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40c76118-de14-4794-9edc-079d16ce2991__ODEyX19BZ2Urb2YrVHJveV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40c76118-de14-4794-9edc-079d16ce2991__ODEyX19BZ2Urb2YrVHJveV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Age of Troy</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a9a659f3-fcc9-4fb3-859d-886320e02fd6__NTIwX19BbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a9a659f3-fcc9-4fb3-859d-886320e02fd6__NTIwX19BbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a9a659f3-fcc9-4fb3-859d-886320e02fd6__NTIwX19BbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a9a659f3-fcc9-4fb3-859d-886320e02fd6__NTIwX19BbG1pZ2h0eStSYW1zZXMrSUlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Almighty Ramses II</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c411453-34dc-4046-834f-ea81436f1fb1__ODg0X19BbG9oYStQYXJ0eV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c411453-34dc-4046-834f-ea81436f1fb1__ODg0X19BbG9oYStQYXJ0eV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c411453-34dc-4046-834f-ea81436f1fb1__ODg0X19BbG9oYStQYXJ0eV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4c411453-34dc-4046-834f-ea81436f1fb1__ODg0X19BbG9oYStQYXJ0eV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Aloha Party</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5121e7aa-8f83-437b-8a1a-6abad45875dc__ODA4X19BbWF6aW5nK0FtYXpvbmlhX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5121e7aa-8f83-437b-8a1a-6abad45875dc__ODA4X19BbWF6aW5nK0FtYXpvbmlhX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5121e7aa-8f83-437b-8a1a-6abad45875dc__ODA4X19BbWF6aW5nK0FtYXpvbmlhX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5121e7aa-8f83-437b-8a1a-6abad45875dc__ODA4X19BbWF6aW5nK0FtYXpvbmlhX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Amazing Amazonia</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b2b9e08-8a9a-4e06-be6e-9173c5af2aa3__ODU5X19BbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b2b9e08-8a9a-4e06-be6e-9173c5af2aa3__ODU5X19BbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b2b9e08-8a9a-4e06-be6e-9173c5af2aa3__ODU5X19BbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b2b9e08-8a9a-4e06-be6e-9173c5af2aa3__ODU5X19BbWF6b25zJTI3K0JhdHRsZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Amazons' Battle</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/da0b86a4-695f-4171-be03-b2254d209a9e__OTk4X19BbXVzbmV0K0phY2twb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/da0b86a4-695f-4171-be03-b2254d209a9e__OTk4X19BbXVzbmV0K0phY2twb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/da0b86a4-695f-4171-be03-b2254d209a9e__OTk4X19BbXVzbmV0K0phY2twb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/da0b86a4-695f-4171-be03-b2254d209a9e__OTk4X19BbXVzbmV0K0phY2twb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Amusnet Jackpot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a00a1992-a2d0-4787-9109-5cf473b242a4__OTk5X19BbXVzbmV0K0phY2twb3QrJTI4RWd5cHQrUXVlc3QlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a00a1992-a2d0-4787-9109-5cf473b242a4__OTk5X19BbXVzbmV0K0phY2twb3QrJTI4RWd5cHQrUXVlc3QlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a00a1992-a2d0-4787-9109-5cf473b242a4__OTk5X19BbXVzbmV0K0phY2twb3QrJTI4RWd5cHQrUXVlc3QlMjlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a00a1992-a2d0-4787-9109-5cf473b242a4__OTk5X19BbXVzbmV0K0phY2twb3QrJTI4RWd5cHQrUXVlc3QlMjlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Amusnet Jackpot (Egypt Quest)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ad69452d-e842-461f-9df9-991a34ef24cb__NTY3X19BbmNpZW50K0R5bmFzdHlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ad69452d-e842-461f-9df9-991a34ef24cb__NTY3X19BbmNpZW50K0R5bmFzdHlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ad69452d-e842-461f-9df9-991a34ef24cb__NTY3X19BbmNpZW50K0R5bmFzdHlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ad69452d-e842-461f-9df9-991a34ef24cb__NTY3X19BbmNpZW50K0R5bmFzdHlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Ancient Dynasty</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36bf4198-3cf4-4e6a-939d-070dcd42ad03__NDQ5X19BcnQrb2YrR29sZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36bf4198-3cf4-4e6a-939d-070dcd42ad03__NDQ5X19BcnQrb2YrR29sZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36bf4198-3cf4-4e6a-939d-070dcd42ad03__NDQ5X19BcnQrb2YrR29sZF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36bf4198-3cf4-4e6a-939d-070dcd42ad03__NDQ5X19BcnQrb2YrR29sZF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Art of Gold</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5dc2592-8b2c-47e0-9900-dd8eae1ce4ff__NDQzX19BenRlYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5dc2592-8b2c-47e0-9900-dd8eae1ce4ff__NDQzX19BenRlYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5dc2592-8b2c-47e0-9900-dd8eae1ce4ff__NDQzX19BenRlYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5dc2592-8b2c-47e0-9900-dd8eae1ce4ff__NDQzX19BenRlYytGb3Jlc3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Aztec Forest</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a5868c3e-3388-4685-a9b5-c93aa449e284__NTExX19BenRlYytHbG9yeV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a5868c3e-3388-4685-a9b5-c93aa449e284__NTExX19BenRlYytHbG9yeV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a5868c3e-3388-4685-a9b5-c93aa449e284__NTExX19BenRlYytHbG9yeV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a5868c3e-3388-4685-a9b5-c93aa449e284__NTExX19BenRlYytHbG9yeV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Aztec Glory</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c638105b-cf89-43d1-a366-2898bf83b2b2__ODE0X19CbHVlK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c638105b-cf89-43d1-a366-2898bf83b2b2__ODE0X19CbHVlK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c638105b-cf89-43d1-a366-2898bf83b2b2__ODE0X19CbHVlK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c638105b-cf89-43d1-a366-2898bf83b2b2__ODE0X19CbHVlK0hlYXJ0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Blue Heart</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/03442fab-f092-4ef0-9fbd-5210067d2682__NTk0X19CbHVlK09jZWFuc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/03442fab-f092-4ef0-9fbd-5210067d2682__NTk0X19CbHVlK09jZWFuc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/03442fab-f092-4ef0-9fbd-5210067d2682__NTk0X19CbHVlK09jZWFuc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/03442fab-f092-4ef0-9fbd-5210067d2682__NTk0X19CbHVlK09jZWFuc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Blue Oceans</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/977e5d73-532e-4eaf-9a90-935d7362b1be__ODI2X19Cb29rK29mK01hZ2ljX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/977e5d73-532e-4eaf-9a90-935d7362b1be__ODI2X19Cb29rK29mK01hZ2ljX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/977e5d73-532e-4eaf-9a90-935d7362b1be__ODI2X19Cb29rK29mK01hZ2ljX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/977e5d73-532e-4eaf-9a90-935d7362b1be__ODI2X19Cb29rK29mK01hZ2ljX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Book of Magic</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ca61fd7-4519-424f-b62c-c352123f60c4__NTI1X19CcmF2ZStDYXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ca61fd7-4519-424f-b62c-c352123f60c4__NTI1X19CcmF2ZStDYXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ca61fd7-4519-424f-b62c-c352123f60c4__NTI1X19CcmF2ZStDYXRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ca61fd7-4519-424f-b62c-c352123f60c4__NTI1X19CcmF2ZStDYXRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Brave Cat</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb3585b1-56e8-4e2d-980a-94fc70cc9b50__NDEwX19CdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb3585b1-56e8-4e2d-980a-94fc70cc9b50__NDEwX19CdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb3585b1-56e8-4e2d-980a-94fc70cc9b50__NDEwX19CdWxreStGcnVpdHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb3585b1-56e8-4e2d-980a-94fc70cc9b50__NDEwX19CdWxreStGcnVpdHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Bulky Fruits</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Burning Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb2d9d19-29f6-4011-b827-f506eb03b90f__NTY1X19CdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb2d9d19-29f6-4011-b827-f506eb03b90f__NTY1X19CdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb2d9d19-29f6-4011-b827-f506eb03b90f__NTY1X19CdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb2d9d19-29f6-4011-b827-f506eb03b90f__NTY1X19CdXJuaW5nK0hvdCs2K1JlZWxzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Burning Hot 6 Reels</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f0fc2f-eff2-48c5-9228-12c9218c0968__NTM5X19CdXJuaW5nK0hvdCtFUV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f0fc2f-eff2-48c5-9228-12c9218c0968__NTM5X19CdXJuaW5nK0hvdCtFUV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f0fc2f-eff2-48c5-9228-12c9218c0968__NTM5X19CdXJuaW5nK0hvdCtFUV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f0fc2f-eff2-48c5-9228-12c9218c0968__NTM5X19CdXJuaW5nK0hvdCtFUV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Burning Hot EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c9e14085-5354-4823-b892-0edaf27fb4a9__MjAxX19CdXJuaW5nK0tlbm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c9e14085-5354-4823-b892-0edaf27fb4a9__MjAxX19CdXJuaW5nK0tlbm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c9e14085-5354-4823-b892-0edaf27fb4a9__MjAxX19CdXJuaW5nK0tlbm9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c9e14085-5354-4823-b892-0edaf27fb4a9__MjAxX19CdXJuaW5nK0tlbm9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Burning Keno</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/347de5b5-5fe5-4d30-9e51-b5630df5276d__NDA1X19DYW5keStQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/347de5b5-5fe5-4d30-9e51-b5630df5276d__NDA1X19DYW5keStQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/347de5b5-5fe5-4d30-9e51-b5630df5276d__NDA1X19DYW5keStQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/347de5b5-5fe5-4d30-9e51-b5630df5276d__NDA1X19DYW5keStQYWxhY2VfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Candy Palace</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0623013f-131f-4281-93f0-6c53f5847403__NTA2X19DYXJhbWVsK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0623013f-131f-4281-93f0-6c53f5847403__NTA2X19DYXJhbWVsK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0623013f-131f-4281-93f0-6c53f5847403__NTA2X19DYXJhbWVsK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0623013f-131f-4281-93f0-6c53f5847403__NTA2X19DYXJhbWVsK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Caramel Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d172c32d-a56b-42dc-b01c-3a9cb2fdad25__ODUwX19DYXNpbm8rTWFuaWFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d172c32d-a56b-42dc-b01c-3a9cb2fdad25__ODUwX19DYXNpbm8rTWFuaWFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d172c32d-a56b-42dc-b01c-3a9cb2fdad25__ODUwX19DYXNpbm8rTWFuaWFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d172c32d-a56b-42dc-b01c-3a9cb2fdad25__ODUwX19DYXNpbm8rTWFuaWFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Casino Mania</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f8ff03d6-f6a3-4ba9-be52-631055f8c28a__ODcxX19DYXRzK1JveWFsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f8ff03d6-f6a3-4ba9-be52-631055f8c28a__ODcxX19DYXRzK1JveWFsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f8ff03d6-f6a3-4ba9-be52-631055f8c28a__ODcxX19DYXRzK1JveWFsX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f8ff03d6-f6a3-4ba9-be52-631055f8c28a__ODcxX19DYXRzK1JveWFsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Cats Royal</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1b23d1cb-8c5b-4b12-bbec-a2f50619630f__ODI5X19DaXJjdXMrQnJpbGxpYW50X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1b23d1cb-8c5b-4b12-bbec-a2f50619630f__ODI5X19DaXJjdXMrQnJpbGxpYW50X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1b23d1cb-8c5b-4b12-bbec-a2f50619630f__ODI5X19DaXJjdXMrQnJpbGxpYW50X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1b23d1cb-8c5b-4b12-bbec-a2f50619630f__ODI5X19DaXJjdXMrQnJpbGxpYW50X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Circus Brilliant</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/92fae0cf-6cca-42b0-bee4-f1aa3ba6c22e__NTQyX19DaXJjdXMrQnJpbGxpYW50K0VRX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/92fae0cf-6cca-42b0-bee4-f1aa3ba6c22e__NTQyX19DaXJjdXMrQnJpbGxpYW50K0VRX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/92fae0cf-6cca-42b0-bee4-f1aa3ba6c22e__NTQyX19DaXJjdXMrQnJpbGxpYW50K0VRX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/92fae0cf-6cca-42b0-bee4-f1aa3ba6c22e__NTQyX19DaXJjdXMrQnJpbGxpYW50K0VRX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Circus Brilliant EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb364abf-1719-4f43-b942-22197447aedc__NDEyX19Db2NrdGFpbCtSdXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb364abf-1719-4f43-b942-22197447aedc__NDEyX19Db2NrdGFpbCtSdXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb364abf-1719-4f43-b942-22197447aedc__NDEyX19Db2NrdGFpbCtSdXNoX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/eb364abf-1719-4f43-b942-22197447aedc__NDEyX19Db2NrdGFpbCtSdXNoX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Cocktail Rush</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67fc0152-1d4b-4cf3-ace0-3e4d23926d5f__NTE0X19Db3JhbCtJc2xhbmRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67fc0152-1d4b-4cf3-ace0-3e4d23926d5f__NTE0X19Db3JhbCtJc2xhbmRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67fc0152-1d4b-4cf3-ace0-3e4d23926d5f__NTE0X19Db3JhbCtJc2xhbmRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67fc0152-1d4b-4cf3-ace0-3e4d23926d5f__NTE0X19Db3JhbCtJc2xhbmRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Coral Island</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d6beef3-af49-4cf9-887d-a3842c418aee__NTE4X19DcmF6eStCdWdzK0lJX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d6beef3-af49-4cf9-887d-a3842c418aee__NTE4X19DcmF6eStCdWdzK0lJX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d6beef3-af49-4cf9-887d-a3842c418aee__NTE4X19DcmF6eStCdWdzK0lJX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d6beef3-af49-4cf9-887d-a3842c418aee__NTE4X19DcmF6eStCdWdzK0lJX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Crazy Bugs II</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b12-74ef-8ed4-30f2390a6361__NDM3X19EYW5jaW5nK0RlYWRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b12-74ef-8ed4-30f2390a6361__NDM3X19EYW5jaW5nK0RlYWRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b12-74ef-8ed4-30f2390a6361__NDM3X19EYW5jaW5nK0RlYWRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b12-74ef-8ed4-30f2390a6361__NDM3X19EYW5jaW5nK0RlYWRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dancing Dead</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4bb04701-fc64-4c2f-a8f7-785fc4409178__ODU4X19EYXJrK1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4bb04701-fc64-4c2f-a8f7-785fc4409178__ODU4X19EYXJrK1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4bb04701-fc64-4c2f-a8f7-785fc4409178__ODU4X19EYXJrK1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4bb04701-fc64-4c2f-a8f7-785fc4409178__ODU4X19EYXJrK1F1ZWVuX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dark Queen</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0087d57-96c2-4c92-8063-fab1da118556__NDAyX19EaWFtb25kK1BsdXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0087d57-96c2-4c92-8063-fab1da118556__NDAyX19EaWFtb25kK1BsdXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0087d57-96c2-4c92-8063-fab1da118556__NDAyX19EaWFtb25kK1BsdXNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0087d57-96c2-4c92-8063-fab1da118556__NDAyX19EaWFtb25kK1BsdXNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Diamond Plus</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6414945-2de5-446a-95a0-75cd0e2be552__NTE5X19EaWNlK0hpZ2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6414945-2de5-446a-95a0-75cd0e2be552__NTE5X19EaWNlK0hpZ2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6414945-2de5-446a-95a0-75cd0e2be552__NTE5X19EaWNlK0hpZ2hfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6414945-2de5-446a-95a0-75cd0e2be552__NTE5X19EaWNlK0hpZ2hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dice High</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dice &amp; Roll</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ba353fb7-b6d3-46fb-837f-d591e251e15b__NTc5X19Eb3JvdGh5JTI3cytGYWlyeWxhbmRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ba353fb7-b6d3-46fb-837f-d591e251e15b__NTc5X19Eb3JvdGh5JTI3cytGYWlyeWxhbmRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ba353fb7-b6d3-46fb-837f-d591e251e15b__NTc5X19Eb3JvdGh5JTI3cytGYWlyeWxhbmRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ba353fb7-b6d3-46fb-837f-d591e251e15b__NTc5X19Eb3JvdGh5JTI3cytGYWlyeWxhbmRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dorothy's Fairyland</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/59247627-58f5-4b2e-830b-7fd56c253f95__ODg4X19EcmFnb24rSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/59247627-58f5-4b2e-830b-7fd56c253f95__ODg4X19EcmFnb24rSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/59247627-58f5-4b2e-830b-7fd56c253f95__ODg4X19EcmFnb24rSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/59247627-58f5-4b2e-830b-7fd56c253f95__ODg4X19EcmFnb24rSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dragon Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e50aedf2-adb4-43f0-b7c6-a3650eceb6db__NTA4X19EcmFnb24rUmVib3JuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e50aedf2-adb4-43f0-b7c6-a3650eceb6db__NTA4X19EcmFnb24rUmVib3JuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e50aedf2-adb4-43f0-b7c6-a3650eceb6db__NTA4X19EcmFnb24rUmVib3JuX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e50aedf2-adb4-43f0-b7c6-a3650eceb6db__NTA4X19EcmFnb24rUmVib3JuX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dragon Reborn</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b887855-8f17-4721-817b-d61beaabf9fc__ODEzX19EcmFnb24rUmVlbHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b887855-8f17-4721-817b-d61beaabf9fc__ODEzX19EcmFnb24rUmVlbHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b887855-8f17-4721-817b-d61beaabf9fc__ODEzX19EcmFnb24rUmVlbHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b887855-8f17-4721-817b-d61beaabf9fc__ODEzX19EcmFnb24rUmVlbHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dragon Reels</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f824d3-ce63-4074-91e5-367165e64e3c__NDI1X19Ecm9wcytvZitXYXRlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f824d3-ce63-4074-91e5-367165e64e3c__NDI1X19Ecm9wcytvZitXYXRlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f824d3-ce63-4074-91e5-367165e64e3c__NDI1X19Ecm9wcytvZitXYXRlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b5f824d3-ce63-4074-91e5-367165e64e3c__NDI1X19Ecm9wcytvZitXYXRlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Drops of Water</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dynamic Roulette 120x (Entertainer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0f60519-f4b4-42cf-8e95-9bf418a0537d__ODI1X19FZ3lwdCtTa3lfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0f60519-f4b4-42cf-8e95-9bf418a0537d__ODI1X19FZ3lwdCtTa3lfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0f60519-f4b4-42cf-8e95-9bf418a0537d__ODI1X19FZ3lwdCtTa3lfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f0f60519-f4b4-42cf-8e95-9bf418a0537d__ODI1X19FZ3lwdCtTa3lfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Egypt Sky</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2573ec92-67e7-4d62-a41d-4e81c573871d__NTQzX19FZ3lwdCtTa3krRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2573ec92-67e7-4d62-a41d-4e81c573871d__NTQzX19FZ3lwdCtTa3krRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2573ec92-67e7-4d62-a41d-4e81c573871d__NTQzX19FZ3lwdCtTa3krRVFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2573ec92-67e7-4d62-a41d-4e81c573871d__NTQzX19FZ3lwdCtTa3krRVFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Egypt Sky EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5ff06cba-c6d3-4ff9-9849-0d4033b29f6a__NTc4X19FbXBlcm9yJTI3cytQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5ff06cba-c6d3-4ff9-9849-0d4033b29f6a__NTc4X19FbXBlcm9yJTI3cytQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5ff06cba-c6d3-4ff9-9849-0d4033b29f6a__NTc4X19FbXBlcm9yJTI3cytQYWxhY2VfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5ff06cba-c6d3-4ff9-9849-0d4033b29f6a__NTc4X19FbXBlcm9yJTI3cytQYWxhY2VfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Emperor's Palace</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/28317bb2-e260-45ec-b7af-108806f3a3ce__NTk5X19FbXByZXNzK0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/28317bb2-e260-45ec-b7af-108806f3a3ce__NTk5X19FbXByZXNzK0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/28317bb2-e260-45ec-b7af-108806f3a3ce__NTk5X19FbXByZXNzK0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/28317bb2-e260-45ec-b7af-108806f3a3ce__NTk5X19FbXByZXNzK0NoYXJtX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Empress Charm</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3902a97d-dfcd-4ae3-b2b2-321b7fd2df80__ODIyX19FeHRyYStTdGFyc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3902a97d-dfcd-4ae3-b2b2-321b7fd2df80__ODIyX19FeHRyYStTdGFyc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3902a97d-dfcd-4ae3-b2b2-321b7fd2df80__ODIyX19FeHRyYStTdGFyc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3902a97d-dfcd-4ae3-b2b2-321b7fd2df80__ODIyX19FeHRyYStTdGFyc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Extra Stars</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef758037-47fc-4759-b588-0ef0d37f60e5__ODgwX19FeHRyZW1lbHkrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef758037-47fc-4759-b588-0ef0d37f60e5__ODgwX19FeHRyZW1lbHkrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef758037-47fc-4759-b588-0ef0d37f60e5__ODgwX19FeHRyZW1lbHkrSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef758037-47fc-4759-b588-0ef0d37f60e5__ODgwX19FeHRyZW1lbHkrSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Extremely Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/12859349-171a-4915-8db5-f1cb6bf3254e__NTAxX19GYXN0K01vbmV5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/12859349-171a-4915-8db5-f1cb6bf3254e__NTAxX19GYXN0K01vbmV5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/12859349-171a-4915-8db5-f1cb6bf3254e__NTAxX19GYXN0K01vbmV5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/12859349-171a-4915-8db5-f1cb6bf3254e__NTAxX19GYXN0K01vbmV5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Fast Money</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Flaming Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c4ebf2ec-0eca-4ece-bd51-913b4765cba7__NDMyX19GbGFtaW5nK0hvdCs2K3JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c4ebf2ec-0eca-4ece-bd51-913b4765cba7__NDMyX19GbGFtaW5nK0hvdCs2K3JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c4ebf2ec-0eca-4ece-bd51-913b4765cba7__NDMyX19GbGFtaW5nK0hvdCs2K3JlZWxzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c4ebf2ec-0eca-4ece-bd51-913b4765cba7__NDMyX19GbGFtaW5nK0hvdCs2K3JlZWxzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Flaming Hot 6 reels</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Flaming Hot Extreme</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a0f00eb-a9e0-47a9-9000-c9ef3077c9c4__ODM1X19Gb3Jlc3QrQmFuZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a0f00eb-a9e0-47a9-9000-c9ef3077c9c4__ODM1X19Gb3Jlc3QrQmFuZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a0f00eb-a9e0-47a9-9000-c9ef3077c9c4__ODM1X19Gb3Jlc3QrQmFuZF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a0f00eb-a9e0-47a9-9000-c9ef3077c9c4__ODM1X19Gb3Jlc3QrQmFuZF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Forest Band</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2a57a6cd-69b0-4e8c-b13e-33113139df3f__ODc2X19Gb3Jlc3QrVGFsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2a57a6cd-69b0-4e8c-b13e-33113139df3f__ODc2X19Gb3Jlc3QrVGFsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2a57a6cd-69b0-4e8c-b13e-33113139df3f__ODc2X19Gb3Jlc3QrVGFsZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2a57a6cd-69b0-4e8c-b13e-33113139df3f__ODc2X19Gb3Jlc3QrVGFsZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Forest Tale</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a431775-7d23-46c5-b91a-f5c882feeea1__ODIwX19Gb3J0dW5lK1NwZWxsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a431775-7d23-46c5-b91a-f5c882feeea1__ODIwX19Gb3J0dW5lK1NwZWxsc19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a431775-7d23-46c5-b91a-f5c882feeea1__ODIwX19Gb3J0dW5lK1NwZWxsc19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0a431775-7d23-46c5-b91a-f5c882feeea1__ODIwX19Gb3J0dW5lK1NwZWxsc19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Fortune Spells</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d8166126-8124-486d-82da-ca48793ff4f5__ODUzX19Gcm9nK1N0b3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d8166126-8124-486d-82da-ca48793ff4f5__ODUzX19Gcm9nK1N0b3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d8166126-8124-486d-82da-ca48793ff4f5__ODUzX19Gcm9nK1N0b3J5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d8166126-8124-486d-82da-ca48793ff4f5__ODUzX19Gcm9nK1N0b3J5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Frog Story</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/529abd98-6a05-4a7d-81de-4b5f2ca6eaac__NDE3X19GcnVpdHMrJTI2K0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/529abd98-6a05-4a7d-81de-4b5f2ca6eaac__NDE3X19GcnVpdHMrJTI2K0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/529abd98-6a05-4a7d-81de-4b5f2ca6eaac__NDE3X19GcnVpdHMrJTI2K0dvbGRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/529abd98-6a05-4a7d-81de-4b5f2ca6eaac__NDE3X19GcnVpdHMrJTI2K0dvbGRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Fruits &amp; Gold</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e1d89e97-0a16-495c-80c3-58b142cb095f__ODExX19GcnVpdHMrS2luZ2RvbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e1d89e97-0a16-495c-80c3-58b142cb095f__ODExX19GcnVpdHMrS2luZ2RvbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e1d89e97-0a16-495c-80c3-58b142cb095f__ODExX19GcnVpdHMrS2luZ2RvbV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e1d89e97-0a16-495c-80c3-58b142cb095f__ODExX19GcnVpdHMrS2luZ2RvbV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Fruits Kingdom</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d72254f-8959-403b-a296-3d60d7d1fc4b__NDA3X19GcnVpdHkrVGltZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d72254f-8959-403b-a296-3d60d7d1fc4b__NDA3X19GcnVpdHkrVGltZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d72254f-8959-403b-a296-3d60d7d1fc4b__NDA3X19GcnVpdHkrVGltZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3d72254f-8959-403b-a296-3d60d7d1fc4b__NDA3X19GcnVpdHkrVGltZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Fruity Time</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/88598724-c199-4b9a-a46d-3d9c0e9c4a6d__ODIzX19HYW1lK29mK0x1Y2tfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/88598724-c199-4b9a-a46d-3d9c0e9c4a6d__ODIzX19HYW1lK29mK0x1Y2tfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/88598724-c199-4b9a-a46d-3d9c0e9c4a6d__ODIzX19HYW1lK29mK0x1Y2tfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/88598724-c199-4b9a-a46d-3d9c0e9c4a6d__ODIzX19HYW1lK29mK0x1Y2tfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Game of Luck</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3bcfb1c-9c29-46a9-be29-b2c24df816b5__ODcyX19HZW5pdXMrb2YrTGVvbmFyZG9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3bcfb1c-9c29-46a9-be29-b2c24df816b5__ODcyX19HZW5pdXMrb2YrTGVvbmFyZG9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3bcfb1c-9c29-46a9-be29-b2c24df816b5__ODcyX19HZW5pdXMrb2YrTGVvbmFyZG9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3bcfb1c-9c29-46a9-be29-b2c24df816b5__ODcyX19HZW5pdXMrb2YrTGVvbmFyZG9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Genius of Leonardo</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0f3142a3-20e7-4f91-a2bd-d54c1214e44c__ODYyX19Hb2xkK0R1c3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0f3142a3-20e7-4f91-a2bd-d54c1214e44c__ODYyX19Hb2xkK0R1c3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0f3142a3-20e7-4f91-a2bd-d54c1214e44c__ODYyX19Hb2xkK0R1c3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0f3142a3-20e7-4f91-a2bd-d54c1214e44c__ODYyX19Hb2xkK0R1c3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Gold Dust</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e159caa-a12a-46ed-9aa4-08c998881182__ODE3X19HcmFjZStvZitDbGVvcGF0cmFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e159caa-a12a-46ed-9aa4-08c998881182__ODE3X19HcmFjZStvZitDbGVvcGF0cmFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e159caa-a12a-46ed-9aa4-08c998881182__ODE3X19HcmFjZStvZitDbGVvcGF0cmFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e159caa-a12a-46ed-9aa4-08c998881182__ODE3X19HcmFjZStvZitDbGVvcGF0cmFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Grace of Cleopatra</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b87b0cd0-d0e7-4fef-8ade-50ef48497f66__NTU1X19HcmVhdCsyN19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b87b0cd0-d0e7-4fef-8ade-50ef48497f66__NTU1X19HcmVhdCsyN19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b87b0cd0-d0e7-4fef-8ade-50ef48497f66__NTU1X19HcmVhdCsyN19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b87b0cd0-d0e7-4fef-8ade-50ef48497f66__NTU1X19HcmVhdCsyN19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Great 27</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e21a19d-c7ae-4e96-ad6b-84c19bead30d__ODM3X19HcmVhdCtBZHZlbnR1cmVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e21a19d-c7ae-4e96-ad6b-84c19bead30d__ODM3X19HcmVhdCtBZHZlbnR1cmVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e21a19d-c7ae-4e96-ad6b-84c19bead30d__ODM3X19HcmVhdCtBZHZlbnR1cmVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e21a19d-c7ae-4e96-ad6b-84c19bead30d__ODM3X19HcmVhdCtBZHZlbnR1cmVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Great Adventure</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/83a33cd4-b1b6-496c-ad0b-8a26b13bba99__ODY0X19HcmVhdCtFbXBpcmVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/83a33cd4-b1b6-496c-ad0b-8a26b13bba99__ODY0X19HcmVhdCtFbXBpcmVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/83a33cd4-b1b6-496c-ad0b-8a26b13bba99__ODY0X19HcmVhdCtFbXBpcmVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/83a33cd4-b1b6-496c-ad0b-8a26b13bba99__ODY0X19HcmVhdCtFbXBpcmVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Great Empire</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/82306094-d05a-4778-b33c-f12a0c840f89__NDE2X19HcmVlaytGb3J0dW5lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/82306094-d05a-4778-b33c-f12a0c840f89__NDE2X19HcmVlaytGb3J0dW5lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/82306094-d05a-4778-b33c-f12a0c840f89__NDE2X19HcmVlaytGb3J0dW5lX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/82306094-d05a-4778-b33c-f12a0c840f89__NDE2X19HcmVlaytGb3J0dW5lX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Greek Fortune</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e297538-8b6a-4bc9-9901-dc0050c64bf1__ODMzX19IYWxsb3dlZW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e297538-8b6a-4bc9-9901-dc0050c64bf1__ODMzX19IYWxsb3dlZW5fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e297538-8b6a-4bc9-9901-dc0050c64bf1__ODMzX19IYWxsb3dlZW5fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e297538-8b6a-4bc9-9901-dc0050c64bf1__ODMzX19IYWxsb3dlZW5fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Halloween</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6c1ae60-176d-48e3-9619-78a789087164__NTQxX19IYWxsb3dlZW4rRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6c1ae60-176d-48e3-9619-78a789087164__NTQxX19IYWxsb3dlZW4rRVFfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6c1ae60-176d-48e3-9619-78a789087164__NTQxX19IYWxsb3dlZW4rRVFfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b6c1ae60-176d-48e3-9619-78a789087164__NTQxX19IYWxsb3dlZW4rRVFfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Halloween EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/090a581c-3f92-4c82-88b2-fb8dfa536b25__ODY2X19Ib3QrJTI2K0Nhc2hfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Hot &amp; Cash</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e226aaac-bc59-4da2-a0c1-9fa2126b9b1f__NDExX19Ib3QrRGVjb19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e226aaac-bc59-4da2-a0c1-9fa2126b9b1f__NDExX19Ib3QrRGVjb19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e226aaac-bc59-4da2-a0c1-9fa2126b9b1f__NDExX19Ib3QrRGVjb19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e226aaac-bc59-4da2-a0c1-9fa2126b9b1f__NDExX19Ib3QrRGVjb19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Hot Deco</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bbbd8d10-c8d0-4604-b2ef-60657559c62d__NzA0X19Ib3QrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bbbd8d10-c8d0-4604-b2ef-60657559c62d__NzA0X19Ib3QrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bbbd8d10-c8d0-4604-b2ef-60657559c62d__NzA0X19Ib3QrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bbbd8d10-c8d0-4604-b2ef-60657559c62d__NzA0X19Ib3QrS2Vub19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Hot Keno</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ce843e5-a308-48a4-b856-36fbb816d2c7__NTcxX19JY2UrVmFsbGV5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ce843e5-a308-48a4-b856-36fbb816d2c7__NTcxX19JY2UrVmFsbGV5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ce843e5-a308-48a4-b856-36fbb816d2c7__NTcxX19JY2UrVmFsbGV5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ce843e5-a308-48a4-b856-36fbb816d2c7__NTcxX19JY2UrVmFsbGV5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Ice Valley</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2b8b170-3ab0-4c40-bdcc-1a79c9903e07__ODQxX19JbXBlcmlhbCtXYXJzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2b8b170-3ab0-4c40-bdcc-1a79c9903e07__ODQxX19JbXBlcmlhbCtXYXJzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2b8b170-3ab0-4c40-bdcc-1a79c9903e07__ODQxX19JbXBlcmlhbCtXYXJzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2b8b170-3ab0-4c40-bdcc-1a79c9903e07__ODQxX19JbXBlcmlhbCtXYXJzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Imperial Wars</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/38e47fb6-6fc9-49a4-a0ac-759ce5d88624__ODY1X19JbmNhK0dvbGQrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/38e47fb6-6fc9-49a4-a0ac-759ce5d88624__ODY1X19JbmNhK0dvbGQrSUlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/38e47fb6-6fc9-49a4-a0ac-759ce5d88624__ODY1X19JbmNhK0dvbGQrSUlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/38e47fb6-6fc9-49a4-a0ac-759ce5d88624__ODY1X19JbmNhK0dvbGQrSUlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Inca Gold II</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e6f69c68-7178-477e-bd38-2543cd5df0f1__OTAxX19KYWNrcytvcitCZXR0ZXIrUG9rZXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e6f69c68-7178-477e-bd38-2543cd5df0f1__OTAxX19KYWNrcytvcitCZXR0ZXIrUG9rZXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e6f69c68-7178-477e-bd38-2543cd5df0f1__OTAxX19KYWNrcytvcitCZXR0ZXIrUG9rZXJfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e6f69c68-7178-477e-bd38-2543cd5df0f1__OTAxX19KYWNrcytvcitCZXR0ZXIrUG9rZXJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Jacks or Better Poker</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/840c38e9-9ec9-4757-acd7-ae4bf1b2cf4e__OTAyX19Kb2tlcitQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/840c38e9-9ec9-4757-acd7-ae4bf1b2cf4e__OTAyX19Kb2tlcitQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/840c38e9-9ec9-4757-acd7-ae4bf1b2cf4e__OTAyX19Kb2tlcitQb2tlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/840c38e9-9ec9-4757-acd7-ae4bf1b2cf4e__OTAyX19Kb2tlcitQb2tlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Joker Poker</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0ba3df4b-5885-483b-94cf-04803093786c__NTAzX19KdW5nbGUrQWR2ZW50dXJlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0ba3df4b-5885-483b-94cf-04803093786c__NTAzX19KdW5nbGUrQWR2ZW50dXJlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0ba3df4b-5885-483b-94cf-04803093786c__NTAzX19KdW5nbGUrQWR2ZW50dXJlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0ba3df4b-5885-483b-94cf-04803093786c__NTAzX19KdW5nbGUrQWR2ZW50dXJlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Jungle Adventure</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/636362eb-8a69-4e3c-8057-e42ed504ec31__NTk3X19LYW1ha3VyYV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/636362eb-8a69-4e3c-8057-e42ed504ec31__NTk3X19LYW1ha3VyYV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/636362eb-8a69-4e3c-8057-e42ed504ec31__NTk3X19LYW1ha3VyYV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/636362eb-8a69-4e3c-8057-e42ed504ec31__NTk3X19LYW1ha3VyYV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Kamakura</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/714f1d37-df72-4a4d-8def-1af7a38707e9__ODM2X19LYW5nYXJvbytMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/714f1d37-df72-4a4d-8def-1af7a38707e9__ODM2X19LYW5nYXJvbytMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/714f1d37-df72-4a4d-8def-1af7a38707e9__ODM2X19LYW5nYXJvbytMYW5kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/714f1d37-df72-4a4d-8def-1af7a38707e9__ODM2X19LYW5nYXJvbytMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Kangaroo Land</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a585bc86-8372-486b-b451-a4e5fb6b8091__ODQ2X19LYXNobWlyK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a585bc86-8372-486b-b451-a4e5fb6b8091__ODQ2X19LYXNobWlyK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a585bc86-8372-486b-b451-a4e5fb6b8091__ODQ2X19LYXNobWlyK0dvbGRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a585bc86-8372-486b-b451-a4e5fb6b8091__ODQ2X19LYXNobWlyK0dvbGRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Kashmir Gold</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b2c-7f70-b1cc-0c746dacd57a__NDUyX19LZW1ldCVFMiU4MCU5OXMrVHJlYXN1cmVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b2c-7f70-b1cc-0c746dacd57a__NDUyX19LZW1ldCVFMiU4MCU5OXMrVHJlYXN1cmVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b2c-7f70-b1cc-0c746dacd57a__NDUyX19LZW1ldCVFMiU4MCU5OXMrVHJlYXN1cmVzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b2c-7f70-b1cc-0c746dacd57a__NDUyX19LZW1ldCVFMiU4MCU5OXMrVHJlYXN1cmVzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Kemet’s Treasures</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d5427f4-dd38-4aaf-988a-869f19b9d472__NzAxX19LZW5vK1VuaXZlcnNlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d5427f4-dd38-4aaf-988a-869f19b9d472__NzAxX19LZW5vK1VuaXZlcnNlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d5427f4-dd38-4aaf-988a-869f19b9d472__NzAxX19LZW5vK1VuaXZlcnNlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0d5427f4-dd38-4aaf-988a-869f19b9d472__NzAxX19LZW5vK1VuaXZlcnNlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Keno Universe</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0b758dc-776b-4706-a4f5-628f4e99692a__NTc0X19LbmlnaHQlMjdzK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0b758dc-776b-4706-a4f5-628f4e99692a__NTc0X19LbmlnaHQlMjdzK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0b758dc-776b-4706-a4f5-628f4e99692a__NTc0X19LbmlnaHQlMjdzK0hlYXJ0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0b758dc-776b-4706-a4f5-628f4e99692a__NTc0X19LbmlnaHQlMjdzK0hlYXJ0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Knight's Heart</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dc774b-480a-4ca5-89cb-7073e19791af__NTEwX19MZWdlbmRhcnkrUm9tZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dc774b-480a-4ca5-89cb-7073e19791af__NTEwX19MZWdlbmRhcnkrUm9tZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dc774b-480a-4ca5-89cb-7073e19791af__NTEwX19MZWdlbmRhcnkrUm9tZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dc774b-480a-4ca5-89cb-7073e19791af__NTEwX19MZWdlbmRhcnkrUm9tZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Legendary Rome</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac4ee8bf-2ff2-4c22-bb53-cf1bce75ccdd__NTE1X19MaWtlK2ErRGlhbW9uZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac4ee8bf-2ff2-4c22-bb53-cf1bce75ccdd__NTE1X19MaWtlK2ErRGlhbW9uZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac4ee8bf-2ff2-4c22-bb53-cf1bce75ccdd__NTE1X19MaWtlK2ErRGlhbW9uZF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac4ee8bf-2ff2-4c22-bb53-cf1bce75ccdd__NTE1X19MaWtlK2ErRGlhbW9uZF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Like a Diamond</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dfca20f-979b-457a-974a-e4ade4cb2256__MTlfX0xpdmUrRXVyb3BlYW4rUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dfca20f-979b-457a-974a-e4ade4cb2256__MTlfX0xpdmUrRXVyb3BlYW4rUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dfca20f-979b-457a-974a-e4ade4cb2256__MTlfX0xpdmUrRXVyb3BlYW4rUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dfca20f-979b-457a-974a-e4ade4cb2256__MTlfX0xpdmUrRXVyb3BlYW4rUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Live European Roulette (Dealer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Live Roulette - Russian (Dealer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cbb05d32-c575-44da-ae05-334172797870__MzBfX0xpdmUrU3BlZWQrUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cbb05d32-c575-44da-ae05-334172797870__MzBfX0xpdmUrU3BlZWQrUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cbb05d32-c575-44da-ae05-334172797870__MzBfX0xpdmUrU3BlZWQrUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/cbb05d32-c575-44da-ae05-334172797870__MzBfX0xpdmUrU3BlZWQrUm91bGV0dGUrJTI4RGVhbGVyJTI5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Live Speed Roulette (Dealer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7eeb1522-1a62-4fec-914d-b68bbff0cc34__ODgxX19MdWNreStCdXp6X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7eeb1522-1a62-4fec-914d-b68bbff0cc34__ODgxX19MdWNreStCdXp6X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7eeb1522-1a62-4fec-914d-b68bbff0cc34__ODgxX19MdWNreStCdXp6X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7eeb1522-1a62-4fec-914d-b68bbff0cc34__ODgxX19MdWNreStCdXp6X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky Buzz</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/581b30ce-c114-4e8f-b05e-a550b8a2acb6__ODQ5X19MdWNreStIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/581b30ce-c114-4e8f-b05e-a550b8a2acb6__ODQ5X19MdWNreStIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/581b30ce-c114-4e8f-b05e-a550b8a2acb6__ODQ5X19MdWNreStIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/581b30ce-c114-4e8f-b05e-a550b8a2acb6__ODQ5X19MdWNreStIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/90e118f0-09c5-4eb7-8b04-cfc5452ec141__ODY4X19MdWNreSslMjYrV2lsZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/90e118f0-09c5-4eb7-8b04-cfc5452ec141__ODY4X19MdWNreSslMjYrV2lsZF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/90e118f0-09c5-4eb7-8b04-cfc5452ec141__ODY4X19MdWNreSslMjYrV2lsZF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/90e118f0-09c5-4eb7-8b04-cfc5452ec141__ODY4X19MdWNreSslMjYrV2lsZF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky &amp; Wild</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/08a59900-3a5f-461b-bee4-4cff517547e6__NTczX19MdWNreStXb29kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/08a59900-3a5f-461b-bee4-4cff517547e6__NTczX19MdWNreStXb29kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/08a59900-3a5f-461b-bee4-4cff517547e6__NTczX19MdWNreStXb29kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/08a59900-3a5f-461b-bee4-4cff517547e6__NTczX19MdWNreStXb29kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky Wood</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/215c40ae-0432-490c-9bb3-534dc10876a3__NTAyX19NYWdlbGxhbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/215c40ae-0432-490c-9bb3-534dc10876a3__NTAyX19NYWdlbGxhbl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/215c40ae-0432-490c-9bb3-534dc10876a3__NTAyX19NYWdlbGxhbl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/215c40ae-0432-490c-9bb3-534dc10876a3__NTAyX19NYWdlbGxhbl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Magellan</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcca83f1-4b1f-4907-b5b8-829c07e02a20__NTk4X19NYWdpYytHdWFyZGlhbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcca83f1-4b1f-4907-b5b8-829c07e02a20__NTk4X19NYWdpYytHdWFyZGlhbnNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcca83f1-4b1f-4907-b5b8-829c07e02a20__NTk4X19NYWdpYytHdWFyZGlhbnNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcca83f1-4b1f-4907-b5b8-829c07e02a20__NTk4X19NYWdpYytHdWFyZGlhbnNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Magic Guardians</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8d56c88-1c90-468b-bd7d-cd0112e4999e__ODMwX19NYWplc3RpYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8d56c88-1c90-468b-bd7d-cd0112e4999e__ODMwX19NYWplc3RpYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8d56c88-1c90-468b-bd7d-cd0112e4999e__ODMwX19NYWplc3RpYytGb3Jlc3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8d56c88-1c90-468b-bd7d-cd0112e4999e__ODMwX19NYWplc3RpYytGb3Jlc3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Majestic Forest</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0358bdbd-1db4-413a-bb1a-e30128007bf5__ODk4X19NYXlhbitTcGlyaXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0358bdbd-1db4-413a-bb1a-e30128007bf5__ODk4X19NYXlhbitTcGlyaXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0358bdbd-1db4-413a-bb1a-e30128007bf5__ODk4X19NYXlhbitTcGlyaXRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0358bdbd-1db4-413a-bb1a-e30128007bf5__ODk4X19NYXlhbitTcGlyaXRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mayan Spirit</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b9c9a963-130f-4079-9530-cc085059c63c__NDA0X19NaWdodHkrU3BhcnRhX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b9c9a963-130f-4079-9530-cc085059c63c__NDA0X19NaWdodHkrU3BhcnRhX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b9c9a963-130f-4079-9530-cc085059c63c__NDA0X19NaWdodHkrU3BhcnRhX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b9c9a963-130f-4079-9530-cc085059c63c__NDA0X19NaWdodHkrU3BhcnRhX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mighty Sparta</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b72d4a7-bf47-4b43-9ff1-4c03c62d1bef__ODg3X19NaW5pK0J1cm5pbmcrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b72d4a7-bf47-4b43-9ff1-4c03c62d1bef__ODg3X19NaW5pK0J1cm5pbmcrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b72d4a7-bf47-4b43-9ff1-4c03c62d1bef__ODg3X19NaW5pK0J1cm5pbmcrSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7b72d4a7-bf47-4b43-9ff1-4c03c62d1bef__ODg3X19NaW5pK0J1cm5pbmcrSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mini Burning Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/30cb1a32-66fe-40e2-9afa-3e52171ca95d__ODkwX19NaW5pK1N1cHJlbWUrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/30cb1a32-66fe-40e2-9afa-3e52171ca95d__ODkwX19NaW5pK1N1cHJlbWUrSG90X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/30cb1a32-66fe-40e2-9afa-3e52171ca95d__ODkwX19NaW5pK1N1cHJlbWUrSG90X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/30cb1a32-66fe-40e2-9afa-3e52171ca95d__ODkwX19NaW5pK1N1cHJlbWUrSG90X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mini Supreme Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f770cb8e-1c49-42a0-b076-56f1b639804d__ODkxX19NaW5pK1VsdGltYXRlK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f770cb8e-1c49-42a0-b076-56f1b639804d__ODkxX19NaW5pK1VsdGltYXRlK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f770cb8e-1c49-42a0-b076-56f1b639804d__ODkxX19NaW5pK1VsdGltYXRlK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f770cb8e-1c49-42a0-b076-56f1b639804d__ODkxX19NaW5pK1VsdGltYXRlK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mini Ultimate Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb0a85b2-b778-4f51-82c8-fc2cce5fb650__ODc1X19Nb3JlK0RpY2UrJTI2K1JvbGxfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb0a85b2-b778-4f51-82c8-fc2cce5fb650__ODc1X19Nb3JlK0RpY2UrJTI2K1JvbGxfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb0a85b2-b778-4f51-82c8-fc2cce5fb650__ODc1X19Nb3JlK0RpY2UrJTI2K1JvbGxfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fb0a85b2-b778-4f51-82c8-fc2cce5fb650__ODc1X19Nb3JlK0RpY2UrJTI2K1JvbGxfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">More Dice &amp; Roll</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e9d81d3e-13ff-4275-8990-05e0b3577e66__NTE2X19Nb3JlK0xpa2UrYStEaWFtb25kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e9d81d3e-13ff-4275-8990-05e0b3577e66__NTE2X19Nb3JlK0xpa2UrYStEaWFtb25kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e9d81d3e-13ff-4275-8990-05e0b3577e66__NTE2X19Nb3JlK0xpa2UrYStEaWFtb25kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e9d81d3e-13ff-4275-8990-05e0b3577e66__NTE2X19Nb3JlK0xpa2UrYStEaWFtb25kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">More Like a Diamond</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f896803e-ed8b-4878-8e9a-baa81069089a__ODY5X19Nb3JlK0x1Y2t5KyUyNitXaWxkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f896803e-ed8b-4878-8e9a-baa81069089a__ODY5X19Nb3JlK0x1Y2t5KyUyNitXaWxkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f896803e-ed8b-4878-8e9a-baa81069089a__ODY5X19Nb3JlK0x1Y2t5KyUyNitXaWxkX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f896803e-ed8b-4878-8e9a-baa81069089a__ODY5X19Nb3JlK0x1Y2t5KyUyNitXaWxkX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">More Lucky &amp; Wild</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9d41b989-ba17-4af4-ad9b-bae53d5723db__NTc3X19NeXRoaWNhbCtUcmVhc3VyZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9d41b989-ba17-4af4-ad9b-bae53d5723db__NTc3X19NeXRoaWNhbCtUcmVhc3VyZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9d41b989-ba17-4af4-ad9b-bae53d5723db__NTc3X19NeXRoaWNhbCtUcmVhc3VyZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9d41b989-ba17-4af4-ad9b-bae53d5723db__NTc3X19NeXRoaWNhbCtUcmVhc3VyZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Mythical Treasure</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/108e45e0-0461-4585-848d-c4f0793a9d41__ODM5X19PY2VhbitSdXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/108e45e0-0461-4585-848d-c4f0793a9d41__ODM5X19PY2VhbitSdXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/108e45e0-0461-4585-848d-c4f0793a9d41__ODM5X19PY2VhbitSdXNoX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/108e45e0-0461-4585-848d-c4f0793a9d41__ODM5X19PY2VhbitSdXNoX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Ocean Rush</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/56e30416-878e-41ae-b6e3-b67c344cbc13__ODQ4X19PaWwrQ29tcGFueStJSV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/56e30416-878e-41ae-b6e3-b67c344cbc13__ODQ4X19PaWwrQ29tcGFueStJSV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/56e30416-878e-41ae-b6e3-b67c344cbc13__ODQ4X19PaWwrQ29tcGFueStJSV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/56e30416-878e-41ae-b6e3-b67c344cbc13__ODQ4X19PaWwrQ29tcGFueStJSV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Oil Company II</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d76b0583-b772-416b-b20a-86e8517765f6__ODE5X19PbHltcHVzK0dsb3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d76b0583-b772-416b-b20a-86e8517765f6__ODE5X19PbHltcHVzK0dsb3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d76b0583-b772-416b-b20a-86e8517765f6__ODE5X19PbHltcHVzK0dsb3J5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d76b0583-b772-416b-b20a-86e8517765f6__ODE5X19PbHltcHVzK0dsb3J5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Olympus Glory</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9a7953f1-618d-4dd1-ba44-63994fa0c95b__MjlfX09ueXgrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9a7953f1-618d-4dd1-ba44-63994fa0c95b__MjlfX09ueXgrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9a7953f1-618d-4dd1-ba44-63994fa0c95b__MjlfX09ueXgrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9a7953f1-618d-4dd1-ba44-63994fa0c95b__MjlfX09ueXgrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Onyx Auto Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36f828d6-e08c-4f88-8b3f-c0c11b9f9163__NTkzX19PcmllbnQrU3RvcnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36f828d6-e08c-4f88-8b3f-c0c11b9f9163__NTkzX19PcmllbnQrU3RvcnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36f828d6-e08c-4f88-8b3f-c0c11b9f9163__NTkzX19PcmllbnQrU3RvcnlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36f828d6-e08c-4f88-8b3f-c0c11b9f9163__NTkzX19PcmllbnQrU3RvcnlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Orient Story</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/080aa01c-5492-4478-b917-2b49126c48ae__ODUyX19QZW5ndWluK1N0eWxlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/080aa01c-5492-4478-b917-2b49126c48ae__ODUyX19QZW5ndWluK1N0eWxlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/080aa01c-5492-4478-b917-2b49126c48ae__ODUyX19QZW5ndWluK1N0eWxlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/080aa01c-5492-4478-b917-2b49126c48ae__ODUyX19QZW5ndWluK1N0eWxlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Penguin Style</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b77f587f-32a3-45fb-a2ef-b06f9c1ef48e__NTc2X19QaW4rVXArUXVlZW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b77f587f-32a3-45fb-a2ef-b06f9c1ef48e__NTc2X19QaW4rVXArUXVlZW5zX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b77f587f-32a3-45fb-a2ef-b06f9c1ef48e__NTc2X19QaW4rVXArUXVlZW5zX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b77f587f-32a3-45fb-a2ef-b06f9c1ef48e__NTc2X19QaW4rVXArUXVlZW5zX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Pin Up Queens</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6c765c88-d7fb-46a7-a625-46e513af7d9d__NDMxX19Qb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6c765c88-d7fb-46a7-a625-46e513af7d9d__NDMxX19Qb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6c765c88-d7fb-46a7-a625-46e513af7d9d__NDMxX19Qb3dlcitIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6c765c88-d7fb-46a7-a625-46e513af7d9d__NDMxX19Qb3dlcitIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Power Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5e9080c4-5dd9-4bd6-be94-b603a6d0b87b__NTEyX19RdWVlbitvZitSaW9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5e9080c4-5dd9-4bd6-be94-b603a6d0b87b__NTEyX19RdWVlbitvZitSaW9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5e9080c4-5dd9-4bd6-be94-b603a6d0b87b__NTEyX19RdWVlbitvZitSaW9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5e9080c4-5dd9-4bd6-be94-b603a6d0b87b__NTEyX19RdWVlbitvZitSaW9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Queen of Rio</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce5f8eac-54dc-4ce8-93ad-154f9aa1c5d8__NTcyX19SYWluYm93K0x1Y2tfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce5f8eac-54dc-4ce8-93ad-154f9aa1c5d8__NTcyX19SYWluYm93K0x1Y2tfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce5f8eac-54dc-4ce8-93ad-154f9aa1c5d8__NTcyX19SYWluYm93K0x1Y2tfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce5f8eac-54dc-4ce8-93ad-154f9aa1c5d8__NTcyX19SYWluYm93K0x1Y2tfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Rainbow Luck</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0bc74eeb-bb6b-4ad0-a19a-9d968a857ca6__ODQwX19SYWluYm93K1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0bc74eeb-bb6b-4ad0-a19a-9d968a857ca6__ODQwX19SYWluYm93K1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0bc74eeb-bb6b-4ad0-a19a-9d968a857ca6__ODQwX19SYWluYm93K1F1ZWVuX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0bc74eeb-bb6b-4ad0-a19a-9d968a857ca6__ODQwX19SYWluYm93K1F1ZWVuX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Rainbow Queen</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/68640160-0991-47e9-916a-94b093b4e155__NTc1X19SZXRybytDYWJhcmV0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/68640160-0991-47e9-916a-94b093b4e155__NTc1X19SZXRybytDYWJhcmV0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/68640160-0991-47e9-916a-94b093b4e155__NTc1X19SZXRybytDYWJhcmV0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/68640160-0991-47e9-916a-94b093b4e155__NTc1X19SZXRybytDYWJhcmV0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Retro Cabaret</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e70e324-5a63-4cad-82a1-dadcb2a9663c__ODg5X19SZXRybytTdHlsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e70e324-5a63-4cad-82a1-dadcb2a9663c__ODg5X19SZXRybytTdHlsZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e70e324-5a63-4cad-82a1-dadcb2a9663c__ODg5X19SZXRybytTdHlsZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2e70e324-5a63-4cad-82a1-dadcb2a9663c__ODg5X19SZXRybytTdHlsZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Retro Style</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec38488f-f13b-4a25-8a49-604b9a4ba125__NDE0X19SaWNobmVzcytGYWN0b3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec38488f-f13b-4a25-8a49-604b9a4ba125__NDE0X19SaWNobmVzcytGYWN0b3J5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec38488f-f13b-4a25-8a49-604b9a4ba125__NDE0X19SaWNobmVzcytGYWN0b3J5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec38488f-f13b-4a25-8a49-604b9a4ba125__NDE0X19SaWNobmVzcytGYWN0b3J5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Richness Factory</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5cd0319a-29ad-4ddd-b565-9110aeb4bf6a__ODk5X19SaWNoK1dvcmxkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5cd0319a-29ad-4ddd-b565-9110aeb4bf6a__ODk5X19SaWNoK1dvcmxkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5cd0319a-29ad-4ddd-b565-9110aeb4bf6a__ODk5X19SaWNoK1dvcmxkX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5cd0319a-29ad-4ddd-b565-9110aeb4bf6a__ODk5X19SaWNoK1dvcmxkX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Rich World</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/76dc56af-3ce2-4b20-b88b-4c311361681a__ODA2X19SaXNlK29mK1JBX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/76dc56af-3ce2-4b20-b88b-4c311361681a__ODA2X19SaXNlK29mK1JBX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/76dc56af-3ce2-4b20-b88b-4c311361681a__ODA2X19SaXNlK29mK1JBX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/76dc56af-3ce2-4b20-b88b-4c311361681a__ODA2X19SaXNlK29mK1JBX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Rise of RA</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/31a2b6ac-857d-4128-8b2f-501f0249ba3b__NTM4X19SaXNlK29mK1JhK0VRX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/31a2b6ac-857d-4128-8b2f-501f0249ba3b__NTM4X19SaXNlK29mK1JhK0VRX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/31a2b6ac-857d-4128-8b2f-501f0249ba3b__NTM4X19SaXNlK29mK1JhK0VRX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/31a2b6ac-857d-4128-8b2f-501f0249ba3b__NTM4X19SaXNlK29mK1JhK0VRX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Rise of Ra EQ</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/07f72667-ff5d-41e1-9e27-7962ca63882a__NTA0X19Sb3V0ZStvZitNZXhpY29fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/07f72667-ff5d-41e1-9e27-7962ca63882a__NTA0X19Sb3V0ZStvZitNZXhpY29fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/07f72667-ff5d-41e1-9e27-7962ca63882a__NTA0X19Sb3V0ZStvZitNZXhpY29fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/07f72667-ff5d-41e1-9e27-7962ca63882a__NTA0X19Sb3V0ZStvZitNZXhpY29fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Route of Mexico</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/871bb994-4dfc-466a-afe9-261355823ee2__ODA5X19Sb3lhbCtTZWNyZXRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/871bb994-4dfc-466a-afe9-261355823ee2__ODA5X19Sb3lhbCtTZWNyZXRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/871bb994-4dfc-466a-afe9-261355823ee2__ODA5X19Sb3lhbCtTZWNyZXRzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/871bb994-4dfc-466a-afe9-261355823ee2__ODA5X19Sb3lhbCtTZWNyZXRzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Royal Secrets</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6ccbd37c-564d-4b94-8353-e6c659756e6c__ODkyX19TYXZhbm5hJTI3cytMaWZlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6ccbd37c-564d-4b94-8353-e6c659756e6c__ODkyX19TYXZhbm5hJTI3cytMaWZlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6ccbd37c-564d-4b94-8353-e6c659756e6c__ODkyX19TYXZhbm5hJTI3cytMaWZlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6ccbd37c-564d-4b94-8353-e6c659756e6c__ODkyX19TYXZhbm5hJTI3cytMaWZlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Savanna's Life</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce79d53c-6398-4ce4-86a5-141655fd138f__ODI4X19TZWNyZXRzK29mK0FsY2hlbXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce79d53c-6398-4ce4-86a5-141655fd138f__ODI4X19TZWNyZXRzK29mK0FsY2hlbXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce79d53c-6398-4ce4-86a5-141655fd138f__ODI4X19TZWNyZXRzK29mK0FsY2hlbXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce79d53c-6398-4ce4-86a5-141655fd138f__ODI4X19TZWNyZXRzK29mK0FsY2hlbXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Secrets of Alchemy</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c7f87d6b-1c1a-48a8-9d84-cfff7572d6a6__NDAxX19TZWNyZXRzK29mK1NoZXJ3b29kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c7f87d6b-1c1a-48a8-9d84-cfff7572d6a6__NDAxX19TZWNyZXRzK29mK1NoZXJ3b29kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c7f87d6b-1c1a-48a8-9d84-cfff7572d6a6__NDAxX19TZWNyZXRzK29mK1NoZXJ3b29kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c7f87d6b-1c1a-48a8-9d84-cfff7572d6a6__NDAxX19TZWNyZXRzK29mK1NoZXJ3b29kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Secrets of Sherwood</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a638f324-2d87-4095-bfc4-d08b123ad1b3__ODMxX19TaGluaW5nK0Nyb3duX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a638f324-2d87-4095-bfc4-d08b123ad1b3__ODMxX19TaGluaW5nK0Nyb3duX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a638f324-2d87-4095-bfc4-d08b123ad1b3__ODMxX19TaGluaW5nK0Nyb3duX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a638f324-2d87-4095-bfc4-d08b123ad1b3__ODMxX19TaGluaW5nK0Nyb3duX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Shining Crown</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4488d2d3-f84e-4ac1-beb2-ef1e9e11a0fe__ODk1X19TcGFuaXNoK1Bhc3Npb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4488d2d3-f84e-4ac1-beb2-ef1e9e11a0fe__ODk1X19TcGFuaXNoK1Bhc3Npb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4488d2d3-f84e-4ac1-beb2-ef1e9e11a0fe__ODk1X19TcGFuaXNoK1Bhc3Npb25fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4488d2d3-f84e-4ac1-beb2-ef1e9e11a0fe__ODk1X19TcGFuaXNoK1Bhc3Npb25fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Spanish Passion</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9364af6f-0909-4e37-a158-6c656ce0c070__ODU1X19TdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9364af6f-0909-4e37-a158-6c656ce0c070__ODU1X19TdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9364af6f-0909-4e37-a158-6c656ce0c070__ODU1X19TdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9364af6f-0909-4e37-a158-6c656ce0c070__ODU1X19TdW1tZXIrQmxpc3NfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Summer Bliss</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81df3d56-dca5-4e47-b380-61bab62cb895__ODk3X19TdXBlcisyMF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81df3d56-dca5-4e47-b380-61bab62cb895__ODk3X19TdXBlcisyMF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81df3d56-dca5-4e47-b380-61bab62cb895__ODk3X19TdXBlcisyMF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/81df3d56-dca5-4e47-b380-61bab62cb895__ODk3X19TdXBlcisyMF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Super 20</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/097d86af-edea-4457-9a1c-52256ff7e09b__NzAzX19TdXBlcmIrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/097d86af-edea-4457-9a1c-52256ff7e09b__NzAzX19TdXBlcmIrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/097d86af-edea-4457-9a1c-52256ff7e09b__NzAzX19TdXBlcmIrS2Vub19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/097d86af-edea-4457-9a1c-52256ff7e09b__NzAzX19TdXBlcmIrS2Vub19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Superb Keno</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d31edbdd-14a8-4ebc-925f-155c2f9d3acd__ODIxX19TdXByZW1lK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d31edbdd-14a8-4ebc-925f-155c2f9d3acd__ODIxX19TdXByZW1lK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d31edbdd-14a8-4ebc-925f-155c2f9d3acd__ODIxX19TdXByZW1lK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d31edbdd-14a8-4ebc-925f-155c2f9d3acd__ODIxX19TdXByZW1lK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Supreme Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/096d5436-1f5f-45d9-968f-0e93756e1ed2__NTE3X19Td2VldCtDaGVlc2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/096d5436-1f5f-45d9-968f-0e93756e1ed2__NTE3X19Td2VldCtDaGVlc2VfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/096d5436-1f5f-45d9-968f-0e93756e1ed2__NTE3X19Td2VldCtDaGVlc2VfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/096d5436-1f5f-45d9-968f-0e93756e1ed2__NTE3X19Td2VldCtDaGVlc2VfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Sweet Cheese</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f10658a9-af5f-493e-97a7-a65ece3156ab__NTEzX19UaGUrQmlnK0pvdXJuZXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f10658a9-af5f-493e-97a7-a65ece3156ab__NTEzX19UaGUrQmlnK0pvdXJuZXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f10658a9-af5f-493e-97a7-a65ece3156ab__NTEzX19UaGUrQmlnK0pvdXJuZXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f10658a9-af5f-493e-97a7-a65ece3156ab__NTEzX19UaGUrQmlnK0pvdXJuZXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Big Journey</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1cf43f8e-01b0-43ed-b2ba-7d4082790f20__ODM0X19UaGUrRXhwbG9yZXJzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1cf43f8e-01b0-43ed-b2ba-7d4082790f20__ODM0X19UaGUrRXhwbG9yZXJzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1cf43f8e-01b0-43ed-b2ba-7d4082790f20__ODM0X19UaGUrRXhwbG9yZXJzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1cf43f8e-01b0-43ed-b2ba-7d4082790f20__ODM0X19UaGUrRXhwbG9yZXJzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Explorers</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d73d188c-999b-4563-9474-a08e9364e8e3__ODg1X19UaGUrR3JlYXQrRWd5cHRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d73d188c-999b-4563-9474-a08e9364e8e3__ODg1X19UaGUrR3JlYXQrRWd5cHRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d73d188c-999b-4563-9474-a08e9364e8e3__ODg1X19UaGUrR3JlYXQrRWd5cHRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d73d188c-999b-4563-9474-a08e9364e8e3__ODg1X19UaGUrR3JlYXQrRWd5cHRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Great Egypt</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a0ae6feb-4c99-4b45-9a2b-92afb704e14c__ODczX19UaGUrU2VjcmV0cytvZitMb25kb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a0ae6feb-4c99-4b45-9a2b-92afb704e14c__ODczX19UaGUrU2VjcmV0cytvZitMb25kb25fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a0ae6feb-4c99-4b45-9a2b-92afb704e14c__ODczX19UaGUrU2VjcmV0cytvZitMb25kb25fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a0ae6feb-4c99-4b45-9a2b-92afb704e14c__ODczX19UaGUrU2VjcmV0cytvZitMb25kb25fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Secrets of London</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f5ea4812-26d6-4c49-9b30-c6ab8819d5aa__ODk2X19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f5ea4812-26d6-4c49-9b30-c6ab8819d5aa__ODk2X19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f5ea4812-26d6-4c49-9b30-c6ab8819d5aa__ODk2X19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f5ea4812-26d6-4c49-9b30-c6ab8819d5aa__ODk2X19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Story of Alexander</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5363371e-14b3-4628-9106-ba929a816e2a__NTgwX19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyKzJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5363371e-14b3-4628-9106-ba929a816e2a__NTgwX19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyKzJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5363371e-14b3-4628-9106-ba929a816e2a__NTgwX19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyKzJfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5363371e-14b3-4628-9106-ba929a816e2a__NTgwX19UaGUrU3Rvcnkrb2YrQWxleGFuZGVyKzJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Story of Alexander 2</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/424d49dd-c19d-4e14-8ff4-f2f12522dcfa__ODYzX19UaGUrV2hpdGUrV29sZl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/424d49dd-c19d-4e14-8ff4-f2f12522dcfa__ODYzX19UaGUrV2hpdGUrV29sZl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/424d49dd-c19d-4e14-8ff4-f2f12522dcfa__ODYzX19UaGUrV2hpdGUrV29sZl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/424d49dd-c19d-4e14-8ff4-f2f12522dcfa__ODYzX19UaGUrV2hpdGUrV29sZl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The White Wolf</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/921a4d60-c909-4476-bf85-643100fe7283__NTA3X19UaHVtYmVsaW5hJTI3cytEcmVhbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/921a4d60-c909-4476-bf85-643100fe7283__NTA3X19UaHVtYmVsaW5hJTI3cytEcmVhbV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/921a4d60-c909-4476-bf85-643100fe7283__NTA3X19UaHVtYmVsaW5hJTI3cytEcmVhbV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/921a4d60-c909-4476-bf85-643100fe7283__NTA3X19UaHVtYmVsaW5hJTI3cytEcmVhbV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Thumbelina's Dream</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0cb04bc8-140a-40fb-a514-372c74806503__NTk1X19UaXJvbCtGZXN0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0cb04bc8-140a-40fb-a514-372c74806503__NTk1X19UaXJvbCtGZXN0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0cb04bc8-140a-40fb-a514-372c74806503__NTk1X19UaXJvbCtGZXN0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0cb04bc8-140a-40fb-a514-372c74806503__NTk1X19UaXJvbCtGZXN0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Tirol Fest</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9c7df56c-d9ad-45e4-82ce-944d0e95b6a5__ODAyX19VbHRpbWF0ZStIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9c7df56c-d9ad-45e4-82ce-944d0e95b6a5__ODAyX19VbHRpbWF0ZStIb3RfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9c7df56c-d9ad-45e4-82ce-944d0e95b6a5__ODAyX19VbHRpbWF0ZStIb3RfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9c7df56c-d9ad-45e4-82ce-944d0e95b6a5__ODAyX19VbHRpbWF0ZStIb3RfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Ultimate Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b24-7875-905d-c8b1e04b73fe__NDYxX19WYW1waXJlK0JpdGVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b24-7875-905d-c8b1e04b73fe__NDYxX19WYW1waXJlK0JpdGVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b24-7875-905d-c8b1e04b73fe__NDYxX19WYW1waXJlK0JpdGVzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018ca4ff-4b24-7875-905d-c8b1e04b73fe__NDYxX19WYW1waXJlK0JpdGVzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Vampire Bites</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1002053b-6f95-4946-83ee-a30c9cb13d65__NTYyX19WYW1waXJlK05pZ2h0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1002053b-6f95-4946-83ee-a30c9cb13d65__NTYyX19WYW1waXJlK05pZ2h0X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1002053b-6f95-4946-83ee-a30c9cb13d65__NTYyX19WYW1waXJlK05pZ2h0X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1002053b-6f95-4946-83ee-a30c9cb13d65__NTYyX19WYW1waXJlK05pZ2h0X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Vampire Night</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Vegas Roulette 500x (Entertainer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4083d0a-3fb9-4ea3-ae00-72633c7666c2__ODMyX19WZW5lemlhK0QlMjdvcm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4083d0a-3fb9-4ea3-ae00-72633c7666c2__ODMyX19WZW5lemlhK0QlMjdvcm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4083d0a-3fb9-4ea3-ae00-72633c7666c2__ODMyX19WZW5lemlhK0QlMjdvcm9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f4083d0a-3fb9-4ea3-ae00-72633c7666c2__ODMyX19WZW5lemlhK0QlMjdvcm9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Venezia D'oro</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/19e07d0c-a9bd-4d98-b62d-08b5a08dda67__ODE4X19WZXJzYWlsbGVzK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/19e07d0c-a9bd-4d98-b62d-08b5a08dda67__ODE4X19WZXJzYWlsbGVzK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/19e07d0c-a9bd-4d98-b62d-08b5a08dda67__ODE4X19WZXJzYWlsbGVzK0dvbGRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/19e07d0c-a9bd-4d98-b62d-08b5a08dda67__ODE4X19WZXJzYWlsbGVzK0dvbGRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Versailles Gold</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed7fd440-ffc9-43ea-8b1b-059a554b5a83__NTk2X19WaWtpbmcrUmlzaW5nX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed7fd440-ffc9-43ea-8b1b-059a554b5a83__NTk2X19WaWtpbmcrUmlzaW5nX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed7fd440-ffc9-43ea-8b1b-059a554b5a83__NTk2X19WaWtpbmcrUmlzaW5nX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ed7fd440-ffc9-43ea-8b1b-059a554b5a83__NTk2X19WaWtpbmcrUmlzaW5nX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Viking Rising</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a68676af-6231-407e-b812-6d004f80d357__NTY0X19Wb2xjYW5vK1dlYWx0aF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a68676af-6231-407e-b812-6d004f80d357__NTY0X19Wb2xjYW5vK1dlYWx0aF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a68676af-6231-407e-b812-6d004f80d357__NTY0X19Wb2xjYW5vK1dlYWx0aF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a68676af-6231-407e-b812-6d004f80d357__NTY0X19Wb2xjYW5vK1dlYWx0aF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Volcano Wealth</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a27c2a20-0ac8-40ed-9ceb-3e389ff925d7__ODE1X19XaXRjaGVzJTI3K0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a27c2a20-0ac8-40ed-9ceb-3e389ff925d7__ODE1X19XaXRjaGVzJTI3K0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a27c2a20-0ac8-40ed-9ceb-3e389ff925d7__ODE1X19XaXRjaGVzJTI3K0NoYXJtX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a27c2a20-0ac8-40ed-9ceb-3e389ff925d7__ODE1X19XaXRjaGVzJTI3K0NoYXJtX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Witches' Charm</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d33331d5-0613-4503-8aa1-78cd1e020240__NTIzX19Xb25kZXJoZWFydF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d33331d5-0613-4503-8aa1-78cd1e020240__NTIzX19Xb25kZXJoZWFydF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d33331d5-0613-4503-8aa1-78cd1e020240__NTIzX19Xb25kZXJoZWFydF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d33331d5-0613-4503-8aa1-78cd1e020240__NTIzX19Xb25kZXJoZWFydF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Wonderheart</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fce35f48-c976-4bd7-817b-3d93a899c638__NTA1X19Xb25kZXIrVHJlZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fce35f48-c976-4bd7-817b-3d93a899c638__NTA1X19Xb25kZXIrVHJlZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fce35f48-c976-4bd7-817b-3d93a899c638__NTA1X19Xb25kZXIrVHJlZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fce35f48-c976-4bd7-817b-3d93a899c638__NTA1X19Xb25kZXIrVHJlZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Wonder Tree</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b8654938-72c9-4b9a-9bf7-ffae8716ae83__ODA3X19ab2RpYWMrV2hlZWxfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b8654938-72c9-4b9a-9bf7-ffae8716ae83__ODA3X19ab2RpYWMrV2hlZWxfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b8654938-72c9-4b9a-9bf7-ffae8716ae83__ODA3X19ab2RpYWMrV2hlZWxfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b8654938-72c9-4b9a-9bf7-ffae8716ae83__ODA3X19ab2RpYWMrV2hlZWxfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Zodiac Wheel</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
                                                       </div>
                                                    </div>
@@ -3827,7 +7625,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ceefe-f1da-7d47-af2b-b3b40deb9497__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ceefe-f1da-7d47-af2b-b3b40deb9497__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ceefe-f1da-7d47-af2b-b3b40deb9497__Uy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018ceefe-f1da-7d47-af2b-b3b40deb9497__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3845,7 +7643,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/52249c64-23b7-4903-b3e9-d66672663323__dnMyMG9seW1wZ2F0ZV9fR2F0ZXMrb2YrT2x5bXB1c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3863,7 +7661,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/55e8eb11-2adc-4fc6-95fe-779f6cd6030a__dnMyMHN1Z2FycnVzaF9fU3VnYXIrUnVzaF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/55e8eb11-2adc-4fc6-95fe-779f6cd6030a__dnMyMHN1Z2FycnVzaF9fU3VnYXIrUnVzaF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/55e8eb11-2adc-4fc6-95fe-779f6cd6030a__dnMyMHN1Z2FycnVzaF9fU3VnYXIrUnVzaF9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/55e8eb11-2adc-4fc6-95fe-779f6cd6030a__dnMyMHN1Z2FycnVzaF9fU3VnYXIrUnVzaF9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3917,7 +7715,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6df2-bf9c-73e9-b182-98593c0c62e9__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6df2-bf9c-73e9-b182-98593c0c62e9__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6df2-bf9c-73e9-b182-98593c0c62e9__Uy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6df2-bf9c-73e9-b182-98593c0c62e9__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3929,6 +7727,420 @@
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Sugar Rush Xmas</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7b7-70fb-a280-578f9ac892db__dnMyMHN1Z2FybnVkZ2VfX1N1Z2FyK1N1cHJlbWUrUG93ZXJudWRnZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7b7-70fb-a280-578f9ac892db__dnMyMHN1Z2FybnVkZ2VfX1N1Z2FyK1N1cHJlbWUrUG93ZXJudWRnZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7b7-70fb-a280-578f9ac892db__dnMyMHN1Z2FybnVkZ2VfX1N1Z2FyK1N1cHJlbWUrUG93ZXJudWRnZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bfb05-a7b7-70fb-a280-578f9ac892db__dnMyMHN1Z2FybnVkZ2VfX1N1Z2FyK1N1cHJlbWUrUG93ZXJudWRnZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Sugar Supreme Powernudge</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1dcd89d5-7ccc-4b1a-a995-920960a40038__NTY4X19GbGFtaW5nK0hvdCtFeHRyZW1lX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Flaming Hot Extreme</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a7b6ed07-e12f-4fc9-9469-209d4bfa27cd__dnMyMHN0YXJsaWdodF9fU3RhcmxpZ2h0K1ByaW5jZXNzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a7b6ed07-e12f-4fc9-9469-209d4bfa27cd__dnMyMHN0YXJsaWdodF9fU3RhcmxpZ2h0K1ByaW5jZXNzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a7b6ed07-e12f-4fc9-9469-209d4bfa27cd__dnMyMHN0YXJsaWdodF9fU3RhcmxpZ2h0K1ByaW5jZXNzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a7b6ed07-e12f-4fc9-9469-209d4bfa27cd__dnMyMHN0YXJsaWdodF9fU3RhcmxpZ2h0K1ByaW5jZXNzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Starlight Princess</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcb98ce1-5bfe-49e2-8e70-e414bcb9a6a6__dnMyMHNjaHJpc3RtYXNfX1N0YXJsaWdodCtDaHJpc3RtYXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcb98ce1-5bfe-49e2-8e70-e414bcb9a6a6__dnMyMHNjaHJpc3RtYXNfX1N0YXJsaWdodCtDaHJpc3RtYXNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcb98ce1-5bfe-49e2-8e70-e414bcb9a6a6__dnMyMHNjaHJpc3RtYXNfX1N0YXJsaWdodCtDaHJpc3RtYXNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/bcb98ce1-5bfe-49e2-8e70-e414bcb9a6a6__dnMyMHNjaHJpc3RtYXNfX1N0YXJsaWdodCtDaHJpc3RtYXNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Starlight Christmas</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dc40555-3bd5-437a-bfb9-87f418be3509__dnMyMGRvZ2hvdXNlX19UaGUrRG9nK0hvdXNlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dc40555-3bd5-437a-bfb9-87f418be3509__dnMyMGRvZ2hvdXNlX19UaGUrRG9nK0hvdXNlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dc40555-3bd5-437a-bfb9-87f418be3509__dnMyMGRvZ2hvdXNlX19UaGUrRG9nK0hvdXNlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4dc40555-3bd5-437a-bfb9-87f418be3509__dnMyMGRvZ2hvdXNlX19UaGUrRG9nK0hvdXNlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Dog House</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4a4df042-b3ce-4a3e-a797-3aea166ffaa7__dnN3YXlzZG9nc19fVGhlK0RvZytIb3VzZStNZWdhd2F5c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Dog House Megaways</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67071269-313a-4e73-b121-8dd62e52bd32__dnMyMGRvZ2hvdXNlbWhfX1RoZStEb2crSG91c2UrTXVsdGlob2xkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67071269-313a-4e73-b121-8dd62e52bd32__dnMyMGRvZ2hvdXNlbWhfX1RoZStEb2crSG91c2UrTXVsdGlob2xkX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67071269-313a-4e73-b121-8dd62e52bd32__dnMyMGRvZ2hvdXNlbWhfX1RoZStEb2crSG91c2UrTXVsdGlob2xkX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/67071269-313a-4e73-b121-8dd62e52bd32__dnMyMGRvZ2hvdXNlbWhfX1RoZStEb2crSG91c2UrTXVsdGlob2xkX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Dog House Multihold</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80dfbb7b-7d69-41b0-a3b5-bd33cd56b447__dnMyMGRoZGljZV9fVGhlK0RvZytIb3VzZStEaWNlK1Nob3dfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80dfbb7b-7d69-41b0-a3b5-bd33cd56b447__dnMyMGRoZGljZV9fVGhlK0RvZytIb3VzZStEaWNlK1Nob3dfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80dfbb7b-7d69-41b0-a3b5-bd33cd56b447__dnMyMGRoZGljZV9fVGhlK0RvZytIb3VzZStEaWNlK1Nob3dfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80dfbb7b-7d69-41b0-a3b5-bd33cd56b447__dnMyMGRoZGljZV9fVGhlK0RvZytIb3VzZStEaWNlK1Nob3dfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">The Dog House Dice Show</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ee6ef325-c234-4f9a-9e98-aaac3eb6de2c__ODA1X19GbGFtaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Flaming Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c22a6893-21ab-4812-80b6-80524e094b0f__ODI0X19EaWNlKyUyNitSb2xsX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dice &amp; Roll</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8be3d5b4-e586-4380-adc0-efa4353165a5__ODAxX19CdXJuaW5nK0hvdF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Burning Hot</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b58d0e6-9306-49cf-bf5d-dcaaf8740d59__d2lsZGJ1Y2NhbmVlcnNtZWdhd2F5c19fV2lsZCtCdWNjYW5lZXJzK01lZ2F3YXlzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b58d0e6-9306-49cf-bf5d-dcaaf8740d59__d2lsZGJ1Y2NhbmVlcnNtZWdhd2F5c19fV2lsZCtCdWNjYW5lZXJzK01lZ2F3YXlzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b58d0e6-9306-49cf-bf5d-dcaaf8740d59__d2lsZGJ1Y2NhbmVlcnNtZWdhd2F5c19fV2lsZCtCdWNjYW5lZXJzK01lZ2F3YXlzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0b58d0e6-9306-49cf-bf5d-dcaaf8740d59__d2lsZGJ1Y2NhbmVlcnNtZWdhd2F5c19fV2lsZCtCdWNjYW5lZXJzK01lZ2F3YXlzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Wild Buccaneers Megaways</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Four Leaf Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2152f736-f0ce-48fb-9a94-840ef773f1ca__d2lsZGRvbnV0c19fV2lsZCtEb251dHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2152f736-f0ce-48fb-9a94-840ef773f1ca__d2lsZGRvbnV0c19fV2lsZCtEb251dHNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2152f736-f0ce-48fb-9a94-840ef773f1ca__d2lsZGRvbnV0c19fV2lsZCtEb251dHNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2152f736-f0ce-48fb-9a94-840ef773f1ca__d2lsZGRvbnV0c19fV2lsZCtEb251dHNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Wild Donuts</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Max Win Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/528ac2fa-097a-44c8-927a-9a6d9a062aa2__bW9uZXl0cmFpbjNfX01vbmV5K1RyYWluKzNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/528ac2fa-097a-44c8-927a-9a6d9a062aa2__bW9uZXl0cmFpbjNfX01vbmV5K1RyYWluKzNfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/528ac2fa-097a-44c8-927a-9a6d9a062aa2__bW9uZXl0cmFpbjNfX01vbmV5K1RyYWluKzNfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/528ac2fa-097a-44c8-927a-9a6d9a062aa2__bW9uZXl0cmFpbjNfX01vbmV5K1RyYWluKzNfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Money Train 3</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Relax Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7cd51a8d-4f9c-4a32-b732-4cb06c155f84__dGVtcGxldHVtYmxlMl9fVGVtcGxlK1R1bWJsZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7cd51a8d-4f9c-4a32-b732-4cb06c155f84__dGVtcGxldHVtYmxlMl9fVGVtcGxlK1R1bWJsZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7cd51a8d-4f9c-4a32-b732-4cb06c155f84__dGVtcGxldHVtYmxlMl9fVGVtcGxlK1R1bWJsZSsyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7cd51a8d-4f9c-4a32-b732-4cb06c155f84__dGVtcGxldHVtYmxlMl9fVGVtcGxlK1R1bWJsZSsyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Temple Tumble 2</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Relax Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fc25058c-12c3-47b6-a990-78130243bd40__YmVhc3Rtb2RlX19CZWFzdCtNb2RlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fc25058c-12c3-47b6-a990-78130243bd40__YmVhc3Rtb2RlX19CZWFzdCtNb2RlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fc25058c-12c3-47b6-a990-78130243bd40__YmVhc3Rtb2RlX19CZWFzdCtNb2RlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fc25058c-12c3-47b6-a990-78130243bd40__YmVhc3Rtb2RlX19CZWFzdCtNb2RlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Beast Mode</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Relax Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/26f3c646-350c-44c7-bdbf-a997751a8acf__Qm9uYW56YUJpbGxpb25fX0JvbmFuemErQmlsbGlvbl9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Bonanza Billion</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">BGaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94628f71-f8d1-4fdd-91d6-96e89f229abb__Q2xvdmVyQm9uYW56YV9fQ2xvdmVyK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94628f71-f8d1-4fdd-91d6-96e89f229abb__Q2xvdmVyQm9uYW56YV9fQ2xvdmVyK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94628f71-f8d1-4fdd-91d6-96e89f229abb__Q2xvdmVyQm9uYW56YV9fQ2xvdmVyK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/94628f71-f8d1-4fdd-91d6-96e89f229abb__Q2xvdmVyQm9uYW56YV9fQ2xvdmVyK0JvbmFuemFfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Clover Bonanza</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">BGaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3dc5f141-1f2a-4e40-a06a-600a398e92e6__SGFsbG93ZWVuQm9uYW56YV9fSGFsbG93ZWVuK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3dc5f141-1f2a-4e40-a06a-600a398e92e6__SGFsbG93ZWVuQm9uYW56YV9fSGFsbG93ZWVuK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3dc5f141-1f2a-4e40-a06a-600a398e92e6__SGFsbG93ZWVuQm9uYW56YV9fSGFsbG93ZWVuK0JvbmFuemFfX1MuanBn.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3dc5f141-1f2a-4e40-a06a-600a398e92e6__SGFsbG93ZWVuQm9uYW56YV9fSGFsbG93ZWVuK0JvbmFuemFfX1MuanBn.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Halloween Bonanza</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">BGaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/684d4347-93d3-4ebe-bad9-3c38000a9061__THVja3lGYXJtQm9uYW56YV9fTHVja3krRmFybStCb25hbnphX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/684d4347-93d3-4ebe-bad9-3c38000a9061__THVja3lGYXJtQm9uYW56YV9fTHVja3krRmFybStCb25hbnphX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/684d4347-93d3-4ebe-bad9-3c38000a9061__THVja3lGYXJtQm9uYW56YV9fTHVja3krRmFybStCb25hbnphX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/684d4347-93d3-4ebe-bad9-3c38000a9061__THVja3lGYXJtQm9uYW56YV9fTHVja3krRmFybStCb25hbnphX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lucky Farm Bonanza</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">BGaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d97cf3a2-0a7c-455a-a6e1-aaca747af46e__OTA4X19TdXBlcitHb2xkZW4rRHJhZ29uK0luZmVybm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d97cf3a2-0a7c-455a-a6e1-aaca747af46e__OTA4X19TdXBlcitHb2xkZW4rRHJhZ29uK0luZmVybm9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d97cf3a2-0a7c-455a-a6e1-aaca747af46e__OTA4X19TdXBlcitHb2xkZW4rRHJhZ29uK0luZmVybm9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/d97cf3a2-0a7c-455a-a6e1-aaca747af46e__OTA4X19TdXBlcitHb2xkZW4rRHJhZ29uK0luZmVybm9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Super Golden Dragon Inferno</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4acf8c24-152f-4cf8-aef6-f8afb7212ec5__OTA5X19XaXNoK0dyYW50ZWRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4acf8c24-152f-4cf8-aef6-f8afb7212ec5__OTA5X19XaXNoK0dyYW50ZWRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4acf8c24-152f-4cf8-aef6-f8afb7212ec5__OTA5X19XaXNoK0dyYW50ZWRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4acf8c24-152f-4cf8-aef6-f8afb7212ec5__OTA5X19XaXNoK0dyYW50ZWRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Wish Granted</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3eae537e-3c19-4122-ba34-ee6c69c215d0__ODkwX19QaG8rU2hvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3eae537e-3c19-4122-ba34-ee6c69c215d0__ODkwX19QaG8rU2hvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3eae537e-3c19-4122-ba34-ee6c69c215d0__ODkwX19QaG8rU2hvX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3eae537e-3c19-4122-ba34-ee6c69c215d0__ODkwX19QaG8rU2hvX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Pho Sho</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Betsoft</div>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -3976,7 +8188,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f85a8d1-07b1-4b46-9b09-94c09d409e47__MTEwMV9fTGl2ZSstK1N3ZWV0K0JvbmFuemErQ2FuZHlMYW5kX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -3994,7 +8206,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ac85276f-de67-4b7c-ac78-2e628cb7435e__TW9uQmlnQmFsbGVyMDAwMV9fTW9ub3BvbHkrQmlnK0JhbGxlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4012,7 +8224,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f2cab969-20af-4358-b750-2b6529608b45__Q3JhenlDb2luRmxpcDAwMV9fQ3JhenkrQ29pbitGbGlwX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4030,7 +8242,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4db282c4-07a8-4fb8-82d2-910de5ad7c44__TW9ub3BvbHkwMDAwMDAwMV9fTW9ub3BvbHkrTGl2ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4048,7 +8260,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7587bb6c-c264-4beb-9042-abaf85986575__MTQwMV9fQm9vbStDaXR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4066,7 +8278,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40ae4b3b-6a0e-4b6c-b902-7ca399609412__TU9XRHJlYW0wMDAwMDAwMV9fRHJlYW0rQ2F0Y2hlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40ae4b3b-6a0e-4b6c-b902-7ca399609412__TU9XRHJlYW0wMDAwMDAwMV9fRHJlYW0rQ2F0Y2hlcl9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40ae4b3b-6a0e-4b6c-b902-7ca399609412__TU9XRHJlYW0wMDAwMDAwMV9fRHJlYW0rQ2F0Y2hlcl9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/40ae4b3b-6a0e-4b6c-b902-7ca399609412__TU9XRHJlYW0wMDAwMDAwMV9fRHJlYW0rQ2F0Y2hlcl9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4084,7 +8296,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dea1d7-c65e-4f07-bbb9-b5a058b8a9c2__cm5nLWRyZWFtY2F0Y2hlcl9fRmlyc3QrUGVyc29uK0RyZWFtK0NhdGNoZXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dea1d7-c65e-4f07-bbb9-b5a058b8a9c2__cm5nLWRyZWFtY2F0Y2hlcl9fRmlyc3QrUGVyc29uK0RyZWFtK0NhdGNoZXJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dea1d7-c65e-4f07-bbb9-b5a058b8a9c2__cm5nLWRyZWFtY2F0Y2hlcl9fRmlyc3QrUGVyc29uK0RyZWFtK0NhdGNoZXJfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/74dea1d7-c65e-4f07-bbb9-b5a058b8a9c2__cm5nLWRyZWFtY2F0Y2hlcl9fRmlyc3QrUGVyc29uK0RyZWFtK0NhdGNoZXJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4147,7 +8359,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4165,7 +8377,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae86b89-2649-47d4-8c9a-623c8a6469a4__dnNwcmcxMGJvb2t0dXRfX0Jvb2srb2YrVHV0K0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae86b89-2649-47d4-8c9a-623c8a6469a4__dnNwcmcxMGJvb2t0dXRfX0Jvb2srb2YrVHV0K0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae86b89-2649-47d4-8c9a-623c8a6469a4__dnNwcmcxMGJvb2t0dXRfX0Jvb2srb2YrVHV0K0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2ae86b89-2649-47d4-8c9a-623c8a6469a4__dnNwcmcxMGJvb2t0dXRfX0Jvb2srb2YrVHV0K0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4183,7 +8395,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4201,7 +8413,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/69512e60-8d54-4292-9e5b-e6668a72a41e__dnNwcmcxMDBmaXJlaG90X19GaXJlK0hvdCsxMDArSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/69512e60-8d54-4292-9e5b-e6668a72a41e__dnNwcmcxMDBmaXJlaG90X19GaXJlK0hvdCsxMDArSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/69512e60-8d54-4292-9e5b-e6668a72a41e__dnNwcmcxMDBmaXJlaG90X19GaXJlK0hvdCsxMDArSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/69512e60-8d54-4292-9e5b-e6668a72a41e__dnNwcmcxMDBmaXJlaG90X19GaXJlK0hvdCsxMDArSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4219,7 +8431,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/950c153e-e959-4859-abec-64c425fe096a__dnNwcmcyMGZoX19GaXJlK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/950c153e-e959-4859-abec-64c425fe096a__dnNwcmcyMGZoX19GaXJlK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/950c153e-e959-4859-abec-64c425fe096a__dnNwcmcyMGZoX19GaXJlK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/950c153e-e959-4859-abec-64c425fe096a__dnNwcmcyMGZoX19GaXJlK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4237,7 +8449,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60553a44-9f14-4b64-b527-266cf490508c__dnNwcmc0MGZpcmVob3RfX0ZpcmUrSG90KzQwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60553a44-9f14-4b64-b527-266cf490508c__dnNwcmc0MGZpcmVob3RfX0ZpcmUrSG90KzQwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60553a44-9f14-4b64-b527-266cf490508c__dnNwcmc0MGZpcmVob3RfX0ZpcmUrSG90KzQwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60553a44-9f14-4b64-b527-266cf490508c__dnNwcmc0MGZpcmVob3RfX0ZpcmUrSG90KzQwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4255,7 +8467,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce14553a-bb22-4b66-87f8-6f4c23b41e45__dnNwcmc1ZmlyZWhvdF9fRmlyZStIb3QrNStKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce14553a-bb22-4b66-87f8-6f4c23b41e45__dnNwcmc1ZmlyZWhvdF9fRmlyZStIb3QrNStKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce14553a-bb22-4b66-87f8-6f4c23b41e45__dnNwcmc1ZmlyZWhvdF9fRmlyZStIb3QrNStKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce14553a-bb22-4b66-87f8-6f4c23b41e45__dnNwcmc1ZmlyZWhvdF9fRmlyZStIb3QrNStKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4266,6 +8478,114 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Fire Hot 5 Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2fa959e8-d03a-4d25-815e-c2da370cc698__dnNwcmc1aGJ1cm5fX0hvdCt0bytCdXJuK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2fa959e8-d03a-4d25-815e-c2da370cc698__dnNwcmc1aGJ1cm5fX0hvdCt0bytCdXJuK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2fa959e8-d03a-4d25-815e-c2da370cc698__dnNwcmc1aGJ1cm5fX0hvdCt0bytCdXJuK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2fa959e8-d03a-4d25-815e-c2da370cc698__dnNwcmc1aGJ1cm5fX0hvdCt0bytCdXJuK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Hot to Burn Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7918a982-3f32-491d-8c1b-493bfeda8bcc__dnNwcmcxMDBzaF9fU2hpbmluZytIb3QrMTAwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7918a982-3f32-491d-8c1b-493bfeda8bcc__dnNwcmcxMDBzaF9fU2hpbmluZytIb3QrMTAwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7918a982-3f32-491d-8c1b-493bfeda8bcc__dnNwcmcxMDBzaF9fU2hpbmluZytIb3QrMTAwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/7918a982-3f32-491d-8c1b-493bfeda8bcc__dnNwcmcxMDBzaF9fU2hpbmluZytIb3QrMTAwK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Shining Hot 100 Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4f748270-9dd6-4bcf-87e4-8d0d1657c507__dnNwcmcyMHNoX19TaGluaW5nK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4f748270-9dd6-4bcf-87e4-8d0d1657c507__dnNwcmcyMHNoX19TaGluaW5nK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4f748270-9dd6-4bcf-87e4-8d0d1657c507__dnNwcmcyMHNoX19TaGluaW5nK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/4f748270-9dd6-4bcf-87e4-8d0d1657c507__dnNwcmcyMHNoX19TaGluaW5nK0hvdCsyMCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Shining Hot 20 Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/301ebfb1-b500-4e55-8f8b-ad981bf67db1__dnNwcmc0MHNoX19TaGluaW5nK0hvdCs0MCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/301ebfb1-b500-4e55-8f8b-ad981bf67db1__dnNwcmc0MHNoX19TaGluaW5nK0hvdCs0MCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/301ebfb1-b500-4e55-8f8b-ad981bf67db1__dnNwcmc0MHNoX19TaGluaW5nK0hvdCs0MCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/301ebfb1-b500-4e55-8f8b-ad981bf67db1__dnNwcmc0MHNoX19TaGluaW5nK0hvdCs0MCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Shining Hot 40 Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/304dd169-85c1-441c-a9c3-398c90e60dbe__dnNwcmc1c2hfX1NoaW5pbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/304dd169-85c1-441c-a9c3-398c90e60dbe__dnNwcmc1c2hfX1NoaW5pbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/304dd169-85c1-441c-a9c3-398c90e60dbe__dnNwcmc1c2hfX1NoaW5pbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/304dd169-85c1-441c-a9c3-398c90e60dbe__dnNwcmc1c2hfX1NoaW5pbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Shining Hot 5 Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/99982e03-33e0-4019-a4e0-e8c0b19b00f0__dnNwcmc1c3RyaF9fU3RyaWtpbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/99982e03-33e0-4019-a4e0-e8c0b19b00f0__dnNwcmc1c3RyaF9fU3RyaWtpbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/99982e03-33e0-4019-a4e0-e8c0b19b00f0__dnNwcmc1c3RyaF9fU3RyaWtpbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/99982e03-33e0-4019-a4e0-e8c0b19b00f0__dnNwcmc1c3RyaF9fU3RyaWtpbmcrSG90KzUrSmFja3BvdCtQbGF5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Striking Hot 5 Jackpot Play</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
                                                       </div>
                                                    </div>
@@ -4316,7 +8636,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8190b3aa-bd17-48b1-a521-7558f50dd75d__ZGljZV9fRGljZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8190b3aa-bd17-48b1-a521-7558f50dd75d__ZGljZV9fRGljZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8190b3aa-bd17-48b1-a521-7558f50dd75d__ZGljZV9fRGljZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8190b3aa-bd17-48b1-a521-7558f50dd75d__ZGljZV9fRGljZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4334,7 +8654,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/222bdcc5-0fb2-4eb6-89d6-41137e06ba78__RWFzdGVyUGxpbmtvX19FYXN0ZXIrUGxpbmtvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/222bdcc5-0fb2-4eb6-89d6-41137e06ba78__RWFzdGVyUGxpbmtvX19FYXN0ZXIrUGxpbmtvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/222bdcc5-0fb2-4eb6-89d6-41137e06ba78__RWFzdGVyUGxpbmtvX19FYXN0ZXIrUGxpbmtvX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/222bdcc5-0fb2-4eb6-89d6-41137e06ba78__RWFzdGVyUGxpbmtvX19FYXN0ZXIrUGxpbmtvX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4352,7 +8672,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/47619958-12cc-447a-9fac-45b82915451d__aGktbG9fX0hpK0xvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/47619958-12cc-447a-9fac-45b82915451d__aGktbG9fX0hpK0xvX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/47619958-12cc-447a-9fac-45b82915451d__aGktbG9fX0hpK0xvX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/47619958-12cc-447a-9fac-45b82915451d__aGktbG9fX0hpK0xvX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4370,7 +8690,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1c2cb74d-c3d9-47f2-b73c-3a88180b799f__NTg2NV9fTHVja3krQ2FyZF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1c2cb74d-c3d9-47f2-b73c-3a88180b799f__NTg2NV9fTHVja3krQ2FyZF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1c2cb74d-c3d9-47f2-b73c-3a88180b799f__NTg2NV9fTHVja3krQ2FyZF9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1c2cb74d-c3d9-47f2-b73c-3a88180b799f__NTg2NV9fTHVja3krQ2FyZF9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4388,7 +8708,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f5465ea-2d49-425b-b091-245d9c681717__cGxpbmtvX19QbGlua29fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f5465ea-2d49-425b-b091-245d9c681717__cGxpbmtvX19QbGlua29fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f5465ea-2d49-425b-b091-245d9c681717__cGxpbmtvX19QbGlua29fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8f5465ea-2d49-425b-b091-245d9c681717__cGxpbmtvX19QbGlua29fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4406,7 +8726,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce782e0e-ef53-441b-9a3d-da84d7644973__UGxpbmtvWF9fUGxpbmtvWF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce782e0e-ef53-441b-9a3d-da84d7644973__UGxpbmtvWF9fUGxpbmtvWF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce782e0e-ef53-441b-9a3d-da84d7644973__UGxpbmtvWF9fUGxpbmtvWF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ce782e0e-ef53-441b-9a3d-da84d7644973__UGxpbmtvWF9fUGxpbmtvWF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4469,7 +8789,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89db0efb-bc0e-45de-8783-8e2e85a93490__NDIxMDAwX19UdSVDQyU4OHJrYyVDQyVBN2UrUnVsZXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89db0efb-bc0e-45de-8783-8e2e85a93490__NDIxMDAwX19UdSVDQyU4OHJrYyVDQyVBN2UrUnVsZXRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89db0efb-bc0e-45de-8783-8e2e85a93490__NDIxMDAwX19UdSVDQyU4OHJrYyVDQyVBN2UrUnVsZXRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/89db0efb-bc0e-45de-8783-8e2e85a93490__NDIxMDAwX19UdSVDQyU4OHJrYyVDQyVBN2UrUnVsZXRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4487,7 +8807,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/80c19e17-814e-4f22-bbe5-4651e47abe17__WHh4dHJlbWVMaWdoMDAwMV9fWFhYdHJlbWUrTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4505,7 +8825,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1803-7003-9372-e5d57a4614fc__MjA0X19MaXZlKy0rTWVnYStSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4523,7 +8843,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c8c6d-c4dc-786e-bc67-c715e11e2fb9__UmVkRG9vclJvdWxldHRlMV9fUmVkK0Rvb3IrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4541,7 +8861,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8e1b35f-0c97-4a8d-92a6-13dfc7d477bb__MjhfX0Zhc2hpb24rUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8e1b35f-0c97-4a8d-92a6-13dfc7d477bb__MjhfX0Zhc2hpb24rUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8e1b35f-0c97-4a8d-92a6-13dfc7d477bb__MjhfX0Zhc2hpb24rUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e8e1b35f-0c97-4a8d-92a6-13dfc7d477bb__MjhfX0Zhc2hpb24rUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4559,7 +8879,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fdda90dc-6a9e-4dbe-b5fd-65a8d410fa6c__MjI0X19Sb3VsZXR0ZSs2Ky0rVHVya2lzaF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fdda90dc-6a9e-4dbe-b5fd-65a8d410fa6c__MjI0X19Sb3VsZXR0ZSs2Ky0rVHVya2lzaF9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fdda90dc-6a9e-4dbe-b5fd-65a8d410fa6c__MjI0X19Sb3VsZXR0ZSs2Ky0rVHVya2lzaF9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/fdda90dc-6a9e-4dbe-b5fd-65a8d410fa6c__MjI0X19Sb3VsZXR0ZSs2Ky0rVHVya2lzaF9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4577,7 +8897,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a2d20706-f76e-445f-93a5-0a5bdb3db06f__azM3dGxlNWhmY2VxYWNpa19fQXV0bytMaWdodG5pbmcrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4588,6 +8908,456 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Auto Lightning Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/650894db-de28-49a1-9760-03aa10680430__TGlnaHRuaW5nVGFibGUwMV9fTGlnaHRuaW5nK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Lightning Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/462e2048-730e-4a72-99d7-3bda5fe06af4__NTQ1X19Sb3VsZXR0ZSs5Ky0rVGhlK0NsdWJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/462e2048-730e-4a72-99d7-3bda5fe06af4__NTQ1X19Sb3VsZXR0ZSs5Ky0rVGhlK0NsdWJfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/462e2048-730e-4a72-99d7-3bda5fe06af4__NTQ1X19Sb3VsZXR0ZSs5Ky0rVGhlK0NsdWJfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/462e2048-730e-4a72-99d7-3bda5fe06af4__NTQ1X19Sb3VsZXR0ZSs5Ky0rVGhlK0NsdWJfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">VIP Roulette - The Club</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8d9322b9-96c5-4342-ab4a-92f544f5d860__d3pnNmtka2FkMW9lN201a19fRnJlbmNoK1JvdWxldHRlK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8d9322b9-96c5-4342-ab4a-92f544f5d860__d3pnNmtka2FkMW9lN201a19fRnJlbmNoK1JvdWxldHRlK0dvbGRfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8d9322b9-96c5-4342-ab4a-92f544f5d860__d3pnNmtka2FkMW9lN201a19fRnJlbmNoK1JvdWxldHRlK0dvbGRfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8d9322b9-96c5-4342-ab4a-92f544f5d860__d3pnNmtka2FkMW9lN201a19fRnJlbmNoK1JvdWxldHRlK0dvbGRfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">VIP Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/debcf4f9-4021-48cd-83e4-7612b5a91f3e__MzhfX1ZlZ2FzK1JvdWxldHRlKzUwMHgrJTI4RW50ZXJ0YWluZXIlMjlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Vegas Roulette 500x (Entertainer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04ea724c-5efd-4012-85f8-b4be9e651a07__NTAxMDAwX19UdXJraXNoK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04ea724c-5efd-4012-85f8-b4be9e651a07__NTAxMDAwX19UdXJraXNoK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04ea724c-5efd-4012-85f8-b4be9e651a07__NTAxMDAwX19UdXJraXNoK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/04ea724c-5efd-4012-85f8-b4be9e651a07__NTAxMDAwX19UdXJraXNoK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Turkish Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1812-705d-8c88-d13f4788fb1b__MjA1X19TcGVlZCtSb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1812-705d-8c88-d13f4788fb1b__MjA1X19TcGVlZCtSb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1812-705d-8c88-d13f4788fb1b__MjA1X19TcGVlZCtSb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-1812-705d-8c88-d13f4788fb1b__MjA1X19TcGVlZCtSb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Roulette 2</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17fc-7668-a5a8-f025152365c5__MjAzX19TcGVlZCtSb3VsZXR0ZSsxX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17fc-7668-a5a8-f025152365c5__MjAzX19TcGVlZCtSb3VsZXR0ZSsxX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17fc-7668-a5a8-f025152365c5__MjAzX19TcGVlZCtSb3VsZXR0ZSsxX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17fc-7668-a5a8-f025152365c5__MjAzX19TcGVlZCtSb3VsZXR0ZSsxX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Roulette 1</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b29b4af3-7f92-4d0c-b617-1cfa4b519534__bGtjYnJiZGNranhhamRvbF9fU3BlZWQrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b29b4af3-7f92-4d0c-b617-1cfa4b519534__bGtjYnJiZGNranhhamRvbF9fU3BlZWQrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b29b4af3-7f92-4d0c-b617-1cfa4b519534__bGtjYnJiZGNranhhamRvbF9fU3BlZWQrUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/b29b4af3-7f92-4d0c-b617-1cfa4b519534__bGtjYnJiZGNranhhamRvbF9fU3BlZWQrUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/23ed7f0c-0dd4-47fd-9086-2a65832b2e6e__MjIxMDAwX19TcGVlZCtSb3VsZXR0ZV9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/23ed7f0c-0dd4-47fd-9086-2a65832b2e6e__MjIxMDAwX19TcGVlZCtSb3VsZXR0ZV9fUy5qcGc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/23ed7f0c-0dd4-47fd-9086-2a65832b2e6e__MjIxMDAwX19TcGVlZCtSb3VsZXR0ZV9fUy5qcGc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/23ed7f0c-0dd4-47fd-9086-2a65832b2e6e__MjIxMDAwX19TcGVlZCtSb3VsZXR0ZV9fUy5qcGc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/154e4bfb-041b-47c5-94f2-6c18f5191164__MjIxMDAyX19TcGVlZCtBdXRvK1JvdWxldHRlX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/154e4bfb-041b-47c5-94f2-6c18f5191164__MjIxMDAyX19TcGVlZCtBdXRvK1JvdWxldHRlX19TLmpwZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/154e4bfb-041b-47c5-94f2-6c18f5191164__MjIxMDAyX19TcGVlZCtBdXRvK1JvdWxldHRlX19TLmpwZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/154e4bfb-041b-47c5-94f2-6c18f5191164__MjIxMDAyX19TcGVlZCtBdXRvK1JvdWxldHRlX19TLmpwZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Auto Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3ae5c4c5-8323-456c-bedd-5ab7656abae6__MjI2X19TcGVlZCtBdXRvK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Auto Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/601211c5-7f46-4fbb-9cf4-df242d216742__U3BlZWRBdXRvUm8wMDAwMV9fU3BlZWQrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/601211c5-7f46-4fbb-9cf4-df242d216742__U3BlZWRBdXRvUm8wMDAwMV9fU3BlZWQrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/601211c5-7f46-4fbb-9cf4-df242d216742__U3BlZWRBdXRvUm8wMDAwMV9fU3BlZWQrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/601211c5-7f46-4fbb-9cf4-df242d216742__U3BlZWRBdXRvUm8wMDAwMV9fU3BlZWQrQXV0bytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed Auto Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/aad211bc-55f0-4763-8a1e-cf2ac666e2fd__bWRrcWlqcDNkY3RyaG51dl9fU2Fsb24rUHJpdmUlQ0MlODErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/aad211bc-55f0-4763-8a1e-cf2ac666e2fd__bWRrcWlqcDNkY3RyaG51dl9fU2Fsb24rUHJpdmUlQ0MlODErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/aad211bc-55f0-4763-8a1e-cf2ac666e2fd__bWRrcWlqcDNkY3RyaG51dl9fU2Fsb24rUHJpdmUlQ0MlODErUm91bGV0dGVfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/aad211bc-55f0-4763-8a1e-cf2ac666e2fd__bWRrcWlqcDNkY3RyaG51dl9fU2Fsb24rUHJpdmUlQ0MlODErUm91bGV0dGVfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Salon Privé Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/beaf454b-d06e-4576-82a1-58b502f39bca__MjMwX19Sb3VsZXR0ZSsxMCstK1J1YnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/beaf454b-d06e-4576-82a1-58b502f39bca__MjMwX19Sb3VsZXR0ZSsxMCstK1J1YnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/beaf454b-d06e-4576-82a1-58b502f39bca__MjMwX19Sb3VsZXR0ZSsxMCstK1J1YnlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/beaf454b-d06e-4576-82a1-58b502f39bca__MjMwX19Sb3VsZXR0ZSsxMCstK1J1YnlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Roulette Ruby</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/33312f50-08b2-42b8-9126-17a9105a568e__MjA2X19Sb3VsZXR0ZSszKy0rTWFjYW9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/33312f50-08b2-42b8-9126-17a9105a568e__MjA2X19Sb3VsZXR0ZSszKy0rTWFjYW9fX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/33312f50-08b2-42b8-9126-17a9105a568e__MjA2X19Sb3VsZXR0ZSszKy0rTWFjYW9fX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/33312f50-08b2-42b8-9126-17a9105a568e__MjA2X19Sb3VsZXR0ZSszKy0rTWFjYW9fX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Roulette Macao</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17f0-7272-a1b2-607c46de375f__MjAxX19Sb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17f0-7272-a1b2-607c46de375f__MjAxX19Sb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17f0-7272-a1b2-607c46de375f__MjAxX19Sb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018bd855-17f0-7272-a1b2-607c46de375f__MjAxX19Sb3VsZXR0ZSsyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Roulette Green</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/71039a64-cc58-4892-aa48-568fc9316fb3__MjQwX19Qb3dlclVQK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">PowerUP Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/79fabcf1-7b1a-456f-8000-99217a6f7c1f__MSU0MDE4M19fUG9ydG9tYXNvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/79fabcf1-7b1a-456f-8000-99217a6f7c1f__MSU0MDE4M19fUG9ydG9tYXNvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/79fabcf1-7b1a-456f-8000-99217a6f7c1f__MSU0MDE4M19fUG9ydG9tYXNvK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/79fabcf1-7b1a-456f-8000-99217a6f7c1f__MSU0MDE4M19fUG9ydG9tYXNvK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Portomaso Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Vivo Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60f04e3d-3887-46e7-83f5-76304361a78a__MzdfX1JvdWxldHRlKzM2MF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60f04e3d-3887-46e7-83f5-76304361a78a__MzdfX1JvdWxldHRlKzM2MF9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60f04e3d-3887-46e7-83f5-76304361a78a__MzdfX1JvdWxldHRlKzM2MF9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/60f04e3d-3887-46e7-83f5-76304361a78a__MzdfX1JvdWxldHRlKzM2MF9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Roulette 360</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Absolute Live Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0f6d0d0-adc7-455e-b980-5f6348b84888__MzIxMDAwX19NYXJpbmErQ2FzaW5vK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0f6d0d0-adc7-455e-b980-5f6348b84888__MzIxMDAwX19NYXJpbmErQ2FzaW5vK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0f6d0d0-adc7-455e-b980-5f6348b84888__MzIxMDAwX19NYXJpbmErQ2FzaW5vK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0f6d0d0-adc7-455e-b980-5f6348b84888__MzIxMDAwX19NYXJpbmErQ2FzaW5vK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Marina Casino Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/204cb0df-32fe-4636-9500-59be5b7dda91__NDBfX0xpdmUrUm91bGV0dGUrLStSdXNzaWFuKyUyOERlYWxlciUyOV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Live Roulette - Russian (Dealer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/66d0e7d2-56ae-4df7-a8c9-9cbc3b472caf__N3gwYjF0Z2g3YWdtZjZodl9fSW1tZXJzaXZlK1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Immersive Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/25c6a7bc-1856-496d-b2be-785050b9f936__MSU0MDE2N19fR2FsYXh5K1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/25c6a7bc-1856-496d-b2be-785050b9f936__MSU0MDE2N19fR2FsYXh5K1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/25c6a7bc-1856-496d-b2be-785050b9f936__MSU0MDE2N19fR2FsYXh5K1JvdWxldHRlX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/25c6a7bc-1856-496d-b2be-785050b9f936__MSU0MDE2N19fR2FsYXh5K1JvdWxldHRlX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Galaxy Roulette</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Vivo Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/3e614ae9-7287-4415-96d9-5dc19d50aa91__MTVfX0R5bmFtaWMrUm91bGV0dGUrMTIweCslMjhFbnRlcnRhaW5lciUyOV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Dynamic Roulette 120x (Entertainer)</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Amusnet</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/62212c7e-9a4f-4760-9167-9de9b9c79912__cm5nLXJ0LWxpZ2h0bmluZ19fRmlyc3QrUGVyc29uK0xpZ2h0bmluZytSb3VsZXR0ZV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">First Person Lightning Roulette</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
                                                       </div>
                                                    </div>
@@ -4638,7 +9408,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec00cdd6-810a-4c02-bacc-e23fa34482ff__NTAxX19UdXJraXNoK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec00cdd6-810a-4c02-bacc-e23fa34482ff__NTAxX19UdXJraXNoK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec00cdd6-810a-4c02-bacc-e23fa34482ff__NTAxX19UdXJraXNoK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ec00cdd6-810a-4c02-bacc-e23fa34482ff__NTAxX19UdXJraXNoK0JsYWNramFja19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4656,7 +9426,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5d533776-c59d-4571-a4ee-8e53c526ee30__NTA1MV9fVW5saW1pdGVkK1R1cmtpc2grQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5d533776-c59d-4571-a4ee-8e53c526ee30__NTA1MV9fVW5saW1pdGVkK1R1cmtpc2grQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5d533776-c59d-4571-a4ee-8e53c526ee30__NTA1MV9fVW5saW1pdGVkK1R1cmtpc2grQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/5d533776-c59d-4571-a4ee-8e53c526ee30__NTA1MV9fVW5saW1pdGVkK1R1cmtpc2grQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4674,7 +9444,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef8ecd31-784e-4814-b14d-16ee054f0ca1__UG93ZXJJbmZpbml0ZUJKMV9fUG93ZXIrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef8ecd31-784e-4814-b14d-16ee054f0ca1__UG93ZXJJbmZpbml0ZUJKMV9fUG93ZXIrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef8ecd31-784e-4814-b14d-16ee054f0ca1__UG93ZXJJbmZpbml0ZUJKMV9fUG93ZXIrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/ef8ecd31-784e-4814-b14d-16ee054f0ca1__UG93ZXJJbmZpbml0ZUJKMV9fUG93ZXIrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4692,7 +9462,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2bc30d2f-c9cd-4751-adf2-d8d71cfd4f72__OTA0X19PTkUrQmxhY2tqYWNrKzUrLStUdXJraXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2bc30d2f-c9cd-4751-adf2-d8d71cfd4f72__OTA0X19PTkUrQmxhY2tqYWNrKzUrLStUdXJraXNoX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2bc30d2f-c9cd-4751-adf2-d8d71cfd4f72__OTA0X19PTkUrQmxhY2tqYWNrKzUrLStUdXJraXNoX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/2bc30d2f-c9cd-4751-adf2-d8d71cfd4f72__OTA0X19PTkUrQmxhY2tqYWNrKzUrLStUdXJraXNoX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4710,7 +9480,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8603-2a86-7011-a85c-493c8dbd0e77__VHVya2lzaCtTcGVlZCtCbGFja2phY2srMS5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8603-2a86-7011-a85c-493c8dbd0e77__VHVya2lzaCtTcGVlZCtCbGFja2phY2srMS5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8603-2a86-7011-a85c-493c8dbd0e77__VHVya2lzaCtTcGVlZCtCbGFja2phY2srMS5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018e8603-2a86-7011-a85c-493c8dbd0e77__VHVya2lzaCtTcGVlZCtCbGFja2phY2srMS5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4728,7 +9498,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1d6b4b4c-57f8-4455-9a4d-17dbe29fd16f__MzAxX19Hb2xkZW4rQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1d6b4b4c-57f8-4455-9a4d-17dbe29fd16f__MzAxX19Hb2xkZW4rQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1d6b4b4c-57f8-4455-9a4d-17dbe29fd16f__MzAxX19Hb2xkZW4rQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/1d6b4b4c-57f8-4455-9a4d-17dbe29fd16f__MzAxX19Hb2xkZW4rQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4746,7 +9516,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e05b8821-6c2e-4a2f-b8e8-3e9176098884__bXJmeWtlbXQ1c2xhbnlpNV9fSW5maW5pdGUrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e05b8821-6c2e-4a2f-b8e8-3e9176098884__bXJmeWtlbXQ1c2xhbnlpNV9fSW5maW5pdGUrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e05b8821-6c2e-4a2f-b8e8-3e9176098884__bXJmeWtlbXQ1c2xhbnlpNV9fSW5maW5pdGUrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/e05b8821-6c2e-4a2f-b8e8-3e9176098884__bXJmeWtlbXQ1c2xhbnlpNV9fSW5maW5pdGUrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4757,6 +9527,168 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Infinite Blackjack</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6aa7a066-b9d2-42db-a591-d2502246db56__NDIyX19UdXJraXNoK0JsYWNramFjaysyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6aa7a066-b9d2-42db-a591-d2502246db56__NDIyX19UdXJraXNoK0JsYWNramFjaysyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6aa7a066-b9d2-42db-a591-d2502246db56__NDIyX19UdXJraXNoK0JsYWNramFjaysyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/6aa7a066-b9d2-42db-a591-d2502246db56__NDIyX19UdXJraXNoK0JsYWNramFjaysyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Turkish Blackjack 2</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0027d967-5ff6-4af6-93e7-e471359c22c8__NDIxX19UdXJraXNoK0JsYWNramFjaysxX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0027d967-5ff6-4af6-93e7-e471359c22c8__NDIxX19UdXJraXNoK0JsYWNramFjaysxX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0027d967-5ff6-4af6-93e7-e471359c22c8__NDIxX19UdXJraXNoK0JsYWNramFjaysxX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/0027d967-5ff6-4af6-93e7-e471359c22c8__NDIxX19UdXJraXNoK0JsYWNramFjaysxX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Turkish Blackjack 1</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c4035-2368-71db-b3e2-4a2eed5c4278__MTAzX19CbGFja2phY2srTG9iYnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c4035-2368-71db-b3e2-4a2eed5c4278__MTAzX19CbGFja2phY2srTG9iYnlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c4035-2368-71db-b3e2-4a2eed5c4278__MTAzX19CbGFja2phY2srTG9iYnlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018c4035-2368-71db-b3e2-4a2eed5c4278__MTAzX19CbGFja2phY2srTG9iYnlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Blackjack Lobby</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3de680b-319f-45cf-a975-71fa33dceddb__MjI0X19WSVArQmxhY2tqYWNrK3dpdGgrU3VycmVuZGVyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3de680b-319f-45cf-a975-71fa33dceddb__MjI0X19WSVArQmxhY2tqYWNrK3dpdGgrU3VycmVuZGVyX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3de680b-319f-45cf-a975-71fa33dceddb__MjI0X19WSVArQmxhY2tqYWNrK3dpdGgrU3VycmVuZGVyX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/f3de680b-319f-45cf-a975-71fa33dceddb__MjI0X19WSVArQmxhY2tqYWNrK3dpdGgrU3VycmVuZGVyX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">VIP Blackjack with Surrender</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Ezugi Casino</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ab59f01-93ff-44e6-ae1f-c90b377f7916__U3BlZWRCbGFja2phY2swMV9fU3BlZWQrVklQK0JsYWNramFjaytBX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ab59f01-93ff-44e6-ae1f-c90b377f7916__U3BlZWRCbGFja2phY2swMV9fU3BlZWQrVklQK0JsYWNramFjaytBX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ab59f01-93ff-44e6-ae1f-c90b377f7916__U3BlZWRCbGFja2phY2swMV9fU3BlZWQrVklQK0JsYWNramFjaytBX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/8ab59f01-93ff-44e6-ae1f-c90b377f7916__U3BlZWRCbGFja2phY2swMV9fU3BlZWQrVklQK0JsYWNramFjaytBX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Speed VIP Blackjack A</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9ee5e7dd-106d-44d1-a28e-ee73e3210a9e__MjIxJTQwMjkzX19MaW1pdGxlc3MrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9ee5e7dd-106d-44d1-a28e-ee73e3210a9e__MjIxJTQwMjkzX19MaW1pdGxlc3MrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9ee5e7dd-106d-44d1-a28e-ee73e3210a9e__MjIxJTQwMjkzX19MaW1pdGxlc3MrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/9ee5e7dd-106d-44d1-a28e-ee73e3210a9e__MjIxJTQwMjkzX19MaW1pdGxlc3MrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Limitless Blackjack</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Vivo Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/252ba45e-fd83-4898-93e8-6a6f50f1ea4a__RnJlZUJldDAwMDAwMDAwMV9fSW5maW5pdGUrRnJlZStCZXQrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/252ba45e-fd83-4898-93e8-6a6f50f1ea4a__RnJlZUJldDAwMDAwMDAwMV9fSW5maW5pdGUrRnJlZStCZXQrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/252ba45e-fd83-4898-93e8-6a6f50f1ea4a__RnJlZUJldDAwMDAwMDAwMV9fSW5maW5pdGUrRnJlZStCZXQrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/252ba45e-fd83-4898-93e8-6a6f50f1ea4a__RnJlZUJldDAwMDAwMDAwMV9fSW5maW5pdGUrRnJlZStCZXQrQmxhY2tqYWNrX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Infinite Free Bet Blackjack</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/93cc8c60-10ba-45c9-bde0-41c9ccffb2cf__NCU0MDIyMl9fTGFzK1ZlZ2FzK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/93cc8c60-10ba-45c9-bde0-41c9ccffb2cf__NCU0MDIyMl9fTGFzK1ZlZ2FzK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/93cc8c60-10ba-45c9-bde0-41c9ccffb2cf__NCU0MDIyMl9fTGFzK1ZlZ2FzK0JsYWNramFja19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/93cc8c60-10ba-45c9-bde0-41c9ccffb2cf__NCU0MDIyMl9fTGFzK1ZlZ2FzK0JsYWNramFja19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Las Vegas Blackjack</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Vivo Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36980342-e5a3-4962-ba1d-6d31b7a0969f__c25pNWN6YTZkMXZ2bDUwaV9fQmxhY2tqYWNrK1BhcnR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36980342-e5a3-4962-ba1d-6d31b7a0969f__c25pNWN6YTZkMXZ2bDUwaV9fQmxhY2tqYWNrK1BhcnR5X19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36980342-e5a3-4962-ba1d-6d31b7a0969f__c25pNWN6YTZkMXZ2bDUwaV9fQmxhY2tqYWNrK1BhcnR5X19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/36980342-e5a3-4962-ba1d-6d31b7a0969f__c25pNWN6YTZkMXZ2bDUwaV9fQmxhY2tqYWNrK1BhcnR5X19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Blackjack Party</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Evolution Gaming</div>
                                                       </div>
                                                    </div>
@@ -4823,7 +9755,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c73ea-19e0-7f9a-878b-8f6242f9fdfe__R2F0ZXMrb2YrT2x5bXB1c18xMDAwXzkwMHg5MDArY29weS5KUEc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4859,7 +9791,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d0d3e-15f8-7b26-a4f9-f06ade147e30__U2FyYXkrUiVDMyVCQ3lhcyVDNCVCMStTLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d0d3e-15f8-7b26-a4f9-f06ade147e30__U2FyYXkrUiVDMyVCQ3lhcyVDNCVCMStTLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d0d3e-15f8-7b26-a4f9-f06ade147e30__U2FyYXkrUiVDMyVCQ3lhcyVDNCVCMStTLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d0d3e-15f8-7b26-a4f9-f06ade147e30__U2FyYXkrUiVDMyVCQ3lhcyVDNCVCMStTLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4877,7 +9809,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018fab59-5305-74c3-b235-fd9f5011a6c0__Uytzd2VldC5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4895,7 +9827,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d6607-93fa-785f-a647-6a7c19eb644a__Uy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4913,7 +9845,7 @@
                                                       <div class="item--fVWE_">
                                                          <div class="inner--fgjuJ">
                                                             <div class="background--pDksl" style="height: 162px;">
-                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
                                                                   <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d9e4c-2d2e-7962-b30a-ede5aa97cdf1__YmlnLWJhc3MtZmxvYXRzLW15LWJvYXQud2VicA==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d9e4c-2d2e-7962-b30a-ede5aa97cdf1__YmlnLWJhc3MtZmxvYXRzLW15LWJvYXQud2VicA==.webp?quality=80&amp;height=200&amp;format=webp 1x,
                                                                      https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d9e4c-2d2e-7962-b30a-ede5aa97cdf1__YmlnLWJhc3MtZmxvYXRzLW15LWJvYXQud2VicA==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d9e4c-2d2e-7962-b30a-ede5aa97cdf1__YmlnLWJhc3MtZmxvYXRzLW15LWJvYXQud2VicA==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
                                                                   <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
@@ -4924,6 +9856,132 @@
                                                       </div>
                                                       <div class="game-bottom-info--ytNE2" style="height: 56px;">
                                                          <div class="ellipsis--EjZIN game-name--HlJEc">Big Bass Floats my Boat</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/217345e9-0236-41cb-9b60-8ce97cdeffae__dnMyMHdpbGRwYXJ0eV9fMytCdXp6aW5nK1dpbGRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/217345e9-0236-41cb-9b60-8ce97cdeffae__dnMyMHdpbGRwYXJ0eV9fMytCdXp6aW5nK1dpbGRzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/217345e9-0236-41cb-9b60-8ce97cdeffae__dnMyMHdpbGRwYXJ0eV9fMytCdXp6aW5nK1dpbGRzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/217345e9-0236-41cb-9b60-8ce97cdeffae__dnMyMHdpbGRwYXJ0eV9fMytCdXp6aW5nK1dpbGRzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">3 Buzzing Wilds</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/c0fea41c-97e1-47f2-9f68-91fcb911d572__dnNwcmcxMGNmaXJlX19Dcm93bitvZitGaXJlK0phY2twb3QrUGxheV9fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Crown of Fire Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c5eb9-5d59-787c-ad07-87a9562b0f70__NStGcm96ZW4rQ2hhcm1zK01lZ2F3YXlzK1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c5eb9-5d59-787c-ad07-87a9562b0f70__NStGcm96ZW4rQ2hhcm1zK01lZ2F3YXlzK1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c5eb9-5d59-787c-ad07-87a9562b0f70__NStGcm96ZW4rQ2hhcm1zK01lZ2F3YXlzK1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018c5eb9-5d59-787c-ad07-87a9562b0f70__NStGcm96ZW4rQ2hhcm1zK01lZ2F3YXlzK1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">5 Frozen Charms Megaways</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d0254-1d5c-7bd8-97fe-018f265f4996__dnN3YXlzZmlyZXdtd19fQmxhemluZytXaWxkcytNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d0254-1d5c-7bd8-97fe-018f265f4996__dnN3YXlzZmlyZXdtd19fQmxhemluZytXaWxkcytNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d0254-1d5c-7bd8-97fe-018f265f4996__dnN3YXlzZmlyZXdtd19fQmxhemluZytXaWxkcytNZWdhd2F5c19fUy5wbmc=.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/018d0254-1d5c-7bd8-97fe-018f265f4996__dnN3YXlzZmlyZXdtd19fQmxhemluZytXaWxkcytNZWdhd2F5c19fUy5wbmc=.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Blazing Wilds Megaways</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je loaded--rSoeq img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/21972b24-aa0d-46e6-bdb7-0d8314c2f10e__dnNwcmcxMGJpZ2Jhc3NfX0JpZytCYXNzK1NwbGFzaCtKYWNrcG90K1BsYXlfX1MucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Big Bass Splash Jackpot Play</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d1c4d-9f4c-7c2f-9502-9e417d6d9aad__UytCZWFtK0JveXMucG5n.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d1c4d-9f4c-7c2f-9502-9e417d6d9aad__UytCZWFtK0JveXMucG5n.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d1c4d-9f4c-7c2f-9502-9e417d6d9aad__UytCZWFtK0JveXMucG5n.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/fileserver_public__api/public/gamemanager/018d1c4d-9f4c-7c2f-9502-9e417d6d9aad__UytCZWFtK0JveXMucG5n.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Beam Boys</div>
+                                                         <div class="ellipsis--EjZIN provider-name--cVSMO">Hacksaw Gaming</div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="game-container--aaM6z" style="width: 162px; min-width: 162px; margin: 0px 0px 24px;">
+                                                      <div class="item--fVWE_">
+                                                         <div class="inner--fgjuJ">
+                                                            <div class="background--pDksl" style="height: 162px;">
+                                                               <div class="lazy-game-img--PJ2je img--_gsr6" style="aspect-ratio: 1 / 1;">
+                                                                  <img class="img--_gsr6 img-high--k9rDp" src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a42bc9a9-f1a1-49bb-ab59-5fc44d4910e7__dnMyMGZvcmdlX19Gb3JnZStvZitPbHltcHVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp" srcset="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a42bc9a9-f1a1-49bb-ab59-5fc44d4910e7__dnMyMGZvcmdlX19Gb3JnZStvZitPbHltcHVzX19TLnBuZw==.webp?quality=80&amp;height=200&amp;format=webp 1x,
+                                                                     https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a42bc9a9-f1a1-49bb-ab59-5fc44d4910e7__dnMyMGZvcmdlX19Gb3JnZStvZitPbHltcHVzX19TLnBuZw==.webp?quality=80&amp;height=400&amp;format=webp 2x" alt="image" loading="lazy" width="162" height="162" style="aspect-ratio: 1 / 1;"><img src="https://api-prd--ca.dtgapi.com/fileserver_public__api/public/gamemanager/a42bc9a9-f1a1-49bb-ab59-5fc44d4910e7__dnMyMGZvcmdlX19Gb3JnZStvZitPbHltcHVzX19TLnBuZw==.webp?quality=1&amp;height=50&amp;format=webp" alt="image" loading="lazy" class="img-low--fV2pq img--_gsr6" width="162" height="162" style="aspect-ratio: 1 / 1;">
+                                                                  <div class="img--_gsr6 gradient-overlay--K7Yzb" style="aspect-ratio: 1 / 1;"></div>
+                                                               </div>
+                                                            </div>
+                                                            <div class="game-overlay--ZW8Ud"></div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="game-bottom-info--ytNE2" style="height: 56px;">
+                                                         <div class="ellipsis--EjZIN game-name--HlJEc">Forge of Olympus</div>
                                                          <div class="ellipsis--EjZIN provider-name--cVSMO">Pragmatic Play</div>
                                                       </div>
                                                    </div>
@@ -4953,7 +10011,7 @@
                                           <div class="track--yXji4 track--LZlOO">
                                              <div class="space--N4Edw vertical--VxJLq" style="gap: 16px;">
                                                 <div class="space--N4Edw" style="gap: 16px;">
-                                                   <livespins-room type="Stream" streamerid="4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f" sessionid="31b34778-9b9f-4c8b-8615-3a7e5ad095fc" streamernickname="Enigma" totalplayersinbetbehind="4" language="en" starttimestamp="1719154647" viewers="10" currentgame="BigBlox" currentgametitle="Big Blox" accountid="826X9J" streamerstreamid="Streamer-31b34778-9b9f-4c8b-8615-3a7e5ad095fc" gamestreamid="Game-31b34778-9b9f-4c8b-8615-3a7e5ad095fc" issinglestream="true" name="MY NEW TALENT - FINDING BIG WINS" description="FOLLOW ME TO JOIN THE SHORT ARMY" order="99" istesting="false" metadata="{&quot;leaderboardMinBetAmount&quot;:&quot;0.5&quot;,&quot;leaderboardMinBetCurrency&quot;:&quot;EUR&quot;}" content-language="English" locale="TR" thumbnail="https://thumbnails.livespins.com/streams/31b34778-9b9f-4c8b-8615-3a7e5ad095fc.jpg" streamerimage="https://assets.livespins.com/room-events/raw/4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" cta="true" style="cursor: pointer; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-room>
+                                                   <livespins-room type="Stream" streamerid="4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f" sessionid="31b34778-9b9f-4c8b-8615-3a7e5ad095fc" streamernickname="Enigma" totalplayersinbetbehind="4" language="en" starttimestamp="1719154647" viewers="8" currentgame="BrazilBomba" currentgametitle="Brazil Bomba" accountid="826X9J" streamerstreamid="Streamer-31b34778-9b9f-4c8b-8615-3a7e5ad095fc" gamestreamid="Game-31b34778-9b9f-4c8b-8615-3a7e5ad095fc" issinglestream="true" name="MY NEW TALENT - FINDING BIG WINS" description="FOLLOW ME TO JOIN THE SHORT ARMY" order="99" istesting="false" metadata="{&quot;leaderboardMinBetAmount&quot;:&quot;0.5&quot;,&quot;leaderboardMinBetCurrency&quot;:&quot;EUR&quot;}" content-language="English" locale="TR" thumbnail="https://thumbnails.livespins.com/streams/31b34778-9b9f-4c8b-8615-3a7e5ad095fc.jpg" streamerimage="https://assets.livespins.com/room-events/raw/4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" cta="true" style="cursor: pointer; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-e46d88e9-bc8b-44e9-be24-9dfc0fad112f-1719169200" scheduledstarttime="1719169200" time="22:00" streamer="Marshmallow" streamernickname="Marshmallow" streamerid="e46d88e9-bc8b-44e9-be24-9dfc0fad112f" language="EN" locale="TR" date="Sun, 23 Jun 2024 19:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/e46d88e9-bc8b-44e9-be24-9dfc0fad112f.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-e46d88e9-bc8b-44e9-be24-9dfc0fad112f.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-1c73284e-b137-4349-845b-695071cece92-1719190800" scheduledstarttime="1719190800" time="04:00" streamer="Missa" streamernickname="Missa" streamerid="1c73284e-b137-4349-845b-695071cece92" language="EN" locale="TR" date="Mon, 24 Jun 2024 01:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/1c73284e-b137-4349-845b-695071cece92.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-1c73284e-b137-4349-845b-695071cece92.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-149654e2-d26d-4f00-9c23-4b8aa6b0dcb8-1719205200" scheduledstarttime="1719205200" time="08:00" streamer="Jelly" streamernickname="Jelly" streamerid="149654e2-d26d-4f00-9c23-4b8aa6b0dcb8" language="EN" locale="TR" date="Mon, 24 Jun 2024 05:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/149654e2-d26d-4f00-9c23-4b8aa6b0dcb8.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-149654e2-d26d-4f00-9c23-4b8aa6b0dcb8.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
@@ -4975,7 +10033,7 @@
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-ed9943bf-4ae8-4430-a893-cae7599940aa-1719514800" scheduledstarttime="1719514800" time="22:00" streamer="Fatal" streamernickname="Fatal" streamerid="ed9943bf-4ae8-4430-a893-cae7599940aa" language="EN" locale="TR" date="Thu, 27 Jun 2024 19:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/ed9943bf-4ae8-4430-a893-cae7599940aa.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-ed9943bf-4ae8-4430-a893-cae7599940aa.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
                                                 </div>
                                                 <div class="space--N4Edw" style="gap: 16px;">
-                                                   <livespins-room type="Stream" streamerid="cba60b53-6b77-4e04-b227-31466df4ecf9" sessionid="60763fe6-d2c5-42ad-b39c-ced5169ff714" streamernickname="Pinky" totalplayersinbetbehind="5" language="en" starttimestamp="1719154632" viewers="15" currentgame="Gunspinner" currentgametitle="Gunspinner" accountid="826X9J" streamerstreamid="Streamer-60763fe6-d2c5-42ad-b39c-ced5169ff714" gamestreamid="Game-60763fe6-d2c5-42ad-b39c-ced5169ff714" issinglestream="true" name="MaxWin is Coming!!!" description="Good luck to everyone!" order="91" istesting="false" metadata="{&quot;leaderboardMinBetAmount&quot;:&quot;0.5&quot;,&quot;leaderboardMinBetCurrency&quot;:&quot;EUR&quot;}" content-language="English" locale="TR" thumbnail="https://thumbnails.livespins.com/streams/60763fe6-d2c5-42ad-b39c-ced5169ff714.jpg" streamerimage="https://assets.livespins.com/room-events/raw/cba60b53-6b77-4e04-b227-31466df4ecf9.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-cba60b53-6b77-4e04-b227-31466df4ecf9.png" cta="true" style="cursor: pointer; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-room>
+                                                   <livespins-room type="Stream" streamerid="cba60b53-6b77-4e04-b227-31466df4ecf9" sessionid="60763fe6-d2c5-42ad-b39c-ced5169ff714" streamernickname="Pinky" totalplayersinbetbehind="2" language="en" starttimestamp="1719154632" viewers="13" currentgame="KennethMustDie" currentgametitle="Kenneth Must Die" accountid="826X9J" streamerstreamid="Streamer-60763fe6-d2c5-42ad-b39c-ced5169ff714" gamestreamid="Game-60763fe6-d2c5-42ad-b39c-ced5169ff714" issinglestream="true" name="MaxWin is Coming!!!" description="Good luck to everyone!" order="91" istesting="false" metadata="{&quot;leaderboardMinBetAmount&quot;:&quot;0.5&quot;,&quot;leaderboardMinBetCurrency&quot;:&quot;EUR&quot;}" content-language="English" locale="TR" thumbnail="https://thumbnails.livespins.com/streams/60763fe6-d2c5-42ad-b39c-ced5169ff714.jpg" streamerimage="https://assets.livespins.com/room-events/raw/cba60b53-6b77-4e04-b227-31466df4ecf9.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-cba60b53-6b77-4e04-b227-31466df4ecf9.png" cta="true" style="cursor: pointer; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-dcbed2c7-757c-41d2-98e9-a0943e5f7889-1719183600" scheduledstarttime="1719183600" time="02:00" streamer="Ciudi" streamernickname="Ciudi" streamerid="dcbed2c7-757c-41d2-98e9-a0943e5f7889" language="EN" locale="TR" date="Sun, 23 Jun 2024 23:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/dcbed2c7-757c-41d2-98e9-a0943e5f7889.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-dcbed2c7-757c-41d2-98e9-a0943e5f7889.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f-1719198000" scheduledstarttime="1719198000" time="06:00" streamer="Enigma" streamernickname="Enigma" streamerid="4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f" language="EN" locale="TR" date="Mon, 24 Jun 2024 03:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-4ab6cb8d-f5b7-4aae-beb5-1d4725f9792f.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
                                                    <livespins-schedule-room type="ScheduledStream" id="EN-49cb6e6c-66bd-4494-851f-4a128dcfaf24-1719212400" scheduledstarttime="1719212400" time="10:00" streamer="MaryJay" streamernickname="MaryJay" streamerid="49cb6e6c-66bd-4494-851f-4a128dcfaf24" language="EN" locale="TR" date="Mon, 24 Jun 2024 07:00:00 GMT" metadata="{&quot;eventColor&quot;:&quot;&quot;,&quot;eventFileName&quot;:&quot;&quot;}" streamerimage="https://assets.livespins.com/room-events/raw/49cb6e6c-66bd-4494-851f-4a128dcfaf24.png" streamernameimage="https://assets.livespins.com/streamers/streamer-name-49cb6e6c-66bd-4494-851f-4a128dcfaf24.png" content-language="English" cta="true" style="cursor: not-allowed; display: flex; width: fit-content; max-width: calc(-86px + 100vw);"></livespins-schedule-room>
@@ -5086,4 +10144,3 @@
                            </div>
                         </div>
                      </main>
-                     

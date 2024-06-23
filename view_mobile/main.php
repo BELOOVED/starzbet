@@ -1,3 +1,8 @@
+<style>
+    #opmenu{
+        display: none;
+    }
+</style>
 <main class="main--cV6bz">
                         <div class="landing-page--JOho5">
                            <div class="products-area--PbFiX landing-page-products--yotGG">

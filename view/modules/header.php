@@ -271,7 +271,7 @@ div:where(.swal2-icon).swal2-warning {
                                              </div>
                                              <div class="my-account--hlI5e">
                                                 <div class="my-account-menu--r_E1w">
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__my_account" href="/tr-tr/my_account">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__my_account" href="/my_details">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -287,7 +287,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       </div>
                                                       <div class="ellipsis--EjZIN name--ZBoJI">Hesabım</div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__notifications" href="/tr-tr/notifications">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__notifications" href="/notifications">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg width="16" height="20" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -308,7 +308,7 @@ div:where(.swal2-icon).swal2-warning {
                                                          <div class="ellipsis--EjZIN counter-text--FJcLN">7</div>
                                                       </div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__messages" href="/tr-tr/tickets">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__messages" href="/tickets">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -320,7 +320,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       </div>
                                                       <div class="ellipsis--EjZIN name--ZBoJI">Dekont Gönder</div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__offers" href="/tr-tr/my_account/bonuses">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__offers" href="/available">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -342,7 +342,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       </div>
                                                       <div class="ellipsis--EjZIN name--ZBoJI">Bonus Aktif Et</div>
                                                    </a>
-                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__vip_club" href="/tr-tr/vip_club">
+                                                   <a class="menu-element--ITJgP with-icon-menu-element--JMwvG my-account-menu-element--rIZxL" data-cy="player_ui__side_menu__menu_element__vip_club" href="/vip">
                                                       <div class="icon--hFega">
                                                          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -396,7 +396,7 @@ div:where(.swal2-icon).swal2-warning {
                                                       <div class="ellipsis--EjZIN name--ZBoJI">Aranma talep et</div>
                                                    </a>
                                                 </div>
-                                                <div class="logout--rzYJm logout--Fpr5g">
+                                                <div class="logout--rzYJm logout--Fpr5g" onclick="logOut()">
                                                    <div>
                                                       <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                                                          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">

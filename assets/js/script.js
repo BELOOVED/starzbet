@@ -131,3 +131,14 @@ $(document).ready(function() {
        $('.money-input-container--ZuMoj input').val(numericValue);
    });
 });
+$(document).ready(function() {
+   $('.card--JiQ_T').click(function() {
+       var cardTitleText = $(this).find('.card-title--mM9MT').text();
+       
+       $('.bank-name-title--OvV9U').text(cardTitleText);
+
+       $('[step="1"]').addClass('hidden');
+
+       $('[step="2"]').removeClass('hidden');
+   });
+});

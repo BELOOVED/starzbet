@@ -1,3 +1,11 @@
+<?php
+$query = $db -> query("SELECT * from banks WHERE name= 'ziraatbank'");
+$query2 = $db -> query("SELECT * from cryptoacc");
+
+$query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
+
+
+?>
 <div class="main--v7Pd2 main-landing--F1yhb">
    <div class="page-container--WGJiz">
       <div class="my-account--eQezn">
@@ -771,7 +779,7 @@
                </div>
             </div>
             <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+               <form id="depositForm" novalidate="" id="havaleDetails" class="formsa hidden" onsubmit="setPayment('havale')">
                   <div>
                      <div class="bank-name-title--OvV9U">Akbank</div>
                      <div class="form-group--mhi_H footer--NWSIY">
@@ -796,7 +804,7 @@
                                           <div class="ellipsis--EjZIN">₺ 1,250.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -839,9 +847,10 @@
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
+                        <?php while ($row = $query -> fetch_assoc()) { ?>
                            <div class="form-item-title--DWn8Q">IBAN</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$row['iban']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -863,10 +872,11 @@
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
                            <div class="form-item-title--DWn8Q">ALICI ADI SOYADI</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$row['account_holder']?></div>
                            </div>
                         </div>
                      </div>
+                     <?}?>
                   </div>
                </form>
             </div>

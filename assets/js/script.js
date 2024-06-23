@@ -143,17 +143,26 @@ $(document).ready(function() {
    });
 });
 $(document).ready(function() {
-   $('.form-item-content--_NgyH .copy--qGwNJ').click(function() {
-       var ellipsisText = $(this).siblings('.ellipsis--EjZIN').text();
-       console.log("Ellipsis text: " + ellipsisText); 
+   $('.copy--qGwNJ').on('click', function() {
+       var textToCopy = $('.ellipsis--EjZIN').text();
        
-       var copiedText = ellipsisText;
+       var tempTextarea = $('<textarea>');
+       tempTextarea.val(textToCopy).appendTo('body').select();
        
-       var messageWrapper = $(this).siblings('.message-wrapper--JG_60');
-       messageWrapper.removeClass('hidden');
+       try {
+           var successful = document.execCommand('copy');
+           var msg = successful ? 'successful' : 'unsuccessful';
+           console.log('Copying text command was ' + msg);
+       } catch (err) {
+           console.log('Oops, unable to copy');
+       }
+
+       tempTextarea.remove();
+       
+       $('.message-wrapper--JG_60').removeClass('hidden');
        
        setTimeout(function() {
-           messageWrapper.addClass('hidden');
+           $('.message-wrapper--JG_60').addClass('hidden');
        }, 3000);
    });
 });

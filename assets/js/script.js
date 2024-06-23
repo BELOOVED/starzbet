@@ -176,7 +176,7 @@ $(document).ready(function() {
      autoplay: true,
      autoplaySpeed: 2000,
      arrows: false,
-     dots: true,
+     dots: false,
      infinite: true,
      slidesToShow: 1,
      slidesToScroll: 1,

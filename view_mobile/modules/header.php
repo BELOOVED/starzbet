@@ -26,27 +26,7 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Starzbet">
-      <link href="/assets/css/stylesheet_20.css" rel=stylesheet>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_19.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_18.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_17.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_16.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_15.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_14.css" crossorigin=anonymous>
-   <link href="/assets/css/stylesheet_13.css" rel=stylesheet>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_12.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_11.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_10.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_9.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_8.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_7.css" crossorigin=anonymous>
-   <link href="/assets/css/stylesheet_6.css" rel=stylesheet>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_5.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_4.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_3.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_2.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_1.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/stylesheet_0.css" crossorigin=anonymous>
+      
 
       <link href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5011.860f7d71c9f0580b8eb7.css" rel="stylesheet">
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>

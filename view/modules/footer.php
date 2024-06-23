@@ -1306,6 +1306,7 @@
       </div>
    </div>
 </div>
+<?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 <script>
 <?php if(isset($us['id'])){?>
 function loginorp1ay(){
@@ -1332,5 +1333,5 @@ function loginorp1ay(){
  document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
 </script>
 </body>
-<?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
+
 </html>

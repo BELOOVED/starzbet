@@ -197,3 +197,8 @@ $(document).ready(function() {
  
    updateSlideCount(); 
  });
+ function openmobilemenu(){
+   $(".overlay--zU4r_").toggleClass("overlay-active--DdB_P");
+   $("body").toggleClass("ohidden");
+   $("#xmenu").toggleClass("navbar-active--HCx__");
+ }

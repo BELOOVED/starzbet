@@ -1520,7 +1520,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Popypara</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1531,8 +1531,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('popypara')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -1556,7 +1556,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -1594,14 +1594,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Popypara hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['popypara_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1621,9 +1621,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Popypara tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['popypara_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -1651,7 +1651,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Hayhay</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1662,8 +1662,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('hayhay')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -1687,7 +1687,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -1725,14 +1725,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Hayhay hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['hayhay_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1752,9 +1752,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Hayhay tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['hayhay_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -1782,7 +1782,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Pep</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1793,8 +1793,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('pep')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -1818,7 +1818,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -1856,14 +1856,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Pep hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['pep_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1883,9 +1883,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Pep tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['pep_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -1913,7 +1913,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Payco</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -1924,8 +1924,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('payco')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -1949,7 +1949,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -1987,14 +1987,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Payco hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['payco_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2014,9 +2014,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Payco tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['payco_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2044,7 +2044,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Mypayz</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2055,8 +2055,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('mypayz')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -2080,7 +2080,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -2118,14 +2118,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Mypayz hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['mypayz_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2145,9 +2145,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Mypayz tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['mypayz_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2175,7 +2175,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Parazula</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2186,8 +2186,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('parazula')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -2211,7 +2211,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -2249,14 +2249,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Parazula hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['parazula_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2276,9 +2276,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Parazula tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['parazula_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2286,7 +2286,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </form>
             </div>
          </div>
-         <div class="content--MJSzR opne hidden" id="creditcard">
+         <div class="content--MJSzR opne hidden" id="creditcard" >
             <div class="header--ceyeN">
                <div class="header-icon-container--uaw9k purple-header-icon--PPvnj">
                   <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2317,8 +2317,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" action="https://kolaydeposit.com/payment/creditcard">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -2342,7 +2342,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -2380,14 +2380,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
                            <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2409,7 +2409,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
                            <div class="form-item-title--DWn8Q">Papara tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2437,7 +2437,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Paycell</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2448,8 +2448,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('paycell')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -2473,7 +2473,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -2511,14 +2511,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Paycell hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['paycell_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2538,9 +2538,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Paycell tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['paycell_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2568,7 +2568,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <div class="header-title--GZJh3" data-cy="player_ui__page__title">
                      <div class="ellipsis--EjZIN">Yatırım</div>
                   </div>
-                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Papara</span></div>
+                  <div class="header-subtitle--bt0Es"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--eI4Gh">Payqasa</span></div>
                </div>
                <button class="button--Cl3tp" onclick="closepayment1()" data-cy="player_ui__my_account_menu__button__go_back">
                   <span class="wrapper--fQhcx dark-text-color--f1um7" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2579,8 +2579,8 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   <span>Geri</span>
                </button>
             </div>
-            <div class="children-container--y7YuW" step="1">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW" step="2">
+               <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('payqasa')">
                   <div>
                      <div class="form-group--mhi_H footer--NWSIY">
                         <div class="form-group-item--iaMzP">
@@ -2604,7 +2604,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                                           <div class="ellipsis--EjZIN">₺ 5,000.00</div>
                                        </div>
                                     </div>
-                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                                    <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" name="amount" inputmode="decimal" placeholder="Miktar girin" value=""></div>
                                  </div>
                               </div>
                               <div class="field-footer--MxQJp"></div>
@@ -2642,14 +2642,14 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                   </div>
                </form>
             </div>
-            <div class="children-container--y7YuW hidden" step="2">
-               <form id="depositForm" novalidate="">
+            <div class="children-container--y7YuW hidden" step="3">
+               <form id="depositForm" novalidate=""  >
                   <div class="form-group--mhi_H">
                      <div class="form-group-item--iaMzP">
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                           <div class="form-item-title--DWn8Q">Payqasa hesap numarası</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">TR56 0004 6005 0988 8000 1956 18</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['payqasa_number']?></div>
                               <div class="copy--qGwNJ">
                                  <div>
                                     <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
@@ -2669,9 +2669,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                            </div>
                         </div>
                         <div class="form-item--n0mHj padding-bottom--kWh9K">
-                           <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                           <div class="form-item-title--DWn8Q">Payqasa tam adı</div>
                            <div class="form-item-content--_NgyH">
-                              <div class="ellipsis--EjZIN">Eyüp Bayar</div>
+                              <div class="ellipsis--EjZIN"><?=$query1['payqasa_holder']?></div>
                            </div>
                         </div>
                      </div>
@@ -2679,6 +2679,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                </form>
             </div>
          </div>
+
       </div>
    </div>
 </div>

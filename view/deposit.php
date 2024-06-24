@@ -37,7 +37,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
             </div>
             <div class="children-container--y7YuW">
                <div class="payment-method-list--X1SXq">
-                  <a class="payment-method-card--xQjv7" href="#" onclick="openpayment('crypto')">
+                  <a class="payment-method-card--xQjv7" href="#" onclick="openmodal('errorModal')">
                      <div class="payment-method-card-header--khRRd">
                         <div class="method-icon--BCH9Z icon--cDHQ3">
                            <div class="crypto--_gx8J"></div>

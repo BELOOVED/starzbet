@@ -105,6 +105,19 @@ div:where(.swal2-icon).swal2-warning {
     position: relative;
     width: 100%;
 }
+.event-info--XSsMK {
+    flex: 1 1 100%;
+    gap: 1px;
+    justify-content: space-between;
+    min-width: 0;
+    width: 100%;
+    height: 0px !important;
+}
+.row--S8O61 a:not(.stats-button--iKqlg) {
+    display: block;
+    height: 0 !important;
+    width: 100%;
+}
    </style>
     </head>
    <body data-mobile="true" data-touch="true" data-webp="true" style="">

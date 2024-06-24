@@ -1,0 +1,216 @@
+.main-container {
+    border-radius: 8px;
+    padding-bottom: 15px;
+}
+
+.table {
+    border-radius: 8px 8px 0 0;
+    position: relative;
+}
+
+.table-grey {
+    background: var(--color-1);
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-2);
+    border-radius: 8px;
+    padding: 8px 20px;
+    height: 36px;
+    position: relative;
+}
+
+.tournament {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text);
+    overflow: hidden;
+    font-size: 14px;
+    margin-bottom: var(--font-margin-2);
+}
+
+.tournament:not(.outright-tournament) {
+    max-width: 300px;
+    width: 300px;
+}
+
+.info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    text-transform: capitalize;
+    color: var(--text);
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.category-logo {
+    min-width: 16px;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-top: var(--font-margin-2);
+}
+
+.category-logo img {
+    width: 100%;
+    display: block;
+    border-radius: 100%;
+}
+
+.sport-icon {
+    min-width: 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.markets {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.filter,
+.expanded-filter {
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    width: 150px;
+    height: 100%;
+}
+
+.filter-handle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 100%;
+    border: 1px solid transparent;
+    color: var(--text);
+    padding: 0 8px;
+}
+
+.active-handle {
+    background: var(--color-1);
+    border: 1px solid var(--bahis-border-color);
+    border-radius: 10px;
+    color: var(--text);
+}
+
+.filter-name {
+    font-size: 12px;
+    line-height: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+    max-width: 70%;
+    margin-right: 16px;
+    color: var(--text-3);
+    margin-bottom: var(--font-margin-2);
+}
+
+.active-filter-name {
+    color: var(--text);
+}
+
+.dropdown {
+    position: absolute;
+    top: 160%;
+    right: 50%;
+    transform: translateX(50%);
+    padding: 10px;
+    border-radius: 8px;
+    background: var(--color-5);
+    z-index: 4;
+    border: 1px solid var(--color-2);
+    width: max-content;
+    max-width: 300px;
+}
+
+.arrow {
+    margin-top: var(--font-margin-1);
+}
+
+.close {
+    width: 19px;
+    height: 19px;
+    background-image: image-set( url("../../../Assets-Optimized/close_filter.png") 1x, url("../../../Assets-Optimized/close_filter@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.empty {
+    display: none;
+}
+
+.dropdown-item {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+    padding: 0 15px;
+    text-transform: capitalize;
+    width: 100%;
+    height: 28px;
+    border-radius: 5px;
+    color: var(--text-3);
+}
+
+.dropdown-item:last-of-type {
+    margin-bottom: 0;
+}
+
+.dropdown-item.current,
+.dropdown-item:hover {
+    color: var(--text);
+}
+
+.expand-category {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1280px) {
+    .tournament:not(.outright-tournament) {
+        width: 235px;
+        max-width: 235px;
+    }
+}
+
+@media screen and (width < 768px) {
+    .markets {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1379px) {
+    .main-container {
+        padding-bottom: 11px;
+    }
+    .container {
+        padding: 6px 11px 6px 14px;
+    }
+    .category-logo {
+        min-width: 14px;
+        height: 14px;
+        width: 14px;
+    }
+}

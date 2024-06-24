@@ -1,0 +1,47 @@
+.kiron_horse_racing {
+    background-image: image-set( url("./KironBackground/kiron_horse_racing.png") 1x, url("./KironBackground/kiron_horse_racing@2x.png") 2x);
+}
+
+.kiron_hounds_racing {
+    background-image: image-set( url("./KironBackground/kiron_hounds_racing.png") 1x, url("./KironBackground/kiron_hounds_racing@2x.png") 2x);
+}
+
+.kiron_motor_racing {
+    background-image: image-set( url("./KironBackground/kiron_motor_racing.png") 1x, url("./KironBackground/kiron_motor_racing@2x.png") 2x);
+}
+
+.kiron_table_tennis {
+    background-image: image-set( url("./KironBackground/kiron_table_tennis.png") 1x, url("./KironBackground/kiron_table_tennis@2x.png") 2x);
+}
+
+.kiron_harness_racing {
+    background-image: image-set( url("./KironBackground/kiron_harness_racing.png") 1x, url("./KironBackground/kiron_harness_racing@2x.png") 2x);
+}
+
+.kiron_ice_hockey {
+    background-image: image-set( url("./KironBackground/kiron_ice_hockey.png") 1x, url("./KironBackground/kiron_ice_hockey@2x.png") 2x);
+}
+
+.kiron_lucky_loot {
+    background-image: image-set( url("./KironBackground/kiron_lucky_loot.png") 1x, url("./KironBackground/kiron_lucky_loot@2x.png") 2x);
+}
+
+.kiron_soccer {
+    background-image: image-set( url("./KironBackground/kiron_soccer.png") 1x, url("./KironBackground/kiron_soccer@2x.png") 2x);
+}
+
+.kiron_badminton {
+    background-image: image-set( url("./KironBackground/kiron_badminton.png") 1x, url("./KironBackground/kiron_badminton@2x.png") 2x);
+}
+
+.kiron_archery {
+    background-image: image-set( url("./KironBackground/kiron_archery.png") 1x, url("./KironBackground/kiron_archery@2x.png") 2x);
+}
+
+.kiron_roulette {
+    background-image: image-set( url("./KironBackground/kiron_roulette.png") 1x, url("./KironBackground/kiron_roulette@2x.png") 2x);
+}
+
+.kiron_cricket {
+    background-image: image-set( url("./KironBackground/kiron_cricket.png") 1x, url("./KironBackground/kiron_cricket@2x.png") 2x);
+}

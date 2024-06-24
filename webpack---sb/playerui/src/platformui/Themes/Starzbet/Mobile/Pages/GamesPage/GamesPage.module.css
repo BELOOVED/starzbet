@@ -1,0 +1,56 @@
+.container {
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    min-height: calc(100vh - 120px);
+    margin-bottom: 20px;
+}
+
+.labels {
+    margin: 16px 0;
+    padding: 0 16px;
+    display: flex;
+    gap: 8px;
+}
+
+.labels-active {
+    border-radius: 8px;
+    background: var(--purple-gradient);
+}
+
+.labels-name {
+    max-width: 200px;
+}
+
+.demo-wrap {
+    position: relative;
+}
+
+.demo-wrap::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100%;
+    mix-blend-mode: luminosity;
+    opacity: 0.12;
+    background: url("./background1x.png");
+    background-repeat: no-repeat;
+}
+
+[data-theme="light"] .demo-wrap::before {
+    background: var(--background);
+}
+
+.filter-menu {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 8px;
+}
+
+.top-winners {
+    margin-top: 15px;
+    padding: 0 12px 15px;
+}

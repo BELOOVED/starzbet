@@ -1,0 +1,10 @@
+.pix-label {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background: var(--color-1);
+    border: 1px solid var(--stroke);
+    padding: 8px 16px;
+}

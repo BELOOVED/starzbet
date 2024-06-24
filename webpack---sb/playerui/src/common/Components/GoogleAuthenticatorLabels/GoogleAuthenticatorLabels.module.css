@@ -1,0 +1,41 @@
+.app-store,
+.play-market {
+    display: flex;
+    height: 52px;
+    background-repeat: no-repeat;
+}
+
+.app-store {
+    background-image: image-set( url("../../../platformui/Assets/Images/Security/appstore@1x.png") 1x, url("../../../platformui/Assets/Images/Security/appstore@2x.png") 2x);
+    background-size: contain;
+    width: 163px;
+}
+
+.play-market {
+    background-image: image-set( url("../../../platformui/Assets/Images/Security/playmarket@1x.png") 1x, url("../../../platformui/Assets/Images/Security/playmarket@2x.png") 2x);
+    background-size: contain;
+    width: 179px;
+}
+
+[data-webp="true"] {
+    .app-store {
+        background-image: url("../../../platformui/Assets/Images/Security/appstore.webp")
+    }
+    .play-market {
+        background-image: url("../../../platformui/Assets/Images/Security/playmarket.webp")
+    }
+}
+
+[data-mobile="true"] {
+    .app-store,
+    .play-market {
+        max-height: 52px;
+        height: auto;
+    }
+    .play-market {
+        aspect-ratio: 164 / 49;
+    }
+    .app-store {
+        aspect-ratio: 152 / 49;
+    }
+}

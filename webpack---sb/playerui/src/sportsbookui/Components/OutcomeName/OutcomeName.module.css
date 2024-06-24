@@ -1,0 +1,98 @@
+.sequenceName {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    width: 100%;
+}
+
+.teamSequence {
+    display: flex;
+    gap: 5px;
+    width: 100%;
+}
+
+.field {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.greenBall {
+    background: radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%);
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.blueBall {
+    background: radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.yellowBall {
+    background: radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.redBall {
+    background: radial-gradient(50% 50% at 50% 50%, #FA9090 0%, #BF0808 100%), radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.redBox {
+    background: var(--virtual-sports-redPure);
+}
+
+.blackBox {
+    background: linear-gradient(0deg, #000, #000), #E01200;
+}
+
+.greenBall,
+.blueBall,
+.yellowBall,
+.redBall {
+    border-radius: 50%;
+}
+
+.redBox,
+.blackBox {
+    border-radius: 2px;
+}
+
+.sequenceIconList {
+    display: flex;
+    gap: 3px;
+}
+
+.teamNumber {
+    width: 20px;
+    height: 20px;
+    background: var(--sb-color-9);
+    border: 1px solid #FFF;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 0.35);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFF;
+}
+
+.scoreRacingTitle {
+    width: 21px;
+}
+
+.scoreRacingNumber {
+    color: #625681;
+    width: 21px;
+}

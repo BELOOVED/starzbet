@@ -1,0 +1,159 @@
+.live-icon,
+.score {
+    background-color: var(--color-6);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17px;
+    color: var(--text);
+    border-radius: 6px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    align-items: center;
+    letter-spacing: 0;
+    padding: 5px 8px;
+    flex: 0 0 fit-content;
+}
+
+.pre-live-wrapper,
+.live-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.sub-live-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.time-wrapper {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--dark-text);
+    gap: 10px;
+}
+
+.period {
+    color: var(--error);
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    margin-bottom: var(--font-margin-3);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: -0.03em;
+    gap: 10px;
+}
+
+.period::before {
+    content: "";
+    flex: 0 0 auto;
+    width: 6px;
+    height: 6px;
+    background: var(--error);
+    display: block;
+    border-radius: 100%;
+}
+
+.score-with-outcome {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: var(--text);
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.score-outcome {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    width: 100%;
+}
+
+.score-racing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    width: 100%;
+}
+
+.score-racing-result {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 100%;
+}
+
+.score-racing-title {
+    width: 21px;
+}
+
+.score-racing-number {
+    color: var(--color-1);
+    width: 21px;
+}
+
+.date {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .time-icon {
+        min-width: 10px !important;
+        width: 10px !important;
+        height: 10px !important;
+    }
+    .time-wrapper {
+        gap: 6px;
+    }
+    .date,
+    .period {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .period {
+        gap: 8px;
+        padding-left: 3px;
+    }
+    .score,
+    .live-icon {
+        font-size: 8px;
+        padding: 4px 6px;
+        gap: 6px;
+        line-height: 10px;
+    }
+    .play-link-icon {
+        min-width: 10px !important;
+        width: 10px !important;
+        height: 10px !important;
+    }
+}

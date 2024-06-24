@@ -1,0 +1,26 @@
+.character-default {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &.active {
+        animation: blinking-character 0.7s infinite;
+    }
+    &.completed {
+        box-shadow: 0 0 0 1px var(--verify-shadow-border-color);
+        background: var(--verify-item-completed-color);
+    }
+}
+
+@keyframes blinking-character {
+    to {
+        box-shadow: 0 0 0 3px var(--verify-shadow-border-color);
+    }
+}
+
+[data-mobile="true"] {
+    .character {
+        min-width: 60px;
+        width: 60px;
+        height: 60px;
+    }
+}

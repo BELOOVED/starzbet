@@ -1,0 +1,153 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.with-icon-menu-element {
+    padding: 6px 12px;
+}
+
+.my-account-menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-element:hover {
+    opacity: .8;
+}
+
+.my-account-menu-element {
+    height: 38px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 20px;
+    border-bottom: 1px solid var(--color-6);
+}
+
+.my-account-menu-element:first-child {
+    border-top: 1px solid var(--color-6);
+}
+
+.menu-element {
+    height: 42px;
+    border-radius: 8px;
+    background: var(--color-6);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 11px;
+    position: relative;
+}
+
+.my-account-menu-element {
+    height: 38px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 20px;
+    border-bottom: 1px solid var(--color-6);
+    background: none;
+    border-radius: 0;
+}
+
+.with-icon-menu-element-mobile {
+    gap: 20px;
+    padding: 10px 0 !important;
+}
+
+.active {
+    background: var(--color-1);
+    border: 1px solid var(--hover);
+    border-radius: 8px;
+}
+
+.icon {
+    margin-right: 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+}
+
+.icon-container-mobile {
+    background-color: var(--background);
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.name {
+    flex: 1;
+    overflow: hidden;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: capitalize;
+    margin-bottom: var(--font-margin-2);
+}
+
+.name-mobile {
+    composes: name;
+    font-size: 16px;
+}
+
+.opener {
+    width: 24px;
+    min-width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/plus.png") 1x, url("../../Assets-Optimized/Images/plus@2x.png") 2x);
+}
+
+.expanded {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/plus2.png") 1x, url("../../Assets-Optimized/Images/plus2@2x.png") 2x);
+}
+
+.\--changePassword {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/changePassword.png") 1x, url("../../Assets-Optimized/Images/changePassword@2x.png") 2x);
+}
+
+.\--accountVerification {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/accountVerification.png") 1x, url("../../Assets-Optimized/Images/accountVerification@2x.png") 2x);
+}
+
+.\--requestACall {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/requestACall.png") 1x, url("../../Assets-Optimized/Images/requestACall@2x.png") 2x);
+}
+
+.\--bonus {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/bonus.png") 1x, url("../../Assets-Optimized/Images/bonus@2x.png") 2x);
+}
+
+.\--history {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/history.png") 1x, url("../../Assets-Optimized/Images/history@2x.png") 2x);
+}
+
+.\--tickets {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/message-circle 1.png") 1x, url("../../Assets-Optimized/Images/message-circle 1@2x.png") 2x);
+}
+
+.not-verified {
+    opacity: 0.5;
+    cursor: default;
+    pointer-events: none;
+}

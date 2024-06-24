@@ -1,0 +1,27 @@
+.colorNormalizer {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.ball.green {
+    background: radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+}
+
+.ball.blue {
+    background: radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+}
+
+.ball.yellow {
+    background: radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+}
+
+.ball.red {
+    background: radial-gradient(50% 50% at 50% 50%, #FA9090 0%, #BF0808 100%), radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+}

@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"container":"container--PlqhH","labels":"labels--juArG","labels-active":"labels-active--MdPCi","labelsActive":"labels-active--MdPCi","labels-name":"labels-name--RO9qA","labelsName":"labels-name--RO9qA","demo-wrap":"demo-wrap--uWUvm","demoWrap":"demo-wrap--uWUvm","filter-menu":"filter-menu--hC7IE","filterMenu":"filter-menu--hC7IE","top-winners":"top-winners--o3ZHQ","topWinners":"top-winners--o3ZHQ"};

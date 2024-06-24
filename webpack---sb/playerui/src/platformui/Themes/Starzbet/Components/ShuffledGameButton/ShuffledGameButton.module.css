@@ -1,0 +1,29 @@
+.shuffle-button {
+    margin: 0 10px;
+    width: max-content;
+    min-width: max-content;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &>div {
+        gap: 11px;
+        &>span {
+            position: relative;
+            bottom: 1px;
+        }
+    }
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+[data-mobile="true"] {
+    .shuffle-button {
+        margin: 0 16px;
+        width: calc(100% - 32px);
+    }
+}

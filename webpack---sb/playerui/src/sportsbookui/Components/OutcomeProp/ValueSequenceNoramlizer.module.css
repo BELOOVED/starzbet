@@ -1,0 +1,84 @@
+/* TODO remove, when implement `virtual sports` variables for all theme */
+
+@import "../../Styles/VirtualSportsVariables.css";
+.list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3px;
+}
+
+.andMore {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #9D93B1;
+}
+
+.parameters {
+    margin-bottom: 5px;
+}
+
+.ball,
+.keno,
+.box {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.ball,
+.keno {
+    border-radius: 50%;
+}
+
+.box {
+    border-radius: 2px;
+}
+
+.ball.green {
+    background: radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%);
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.ball.blue {
+    background: radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.ball.yellow {
+    background: radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+    color: var(--virtual-sports-black);
+}
+
+.ball.red {
+    background: radial-gradient(50% 50% at 50% 50%, #FA9090 0%, #BF0808 100%), radial-gradient(50% 50% at 50% 50%, #FFF8BA 0%, #E1CB00 100%), radial-gradient(50% 50% at 50% 50%, #6590FE 0%, #0845E1 100%), radial-gradient(50% 50% at 50% 50%, #81E360 0%, #48972F 100%), #C4C4C4;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.keno.yellow {
+    background: var(--virtual-sports-yellowVivid);
+}
+
+.keno.orange {
+    background: var(--virtual-sports-orangeVivid);
+}
+
+.box.zeroBox {
+    background: linear-gradient(0deg, #3B7E21, #3B7E21), #E01200;
+}
+
+.box.redBox {
+    background: var(--virtual-sports-redPure);
+}
+
+.box.blackBox {
+    background: linear-gradient(0deg, #000, #000), #E01200;
+}

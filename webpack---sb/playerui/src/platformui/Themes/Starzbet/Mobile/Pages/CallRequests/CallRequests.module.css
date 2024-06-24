@@ -1,0 +1,22 @@
+.call-requests {
+    padding: 16px;
+    color: var(--text);
+    position: relative;
+}
+
+.form {
+    margin-bottom: 32px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.sub-title {
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    margin-bottom: 24px;
+}

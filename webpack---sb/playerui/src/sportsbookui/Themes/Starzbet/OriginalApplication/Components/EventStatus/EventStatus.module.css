@@ -1,0 +1,82 @@
+.event-status-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: capitalize;
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.scope-name,
+.game-period {
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.game-period {
+    max-width: 55px;
+}
+
+.minute {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.minute::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    margin-right: 4px;
+    background: var(--error);
+    display: block;
+    border-radius: 100%;
+}
+
+.scope-name {
+    display: flex;
+    align-items: center !important;
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    max-width: 55px;
+}
+
+.scope-name::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    margin-right: 4px;
+    margin-bottom: 1px;
+    background: var(--error);
+    display: block;
+    border-radius: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+    .game-period {
+        max-width: 90px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .game-period {
+        max-width: 80px;
+    }
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .game-period, .scope-name {
+            font-size: 10px;
+            line-height: 13px;
+            color: #BAC1CA;
+        }
+        .minute {
+            font-size: 12px;
+        }
+    }
+}

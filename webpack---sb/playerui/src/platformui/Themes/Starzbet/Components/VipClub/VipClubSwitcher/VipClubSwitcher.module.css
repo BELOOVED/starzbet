@@ -1,0 +1,51 @@
+.vip-club-switcher {
+    display: flex;
+    gap: 20px;
+    z-index: 2;
+    overflow: hidden;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.vip-club-switcher-tab {
+    display: block;
+    overflow: hidden;
+    flex-direction: column;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    color: var(--text);
+    gap: 16px;
+    transition: .3s;
+    padding: 0 6px 12px;
+    border-bottom: 1px solid transparent;
+}
+
+.vip-club-switcher-tab:global(.active) {
+    color: var(--active);
+    border-color: var(--active);
+}
+
+[data-touch="false"] .vip-club-switcher-tab:not(:global(.active)):hover {
+    opacity: .8;
+}
+
+[data-touch="false"] .vip-club-switcher-tab:not(:global(.active)):active {
+    opacity: .7;
+}
+
+.vip-club-switcher-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] {
+    .vip-club-switcher {
+        padding: 12px 6px;
+        gap: 10px;
+    }
+}

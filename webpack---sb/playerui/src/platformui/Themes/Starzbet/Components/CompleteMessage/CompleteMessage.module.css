@@ -1,0 +1,27 @@
+.existing-limit {
+    color: var(--validation);
+    background: var(--color-4);
+    padding: 16px;
+    border-radius: 8px;
+    border: 2px solid var(--validation);
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+}
+
+.icon {
+    padding-bottom: 2px;
+}
+
+@media screen and (max-width: 768px) {
+    .existing-limit {
+        padding: 8px;
+        font-size: 14px;
+        line-height: 18px;
+        width: 100%;
+    }
+}

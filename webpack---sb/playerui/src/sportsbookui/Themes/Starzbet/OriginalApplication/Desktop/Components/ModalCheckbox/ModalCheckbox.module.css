@@ -1,0 +1,16 @@
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    justify-content: center;
+    user-select: none;
+    cursor: pointer;
+    gap: 10px;
+}
+
+.message {
+    color: var(--text);
+    opacity: .7;
+}

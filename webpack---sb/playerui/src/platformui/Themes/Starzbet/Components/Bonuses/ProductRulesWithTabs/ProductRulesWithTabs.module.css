@@ -1,0 +1,81 @@
+.mb8 {
+    margin-bottom: 8px;
+}
+
+.tab-list {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.tab-list::-webkit-scrollbar {
+    display: none;
+}
+
+.tab-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 calc(25% - 8px);
+    height: 50px;
+    background: var(--color-5);
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: var(--light-200);
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.tab-item>div:first-child {
+    margin-bottom: 2px;
+}
+
+.tab-item.single {
+    max-width: 25%;
+}
+
+.tab-item.active {
+    background: var(--orange-gradient);
+    color: var(--text);
+}
+
+div[data-theme="light"] {
+    .tab-item {
+        background: var(--color-3);
+        color: var(--text);
+    }
+    .tab-item.active {
+        background: var(--orange-gradient);
+    }
+}
+
+.note {
+    color: var(--dark-text);
+}
+
+.minimum-bets,
+.remaining-wager {
+    color: var(--text);
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 4px;
+}
+
+.remaining-wager {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.main-color {
+    color: var(--active);
+}

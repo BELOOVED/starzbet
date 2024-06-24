@@ -1,0 +1,48 @@
+.form {
+    width: 100%;
+}
+
+.form-footer {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 16px;
+}
+
+.header {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 24px;
+    color: var(--text-3);
+    text-transform: capitalize;
+    padding: 16px 0;
+}
+
+.header-fit {
+    margin-bottom: 8px;
+}
+
+.input-title {
+    text-transform: capitalize;
+}
+
+.drop-padding {
+    margin: 0;
+}
+
+[data-mobile="false"] {
+    .form-footer,
+    .form-group {
+        width: calc(50% - 12px);
+    }
+    .form-container {
+        display: flex;
+        gap: 24px;
+    }
+}
+
+[data-mobile="true"] {
+    .form-footer,
+    .form-group {
+        width: 100%;
+    }
+}

@@ -1,0 +1,65 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.deposit,
+.withdraw {
+    border-radius: 8px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 14px;
+    color: white;
+    padding: 0 14px;
+    width: 100%;
+    transition: .2s;
+}
+
+.deposit:hover,
+.withdraw:hover {
+    opacity: .8;
+}
+
+.deposit-mobile,
+.withdraw-mobile {
+    font-size: 16px !important;
+    height: 64px !important;
+    letter-spacing: normal;
+    text-transform: capitalize !important;
+}
+
+.deposit {
+    background: var(--orange-gradient);
+}
+
+.withdraw {
+    background: var(--blue-gradient);
+}
+
+.withdraw-mobile,
+.withdraw-mobile:hover {
+    background: var(--background) !important;
+    color: var(--text) !important;
+}
+
+.not-verified {
+    opacity: 0.5;
+    cursor: default;
+    pointer-events: none;
+}
+
+.arrow-up {
+    background: var(--text);
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.arrow-down {
+    background: var(--text);
+    border-radius: 5px;
+    padding: 4px;
+}

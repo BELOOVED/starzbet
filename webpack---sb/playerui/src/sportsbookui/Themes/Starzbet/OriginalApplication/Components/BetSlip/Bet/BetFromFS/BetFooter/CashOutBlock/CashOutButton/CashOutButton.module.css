@@ -1,0 +1,20 @@
+.cash-out-button {
+    text-transform: capitalize;
+}
+
+.cash-out-button.confirm {
+    background: var(--color-6);
+    color: var(--validation);
+}
+
+.cash-out-button.error {
+    background: var(--error);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .cash-out-button {
+        height: 31px;
+        font-size: 10px;
+        padding: 0 7px;
+    }
+}

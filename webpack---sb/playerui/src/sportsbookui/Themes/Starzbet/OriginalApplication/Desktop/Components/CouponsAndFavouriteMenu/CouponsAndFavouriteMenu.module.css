@@ -1,0 +1,11 @@
+.coupon-items {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+[data-mobile="true"] {
+    .coupon-items {
+        padding: 0 16px;
+    }
+}

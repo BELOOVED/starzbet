@@ -1,0 +1,16 @@
+.widget-body {
+    margin: 32px 16px;
+    color: var(--text);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+    .widget-body {
+        border: none;
+        border-top: 1px solid var(--hover);
+        width: 100%;
+        margin: 0;
+        border-radius: initial;
+    }
+}

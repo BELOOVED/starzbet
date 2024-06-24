@@ -1,0 +1,87 @@
+.error {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 480px;
+    max-width: 90vw;
+    height: 380px;
+    max-height: 90vh;
+    background: #2E3238;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 46px 32px 32px;
+}
+
+.close {
+    width: 24px;
+    height: 24px;
+    left: calc(100% - 56px);
+    position: absolute;
+    top: 28px;
+    background-image: image-set( url("../../Themes/Betwiz/Mobile/Assets/Images/close-24px.png") 1x, url("../../Themes/Betwiz/Mobile/Assets/Images/close-24px@2x.png") 2x);
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.warningIcon {
+    margin-bottom: 16px;
+}
+
+.errorIcon {
+    margin-top: 20px;
+    width: 90px;
+    height: 90px;
+    background-image: image-set( url("../../Themes/Betwiz/Mobile/Assets/Images/errorCircle.png") 1x, url("../../Themes/Betwiz/Mobile/Assets/Images/errorCircle@2x.png") 2x);
+    background-size: contain;
+    margin-bottom: 16px;
+    background-repeat: no-repeat;
+}
+
+.iconContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFF;
+    margin-bottom: 16px;
+}
+
+.subtitle {
+    color: #CBD7E7;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.gotItButton {
+    padding: 8px 16px;
+    background: var(--brand);
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    min-width: 160px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #22262D;
+    cursor: pointer;
+}

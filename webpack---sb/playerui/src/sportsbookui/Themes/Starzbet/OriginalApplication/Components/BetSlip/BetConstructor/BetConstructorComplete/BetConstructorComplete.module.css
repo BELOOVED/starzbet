@@ -1,0 +1,47 @@
+.bet-placed-message {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.title {
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.sub-title {
+    color: var(--dark-text);
+}
+
+.button {
+    text-transform: capitalize;
+}
+
+.tick-icon {
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .bet-placed-message {
+        font-size: 10px;
+    }
+    .button {
+        height: 31px;
+        font-size: 11px;
+        padding: 0 7px;
+    }
+    .tick-icon {
+        width: 60px !important;
+        min-width: 60px !important;
+        height: 60px !important;
+    }
+}

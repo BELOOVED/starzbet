@@ -1,0 +1,59 @@
+.button {
+    border-radius: 10px;
+    padding: 10px 24px;
+    height: 42px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.button.mobile {
+    width: 100%;
+}
+
+.primary {
+    background: var(--blue-gradient);
+    color: white;
+}
+
+.primary:active {
+    background: var(--blue-gradient);
+}
+
+.primary:disabled {
+    background: var(--dark-text);
+}
+
+.secondary {
+    background: var(--hover);
+    color: white;
+}
+
+.secondary:active {
+    background: var(--color-6);
+}
+
+.tertiary {
+    background: var(--color-5);
+    color: var(--text);
+    outline: 1px solid var(--color-6);
+}
+
+.tertiary:active {
+    background: var(--color-5);
+}
+
+[data-touch="false"] {
+    .primary:hover {
+        background: var(--blue-gradient);
+    }
+    .secondary:hover {
+        background: var(--color-1);
+    }
+    .tertiary:hover {
+        background: var(--color-5);
+    }
+}

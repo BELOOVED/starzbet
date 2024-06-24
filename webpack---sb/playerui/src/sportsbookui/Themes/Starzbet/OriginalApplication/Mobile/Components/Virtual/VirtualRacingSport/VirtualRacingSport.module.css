@@ -1,0 +1,310 @@
+.racing-markets {
+    padding: 15px;
+    color: var(--dark-text);
+}
+
+.market-group {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--color-6);
+    justify-content: space-between;
+    padding: 8px 0;
+    height: 61px;
+}
+
+.markets {
+    display: flex;
+    align-items: stretch;
+}
+
+.market-groups {
+    flex: 1;
+}
+
+.finished {
+    flex: 1;
+    border-left: 1px solid var(--color-6);
+    border-bottom: 1px solid var(--color-6);
+    border-right: 1px solid var(--color-6);
+}
+
+.finished-content {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    gap: 12px;
+}
+
+.finished-text {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.finished-title {
+    font-weight: 400;
+    color: var(--dark-text);
+}
+
+.finished-result {
+    font-weight: 700;
+    color: var(--text);
+}
+
+.team-view {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 156px;
+    width: 156px;
+}
+
+.team-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+    flex: 1 1 100%;
+    min-width: 0;
+}
+
+.team-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    width: 100%;
+}
+
+.team-favorite {
+    color: var(--virtual-sports-orangeDark);
+    width: 14px;
+    min-width: 14px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.team-rating {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.last-five-stats {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--dark-text);
+}
+
+.market-header {
+    display: flex;
+    justify-content: space-between;
+    background: var(--color-6);
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--dark-text);
+    padding: 5px 0 5px 5px;
+}
+
+.market-select {
+    position: relative;
+    width: 152px;
+    text-transform: capitalize;
+}
+
+.select-current {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    border: 1px solid var(--active);
+    border-radius: 5px;
+    padding: 7px;
+    width: 100%;
+}
+
+.market-drop-down {
+    position: absolute;
+    top: calc(100% + 3px);
+    background: var(--color-6);
+    box-shadow: 0 5px 11px rgb(0 0 0 / 0.35);
+    border-radius: 5px;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.market-tab {
+    display: flex;
+    justify-content: center;
+    padding: 6px 0;
+}
+
+.market-tab.tab-active {
+    background: var(--active);
+    color: var(--background);
+    border-radius: 5px;
+}
+
+.racing-market-places {
+    display: flex;
+}
+
+.race-place-short,
+.race-place {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 6px;
+    text-align: center;
+}
+
+.market-list {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.gap {
+    gap: 5px;
+}
+
+.race-winner-odd {
+    display: flex;
+    justify-content: center;
+}
+
+.cast-odd {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: var(--color-6);
+    height: 44px;
+}
+
+.cast-odd,
+.race-place {
+    width: 53px;
+    min-width: 53px;
+}
+
+.cast-odd.short,
+.race-place-short {
+    width: 40px;
+    min-width: 40px;
+}
+
+.place {
+    padding: 4px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid var(--color-6);
+    text-transform: capitalize;
+}
+
+.cast-odd.locked,
+.cast-odd.disable:not(.active) {
+    cursor: default;
+    pointer-events: none;
+}
+
+.checkbox {
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    position: relative;
+    margin: 4px;
+    background: var(--background);
+    border: 1px solid var(--active);
+}
+
+.checkbox.checked {
+    background-color: var(--active);
+}
+
+.checkbox.checked::before {
+    content: "";
+    width: 10px;
+    height: 8px;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    background-image: image-set( url("../../../../Desktop/Assets-Optimized/checkMark.png") 1x, url("../../../../Desktop/Assets-Optimized/checkMark@2x.png") 2x);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cast-locked {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.checkbox.disable:not(.checked) {
+    border: 1px solid var(--color-6);
+}
+
+.checkbox.active:not(.locked) {
+    border: 1px solid var(--active);
+}
+
+.button-control {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 15px;
+    padding-top: 15px;
+}
+
+.button {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.add {
+    background: var(--active);
+    color: var(--background);
+}
+
+.clear {
+    border: 1px solid var(--active);
+    color: var(--active);
+}
+
+.add.disable,
+.clear.disable {
+    opacity: 0.15;
+}
+
+.virtual-loader {
+    margin: 15px 0;
+}

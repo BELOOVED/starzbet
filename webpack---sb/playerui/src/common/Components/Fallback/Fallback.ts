@@ -1,0 +1,3 @@
+const SMALL_DASH_FALLBACK = "-";
+
+export { SMALL_DASH_FALLBACK };

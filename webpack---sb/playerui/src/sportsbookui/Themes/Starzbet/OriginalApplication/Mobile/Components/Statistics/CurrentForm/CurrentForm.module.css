@@ -1,0 +1,481 @@
+.current-form {
+    font-family: Axiforma, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    padding: 8px 0 16px;
+    margin: 16px;
+    border-radius: 20px;
+    height: 271px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+[data-kg-env="true"] .current-form {
+    font-family: Raleway, sans-serif;
+}
+
+.current-form.mobile {
+    margin: 0;
+    border-radius: initial;
+}
+
+.header {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 24px;
+    color: white;
+}
+
+.back-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60px;
+    height: 24px;
+    background-color: var(--hover);
+    border-radius: 5px;
+    padding: 0 8px;
+}
+
+.back-title {
+    font-size: 12px;
+    line-height: 1;
+    font-weight: 600;
+    padding-top: 1px;
+    color: var(--color-1);
+}
+
+.right-block {
+    width: 60px;
+    height: 40px;
+}
+
+.back-arrow {
+    min-width: 12px;
+    width: 12px;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+.overall {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70%;
+    margin-top: 3px;
+    padding-bottom: 9px;
+    gap: 15px;
+}
+
+.overall-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.team {
+    text-align: center;
+    color: white;
+    display: flex;
+    flex: 1 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    margin: 0 8px;
+}
+
+.team-info {
+    overflow: hidden;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+}
+
+.team-icon img {
+    display: block;
+    max-width: 46px;
+    max-height: 46px;
+    margin: auto;
+}
+
+.performance {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 10px;
+}
+
+.performance-team {
+    line-height: 12px;
+}
+
+.performance-team .percent {
+    margin: 11px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: white;
+}
+
+.performance-title {
+    background: var(--color-1);
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.performance-title .won {
+    margin-bottom: 10px;
+    color: var(--green);
+}
+
+.performance-title .lost {
+    margin-bottom: 10px;
+    color: var(--red);
+}
+
+.performance-draw {
+    color: var(--warning);
+}
+
+.win,
+.loss,
+.draw {
+    font-family: Rajdhani, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    box-sizing: content-box;
+    width: 20px;
+    height: 20px;
+}
+
+.win {
+    background: var(--green);
+    color: var(--white);
+}
+
+.loss {
+    background: var(--red);
+    font-style: normal;
+    color: var(--white);
+}
+
+.draw {
+    background: var(--warning);
+    color: var(--dark-jungle);
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 14px;
+}
+
+.last-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    color: var(--text-3);
+}
+
+.last-matches {
+    text-align: center;
+    max-width: 155px;
+    display: flex;
+    align-items: center;
+    box-sizing: content-box;
+    justify-content: center;
+    gap: 4px;
+}
+
+.last-matches>div:nth-child(6) {
+    display: none;
+}
+
+.chart-container {
+    position: relative;
+    margin-bottom: 5px;
+    width: 110px;
+    height: 110px;
+    background: linear-gradient(0deg, rgb(34 38 45 / 0.5), rgb(34 38 45 / 0.5));
+    box-sizing: border-box;
+    border-radius: 60px;
+}
+
+.team-icon {
+    position: absolute;
+    inset: -3px 0 0;
+    margin: auto;
+    width: 46px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.last-matches-multiview>div:nth-child(6),
+.last-matches-multiview>div:nth-child(5),
+.last-matches-multiview>div:nth-child(4) {
+    display: none;
+}
+
+.team-info-multiview {
+    max-width: 120px;
+}
+
+.chart-container-multiview {
+    width: 92px;
+    height: 92px;
+}
+
+@media screen and (min-width: 1500px) {
+    .last-matches-multiview {
+        width: 110px;
+    }
+    .last-matches-multiview>div:nth-last-child(3) {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 1379px) {
+    .last-matches-multiview {
+        width: 110px;
+    }
+    .last-matches-multiview>div:nth-last-child(3) {
+        display: flex;
+    }
+    .team-info-multiview {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .win,
+    .loss,
+    .draw {
+        width: 25px;
+    }
+    .last-matches {
+        width: 130px;
+    }
+    .last-matches>div:nth-child(5) {
+        display: none;
+    }
+    .chart-container {
+        width: 92px;
+        height: 92px;
+    }
+    .team-icon {
+        top: 0
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .team-info {
+        max-width: 100px;
+    }
+}
+
+@media screen and (max-width: 389px) {
+    .last-matches {
+        width: 110px;
+    }
+    .last-matches>div:nth-child(4) {
+        display: none;
+    }
+    .last-title {
+        display: none;
+    }
+    .overall-center {
+        padding-bottom: 60px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .team:first-child .team-info {
+        padding-right: 0;
+    }
+    .team:last-child .team-info {
+        padding-left: 0;
+    }
+}
+
+.\--soccer {
+    background-image: image-set( url("../../../../Desktop/Assets/football_bg.svg") 1x);
+}
+
+.\--soccer {
+    background-image: image-set( url("../../../../Assets/EventDetails/football_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/football_bg@2x.png_high.webp") 2x);
+}
+
+.\--basketball {
+    background-image: image-set( url("../../../../Assets/EventDetails/futsal_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/futsal_bg@2x.png_high.webp") 2x);
+}
+
+.\--tennis {
+    background-image: image-set( url("../../../../Assets/EventDetails/tennis_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/tennis_bg@2x.png_high.webp") 2x);
+}
+
+.\--volleyball {
+    background-image: image-set( url("../../../../Assets/EventDetails/volleyball_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/volleyball_bg@2x.png_high.webp") 2x);
+}
+
+.\--ice-hockey {
+    background-image: image-set( url("../../../../Assets/EventDetails/ice-hockey_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/ice-hockey_bg@2x.png_high.webp") 2x);
+}
+
+.\--baseball {
+    background-image: image-set( url("../../../../Assets/EventDetails/baseball_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/baseball_bg@2x.png_high.webp") 2x);
+}
+
+.\--badminton {
+    background-image: image-set( url("../../../../Assets/EventDetails/badminton_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/badminton_bg@2x.png_high.webp") 2x);
+}
+
+.\--american-football {
+    background-image: image-set( url("../../../../Assets/EventDetails/american_football_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/american_football_bg@2x.png_high.webp") 2x);
+}
+
+.\--futsal {
+    background-image: image-set( url("../../../../Assets/EventDetails/futsal_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/futsal_bg@2x.png_high.webp") 2x);
+}
+
+.\--handball {
+    background-image: image-set( url("../../../../Assets/EventDetails/badminton_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/badminton_bg@2x.png_high.webp") 2x);
+}
+
+.\--aussie-rules {
+    background-image: image-set( url("../../../../Assets/EventDetails/aussie_rules_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/aussie_rules_bg@2x.png_high.webp") 2x);
+}
+
+.\--squash {
+    background-image: image-set( url("../../../../Assets/EventDetails/squash_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/squash_bg@2x.png_high.webp") 2x);
+}
+
+.\--table-tennis {
+    background-image: image-set( url("../../../../Assets/EventDetails/table-tennis_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/table-tennis_bg@2x.png_high.webp") 2x);
+}
+
+.\--water-polo {
+    background-image: image-set( url("../../../../Assets/EventDetails/waterpolo_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/waterpolo_bg@2x.png_high.webp") 2x);
+}
+
+.\--rugby {
+    background-image: image-set( url("../../../../Assets/EventDetails/rugby_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/rugby_bg@2x.png_high.webp") 2x);
+}
+
+.\--snooker {
+    background-image: image-set( url("../../../../Assets/EventDetails/snooker_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/snooker_bg@2x.png_high.webp") 2x);
+}
+
+.\--floorball,
+.\--bandy {
+    background-image: image-set( url("../../../../Assets/EventDetails/field_hockey_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/field_hockey_bg@2x.png_high.webp") 2x);
+}
+
+.\--field-hockey {
+    background-image: image-set( url("../../../../Assets/EventDetails/field_hockey_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/field_hockey_bg@2x.png_high.webp") 2x);
+}
+
+.\--darts {
+    background-image: image-set( url("../../../../Assets/EventDetails/darts_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/darts_bg@2x.png_high.webp") 2x);
+}
+
+.\--cricket {
+    background-image: image-set( url("../../../../Assets/EventDetails/cricket_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/cricket_bg@2x.png_high.webp") 2x);
+}
+
+.\--beach-soccer {
+    background-image: image-set( url("../../../../Assets/EventDetails/beach_soccer_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/beach_soccer_bg@2x.png_high.webp") 2x);
+}
+
+.\--beach-volleyball {
+    background-image: image-set( url("../../../../Assets/EventDetails/volleyball_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/volleyball_bg@2x.png_high.webp") 2x);
+}
+
+.\--golf {
+    background-image: image-set( url("../../../../Assets/EventDetails/tennis_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/tennis_bg@2x.png_high.webp") 2x);
+}
+
+.\--dota2 {
+    background-image: image-set( url("../../../../Assets/EventDetails/dota_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/dota_bg@2x.png_high.webp") 2x);
+}
+
+.\--lol {
+    background-image: image-set( url("../../../../Assets/EventDetails/lol_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/lol_bg@2x.png_high.webp") 2x);
+}
+
+.\--csgo {
+    background-image: image-set( url("../../../../Assets/EventDetails/cs_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/cs_bg@2x.png_high.webp") 2x);
+}
+
+.\--overwatch {
+    background-image: image-set( url("../../../../Assets/EventDetails/overwatch_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/overwatch_bg@2x.png_high.webp") 2x);
+}
+
+.\--starcraft {
+    background-image: image-set( url("../../../../Assets/EventDetails/starcraft_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/starcraft_bg@2x.png_high.webp") 2x);
+}
+
+.\--starcraft2 {
+    background-image: image-set( url("../../../../Assets/EventDetails/starcraft_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/starcraft_bg@2x.png_high.webp") 2x);
+}
+
+.\--e-ice-hockey {
+    background-image: image-set( url("../../../../Assets/EventDetails/nhl_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/nhl_bg@2x.png_high.webp") 2x);
+}
+
+.\--warcraft3 {
+    background-image: image-set( url("../../../../Assets/EventDetails/warcraft3_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/warcraft3_bg@2x.png_high.webp") 2x);
+}
+
+.\--e-volleyball {
+    background-image: image-set( url("../../../../Assets/EventDetails/spike_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/spike_bg@2x.png_high.webp") 2x);
+}
+
+.\--rocket-league {
+    background-image: image-set( url("../../../../Assets/EventDetails/rocket-league_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/rocket-league_bg@2x.png_high.webp") 2x);
+}
+
+.\--rainbow6 {
+    background-image: image-set( url("../../../../Assets/EventDetails/rainbow6_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/rainbow6_bg@2x.png_high.webp") 2x);
+}
+
+.\--e-tennis {
+    background-image: image-set( url("../../../../Assets/EventDetails/e-tennis_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/e-tennis_bg@2x.png_high.webp") 2x);
+}
+
+.\--e-basketball {
+    background-image: image-set( url("../../../../Assets/EventDetails/nba_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/nba_bg@2x.png_high.webp") 2x);
+}
+
+.\--hearthstone {
+    background-image: image-set( url("../../../../Assets/EventDetails/hearthstone_bg.png_high.webp") 1x, url("../../../../Assets/EventDetails/hearthstone_bg@2x.png_high.webp") 2x);
+}

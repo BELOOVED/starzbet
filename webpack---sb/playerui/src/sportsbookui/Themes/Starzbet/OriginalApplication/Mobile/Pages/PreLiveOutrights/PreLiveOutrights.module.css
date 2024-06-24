@@ -1,0 +1,32 @@
+.outcomes {
+    background: var(--color-6);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: var(--text);
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+    min-height: 41px;
+    border-radius: 10px 10px 0 0;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.container {
+    padding: 10px;
+}
+
+.box {
+    display: flex;
+    margin: 0 -5px;
+    flex-direction: row;
+    flex-flow: row wrap;
+    row-gap: 10px;
+}

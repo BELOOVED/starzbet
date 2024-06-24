@@ -1,0 +1,12 @@
+.bet-history-wrapper {
+    padding: 10px;
+    border-top: 1px solid var(--color-6);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .bet-history-wrapper>button {
+        font-size: 10px;
+        height: 31px;
+        padding: 0 7px;
+    }
+}

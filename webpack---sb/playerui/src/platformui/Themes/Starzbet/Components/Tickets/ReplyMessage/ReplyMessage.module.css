@@ -1,0 +1,46 @@
+.reply-message {
+    position: relative;
+    display: grid;
+    grid-template-columns: calc(100% - 30px) 30px;
+    padding: 12px 24px;
+    border-left: 1px solid var(--color-3);
+    border-right: 1px solid var(--color-3);
+    border-top: 1px solid var(--color-4);
+    gap: 5px;
+    max-height: 150px;
+    overflow: hidden auto;
+}
+
+[data-mobile="true"] {
+    .reply-message {
+        max-height: 80px;
+    }
+}
+
+.reply-message::-webkit-scrollbar {
+    width: 4px;
+}
+
+.reply-message::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 2px;
+}
+
+.reply-message::-webkit-scrollbar-thumb {
+    border-radius: 2px;
+    background: var(--brand);
+}
+
+.reply-message::-webkit-scrollbar-thumb:hover {
+    background: var(--hover);
+}
+
+.close {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.close:hover {
+    opacity: 0.8;
+}

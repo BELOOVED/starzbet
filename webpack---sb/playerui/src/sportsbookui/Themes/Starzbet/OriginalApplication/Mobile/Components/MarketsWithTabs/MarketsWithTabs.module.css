@@ -1,0 +1,97 @@
+.filter {
+    display: flex;
+    justify-content: space-between;
+    height: 42px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    position: relative;
+    overflow-x: scroll;
+    scrollbar-width: none;
+}
+
+.container {
+    width: 100%;
+}
+
+.filter::-webkit-scrollbar {
+    display: none;
+}
+
+.filter-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 14px;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    color: var(--dark-text);
+}
+
+.filter-item {
+    height: 42px;
+    background: var(--color-1);
+    border-right: 1px solid var(--color-2);
+    box-sizing: border-box;
+    padding: 0 24px;
+}
+
+.filter-item.active {
+    background: var(--color-6);
+    color: var(--text);
+    border-bottom: 1px solid var(--active);
+}
+
+.market-groups {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.filter-name-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 8px;
+    flex: 1 1 100%;
+    min-width: 0;
+    margin-bottom: var(--font-margin-2);
+}
+
+.count {
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: var(--font-margin-2);
+    color: var(--text);
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--text);
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.group-title {
+    font-weight: bold;
+    font-size: 20px;
+    overflow: hidden;
+    width: 50%;
+}
+
+.expand-btn {
+    font-size: 16px;
+    padding-left: 10px;
+    text-align: right;
+    overflow: hidden;
+    width: 50%;
+    cursor: pointer;
+    user-select: none;
+}

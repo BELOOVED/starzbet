@@ -1,0 +1,120 @@
+.select {
+    height: 27px;
+    background-color: var(--color-2);
+    border-radius: 8px;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    width: 180px;
+}
+
+.name-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    overflow: hidden;
+}
+
+.dropdown {
+    width: 243px;
+    position: absolute;
+    background-color: var(--color-3);
+    border-radius: 8px;
+    border: 1px solid var(--color-6);
+    z-index: 100;
+    overflow-y: auto;
+    max-height: calc(55px * 3);
+}
+
+.outcome {
+    height: 53px;
+    padding: 8px 16px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.outcome:not(:first-child) {
+    border-top: 1px solid var(--color-6);
+}
+
+.name-and-return {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.outcome-name {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0;
+    color: var(--text);
+}
+
+.outcome-return {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 11px;
+    letter-spacing: 0;
+    color: var(--text);
+    overflow: hidden;
+    text-transform: capitalize;
+}
+
+.coefficient-and-check {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    gap: 8px;
+    flex: 0 0 auto;
+}
+
+.outcome.active {
+    background: var(--color-2);
+}
+
+.outcome:last-child {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.check-icon {
+    width: 18px !important;
+    min-width: 18px !important;
+    height: 18px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .select {
+        padding: 3px 6px;
+        align-items: center;
+        width: 140px;
+        height: 24px;
+    }
+    .dropdown {
+        width: 140px;
+        top: 36px;
+        left: 8px;
+    }
+    .outcome {
+        height: 31px;
+        padding: 0 7px;
+    }
+    .outcome-name {
+        line-height: 17px;
+        font-size: 10px;
+    }
+    .outcome-return {
+        font-size: 8px;
+    }
+    .trade-icon,
+    .check-icon {
+        width: 10px !important;
+        height: 10px !important;
+        min-width: 10px !important;
+    }
+}

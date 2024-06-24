@@ -1,0 +1,38 @@
+.pick-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    white-space: nowrap;
+}
+
+.market-name {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: var(--dark-text);
+    margin-bottom: var(--font-margin-3);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.name-and-status {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.outright-status {
+    color: var(--text);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .market-name {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .pick-info {
+        gap: 6px;
+    }
+}

@@ -1,0 +1,23 @@
+.my-account {
+    position: relative;
+    align-items: stretch;
+    display: flex;
+    min-height: inherit;
+    flex-grow: 1;
+    gap: 28px;
+    width: 100%;
+}
+
+@media screen and (min-width: 1440px) {
+    .my-account {
+        gap: 40px;
+    }
+}
+
+/* CONTENT */
+
+.content {
+    width: 100%;
+    padding-bottom: 30px;
+    overflow: hidden;
+}

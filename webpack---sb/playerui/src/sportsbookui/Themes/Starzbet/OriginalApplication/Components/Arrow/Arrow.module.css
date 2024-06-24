@@ -1,0 +1,22 @@
+.arrow {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.\--size24 {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    background-image: image-set( url("../../Assets-Optimized/chevron-down24.png") 1x, url("../../Assets-Optimized/chevron-down24@2x.png") 2x);
+}
+
+.\--size16 {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    background-image: image-set( url("../../Assets-Optimized/chevron-down16.png") 1x, url("../../Assets-Optimized/chevron-down16@2x.png") 2x);
+}
+
+.expanded {
+    transform: rotate(180deg);
+}

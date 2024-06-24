@@ -1,0 +1,78 @@
+.event-status {
+    display: flex;
+    color: var(--text);
+    gap: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.scope {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: var(--error);
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    overflow: hidden;
+    margin-bottom: var(--font-margin-3);
+}
+
+.circle {
+    flex: 0 0 auto;
+    width: 6px;
+    height: 6px;
+    background: var(--error);
+    display: block;
+    border-radius: 100%;
+}
+
+.score,
+.watch-link {
+    background-color: var(--color-6);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17px;
+    color: var(--text);
+    border-radius: 6px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    align-items: center;
+    letter-spacing: 0;
+    padding: 5px 8px;
+}
+
+[data-touch="false"] .watch-link:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .event-status {
+        gap: 6px;
+        font-size: 10px;
+        align-items: center;
+    }
+    .time-icon {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+    .scope {
+        font-size: 10px;
+        gap: 6px;
+        padding-left: 3px;
+    }
+    .watch-link,
+    .score {
+        font-size: 10px;
+        padding: 4px 6px;
+    }
+    .play-link-icon {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+}

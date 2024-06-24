@@ -1,0 +1,31 @@
+.paginator-row {
+    display: flex;
+    justify-content: right;
+    gap: 8px;
+}
+
+.paginator-button {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    color: var(--active);
+    background: var(--color-1);
+    border: 1px solid var(--active);
+}
+
+.paginator-button:disabled {
+    cursor: not-allowed;
+    color: var(--color-2);
+    border: 1px solid var(--color-2);
+}
+
+div[data-theme="light"] {
+    .paginator-button {
+        font-weight: 500;
+        border: 2px solid var(--active);
+    }
+    .paginator-button:disabled {
+        color: var(--dark-text);
+        border: 2px solid var(--color-3);
+    }
+}

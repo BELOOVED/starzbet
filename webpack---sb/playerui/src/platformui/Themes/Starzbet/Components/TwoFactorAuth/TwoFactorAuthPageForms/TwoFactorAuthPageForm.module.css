@@ -1,0 +1,49 @@
+.button {
+    width: min-content;
+    margin-left: auto;
+}
+
+.confirm-button {
+    margin-left: 0;
+    width: 100%;
+}
+
+.backup-codes {
+    padding: 16px;
+    border-radius: 10px;
+    background: var(--color-4);
+    width: 100%;
+    color: var(--text);
+}
+
+.success-modal {
+    gap: 12px;
+    min-width: auto;
+}
+
+.backup-codes-title {
+    font-size: 16px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.download {
+    color: var(--dark-text);
+    cursor: pointer;
+}
+
+[data-touch="false"] {
+    .download:hover {
+        opacity: .8;
+    }
+}
+
+[data-mobile="true"] {
+    .backup-codes {
+        font-size: 12px;
+    }
+    .backup-codes-title {
+        font-size: 14px;
+    }
+}

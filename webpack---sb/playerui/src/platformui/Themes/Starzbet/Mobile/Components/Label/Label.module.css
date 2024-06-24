@@ -1,0 +1,61 @@
+.labels {
+    display: flex;
+    gap: 5px;
+    padding-left: 30px;
+}
+
+.label {
+    border-radius: 8px;
+    padding: 6px 20px 5px;
+    transition: opacity .3s linear 2s;
+    background-color: var(--color-1);
+    border: 1px solid var(--color-6);
+    color: var(--dark-text);
+}
+
+.active-label {
+    color: var(--columbia-blue);
+    background: var(--brand);
+}
+
+.current-select {
+    width: 100px;
+    max-width: 100px;
+    margin-bottom: var(--font-margin-2);
+    color: var(--text);
+}
+
+.name {
+    height: 100%;
+    width: 70px;
+}
+
+.select {
+    position: relative;
+}
+
+.dropdown {
+    position: absolute;
+    right: 0;
+    top: 110%;
+    width: 100%;
+    border-radius: 8px;
+    padding: 12px;
+    background: var(--stroke);
+    border: 1px solid var(--dark-text);
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.dropdown-item {
+    padding: 0 10px;
+    height: 30px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.active-dropdown {
+    color: var(--text);
+}

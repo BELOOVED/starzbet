@@ -1,0 +1,52 @@
+.load-more {
+    border-top: 1px solid var(--color-6);
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.load-more-button {
+    text-transform: capitalize;
+}
+
+.empty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: var(--dark-text);
+    padding: 16px;
+}
+
+.my-bets :global(.ScrollbarsCustom-Wrapper) {
+    right: 0 !important;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+}
+
+.bets.mobile {
+    overflow-y: auto;
+    flex: 1 1 auto;
+}
+
+.bets.mobile>div:last-child {
+    border-bottom: 1px solid var(--color-6);
+}
+
+.my-bets-loader {
+    padding: 20px;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .load-more-button {
+        height: 31px;
+        font-size: 11px;
+        padding: 0 7px;
+    }
+}

@@ -1,0 +1,17 @@
+.count-down {
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 13px 2px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    width: 50px;
+    border: 1px solid var(--blue);
+    color: var(--blue);
+    margin-right: 5px;
+    font-variant-numeric: tabular-nums;
+}

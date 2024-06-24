@@ -1,0 +1,65 @@
+.vip-club-leader-board-self-place {
+    width: 100%;
+    position: relative;
+    color: var(--text);
+    align-items: center;
+    overflow: hidden;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.vip-club-leader-board-self-place-button {
+    display: block;
+    text-align: center;
+    height: 40px;
+    background-color: var(--brand);
+    color: var(--white);
+    font-size: 14px;
+    font-style: normal;
+    text-transform: capitalize;
+    border-radius: 8px;
+    padding: 0 20px;
+    transition: opacity .2s ease-out;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0;
+    min-width: fit-content;
+}
+
+[data-touch="false"] .vip-club-leader-board-self-place-button:hover {
+    opacity: .8;
+}
+
+[data-touch="false"] .vip-club-leader-board-self-place-button:active {
+    opacity: .5;
+}
+
+.mark {
+    color: var(--active);
+    font-size: 20px;
+    font-family: Rajdhani, sans-serif;
+    font-variant-numeric: tabular-nums;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-leader-board-self-place {
+    padding: 10px;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+[data-mobile="true"] .mark {
+    font-size: 12px;
+}

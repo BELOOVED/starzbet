@@ -1,0 +1,381 @@
+.side-menu-wrapper {
+    background: var(--color-1);
+    border: 1px solid var(--color-2);
+    box-sizing: border-box;
+    color: var(--text);
+    cursor: auto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    padding: 20px 0;
+    position: absolute;
+    right: 0;
+    top: 80px;
+    white-space: normal;
+    border-radius: 8px;
+    width: 316px;
+    z-index: 10002;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .3s;
+}
+
+.not-visible {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(0 0 0 / .5);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .3s;
+    z-index: -1;
+}
+
+.overlay-active {
+    opacity: 1;
+    visibility: visible;
+    z-index: 1000;
+}
+
+.mobile-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 0 20px;
+}
+
+.side-menu-wrapper-mobile {
+    padding-top: 0;
+    width: 80%;
+    min-height: 100vh;
+    top: 0;
+    border-radius: 0;
+    overflow: auto;
+    height: 100%;
+    background: var(--color-1);
+    padding-bottom: 100px;
+}
+
+.username {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.title-amount {
+    color: rgb(255 255 255 / 0.8);
+}
+
+.amount {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 6px;
+}
+
+.control {
+    display: flex;
+    align-items: center;
+}
+
+.block {
+    align-self: flex-end;
+}
+
+.update-balance {
+    width: 24px;
+    height: 24px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/refresh-ccw.png") 1x, url("../../Desktop/Assets-Optimized/Images/refresh-ccw@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    margin-right: -6px;
+}
+
+.item {
+    width: 20%;
+    height: 76px;
+    background: var(--color-6);
+    box-sizing: border-box;
+    border: 1px solid var(--color-6);
+    position: relative;
+    margin-top: var(--font-margin-1);
+    margin-left: -1px;
+}
+
+.active-item {
+    position: relative;
+    z-index: 1;
+}
+
+.item-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.icon {
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.link-title {
+    text-transform: capitalize;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-size: 12px;
+}
+
+.\--betting {
+    width: 24px;
+    height: 24px;
+    margin-top: 15px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/betting.png") 1x, url("../../Desktop/Assets-Optimized/Images/betting@2x.png") 2x);
+}
+
+.active-item .\--betting {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/betting_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/betting_green@2x.png") 2x);
+}
+
+.\--inplay {
+    width: 27px;
+    height: 27px;
+    margin-top: 13px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/inplay.png") 1x, url("../../Desktop/Assets-Optimized/Images/inplay@2x.png") 2x);
+}
+
+.active-item .\--inplay {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/inplay_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/inplay_green@2x.png") 2x);
+}
+
+.\--esport {
+    width: 27px;
+    height: 27px;
+    margin-top: 13px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/esport.png") 1x, url("../../Desktop/Assets-Optimized/Images/esport@2x.png") 2x);
+}
+
+.active-item .\--esport {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/esport_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/esport_green@2x.png") 2x);
+}
+
+.\--virtuals {
+    width: 24px;
+    height: 24px;
+    margin-top: 15px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/virtuals.png") 1x, url("../../Desktop/Assets-Optimized/Images/virtuals@2x.png") 2x);
+}
+
+.active-item .\--virtuals {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/virtuals_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/virtuals_green@2x.png") 2x);
+}
+
+.\--liveCasino {
+    width: 30px;
+    height: 29px;
+    margin-top: 12px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/live_casino.png") 1x, url("../../Desktop/Assets-Optimized/Images/live_casino@2x.png") 2x);
+}
+
+.active-item .\--live-casino {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/live_casino_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/live_casino_green@2x.png") 2x);
+}
+
+.\--casino {
+    width: 38px;
+    height: 38px;
+    margin-top: 8px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/casino.png") 1x, url("../../Desktop/Assets-Optimized/Images/casino@2x.png") 2x);
+}
+
+.active-item .\--casino {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/casino_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/casino_green@2x.png") 2x);
+}
+
+.\--poker {
+    width: 28px;
+    height: 28px;
+    margin-top: 13px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/poker.png") 1x, url("../../Desktop/Assets-Optimized/Images/poker@2x.png") 2x);
+}
+
+.active-item .\--poker {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/poker_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/poker_green@2x.png") 2x);
+}
+
+.\--bingo {
+    width: 33px;
+    height: 33px;
+    margin-top: 10px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/bingo.png") 1x, url("../../Desktop/Assets-Optimized/Images/bingo@2x.png") 2x);
+}
+
+.active-item .\--bingo {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/bingo_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/bingo_green@2x.png") 2x);
+}
+
+.\--liveGames {
+    width: 34px;
+    height: 34px;
+    margin-top: 10px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/live_games.png") 1x, url("../../Desktop/Assets-Optimized/Images/live_games@2x.png") 2x);
+}
+
+.active-item .\--live-games {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/live_games_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/live_games_green@2x.png") 2x);
+}
+
+.\--games {
+    width: 33px;
+    height: 33px;
+    margin-top: 12px;
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/games.png") 1x, url("../../Desktop/Assets-Optimized/Images/games@2x.png") 2x);
+}
+
+.active-item .\--games {
+    background-image: image-set( url("../../Desktop/Assets-Optimized/Images/games_green.png") 1x, url("../../Desktop/Assets-Optimized/Images/games_green@2x.png") 2x);
+}
+
+.menu {
+    margin-top: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.menu-item {
+    background: var(--color-6);
+    border: 1px solid var(--color-6);
+    border-radius: 10px;
+    height: 40px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.menu-item:nth-child(6),
+.menu-item:nth-child(7) {
+    margin-bottom: 10px;
+}
+
+.menu-item:last-child {
+    margin-top: 24px;
+}
+
+.menu-icon {
+    width: 24px;
+    min-width: 24px;
+    height: 24px;
+    margin: 0 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.menu-name {
+    color: rgb(255 255 255 / 0.8);
+    flex: 1;
+}
+
+.menu-title {
+    margin-bottom: 14px;
+    margin-top: var(--font-margin-1);
+}
+
+.my-account {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.logout {
+    height: 38px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    margin-top: 0 !important;
+    border-bottom: 1px solid var(--color-6);
+}
+
+.logout path {
+    fill: #C5CBD3;
+}
+
+.cashback-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    height: 44px;
+    background: var(--color-6);
+    color: var(--text);
+}
+
+.logo {
+    background-image: url("../../Assets/Images/Logo/Dark/desktop.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 33px;
+}
+
+div[data-theme="light"] .logo {
+    background-image: url("../../Assets/Images/Logo/Light/desktop.png");
+}
+
+.language {
+    padding: 15px 11px 0;
+}
+
+.language>div {
+    width: 100%;
+}
+
+.dropdown {
+    background: var(--color-6) !important;
+}
+
+.dropdown>div {
+    border-bottom: 1px solid var(--color-2);
+}
+
+.select {
+    color: var(--text) !important;
+    border: none !important;
+    height: 44px !important;
+    outline: 1px solid var(--color-2);
+}

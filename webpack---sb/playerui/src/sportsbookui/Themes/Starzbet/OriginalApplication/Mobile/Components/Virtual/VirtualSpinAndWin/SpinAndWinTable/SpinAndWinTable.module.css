@@ -1,0 +1,142 @@
+.roulette-table {
+    width: 100%;
+    grid-column: 2 / 5;
+    grid-row: 1 / 2;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(13, 54px) 53px;
+    border-right: 1px solid var(--virtual-sports-greyLight);
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 1px solid var(--virtual-sports-greyLight);
+    border-top: 1px solid var(--virtual-sports-greyLight);
+    padding: 15px 10px;
+    color: var(--virtual-sports-text);
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.zero-box {
+    grid-column: 1 / 4;
+    grid-row: 1 / 2;
+    background: linear-gradient(0deg, var(--virtual-sports-greenDark1), var(--virtual-sports-greenDark1)), var(--virtual-sports-redPure);
+}
+
+.red-box {
+    background: var(--virtual-sports-redPure);
+}
+
+.black-box {
+    background: linear-gradient(0deg, var(--virtual-sports-black), var(--virtual-sports-black)), var(--virtual-sports-redPure);
+}
+
+.line-pick {
+    background: linear-gradient(0deg, var(--virtual-sports-background), var(--virtual-sports-background)), var(--virtual-sports-redPure);
+}
+
+.dot {
+    position: absolute;
+    z-index: 1;
+    width: 16px;
+    height: 16px;
+}
+
+.dot:not(.dot-selected) {
+    opacity: 0;
+}
+
+.left-top {
+    top: -1px;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+
+.top-middle {
+    top: 50%;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+
+.right-top {
+    bottom: 0;
+    right: 0;
+    transform: translate(50%, 50%);
+}
+
+.right-middle {
+    bottom: 0;
+    right: 50%;
+    transform: translate(50%, 50%);
+}
+
+.right-bottom {
+    bottom: 0;
+    left: -1px;
+    transform: translate(-50%, 50%);
+}
+
+.bottom-middle {
+    top: 50%;
+    left: -1px;
+    transform: translate(-50%, -50%);
+}
+
+.left-bottom {
+    top: -1px;
+    left: -1px;
+    transform: translate(-50%, -50%);
+}
+
+.left-middle {
+    left: 50%;
+    top: -1px;
+    transform: translate(-50%, -50%);
+}
+
+.right-third-bottom {
+    bottom: 0;
+    left: calc(100% / 6);
+    transform: translate(-50%, 50%);
+}
+
+.right-third-top {
+    bottom: 0;
+    right: calc(100% / 6);
+    transform: translate(50%, 50%);
+}
+
+.selected::after {
+    content: '';
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    z-index: 3;
+    cursor: pointer;
+    background: url("../../../../../Desktop/Assets-Optimized/Icons/chips.svg") no-repeat;
+}
+
+.line-pick.selected::after {
+    bottom: 2px;
+    right: 2px;
+}
+
+.selected:not(.line-pick)::after {
+    bottom: 50%;
+    left: calc(50% + 8px);
+}
+
+.dot-selected {
+    z-index: 3;
+    display: block;
+    cursor: pointer;
+    background: url("../../../../../Desktop/Assets-Optimized/Icons/chips.svg") no-repeat;
+    border: none;
+}

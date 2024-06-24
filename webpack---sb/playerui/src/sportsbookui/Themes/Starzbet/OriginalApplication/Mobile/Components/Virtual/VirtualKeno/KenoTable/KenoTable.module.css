@@ -1,0 +1,185 @@
+.container {
+    padding: 25px 15px;
+}
+
+.table-container {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto 15px;
+    display: grid;
+    grid-template-columns: repeat(8, 36px);
+    grid-template-rows: repeat(10, 41px);
+    gap: 10px 8px;
+    justify-items: center;
+}
+
+.table-container::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    background: var(--color-6);
+    height: 1px;
+}
+
+.field {
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    width: 100%;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--virtual-sports-text);
+}
+
+.field:not(.active) {
+    text-shadow: 0 2px 5px rgb(0 0 0 / 0.35);
+}
+
+.field:not(.active) {
+    box-shadow: -1px -3px 7px var(--virtual-sports-text), 1px 3px 7px rgb(0 0 0 / 0.35);
+}
+
+.field.orange.active {
+    border: 3px solid var(--virtual-sports-orangeVivid);
+    background: linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-orangeVivid);
+    color: var(--virtual-sports-orangeVivid);
+}
+
+.field.yellow.active {
+    border: 3px solid var(--virtual-sports-yellowVivid);
+    background: linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-yellowVivid);
+    color: var(--virtual-sports-yellowVivid);
+}
+
+.yellow {
+    margin-bottom: 5px;
+    background: var(--virtual-sports-yellowVivid);
+}
+
+.orange {
+    margin-top: 5px;
+    background: var(--virtual-sports-orangeVivid);
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--color-6);
+    border-radius: 5px;
+    padding: 15px;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.clear-button {
+    border: 1px solid var(--virtual-sports-redStrong1);
+    color: var(--virtual-sports-redStrong1);
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    width: 80px;
+    min-width: 80px;
+    cursor: pointer;
+}
+
+.quick-pick {
+    background: var(--color-6);
+    border-radius: 3px;
+    width: 175px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+    gap: 10px;
+}
+
+.quick-title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--virtual-sports-greyVeryLight);
+    flex: 1 1 100%;
+    min-width: 0;
+}
+
+.select {
+    position: relative;
+}
+
+.select-current {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255 255 255 / 0.15);
+    border-radius: 5px;
+    padding: 5px;
+    width: 40px;
+    min-width: 40px;
+    color: var(--virtual-sports-greyVeryLight);
+    cursor: pointer;
+    font-family: Roboto, monospace;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.drop-down {
+    position: absolute;
+    width: 100%;
+    bottom: calc(100% + 3px);
+    background: var(--color-6);
+    box-shadow: 0 5px 11px rgb(0 0 0 / 0.35);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 10px 7px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--color-6);
+    z-index: 10;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    padding: 6px 0;
+    color: var(--text);
+}
+
+.counter.active {
+    background: var(--text);
+    color: #000;
+}
+
+.shuffle-btn {
+    width: 26px;
+    min-width: 26px;
+    height: 26px;
+    border: 1px solid rgb(255 255 255 / 0.15);
+    border-radius: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.shuffle-icon {
+    background-image: image-set( url("../../../../../Desktop/Assets-Optimized/shuffle.png") 1x, url("../../../../../Desktop/Assets-Optimized/shuffle@2x.png") 2x);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+}

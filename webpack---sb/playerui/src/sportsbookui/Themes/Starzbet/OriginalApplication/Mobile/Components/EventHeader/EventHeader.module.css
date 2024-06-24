@@ -1,0 +1,95 @@
+.event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 36px;
+    background: var(--color-1);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 0 16px;
+    box-sizing: content-box;
+}
+
+.event-header-content-wrapper {
+    display: flex;
+}
+
+.back-button-background {
+    background: var(--color-5);
+    border: 1px solid rgb(163 172 184 / 0.3);
+    border-radius: 50px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info {
+    overflow: hidden;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--dark-text);
+    flex: 1;
+}
+
+.tournament {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.participant {
+    overflow: hidden;
+    flex: 1;
+}
+
+.category {
+    font-size: 12px;
+    text-align: center;
+}
+
+.participants-wrapper {
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--text);
+    width: 100%;
+}
+
+.participants-wrapper>.team-wrapper:nth-child(1) {
+    margin-right: 4px;
+}
+
+.participants-wrapper>.team-wrapper:nth-child(2) {
+    margin-left: 4px;
+}
+
+.team-wrapper {
+    max-width: 50%;
+}
+
+.participant:nth-child(1) {
+    margin-right: 5px;
+}
+
+.participant:last-child {
+    margin-left: 5px;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+}

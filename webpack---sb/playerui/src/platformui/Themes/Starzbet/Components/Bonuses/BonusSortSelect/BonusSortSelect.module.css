@@ -1,0 +1,20 @@
+.option-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.option-name {
+    text-transform: capitalize;
+}
+
+.checked {
+    position: relative;
+    right: 5px;
+}
+
+.select {
+    min-width: 200px;
+    height: 42px;
+}

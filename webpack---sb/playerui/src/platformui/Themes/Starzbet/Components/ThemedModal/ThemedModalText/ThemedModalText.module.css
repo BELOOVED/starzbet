@@ -1,0 +1,57 @@
+.text {
+    text-align: center;
+    max-width: calc(480px - 64px);
+    width: 100%;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.wide {
+    max-width: 100%;
+}
+
+.sm {
+    color: var(--dark-text);
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.md {
+    color: var(--dark-text);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.lg {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.xl {
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.white {
+    color: var(--text);
+}
+
+.dark {
+    color: var(--dark-text);
+}
+
+.error {
+    color: var(--error);
+}
+
+.warning {
+    color: var(--warning);
+}
+
+.success {
+    color: var(--validation);
+}

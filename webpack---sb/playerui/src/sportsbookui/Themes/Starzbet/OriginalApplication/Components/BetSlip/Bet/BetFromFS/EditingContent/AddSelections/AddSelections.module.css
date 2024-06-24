@@ -1,0 +1,46 @@
+.add-selection {
+    padding: 10px;
+}
+
+.button {
+    border: 1px dashed var(--light-900);
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 8px;
+}
+
+.subtitle {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+    text-align: center;
+    color: var(--dark-text)
+}
+
+.add-icon {
+    width: 32px !important;
+    min-width: 32px !important;
+    height: 32px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .add-selection {
+        padding: 8px;
+    }
+    .button {
+        padding: 12px;
+    }
+    .subtitle {
+        font-size: 10px;
+    }
+    .add-icon {
+        width: 20px !important;
+        min-width: 20px !important;
+        height: 20px !important;
+    }
+}

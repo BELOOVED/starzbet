@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"button":"button--bTN63","confirm-button":"confirm-button--DihjV","confirmButton":"confirm-button--DihjV","backup-codes":"backup-codes--vo_Fi","backupCodes":"backup-codes--vo_Fi","success-modal":"success-modal--xCOJG","successModal":"success-modal--xCOJG","backup-codes-title":"backup-codes-title--gtqb7","backupCodesTitle":"backup-codes-title--gtqb7","download":"download--KubbE"};

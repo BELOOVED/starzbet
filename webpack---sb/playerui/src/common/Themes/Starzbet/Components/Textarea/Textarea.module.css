@@ -1,0 +1,71 @@
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.placeholder {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    font-size: 16px;
+    color: var(--light-400);
+    user-select: none;
+    pointer-events: none;
+}
+
+.textarea {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    font: inherit;
+    background-color: var(--color-1);
+    border: 1px solid var(--color-6);
+    border-radius: 8px;
+    color: var(--text);
+    padding: 16px;
+    resize: none;
+    height: 108px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+}
+
+.textarea:disabled {
+    background: var(--background);
+    border-color: var(--color-1);
+}
+
+.textarea::placeholder {
+    color: var(--light-400);
+}
+
+.textarea:focus::placeholder {
+    color: transparent;
+}
+
+.textarea:hover,
+.textarea:focus {
+    background-color: var(--hover);
+}
+
+[data-theme="light"] {
+    .textarea:hover,
+    .textarea:focus {
+        background-color: rgba(220 224 228 / 0.5);
+    }
+}
+
+.textarea::-webkit-scrollbar {
+    width: 4px;
+}
+
+.textarea::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.textarea::-webkit-scrollbar-thumb {
+    background-color: var(--brand);
+    border-radius: 10px;
+}

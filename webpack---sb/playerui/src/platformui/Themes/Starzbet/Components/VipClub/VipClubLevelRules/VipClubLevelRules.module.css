@@ -1,0 +1,217 @@
+.vip-club-level-rules {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+[data-mobile="true"] .vip-club-level-rules {
+    padding: 0;
+    gap: 20px;
+}
+
+.vip-club-level-rule {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-13);
+    width: 100%;
+    border-radius: 8px;
+    flex-direction: column;
+    height: fit-content;
+    overflow: hidden;
+}
+
+.vip-club-level-rule-head {
+    background-color: var(--grey);
+    border-radius: 8px;
+    display: flex;
+    height: 64px;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+    padding: 0 32px 0 44px;
+    gap: 23px;
+    pointer-events: none;
+    user-select: none;
+}
+
+[data-theme="light"] .vip-club-level-rule-head {
+    background-color: #fff;
+    box-shadow: 0 27px 59px 0 #0000001A;
+}
+
+[data-mobile="true"] .vip-club-level-rule-head {
+    padding: 0 20px;
+}
+
+.vip-club-level-rule-head.clickable {
+    cursor: pointer;
+    pointer-events: all;
+}
+
+.vip-club-level-rule-body {
+    padding: 25px 50px 37px;
+    color: var(--text);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+[data-mobile="true"] .vip-club-level-rule-body {
+    padding: 25px;
+}
+
+.vip-club-level-rule-label {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.vip-club-level-rule-label.not-defined {
+    opacity: 0;
+}
+
+.chevron-icon {
+    color: var(--text);
+    justify-self: flex-end;
+    transition: transform .3s ease-out;
+}
+
+.chevron-icon.expanded {
+    transform: rotate(180deg);
+}
+
+.vip-club-level-rule-show-all {
+    color: #989898;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.12px;
+    text-transform: capitalize;
+    margin-bottom: var(--font-margin-3);
+    overflow: hidden;
+    min-width: 50px;
+    max-width: 100px;
+}
+
+.vip-club-level-rule-image {
+    width: 40px;
+    height: 50px;
+}
+
+.vip-club-level-rule-image>img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.vip-club-level-rule-name {
+    font-size: 14px;
+    font-style: normal;
+    color: var(--text);
+    text-transform: capitalize;
+    flex: 1;
+    overflow: hidden;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.vip-club-level-rule-rewards-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.vip-club-level-rule-title {
+    color: var(--text);
+    font-style: normal;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.vip-club-level-rule-subtitle {
+    color: var(--color-14);
+    font-style: normal;
+    padding-left: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.vip-club-level-rule-subtitle::before {
+    display: inline-block;
+    content: "";
+    width: 13px;
+    height: 13px;
+    background-color: var(--active);
+    margin-right: 13px;
+}
+
+.vip-club-level-rule-bonuses {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.vip-club-level-rule-bonus-card {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    background: #FFC99F80;
+    border-radius: 8px;
+}
+
+.vip-club-level-rule-bonus-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.vip-club-level-rule-bonus-card>h4 {
+    color: var(--text);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.48px;
+}
+
+.vip-club-level-rule-bonus-card>p {
+    color: var(--text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    opacity: 0.7;
+}
+
+.vip-club-level-rule-cashback {
+    color: var(--text);
+    font-family: Rajdhani, sans-serif;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.vip-club-level-rule-description {
+    overflow-wrap: anywhere;
+}

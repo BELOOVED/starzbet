@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    width: 100%;
+    position: relative;
+}
+
+.input {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    caret-color: var(--text);
+    font-size: 14px;
+    height: 48px;
+    line-height: 38px;
+    border-radius: 8px;
+    font-weight: 400;
+    padding-left: 24px;
+    padding-right: 24px;
+    background: var(--color-1);
+    color: var(--text);
+    border: 1px solid var(--color-6);
+}
+
+.with-prefix {
+    padding-left: 36px;
+}
+
+.with-postfix {
+    padding-right: 36px;
+}
+
+.prefix-wrapper {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+}
+
+.hidden {
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    border: none;
+}
+
+.input:disabled {
+    opacity: .5;
+    cursor: not-allowed;
+}
+
+.input::placeholder {
+    color: var(--dark-text);
+}
+
+.input:-webkit-autofill {
+    -webkit-text-fill-color: var(--dark-text) !important;
+}
+
+.input:-webkit-autofill,
+.input:-webkit-autofill:focus,
+.input:-webkit-autofill:active {
+    box-shadow: 0 0 0 30px var(--color-1) inset !important;
+    background-clip: text;
+}
+
+[data-theme="light"] .input:not(.incorrect) {
+    border-color: var(--light-150);
+}
+
+.incorrect {
+    border: 1px solid var(--error);
+}
+
+.input:focus::placeholder {
+    color: transparent;
+}
+
+.input[type="number"]::-webkit-outer-spin-button,
+.input[type="number"]::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+
+.input[type="number"] {
+    appearance: textfield;
+}
+
+[data-touch="false"] {
+    .input:hover:not(:disabled) {
+        background: var(--hover);
+    }
+    [data-theme="light"] {
+        .input:hover:not(:disabled) {
+            background-color: rgba(220 224 228 / .5);
+        }
+    }
+    .input:-webkit-autofill:hover {
+        box-shadow: 0 0 0 30px var(--color-1) inset !important;
+        background-clip: text;
+    }
+}

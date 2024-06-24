@@ -1,0 +1,85 @@
+.market {
+    overflow: hidden;
+    color: var(--text);
+    box-shadow: inset 0 -1px 0 var(--color-5);
+    background: var(--color-1);
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+    height: 36px;
+    background: var(--color-2);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.42px;
+    color: var(--text);
+    padding: 0 16px;
+}
+
+.market-name {
+    flex: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--font-margin-2);
+    max-width: 300px;
+}
+
+.market-name::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    margin-bottom: 2px;
+    border-radius: 3px;
+    margin-right: 10px;
+    background: var(--active);
+}
+
+.block {
+    padding: 16px;
+}
+
+.market-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 14px;
+    color: var(--text);
+    padding-bottom: 13px;
+    margin: 0 -5px;
+}
+
+.market-title:empty {
+    display: none;
+}
+
+.space {
+    min-width: 20%;
+    padding: 0 5px;
+    box-sizing: content-box;
+}
+
+@media screen and (max-width: 380px) {
+    .market-name {
+        max-width: 270px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .market-name {
+        max-width: 250px;
+    }
+}

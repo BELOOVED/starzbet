@@ -1,0 +1,22 @@
+.btn {
+    height: 40px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--background);
+    text-transform: uppercase;
+    border-radius: 10px;
+    cursor: pointer;
+    user-select: none;
+    width: 100%;
+}
+
+.btn:disabled {
+    background: var(--color-1);
+    cursor: auto;
+    color: var(--dark-text);
+}

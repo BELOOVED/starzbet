@@ -1,0 +1,207 @@
+.products-area {
+    background-color: #121417E0;
+    border-radius: 12px;
+    padding: 40px;
+    display: grid;
+    grid-template-rows: 160px 229px 160px 160px;
+    grid-template-areas: 'casino casino liveCasino liveCasino' 'sports virtual games promos' 'mobileApp mobileApp liveTV liveTV' 'vipClub vipClub vipClub vipClub';
+    margin: 0 auto 40px;
+    grid-gap: 20px;
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+
+.kg-products-area {
+    grid-template-areas: 'casino casino liveCasino liveCasino' 'virtual games promos promos' 'mobileApp mobileApp liveTV liveTV' 'vipClub vipClub vipClub vipClub';
+}
+
+[data-theme="light"] .products-area {
+    background-color: rgba(256 256 256 / .88)
+}
+
+@media screen and (max-width: 1440px) {
+    .products-area {
+        padding: 38px;
+        grid-template-rows: 150px 215px 150px 150px;
+        grid-gap: 19px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .products-area {
+        padding: 27px;
+        grid-template-rows: 111px 160px 111px 111px;
+        grid-gap: 14px;
+    }
+}
+
+[data-mobile="true"] .products-area {
+    width: 100%;
+    padding: 16px;
+    margin-bottom: 24px;
+    grid-template-rows: 94px 94px 136px 136px 94px 94px 94px;
+    grid-template-areas: 'casino casino' 'liveCasino liveCasino' 'sports virtual' 'games promos' 'mobileApp mobileApp' 'liveTV liveTV' 'vipClub vipClub';
+}
+
+[data-mobile="true"] .kg-products-area {
+    grid-template-areas: 'casino casino' 'liveCasino liveCasino' 'virtual games' 'promos promos' 'mobileApp mobileApp' 'liveTV liveTV' 'vipClub vipClub';
+}
+
+.product-text {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    text-shadow: 0 2px 1px #00000040;
+    z-index: 2;
+}
+
+[data-mobile="true"] .product-text {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+}
+
+.gradient {
+    width: 100%;
+    height: 70%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 8px;
+}
+
+.casino .gradient,
+.live-casino .gradient,
+.live-t-v .gradient,
+.mobile-app .gradient {
+    width: 50%;
+    height: 100%;
+}
+
+.casino {
+    grid-area: casino;
+    background: image-set( url("../../Assets/Images/Landing/Products/Casino/desktop.png") 1x)
+}
+
+.casino .gradient {
+    background: linear-gradient(90deg, #F4C015 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.live-casino {
+    grid-area: liveCasino;
+    background: image-set( url("../../Assets/Images/Landing/Products/LiveCasino/desktop.png") 1x)
+}
+
+.live-casino .gradient {
+    background: linear-gradient(90deg, #fe01c4 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.sports {
+    grid-area: sports;
+    background: image-set( url("../../Assets/Images/Landing/Products/Sports/desktop.png") 1x)
+}
+
+.sports .gradient {
+    background: linear-gradient(360deg, #44df35 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.virtual {
+    grid-area: virtual;
+    background: image-set( url("../../Assets/Images/Landing/Products/Virtual/desktop.png") 1x)
+}
+
+.virtual .gradient {
+    background: linear-gradient(360deg, #4891FF 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.games {
+    grid-area: games;
+    background: image-set( url("../../Assets/Images/Landing/Products/Games/desktop.png") 1x)
+}
+
+.games .gradient {
+    background: linear-gradient(360deg, #c147ff 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.promos {
+    grid-area: promos;
+    background: image-set( url("../../Assets/Images/Landing/Products/Promos/desktop.png") 1x)
+}
+
+.promos .gradient {
+    background: linear-gradient(360deg, #ff820c 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.mobile-app {
+    grid-area: mobileApp;
+    background: image-set( url("../../Assets/Images/Landing/Products/MobileApp/desktop.png") 1x)
+}
+
+.mobile-app .gradient {
+    background: linear-gradient(90deg, #fb5304 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.live-t-v {
+    grid-area: liveTV;
+    background: image-set( url("../../Assets/Images/Landing/Products/TV/desktop.png") 1x)
+}
+
+.live-t-v .gradient {
+    background: linear-gradient(90deg, #01c9fa 0%, rgb(121 73 255 / 0) 100%);
+}
+
+.vip-club {
+    grid-area: vipClub;
+    background: image-set( url("../../Assets/Images/Landing/Products/VipClub/desktop.png") 1x)
+}
+
+.product {
+    position: relative;
+    border-radius: 8px;
+    padding: 16px 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    min-width: 10%;
+}
+
+[data-mobile="true"] .product {
+    padding: 10px 20px;
+}
+
+[data-webp="true"] {
+    .casino {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/Casino/desktop.png_high.webp") 1x);
+    }
+    .live-casino {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/LiveCasino/desktop.png_high.webp") 1x)
+    }
+    .sports {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/Sports/desktop.png_high.webp") 1x)
+    }
+    .virtual {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/Virtual/desktop.png_high.webp") 1x)
+    }
+    .games {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/Games/desktop.png_high.webp") 1x)
+    }
+    .promos {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/Promos/desktop.png_high.webp") 1x)
+    }
+    .mobile-app {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/MobileApp/desktop.png_high.webp") 1x)
+    }
+    .live-t-v {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/TV/desktop.png_high.webp") 1x)
+    }
+    .vip-club {
+        background-image: image-set( url("../../Assets/Images/Landing/Products/VipClub/desktop.png_high.webp") 1x)
+    }
+}

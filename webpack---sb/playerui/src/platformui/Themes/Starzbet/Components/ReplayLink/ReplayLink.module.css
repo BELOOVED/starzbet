@@ -1,0 +1,32 @@
+.replay-link {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    border-radius: 0 8px 8px 0;
+    font-size: 12px;
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px;
+    background: var(--dark-orange);
+    color: var(--white);
+    text-transform: capitalize;
+    width: 30px;
+    height: calc(100% - 2px);
+    text-orientation: mixed;
+    writing-mode: vertical-rl;
+    &>span {
+        &:first-child {
+            transform: rotate(90deg);
+        }
+        &:last-child {
+            position: relative;
+            top: 1px;
+        }
+    }
+}
+
+[data-touch="false"] .replay-link:hover {
+    opacity: .8;
+}

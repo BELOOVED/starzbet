@@ -1,0 +1,123 @@
+.ticket {
+    background-color: var(--color-1);
+    border: 2px solid var(--color-6);
+    border-radius: 10px;
+    padding: 8px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+
+.ticket:last-child {
+    margin-bottom: 0;
+}
+
+.ticket-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.date-and-contact-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    height: fit-content;
+    flex-wrap: wrap;
+}
+
+.date {
+    color: var(--text);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 0;
+    margin-bottom: var(--font-margin-3);
+}
+
+.dot {
+    width: 4px;
+    height: 4px;
+    min-width: 4px;
+    min-height: 4px;
+    border-radius: 50%;
+    background-color: var(--text);
+    opacity: 0.1;
+    margin-bottom: 3px;
+}
+
+.contact-info {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 0;
+    color: var(--light-400);
+    margin-bottom: var(--font-margin-3);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.status-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.status {
+    color: var(--color-6);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0;
+    margin-bottom: var(--font-margin-3);
+    text-transform: capitalize;
+}
+
+.status.pending {
+    color: var(--warning);
+}
+
+.status.rejected {
+    color: var(--error);
+}
+
+.status.canceled {
+    color: var(--error);
+}
+
+.status.fulfilled {
+    color: var(--validation);
+}
+
+.ticket-body {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0;
+    color: var(--light-400);
+    width: 100%;
+    white-space: normal;
+    word-break: break-word;
+}
+
+.link {
+    flex: 0 0 90px;
+}

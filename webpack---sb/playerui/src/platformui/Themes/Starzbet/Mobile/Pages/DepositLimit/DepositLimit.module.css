@@ -1,0 +1,5 @@
+.deposit-limit {
+    flex-grow: 1;
+    padding: 16px;
+    background: var(--background);
+}

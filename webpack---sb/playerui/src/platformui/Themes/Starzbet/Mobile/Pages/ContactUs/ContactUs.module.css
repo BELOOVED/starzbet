@@ -1,0 +1,105 @@
+.contact-wrapper {
+    padding: 16px;
+}
+
+.sub-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--dark-text);
+    border-bottom: 1px solid var(--color-3);
+    padding-bottom: 16px;
+    overflow-wrap: anywhere;
+}
+
+.general-block {
+    border-bottom: 1px solid var(--color-3);
+    padding: 32px 0;
+}
+
+.general-block:last-child {
+    border-bottom: none;
+}
+
+.image-text-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.tg-image {
+    width: auto;
+    height: 20px;
+    margin-right: 14px;
+}
+
+.email-text {
+    margin-right: 10px;
+}
+
+.call-image {
+    width: 20px;
+    height: 20px;
+}
+
+.tg-filled-image {
+    width: 20px;
+    height: 20px;
+}
+
+.live-chat-icon {
+    margin-right: 14px;
+}
+
+.bottom-row {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.bottom-row-item {
+    align-items: center;
+    display: flex;
+}
+
+.call-us-sub-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--dark-text);
+    margin: 0 10px;
+}
+
+.bullet {
+    width: 6px;
+    height: 6px;
+    border-radius: 100%;
+    background-color: var(--green);
+    margin: 0 10px 0 24px;
+}
+
+.submit-button {
+    margin-top: 16px;
+}
+
+.text-wrapper {
+    max-width: 70vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline;
+}
+
+.ellipsis-wrapper span {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+
+.ellipsis {
+    min-width: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

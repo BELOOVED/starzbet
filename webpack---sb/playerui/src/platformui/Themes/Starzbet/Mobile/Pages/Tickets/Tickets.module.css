@@ -1,0 +1,10 @@
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 46px;
+}
+
+.tickets {
+    padding: 16px;
+    color: var(--text);
+}

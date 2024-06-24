@@ -1,0 +1,8 @@
+.bonus-name {
+    color: var(--text);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: -0.48px;
+}

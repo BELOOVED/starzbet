@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"logout-message-wrapper":"logout-message-wrapper--O3w9O","logoutMessageWrapper":"logout-message-wrapper--O3w9O","logout-message":"logout-message--VJt2z","logoutMessage":"logout-message--VJt2z","ok-button":"ok-button--_VaxR","okButton":"ok-button--_VaxR","close-button":"close-button--nS2Jd","closeButton":"close-button--nS2Jd","message":"message--T_me2"};

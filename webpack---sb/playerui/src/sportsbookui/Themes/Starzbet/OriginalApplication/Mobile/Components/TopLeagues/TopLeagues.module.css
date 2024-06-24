@@ -1,0 +1,16 @@
+.carousel-container {
+    box-sizing: content-box;
+    height: 44px;
+    position: relative;
+    background: var(--background);
+    margin: 15px 0;
+}
+
+.track {
+    gap: 10px;
+}
+
+.stub {
+    min-width: 1px;
+    height: 1px;
+}

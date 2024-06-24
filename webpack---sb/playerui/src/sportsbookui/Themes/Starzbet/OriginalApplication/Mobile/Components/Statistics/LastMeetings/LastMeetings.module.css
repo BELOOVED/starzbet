@@ -1,0 +1,130 @@
+.last-meetings-short {
+    border-radius: 10px;
+    color: var(--text);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.last-match {
+    display: flex;
+    place-content: center space-between;
+    align-items: center;
+}
+
+.home-team {
+    flex: 3;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--dark-text);
+}
+
+.home-team.winner,
+.away-team.winner {
+    color: var(--green);
+}
+
+.name:first-of-type {
+    display: inline-block;
+    max-width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-right: 10px;
+}
+
+.name:last-of-type {
+    display: inline-block;
+    max-width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-left: 10px;
+}
+
+.away-team {
+    flex: 3;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--dark-text);
+}
+
+.score {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+    color: var(--text);
+}
+
+.colon {
+    margin: 0 2px;
+}
+
+.horizontal-line {
+    flex: 1;
+    height: 1px;
+    background: var(--color-6);
+}
+
+.date-tournament {
+    text-align: left;
+    display: flex;
+    margin-top: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--dark-text);
+}
+
+.no-last-meetings {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    line-height: 14px;
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 15px;
+}
+
+.row {
+    margin-top: 15px;
+}
+
+[data-theme="light"] {
+    .home-team,
+    .away-team {
+        color: var(--text);
+    }
+    .winner {
+        color: var(--green);
+    }
+}

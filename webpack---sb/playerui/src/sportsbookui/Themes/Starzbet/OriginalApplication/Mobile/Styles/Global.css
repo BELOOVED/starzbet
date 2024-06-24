@@ -1,0 +1,57 @@
+@import "../../../../../Styles/Normalize.css";
+@import "@sb/assets/src/Fonts/Rajdhani/Rajdhani.css";
+@import "../../../../../Styles/VirtualSportsVariables.css";
+html {
+    scroll-behavior: auto;
+}
+
+body {
+    font-family: Axiforma, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgb(255 255 255 / 0);
+    background: var(--background);
+}
+
+[data-kg-env="true"] body {
+    font-family: Raleway, Helvetica, Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button,
+input,
+select {
+    border: none;
+    outline: none;
+    background: initial;
+}
+
+p {
+    margin: 0;
+}
+
+.sb__reset_input {
+    border: none;
+    outline: none;
+}
+
+.sb__reset_link,
+.sb__reset_link:hover {
+    text-decoration: none;
+}
+
+.sb__reset_ul {
+    list-style: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}

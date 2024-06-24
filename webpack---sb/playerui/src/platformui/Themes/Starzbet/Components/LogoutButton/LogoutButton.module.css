@@ -1,0 +1,32 @@
+.logout {
+    box-sizing: border-box;
+    display: flex;
+    gap: 24px;
+    color: var(--dark-text);
+    align-items: center;
+    cursor: pointer;
+    margin-top: 4px;
+    &:hover {
+        opacity: .8;
+    }
+}
+
+.logout-mobile {
+    gap: 20px !important;
+}
+
+.name {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    flex: 1;
+    margin-bottom: var(--font-margin-2);
+    text-transform: capitalize;
+}
+
+.icon-container {
+    background-color: var(--background);
+    padding: 6px;
+    border-radius: 10px;
+}

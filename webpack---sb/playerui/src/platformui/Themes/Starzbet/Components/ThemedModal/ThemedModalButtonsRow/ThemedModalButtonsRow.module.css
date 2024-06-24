@@ -1,0 +1,14 @@
+.buttons-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.buttons-row.mobile {
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 0;
+}

@@ -1,0 +1,23 @@
+.buttons {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+    border-top: 1px solid var(--color-6);
+}
+
+.buttons>button {
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .buttons {
+        padding: 8px;
+    }
+    .buttons>button {
+        text-transform: capitalize;
+        height: 31px;
+        font-size: 10px;
+        padding: 0 7px;
+    }
+}

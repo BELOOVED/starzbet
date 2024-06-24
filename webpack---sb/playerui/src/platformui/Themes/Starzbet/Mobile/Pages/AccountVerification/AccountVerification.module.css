@@ -1,0 +1,412 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.content {
+    padding: 16px;
+    color: var(--text);
+}
+
+.requested-container {
+    width: 100%;
+    background: var(--color-4);
+    padding: 16px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    font-size: 12px;
+    line-height: 24px;
+    color: var(--dark-text);
+}
+
+.warning-text {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--text);
+}
+
+.file-name {
+    max-width: 150px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    white-space: nowrap;
+    margin: 0 auto;
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 480px;
+    height: 426px;
+    background-color: var(--background);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 9999999;
+    border-radius: 10px;
+}
+
+.upload-document {
+    color: var(--text);
+    width: 100%;
+    height: 56px;
+    background: var(--color-6);
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px 10px 0 0;
+    padding: 0 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.file-uploader {
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 0;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    margin: 0 4.5px;
+    background-image: url("./../../../Assets/Images/modalUpload.png");
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: 50% 35%;
+}
+
+.modal-upload {
+    background: var(--color-1);
+    border: 1px dashed var(--active);
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--dark-text);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 16px;
+}
+
+.documents-title {
+    padding: 24px 0;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    color: var(--dark-text);
+}
+
+.documents-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+}
+
+.document-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background: var(--color-1);
+    border: 1px solid var(--color-6);
+    border-radius: 8px;
+    color: var(--text);
+}
+
+.document-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.document-extra {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.action {
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-5);
+    padding: 5px 10px;
+}
+
+.action>div {
+    padding-top: 2px;
+}
+
+.decline-info-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.modal-document-title {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.6px;
+}
+
+.decline-info-content.footer .modal-document-title {
+    font-size: 18px;
+    letter-spacing: -0.54px;
+    text-transform: capitalize;
+}
+
+.modal-document-body {
+    font-size: 13px;
+    font-style: normal;
+    line-height: 17px;
+    letter-spacing: -0.39px;
+}
+
+.decline-info-content.footer .modal-document-body {
+    color: var(--dark-text);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.48px;
+}
+
+.modal-document-body>span:first-child {
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.modal-document-body>span:last-child {
+    font-weight: 500;
+}
+
+.document-title {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: -0.48px;
+}
+
+.document-body {
+    font-size: 13px;
+    font-style: normal;
+    line-height: 17px;
+    letter-spacing: -0.39px;
+}
+
+.document-body>span:first-child {
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.document-body>span:last-child {
+    font-weight: 500;
+}
+
+.info-button {
+    padding: 0;
+    background-color: transparent;
+    color: var(--dark-text);
+}
+
+.doc-status-base {
+    display: flex;
+    align-items: center;
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -.48px;
+    line-height: 20px;
+}
+
+.approved {
+    composes: doc-status-base;
+    color: var(--validation);
+}
+
+.declined {
+    composes: doc-status-base;
+    color: var(--error);
+}
+
+.pending {
+    composes: doc-status-base;
+    color: var(--warning);
+}
+
+.reject-info-modal {
+    gap: 34px;
+    justify-content: flex-start;
+}
+
+.file-uploader>input {
+    display: none;
+}
+
+.uploaded-files-list {
+    margin-bottom: 50px;
+    gap: 10px;
+}
+
+.added-files-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.file-uploader-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.uploader-text {
+    top: 85px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.file-container {
+    cursor: pointer;
+    align-items: center;
+    background: var(--background);
+    border-radius: 10px;
+    display: flex;
+    margin-left: 8px;
+    max-height: 38px;
+    max-width: 260px;
+    padding: 10px 16px;
+}
+
+.file {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.file-options-container {
+    margin-left: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.remove-added-file-button {
+    height: 20px;
+    width: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-image: url("../../../Assets/Images/closeBtn@2x.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 12px;
+    font-weight: 700;
+    transition: all .3s ease-in-out;
+    padding: 0 10px;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgb(0 0 0 / 0.5);
+    cursor: default;
+    z-index: 999;
+}
+
+.file-name {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.account-status {
+    background: var(--color-4);
+    padding: 16px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+}
+
+.declined-title {
+    color: var(--error);
+    text-transform: capitalize;
+}
+
+.declined-list {
+    padding-left: 24px;
+    list-style: disc;
+    color: var(--dark-text);
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+}
+
+.declined-list>li {
+    text-align: left;
+}
+
+.contact {
+    color: var(--active);
+}
+
+@media screen and (max-width: 768px) {
+    .modal {
+        max-width: 480px;
+        width: calc(100% - 32px);
+        margin: 0 auto;
+    }
+}

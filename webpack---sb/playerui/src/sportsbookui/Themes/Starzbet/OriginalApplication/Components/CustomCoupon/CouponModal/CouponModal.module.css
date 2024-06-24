@@ -1,0 +1,17 @@
+.modal {
+    width: 978px;
+    overflow: hidden;
+}
+
+.complete {
+    height: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .modal {
+        width: auto;
+    }
+    .body {
+        padding: 0;
+    }
+}

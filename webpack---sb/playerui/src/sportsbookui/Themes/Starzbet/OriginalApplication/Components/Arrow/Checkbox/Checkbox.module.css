@@ -1,0 +1,36 @@
+.checkbox {
+    min-width: 22px;
+    height: 22px;
+    border-radius: 6px;
+    border: 1px solid var(--color-2);
+    background: var(--color-6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    background: var(--blue-gradient);
+    border: none;
+}
+
+[data-theme="light"] {
+    .checkbox {
+        background: var(--white);
+    }
+    .active {
+        background: var(--blue-gradient);
+    }
+}
+
+@media screen and (max-width: 1379px) {
+    .checkbox {
+        min-width: 15px;
+        height: 15px;
+        border-radius: 4px;
+    }
+    .checkbox>svg {
+        width: 6px;
+        height: 5px;
+    }
+}

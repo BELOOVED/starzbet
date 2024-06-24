@@ -1,0 +1,12 @@
+.virtual-event-info {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.event-number {
+    opacity: 0.5;
+}

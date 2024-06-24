@@ -1,0 +1,10 @@
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 100%;
+    text-overflow: ellipsis;
+}
+
+.capitalized {
+    text-transform: capitalize;
+}

@@ -1,0 +1,28 @@
+.bonus-card {
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: var(--color-6);
+    line-height: 22px;
+    color: var(--text);
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.bonus-card-info {
+    height: calc(100% - 140px);
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border-radius: 4px;
+    background-color: var(--color-1)
+}
+
+.light-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    background-color: var(--color-1);
+    border-radius: 8px;
+    padding: 8px 0;
+}

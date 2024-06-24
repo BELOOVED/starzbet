@@ -1,0 +1,580 @@
+.footer {
+    align-self: flex-end;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+}
+
+.footer-game {
+    margin-bottom: 58px;
+}
+
+.arrow-up {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}
+
+.expanded {
+    border-radius: 0 0 10px 10px;
+}
+
+.arrow {
+    width: 16px;
+    min-width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../../Assets/Images/chevron down.png") 1x, url("../../../Assets/Images/chevron down@2x.png") 2x);
+}
+
+.arrow-up-question {
+    transform: rotate(180deg);
+}
+
+.footer>.wrapper-section {
+    border-bottom: 1px solid var(--color-3);
+}
+
+.max-width {
+    width: calc(100% - 32px);
+}
+
+.wrapper-section {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background: var(--color-5);
+    border-bottom: 1px solid var(--color-3);
+}
+
+.wrapper-section:last-child {
+    background: var(--background);
+}
+
+.wrapper-section:first-child {
+    border-top: 1px solid var(--color-3);
+}
+
+.wrapper-section:last-child,
+.wrapper-section:nth-last-child(2) {
+    border-bottom: none;
+}
+
+.first-section {
+    padding: 24px 0;
+}
+
+.third-section {
+    justify-content: flex-start;
+    display: flex;
+    padding: 24px 0;
+    position: relative;
+    flex-direction: column;
+}
+
+.go-top-button {
+    border-radius: 100% !important;
+    height: 26px;
+    display: flex;
+    padding: 0 !important;
+    width: 26px;
+    min-height: 26px;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+    justify-content: center;
+    transform: rotate(90deg);
+}
+
+.wrapper-gambling {
+    position: relative;
+}
+
+.provider-img {
+    margin-right: 32px;
+    max-height: 20px;
+}
+
+.provider-img:last-child {
+    margin-right: 0;
+}
+
+.prev-arrow,
+.next-arrow {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: var(--text);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.responsible-gambling-wrapper {
+    align-items: center;
+    display: flex;
+}
+
+.responsible-gambling-wrapper>a {
+    margin-right: 24px;
+}
+
+.responsible-gambling-wrapper>a:last-child {
+    margin-right: 0;
+}
+
+.responsible-gambling-method {
+    height: 26px;
+}
+
+.prev-arrow {
+    left: -24px;
+}
+
+.next-arrow {
+    right: -24px;
+}
+
+.fourth-section {
+    align-items: center;
+    padding: 16px 0;
+}
+
+.track-class-name {
+    align-items: flex-start !important;
+}
+
+.payment-section {
+    background: var(--hover);
+}
+
+.second-section {
+    padding: 20px 0;
+    height: 80px;
+}
+
+.section-title {
+    color: var(--text);
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    max-width: 150px;
+}
+
+.crypto-title {
+    max-width: 300px;
+}
+
+.colored-line {
+    width: 96px;
+    margin-bottom: 20px;
+    height: 4px;
+    background-color: var(--color-1);
+    border-radius: 5px;
+    position: relative;
+}
+
+.colored-line::before {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.section-with-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: max-content;
+    max-width: 1200px;
+    position: relative;
+}
+
+.section-with-crypto-block {
+    padding-left: 50px;
+    text-align: left;
+}
+
+.apps {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.app {
+    background-color: var(--hover);
+    border-radius: 5px;
+    height: 45px;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    max-width: 150px;
+}
+
+.app-image {
+    margin-right: 6px;
+    width: 22px;
+    height: 22px;
+}
+
+.app-text-wrapper {
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.app-text-title {
+    color: var(--text);
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: 500;
+}
+
+.app-text-subtitle {
+    color: var(--text);
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 700;
+}
+
+.media-link {
+    color: var(--dark-text);
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    max-width: 150px;
+}
+
+.game-providers-wrapper {
+    padding-top: 54px;
+}
+
+.overflow {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.link-list-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.payment-methods-wrapper {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    margin: 24px;
+    justify-content: flex-start;
+    grid-gap: 32px 42px;
+    max-width: 894px;
+}
+
+.payment-methods-wrapper>div:nth-child(n+9) {
+    position: relative;
+    left: -36px;
+}
+
+.money-bag-image {
+    height: 25px;
+}
+
+.money-bag-title {
+    color: var(--text);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    max-width: 230px;
+}
+
+.money-bag-image-wrapper {
+    height: 48px;
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--hover);
+    border-radius: 5px;
+    background-color: var(--color-5);
+}
+
+.money-bag-wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.crypto-payment {
+    margin-right: 64px;
+}
+
+.game-provider {
+    height: 33px;
+    max-width: 110px;
+}
+
+.provider-or-payment-img {
+    margin: 8px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment-method-line {
+    width: 4px;
+    background: linear-gradient(180deg, rgb(3 255 133 / 0) 0%, #1AFA79 43.75%, #FBC403 56.25%, rgb(251 196 3 / 0) 100%);
+    transform: matrix(0.94, 0.34, -0.34, 0.94, 0, 0);
+    margin-right: 60px;
+}
+
+.payment-method-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 24px;
+    min-width: fit-content;
+}
+
+.payment-method-wrapper:last-child {
+    margin-right: 0;
+}
+
+.payment-method-img {
+    width: 32px;
+    margin-right: 8px;
+}
+
+.payment-method-text {
+    position: relative;
+    top: 2px;
+}
+
+.logo-image {
+    height: 40px;
+    width: auto;
+    max-width: 150px;
+}
+
+.logo-wrapper {
+    display: flex;
+    max-height: 48px;
+    height: 100%;
+    align-items: center;
+}
+
+.logo {
+    padding: 8px;
+    border-radius: 8px;
+    display: flex;
+}
+
+[data-theme="light"] .logo {
+    background-color: var(--color-9);
+}
+
+.scroll {
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.scroll-gambling {
+    align-items: center;
+    display: flex;
+    position: relative;
+    max-width: calc(100% - 42px);
+}
+
+.logo-with-language {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.separator {
+    height: 100%;
+    margin: 0 20px;
+    width: 1px;
+    background-color: var(--color-3);
+}
+
+.section-with-schedule {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    position: relative;
+    padding-right: 40px;
+    text-align: left;
+}
+
+.line-section::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    height: calc(100% - 32px);
+    width: 1px;
+    top: 16px;
+    background-color: var(--hover);
+}
+
+.page-title-link {
+    max-width: 150px;
+    margin-right: 36px;
+    position: relative;
+}
+
+.page-title-link:not(:last-child)::after {
+    background-color: var(--active);
+    border-radius: 100%;
+    content: "";
+    height: 4px;
+    top: 8px;
+    position: absolute;
+    width: 4px;
+    right: -22px;
+}
+
+.page-title-link:last-child {
+    margin-right: 0;
+}
+
+.section-subtitle {
+    font-size: 16px;
+    color: var(--bold-text);
+    font-weight: 600;
+    margin-bottom: 20px;
+    line-height: 18px;
+    max-width: 270px;
+}
+
+.schedule-schedule {
+    font-size: 14px;
+    color: var(--dark-text);
+    margin-bottom: 20px;
+    line-height: 16px;
+    max-width: 270px;
+}
+
+.social-links-wrapper {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    height: 20px;
+    max-width: 270px;
+    justify-content: center;
+}
+
+.crypto-hover:hover {
+    background-color: var(--hover);
+}
+
+.cryptos {
+    display: flex;
+    gap: 20px;
+    flex-wrap: nowrap;
+    max-width: 310px;
+    justify-content: center;
+}
+
+.crypto {
+    background-color: var(--color-1);
+}
+
+.bc-crypto {
+    background-color: var(--hover);
+}
+
+.social-link-img {
+    height: 20px;
+    display: block;
+}
+
+.anchor-image-link {
+    color: var(--dark-text);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    max-width: 100px;
+    text-align: center;
+    margin: 4px auto;
+    text-transform: capitalize;
+}
+
+.adult-image {
+    width: 16px;
+    height: 16px;
+    margin-right: 16px;
+}
+
+.adult-text {
+    color: var(--dark-text);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    padding-right: 50px;
+}
+
+.adults-wrapper,
+.adult-wrapper {
+    display: flex;
+}
+
+@media screen and (max-width: 1439px) {
+    .section-with-links {
+        max-width: 1000px;
+    }
+    .section-with-crypto-block {
+        padding-left: 24px;
+    }
+    .section-with-schedule {
+        padding-right: 24px;
+    }
+    .payment-methods-wrapper {
+        gap: 32px 20px;
+        max-width: 740px;
+    }
+    .payment-method-line {
+        margin-right: 42px;
+    }
+    .crypto-payment {
+        margin-right: 54px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .payment-methods-wrapper>div:nth-child(n+9) {
+        position: relative;
+        left: 0;
+    }
+    .payment-methods-wrapper>div:nth-child(n+7) {
+        position: relative;
+        left: -36px;
+    }
+    .payment-methods-wrapper>div:nth-child(n+13) {
+        position: relative;
+        left: -72px;
+    }
+    .payment-methods-wrapper {
+        max-width: 550px;
+        grid-template-columns: repeat(6, 1fr);
+    }
+}

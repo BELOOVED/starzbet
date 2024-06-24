@@ -1,0 +1,25 @@
+.full-screen-container {
+    position: fixed;
+    width: 100dvw;
+    min-height: 100dvh;
+    max-height: 100dvh;
+    z-index: 10003;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    position: absolute;
+    background-color: rgb(0 0 0 / .5);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.blur {
+    backdrop-filter: blur(4px);
+}

@@ -1,0 +1,31 @@
+.phone-number-input [data-item="select-list-option"] {
+    padding: 0 8px;
+}
+
+.phone-number-input [data-item="select-input"] {
+    padding: 0 8px 0 24px;
+}
+
+.phone-number-input [data-item="text-input"] {
+    padding: 3px 4px 0;
+}
+
+.option {
+    align-items: center;
+    display: flex;
+    gap: 5px;
+    width: 60px;
+}
+
+.flag {
+    background-position: center;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.option>span {
+    margin-bottom: var(--font-margin-3);
+    text-align: center;
+}

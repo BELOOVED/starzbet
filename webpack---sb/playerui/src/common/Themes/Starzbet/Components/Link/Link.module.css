@@ -1,0 +1,53 @@
+.link-base {
+    display: inline-block;
+    padding: 10px 24px;
+    color: var(--text);
+    border-radius: 8px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.42px;
+    white-space: nowrap;
+    text-align: center;
+    transition: transform .2s ease-out;
+}
+
+.wide {
+    width: 100%;
+}
+
+/* orange-gradient */
+
+.orange-gradient {
+    composes: link-base;
+    background: var(--orange-gradient);
+}
+
+/* secondary-orange */
+
+.secondary-orange {
+    composes: link-base;
+    background: linear-gradient(90deg, rgb(255 158 0 / 0.20) 0%, rgb(255 109 0 / 0.20) 100%);
+    color: var(--active);
+}
+
+/* grey */
+
+.grey {
+    composes: link-base;
+    background: var(--color-1);
+    border: none;
+}
+
+.light-grey {
+    composes: link-base;
+    background: var(--color-2);
+    border: none;
+}
+
+[data-touch="false"] {
+    .link-base:hover {
+        opacity: .8;
+    }
+}

@@ -1,0 +1,74 @@
+.board-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.board-header {
+    display: flex;
+    background: var(--active);
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--virtual-sports-greyVeryLight);
+    text-align: center;
+    width: 50%;
+    padding: 6px;
+}
+
+.outcomes {
+    background: var(--virtual-sports-greyVeryLight);
+    width: 100%;
+}
+
+.outcome-wrapper {
+    display: flex;
+}
+
+.outcome-wrapper:not(:last-child) {
+    border-bottom: 1px solid var(--color-6);
+}
+
+.outcome-field {
+    width: 50%;
+    text-align: center;
+    padding: 12px 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+}
+
+.board-control {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+    gap: 15px;
+}
+
+.board-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.add-btn {
+    background: var(--active);
+    border-radius: 5px;
+    padding: 10px;
+    width: 165px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}

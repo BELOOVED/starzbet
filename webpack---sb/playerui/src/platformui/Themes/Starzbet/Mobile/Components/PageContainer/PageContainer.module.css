@@ -1,0 +1,9 @@
+.page-container {
+    min-height: calc(100dvh - 60px - 64px);
+    display: flex;
+    flex-direction: column;
+    background: var(--background);
+    &.without-nav-bar {
+        min-height: calc(100dvh - 60px);
+    }
+}

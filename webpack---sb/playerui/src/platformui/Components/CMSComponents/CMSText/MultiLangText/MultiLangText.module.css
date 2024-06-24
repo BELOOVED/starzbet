@@ -1,0 +1,10 @@
+.wide {
+    width: 100%;
+}
+
+.inline {
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 100%;
+    text-overflow: ellipsis;
+}

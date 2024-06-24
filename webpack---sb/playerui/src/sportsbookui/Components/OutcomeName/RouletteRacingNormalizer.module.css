@@ -1,0 +1,34 @@
+.list {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.headColorBox {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.red {
+    background: #E01200;
+}
+
+.black {
+    background: linear-gradient(0deg, #000, #000), #E01200;
+}
+
+.green {
+    background: linear-gradient(0deg, #3E7E21, #3E7E21), #E01200;
+}

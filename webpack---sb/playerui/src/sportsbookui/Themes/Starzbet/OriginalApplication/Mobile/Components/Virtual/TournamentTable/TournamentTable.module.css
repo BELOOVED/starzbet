@@ -1,0 +1,73 @@
+.title {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-left: 14px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--color-1);
+    color: var(--text);
+    cursor: pointer;
+    height: 60px;
+    padding-right: 16px;
+    margin-top: 8px;
+}
+
+.tournament-name {
+    line-height: 20px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -.6px;
+}
+
+.tournament-name-info {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 16px;
+}
+
+.markets {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: var(--color-2);
+    color: var(--dark-text);
+    gap: 8px;
+    padding-right: 10px;
+}
+
+[data-theme="dark"] .markets {
+    box-shadow: 0 2px 3px 0 var(--color-6) inset;
+}
+
+.market {
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.33px;
+    color: var(--text-3);
+    text-align: center;
+}
+
+.market-name {
+    flex: 1 1 100%;
+    min-width: 0;
+}
+
+.outcome-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4px;
+}
+
+.cell {
+    min-width: 44px;
+}

@@ -1,0 +1,32 @@
+.load-more {
+    background: var(--active);
+    border-radius: 10px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    box-sizing: border-box;
+    cursor: pointer;
+    user-select: none;
+    width: 300px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    transition: transform .2s ease-out;
+}
+
+.load-more:hover {
+    opacity: 0.8;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding: 0 8px;
+    text-align: center;
+}

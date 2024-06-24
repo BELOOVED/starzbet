@@ -1,0 +1,7 @@
+.arrow {
+    transition: all .2s;
+}
+
+.active {
+    transform: rotate(180deg);
+}

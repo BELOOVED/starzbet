@@ -1,0 +1,157 @@
+.share-link {
+    cursor: pointer;
+    height: 18px !important;
+}
+
+.share-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 400;
+}
+
+.dropdown {
+    padding: 16px;
+    background: var(--color-5);
+    border: 1px solid var(--color-6);
+    border-radius: 10px;
+    width: 224px;
+    height: 56px;
+    position: absolute;
+    top: 100%;
+    right: -28px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 401;
+}
+
+.dropdown::before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: transparent transparent var(--color-5) transparent;
+    position: absolute;
+    bottom: 100%;
+    right: 28px;
+}
+
+.item {
+    width: 24px;
+    height: 24px;
+    margin: 0 14px;
+    cursor: pointer;
+    position: relative;
+    color: var(--dark-text);
+}
+
+.item button,
+.copy-item {
+    border: none;
+    outline: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.message {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--color-6);
+    background: var(--color-5);
+    border-radius: 10px;
+    position: absolute;
+    top: -50px;
+    right: 50px;
+    z-index: 403;
+    animation-name: backInDown;
+    animation-duration: 0.4s;
+    gap: 10px;
+    padding: 5px 8px;
+}
+
+.message-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 402;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: var(--text);
+    white-space: nowrap;
+    margin-bottom: var(--font-margin-3);
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--dark-text);
+    margin-top: 8px;
+}
+
+@keyframes backInDown {
+    0% {
+        transform: translateY(-500px);
+        opacity: .7;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .message {
+        position: fixed;
+        top: 45px;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .share-link {
+        height: 12px !important;
+    }
+    .dropdown {
+        padding: 10px;
+        width: 160px;
+        height: 41px;
+        justify-content: space-between;
+    }
+    .item {
+        width: auto;
+        height: auto;
+        margin: 0;
+    }
+    .icon {
+        width: 18px !important;
+        min-width: 18px !important;
+        height: 18px !important;
+    }
+}

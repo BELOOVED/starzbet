@@ -1,0 +1,116 @@
+.vip-club-commission-refund {
+    background-color: var(--color-1);
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border-top: 11px solid var(--active);
+    width: 100%;
+    margin-top: 28px;
+    position: relative;
+    padding: 0 26px;
+}
+
+[data-mobile="true"] .vip-club-commission-refund {
+    margin: 0;
+    padding: 0;
+}
+
+.vip-club-commission-refund-head {
+    display: flex;
+    align-items: center;
+    padding: 26px 10px;
+    border-bottom: 2px solid var(--grey-300);
+    justify-content: center;
+}
+
+[data-theme="light"] .vip-club-commission-refund-head {
+    border-color: var(--light-400);
+}
+
+.vip-club-commission-refund-title {
+    color: var(--text);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0;
+}
+
+[data-theme="light"] .vip-club-commission-refund-title {
+    color: var(--light-900);
+}
+
+.vip-club-commission-refund-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 53px;
+    padding: 46px 10px 48px;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-commission-refund-body {
+    padding: 39px 10px;
+    gap: 39px;
+}
+
+.vip-club-commission-refund-value {
+    font-family: Rajdhani, sans-serif;
+    font-variant-numeric: tabular-nums;
+    color: var(--text);
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 64px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+[data-theme="light"] .vip-club-commission-refund-value {
+    color: var(--light-900);
+}
+
+.vip-club-commission-refund-digits {
+    color: var(--light-400);
+}
+
+.vip-club-commission-refund-currency {
+    color: var(--active);
+}
+
+.vip-club-commission-refund-button {
+    height: 52px;
+    width: 470px;
+}
+
+[data-mobile="true"] .vip-club-commission-refund-button {
+    width: 100%;
+}
+
+.vip-club-commission-refund-description-wrapper {
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+
+.vip-club-commission-refund-description {
+    color: var(--light-400);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.vip-club-commission-refund-message {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.vip-club-commission-refund-message-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}

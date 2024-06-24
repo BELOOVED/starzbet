@@ -1,0 +1,77 @@
+@import "Normalize.css";
+@import "text-security/text-security.css";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+body {
+    font-family: Axiforma, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgb(255 255 255 / 0);
+    background: var(--background);
+}
+
+[data-kg-env="true"] body {
+    font-family: Raleway, Helvetica, Arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --font-margin-1: -1px;
+    --font-margin-2: -2px;
+    --font-margin-3: -3px;
+    --font-margin-4: -4px;
+}
+
+[data-kg-env="true"] * {
+    --font-margin-1: 0;
+    --font-margin-2: 0;
+    --font-margin-3: 0;
+    --font-margin-4: 0;
+}
+
+button {
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-color: transparent;
+}
+
+button,
+input {
+    outline: none;
+    border: none;
+}
+
+input {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+select {
+    outline: none;
+}
+
+iframe {
+    width: 100%;
+}
+
+html {
+    scroll-behavior: auto;
+}

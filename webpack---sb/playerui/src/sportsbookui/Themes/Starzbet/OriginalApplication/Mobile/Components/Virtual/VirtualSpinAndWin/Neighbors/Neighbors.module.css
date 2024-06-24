@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    color: var(--virtual-sports-text);
+    grid-column: 1 / 5;
+    padding: 0 29px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.neighbors {
+    width: 100%;
+    border: 1px solid var(--virtual-sports-greyLight);
+}
+
+.field {
+    width: 40px;
+    height: 48px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 1px solid var(--virtual-sports-greyLight);
+    padding: 15px 10px;
+    color: var(--virtual-sports-text);
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.zero-box {
+    background: linear-gradient(0deg, var(--virtual-sports-greenDark1), var(--virtual-sports-greenDark1)), var(--virtual-sports-redPure);
+}
+
+.red-box {
+    background: var(--virtual-sports-redPure);
+}
+
+.black-box {
+    background: linear-gradient(0deg, var(--virtual-sports-black), var(--virtual-sports-black)), var(--virtual-sports-redPure);
+}
+
+.active::after {
+    content: '';
+    width: 16px;
+    height: 16px;
+    border-radius: 16px;
+    position: absolute;
+    z-index: 3;
+    cursor: pointer;
+    background: url("../../../../../Desktop/Assets-Optimized/Icons/chips.svg") no-repeat;
+    top: 3px;
+    right: 3px;
+}
+
+.prev-arrow,
+.next-arrow {
+    min-width: 16px;
+    width: 16px;
+    height: 16px;
+    background-image: image-set( url("../../../../Assets-Optimized/arrow-left.png") 1x, url("../../../../Assets-Optimized/arrow-left@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-position: center;
+}
+
+.next-arrow {
+    transform: rotate(180deg);
+}

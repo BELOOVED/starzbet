@@ -1,0 +1,45 @@
+.adding {
+    width: 100%;
+    padding: 16px;
+    background: var(--background);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    gap: 10px;
+}
+
+.title {
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    color: var(--text);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    text-transform: capitalize;
+    width: 100%;
+}
+
+.buttons-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.button {
+    overflow: hidden;
+    width: 100%;
+}
+
+.button>div {
+    margin-bottom: var(--font-margin-3);
+}

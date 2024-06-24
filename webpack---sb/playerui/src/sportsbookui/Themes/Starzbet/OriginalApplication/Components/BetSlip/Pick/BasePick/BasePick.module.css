@@ -1,0 +1,213 @@
+.pick {
+    position: relative;
+    padding: 10px;
+    background-color: var(--color-1);
+    border-top: 1px solid var(--color-6);
+}
+
+.pick.modal {
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+[data-theme="light"] .pick.modal {
+    background-color: var(--light-25);
+}
+
+.pick.modal:not(:last-child) {
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid var(--color-1);
+}
+
+.pick.changed {
+    border-left: 1px solid var(--purple);
+}
+
+.pick-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    user-select: none;
+    overflow: hidden;
+    margin-bottom: 10px;
+    gap: 10px;
+}
+
+.pick.modal .pick-info {
+    margin-bottom: 12px;
+}
+
+.name {
+    flex: 1;
+    color: var(--text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: var(--font-margin-3);
+}
+
+.pick.modal .name {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.42px;
+}
+
+.states {
+    display: flex;
+    align-items: center;
+}
+
+.coefficient {
+    color: var(--active);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: -0.03em;
+    max-width: calc(50% - 22px);
+}
+
+.market-name {
+    font-style: normal;
+    color: var(--dark-text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    margin-bottom: 10px;
+}
+
+.pick.modal .market-name {
+    color: var(--dark-text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.42px;
+    margin-bottom: 12px;
+}
+
+.teams {
+    font-size: 14px;
+    color: rgb(255 255 255 / 0.7);
+    padding: 2px 0;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.pick.modal .teams {
+    margin-bottom: 12px;
+}
+
+.team-names {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--active);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+}
+
+.pick.modal .team-names-modal {
+    color: var(--light-300);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.42px;
+    text-decoration: none;
+}
+
+.pick.modal .team-names a {
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.time-and-status-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--dark-text);
+}
+
+.time-banker-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time-wrapper {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--dark-text);
+    gap: 10px;
+}
+
+.time {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .market-name {
+        font-size: 10px;
+        line-height: 17px;
+        margin-bottom: 0;
+    }
+    .pick {
+        padding: 8px;
+    }
+    .team-names {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .teams {
+        gap: 6px;
+        margin: 0;
+    }
+    .time-wrapper {
+        font-size: 10px;
+        gap: 6px;
+    }
+    .sport-icon,
+    .time-icon {
+        height: 10px !important;
+        min-width: 10px !important;
+        width: 10px !important;
+    }
+    .time {
+        font-size: 10px;
+    }
+}

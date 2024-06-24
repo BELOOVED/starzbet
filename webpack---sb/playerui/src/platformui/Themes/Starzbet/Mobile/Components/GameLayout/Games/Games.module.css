@@ -1,0 +1,20 @@
+.games {
+    position: relative;
+    margin: 0 6px;
+}
+
+.games::after {
+    content: "";
+    height: 0;
+    display: block;
+    clear: both;
+}
+
+.label-games-truncated {
+    &:not(:last-child) {
+        margin-bottom: 8px;
+    }
+    &:not(:first-child) div[data-name="title"] {
+        padding-top: 16px;
+    }
+}

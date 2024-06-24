@@ -1,0 +1,79 @@
+.logout-message-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    min-width: 100vw;
+    min-height: 100vh;
+    z-index: 99999;
+    background-color: rgb(0 0 0 / .5);
+}
+
+.logout-message {
+    background-color: var(--text);
+    font-size: 16px;
+    color: var(--background);
+    max-width: 384px;
+    width: calc(100% - 28px);
+    text-align: center;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 50px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.ok-button {
+    border: .5px solid var(--background);
+    border-radius: 2px;
+    color: var(--background);
+    text-transform: uppercase;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    font-size: 13px;
+    min-height: 40px;
+}
+
+.close-button {
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.close-button::before,
+.close-button::after {
+    content: '';
+    height: 24px;
+    width: 2px;
+    background-color: var(--background);
+    border-radius: 2px;
+    position: absolute;
+    top: 13px;
+    left: 24px;
+}
+
+.close-button::before {
+    transform: rotate(45deg);
+}
+
+.close-button::after {
+    transform: rotate(135deg);
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}

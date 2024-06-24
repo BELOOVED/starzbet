@@ -1,0 +1,38 @@
+.decline-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 34px;
+}
+
+.decline-time {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.6px;
+}
+
+.decline-item {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.decline-reason-title {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.54px;
+}
+
+.decline-reason-subtitle {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.48px;
+    color: var(--dark-text);
+}

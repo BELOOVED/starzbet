@@ -1,0 +1,78 @@
+.vip-club-widget-wrapper {
+    position: relative;
+}
+
+.vip-club-widget {
+    align-items: center;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    position: relative;
+    width: 48px;
+    color: var(--dark-text);
+}
+
+[data-mobile="true"] .vip-club-widget {
+    flex-direction: column;
+    width: auto;
+    height: 30px;
+}
+
+.vip-club-widget-level {
+    position: absolute;
+    top: 6px;
+    right: 0;
+    z-index: 100;
+}
+
+[data-mobile="true"] .vip-club-widget-level {
+    position: static;
+    display: block;
+    width: 20px;
+    background: transparent;
+    font-size: 10px;
+    border: none;
+    padding: 0;
+    text-align: center;
+}
+
+[data-mobile="true"] .vip-club-widget-level>div {
+    color: var(--dark-text);
+}
+
+.vip-club-widget-dropdown {
+    position: absolute;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    min-width: 400px;
+    cursor: default;
+    align-items: center;
+    background-color: var(--background);
+    border: 1px solid var(--color-2);
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: var(--text);
+    opacity: 1;
+    right: 0;
+    top: 80px;
+    transition: opacity .3s;
+    visibility: visible;
+    white-space: normal;
+    z-index: 10002;
+}
+
+.vip-club-widget-link {
+    color: var(--brand);
+    font-weight: 700;
+    white-space: nowrap;
+    display: flex;
+    align-self: flex-end;
+    gap: 4px;
+    align-items: center;
+}
+
+.vip-club-widget-link:hover {
+    text-decoration: underline;
+}

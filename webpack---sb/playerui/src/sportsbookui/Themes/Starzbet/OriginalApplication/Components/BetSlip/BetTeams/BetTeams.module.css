@@ -1,0 +1,32 @@
+.link,
+.link .team-names,
+.link:hover {
+    color: var(--active);
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+    overflow: hidden;
+    flex: 1;
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.link.active,
+.link.active .team-names,
+.link.active:hover,
+.link.active:focus {
+    text-decoration-line: underline;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .link,
+    .link .team-names,
+    .link:hover {
+        font-size: 10px;
+        line-height: 17px;
+    }
+}

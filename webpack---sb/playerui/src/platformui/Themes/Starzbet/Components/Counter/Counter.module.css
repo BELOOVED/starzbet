@@ -1,0 +1,12 @@
+.counter {
+    border-radius: 52px;
+    background-color: var(--active);
+    padding: 3px 8px;
+}
+
+.counter-text {
+    margin-bottom: var(--font-margin-3);
+    color: var(--color-3);
+    font-size: 12px;
+    font-weight: 600;
+}

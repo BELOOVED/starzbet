@@ -1,0 +1,107 @@
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--dark-text);
+    min-width: 100%;
+}
+
+.new-limit {
+    font-size: 16px;
+}
+
+.existing-limit {
+    font-size: 16px;
+    color: var(--warning);
+    background: linear-gradient(0deg, rgb(255 222 0 / 0.05), rgb(255 222 0 / 0.05)), var(--color-6);
+    padding: 16px;
+    margin-top: 16px;
+    border-radius: 10px;
+    border: 2px solid var(--color-6);
+    display: inline-flex;
+    align-items: center;
+    line-height: 24px;
+}
+
+.form {
+    margin-top: 8px;
+}
+
+.submit-button-container {
+    margin-top: 22px;
+}
+
+.deposit-limit-title {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 24px;
+    color: var(--dark-text);
+    max-width: 100%;
+}
+
+.table {
+    display: flex;
+    max-width: 300px;
+    flex-direction: column;
+    color: var(--text);
+}
+
+.table>div>div {
+    padding: 16px 0;
+    text-align: center;
+    font-size: 16px;
+    line-height: 10px;
+    font-weight: 600;
+}
+
+.table-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.table-bottom {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 2px solid var(--color-6);
+    border-radius: 10px;
+}
+
+.error-image {
+    background-image: image-set( url("../../Desktop/Assets/Images/error.png") 1x, url("../../Desktop/Assets/Images/error@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+    margin-right: 16px;
+    position: relative;
+    top: 2px;
+}
+
+.table-bottom>div {
+    font-weight: 400 !important;
+}
+
+[data-mobile="false"] {
+    .form {
+        width: 355px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .error-image {
+        width: 26px;
+        top: 0;
+    }
+    .table {
+        max-width: 100%;
+    }
+    .existing-limit {
+        padding: 8px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+}

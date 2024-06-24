@@ -1,0 +1,229 @@
+.\--sportIcon_soccer {
+    background-image: image-set( url("./Assets/1.png") 1x, url("./Assets/1@2x.png") 2x);
+}
+
+.\--sportIcon_ice-hockey {
+    background-image: image-set( url("./Assets/4.png") 1x, url("./Assets/4@2x.png") 2x);
+}
+
+.\--sportIcon_basketball {
+    background-image: image-set( url("./Assets/2.png") 1x, url("./Assets/2@2x.png") 2x);
+}
+
+.\--sportIcon_tennis {
+    background-image: image-set( url("./Assets/3.png") 1x, url("./Assets/3@2x.png") 2x);
+}
+
+.\--sportIcon_formula-1 {
+    background-image: image-set( url("./Assets/6 1.png") 1x, url("./Assets/6 1@2x.png") 2x);
+}
+
+.\--sportIcon_american-football {
+    background-image: image-set( url("./Assets/17.png") 1x, url("./Assets/17@2x.png") 2x);
+}
+
+.\--sportIcon_volleyball {
+    background-image: image-set( url("./Assets/7.png") 1x, url("./Assets/7@2x.png") 2x);
+}
+
+.\--sportIcon_baseball {
+    background-image: image-set( url("./Assets/5.png") 1x, url("./Assets/5@2x.png") 2x);
+}
+
+.\--sportIcon_handball {
+    background-image: image-set( url("./Assets/10.png") 1x, url("./Assets/10@2x.png") 2x);
+}
+
+.\--sportIcon_futsal {
+    background-image: image-set( url("./Assets/14.png") 1x, url("./Assets/14@2x.png") 2x);
+}
+
+.\--sportIcon_beach-volleyball,
+.\--sportIcon_water-polo {
+    background-image: image-set( url("./Assets/16.png") 1x, url("./Assets/16@2x.png") 2x);
+}
+
+.\--sportIcon_snooker {
+    background-image: image-set( url("./Assets/8.png") 1x, url("./Assets/8@2x.png") 2x);
+}
+
+.\--sportIcon_darts {
+    background-image: image-set( url("./Assets/18.png") 1x, url("./Assets/18@2x.png") 2x);
+}
+
+.\--sportIcon_bandy {
+    background-image: image-set( url("./Assets/19.png") 1x, url("./Assets/19@2x.png") 2x);
+}
+
+.\--sportIcon_biathlon {
+    background-image: image-set( url("./Assets/28.png") 1x, url("./Assets/28@2x.png") 2x);
+}
+
+.\--sportIcon_cricket {
+    background-image: image-set( url("./Assets/22.png") 1x, url("./Assets/22@2x.png") 2x);
+}
+
+.\--sportIcon_wrestling {
+    background-image: image-set( url("./Assets/9.png") 1x, url("./Assets/9@2x.png") 2x);
+}
+
+.\--sportIcon_boxing {
+    background-image: image-set( url("./Assets/11.png") 1x, url("./Assets/11@2x.png") 2x);
+}
+
+.\--sportIcon_floorball {
+    background-image: image-set( url("./Assets/30.png") 1x, url("./Assets/30@2x.png") 2x);
+}
+
+.\--sportIcon_field-hockey {
+    background-image: image-set( url("./Assets/24.png") 1x, url("./Assets/24@2x.png") 2x);
+}
+
+.\--sportIcon_lotto {
+    background-image: image-set( url("./Assets/26.png") 1x, url("./Assets/26@2x.png") 2x);
+}
+
+.\--sportIcon_badminton {
+    background-image: image-set( url("./Assets/12.png") 1x, url("./Assets/12@2x.png") 2x);
+}
+
+.\--sportIcon_chess {
+    background-image: image-set( url("./Assets/27.png") 1x, url("./Assets/27@2x.png") 2x);
+}
+
+.\--sportIcon_bowls {
+    background-image: image-set( url("./Assets/21.png") 1x, url("./Assets/21@2x.png") 2x);
+}
+
+.\--sportIcon_rugby,
+.\--sportIcon_aussie-rules {
+    background-image: image-set( url("./Assets/13.png") 1x, url("./Assets/13@2x.png") 2x);
+}
+
+.\--sportIcon_squash {
+    background-image: image-set( url("./Assets/29.png") 1x, url("./Assets/29@2x.png") 2x);
+}
+
+.\--sportIcon_table-tennis {
+    background-image: image-set( url("./Assets/15.png") 1x, url("./Assets/15@2x.png") 2x);
+}
+
+.\--sportIcon_e-soccer {
+    background-image: image-set( url("./Assets/esoccer.png") 1x, url("./Assets/esoccer@2x.png") 2x);
+}
+
+.\--sportIcon_e-ice-hockey {
+    background-image: image-set( url("./Assets/ehockey.png") 1x, url("./Assets/ehockey@2x.png") 2x);
+}
+
+.\--sportIcon_e-basketball {
+    background-image: image-set( url("./Assets/ebasketball.png") 1x, url("./Assets/ebasketball@2x.png") 2x);
+}
+
+.\--sportIcon_e-volleyball {
+    background-image: image-set( url("./Assets/evolleyball.png") 1x, url("./Assets/evolleyball@2x.png") 2x);
+}
+
+.\--sportIcon_e-tennis {
+    background-image: image-set( url("./Assets/etennis.png") 1x, url("./Assets/etennis@2x.png") 2x);
+}
+
+.\--sportIcon_dota2 {
+    background-image: image-set( url("./Assets/dota.png") 1x, url("./Assets/dota@2x.png") 2x);
+}
+
+.\--sportIcon_csgo {
+    background-image: image-set( url("./Assets/csgo.png") 1x, url("./Assets/csgo@2x.png") 2x);
+}
+
+.\--sportIcon_lol {
+    background-image: image-set( url("./Assets/league-of-legends.png") 1x, url("./Assets/league-of-legends@2x.png") 2x);
+}
+
+.\--sportIcon_overwatch {
+    background-image: image-set( url("./Assets/overwatch.png") 1x, url("./Assets/overwatch@2x.png") 2x);
+}
+
+.\--sportIcon_rainbow6 {
+    background-image: image-set( url("./Assets/rainbow-six.png") 1x, url("./Assets/rainbow-six@2x.png") 2x);
+}
+
+.\--sportIcon_starcraft2 {
+    background-image: image-set( url("./Assets/starcraft-ii.png") 1x, url("./Assets/starcraft-ii@2x.png") 2x);
+}
+
+.\--sportIcon_starcraft {
+    background-image: image-set( url("./Assets/starcraft.png") 1x, url("./Assets/starcraft@2x.png") 2x);
+}
+
+.\--sportIcon_rocket-league {
+    background-image: image-set( url("./Assets/rocket-league.png") 1x, url("./Assets/rocket-league@2x.png") 2x);
+}
+
+.\--sportIcon_warcraft3 {
+    background-image: image-set( url("./Assets/warcraft-3.png") 1x, url("./Assets/warcraft-3@2x.png") 2x);
+}
+
+.\--sportIcon_hearthstone {
+    background-image: image-set( url("./Assets/heartstone.png") 1x, url("./Assets/heartstone@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-table-tennis {
+    background-image: image-set( url("./Assets/kiron-table-tennis.png") 1x, url("./Assets/kiron-table-tennis@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-horse-racing {
+    background-image: image-set( url("./Assets/kiron-horse-racing.png") 1x, url("./Assets/kiron-horse-racing@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-hounds-racing {
+    background-image: image-set( url("./Assets/kiron-hounds-racing.png") 1x, url("./Assets/kiron-hounds-racing@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-ice-hockey {
+    background-image: image-set( url("./Assets/kiron-ice-hockey.png") 1x, url("./Assets/kiron-ice-hockey@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-keno {
+    background-image: image-set( url("./Assets/kiron-keno.png") 1x, url("./Assets/kiron-keno@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-lucky-loot {
+    background-image: image-set( url("./Assets/kiron-lucky-loot.png") 1x, url("./Assets/kiron-lucky-loot@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-racing-roulette {
+    background-image: image-set( url("./Assets/kiron-racing-roulette.png") 1x, url("./Assets/kiron-racing-roulette@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-roulette {
+    background-image: image-set( url("./Assets/kiron-roulette.png") 1x, url("./Assets/kiron-roulette@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-soccer {
+    background-image: image-set( url("./Assets/kiron-soccer.png") 1x, url("./Assets/kiron-soccer@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-steeple-chase {
+    background-image: image-set( url("./Assets/kiron-steeple-chase.png") 1x, url("./Assets/kiron-steeple-chase@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-motor-racing {
+    background-image: image-set( url("./Assets/kiron-motor-racing.png") 1x, url("./Assets/kiron-motor-racing@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-badminton {
+    background-image: image-set( url("./Assets/kiron-badminton.png") 1x, url("./Assets/kiron-badminton@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-archery {
+    background-image: image-set( url("./Assets/kiron-archery.png") 1x, url("./Assets/kiron-archery@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-harness-racing {
+    background-image: image-set( url("./Assets/kiron-harness-racing.png") 1x, url("./Assets/kiron-harness-racing@2x.png") 2x);
+}
+
+.\--sportIcon_kiron-cricket {
+    background-image: image-set( url("./Assets/kiron-cricket.png") 1x, url("./Assets/kiron-cricket@2x.png") 2x);
+}

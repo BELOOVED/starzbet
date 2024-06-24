@@ -1,0 +1,26 @@
+.title {
+    width: 100%;
+    margin-right: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text);
+}
+
+.checked-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border: 1px solid var(--light-900);
+    background: var(--color-2);
+    border-radius: 50%;
+}
+
+.checked-container.checked {
+    background: var(--orange-gradient);
+}

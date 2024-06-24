@@ -1,0 +1,103 @@
+.cashback-modal-content {
+    max-width: 480px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 32px;
+    background-color: var(--background);
+    border-radius: 10px;
+}
+
+.close-row {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.prize-row {
+    text-align: center;
+}
+
+.check-row {
+    display: flex;
+    justify-content: center;
+}
+
+.check-icon {
+    width: 60px !important;
+    height: 60px !important;
+}
+
+.title {
+    color: var(--text);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.content {
+    color: var(--dark-text);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.error-content {
+    composes: content;
+    color: var(--warning);
+}
+
+.bonus-rules {
+    width: 100%;
+}
+
+.transfer-button {
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    height: 44px;
+    padding: 0 25px;
+    background: var(--blue-gradient);
+    color: var(--text);
+    &:disabled {
+        background: var(--color-1);
+        color: var(--dark-text);
+        cursor: not-allowed;
+    }
+}
+
+div.modal-body {
+    overflow-y: auto;
+    justify-content: initial;
+}
+
+[data-mobile="false"] {
+    .modal-body::-webkit-scrollbar {
+        width: 4px;
+    }
+    .modal-body::-webkit-scrollbar-track {
+        border-radius: 2px;
+    }
+    .modal-body::-webkit-scrollbar-thumb {
+        border-radius: 2px;
+        background: var(--hover);
+    }
+}
+
+[data-mobile="true"] {
+    .modal-body {
+        padding: 0 8px 0 0;
+        gap: 20px;
+    }
+}
+
+.spinner {
+    margin-bottom: 10px;
+}

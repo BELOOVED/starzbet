@@ -1,0 +1,39 @@
+.hint-container {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.hint {
+    display: none;
+    position: absolute;
+    border: 1px solid var(--color-5);
+    background: var(--color-2);
+    padding: 10px;
+    bottom: 32px;
+    right: -18px;
+    color: var(--dark-text);
+    font-size: 10px;
+    width: 275px;
+    border-radius: 8px;
+    line-height: 1.4;
+}
+
+.hint::before {
+    content: "";
+    position: absolute;
+    right: 14px;
+    bottom: -14px;
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 17px 10px 0;
+    border-color: var(--color-2) transparent transparent;
+}
+
+.hint-container:hover .hint {
+    display: block;
+}

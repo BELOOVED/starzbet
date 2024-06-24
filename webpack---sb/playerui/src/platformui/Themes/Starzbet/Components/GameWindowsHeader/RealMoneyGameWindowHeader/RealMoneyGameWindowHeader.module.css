@@ -1,0 +1,58 @@
+.real-money-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--background);
+}
+
+.header-center {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.header-center:not(:first-child) {
+    animation: float-right .3s ease-in-out;
+}
+
+@keyframes float-right {
+    0% {
+        transform: translateX(-16px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.flex-space-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header-label {
+    color: var(--white);
+    height: 17px;
+    text-transform: uppercase;
+    padding: 0 4px;
+    background: var(--brand);
+    white-space: nowrap;
+    width: min-content;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+}
+
+.header-balance {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0;
+    color: var(--text);
+}

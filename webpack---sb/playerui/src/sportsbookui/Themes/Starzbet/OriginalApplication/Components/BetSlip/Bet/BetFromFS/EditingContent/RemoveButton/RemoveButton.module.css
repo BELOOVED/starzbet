@@ -1,0 +1,16 @@
+.remove-button {
+    cursor: pointer;
+    color: var(--text);
+    flex: 0 0 auto;
+    width: 18px !important;
+    min-width: 18px !important;
+    height: 18px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .remove-button {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+}

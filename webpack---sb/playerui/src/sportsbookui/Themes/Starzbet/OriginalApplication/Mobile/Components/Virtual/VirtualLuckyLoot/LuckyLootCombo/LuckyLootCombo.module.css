@@ -1,0 +1,160 @@
+.first-ball {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 15px;
+}
+
+.combo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.combo {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid var(--color-6);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    height: 52px;
+}
+
+.combo-title {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.combo-title-header {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.combo-title-header-pick {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--color-6);
+    text-transform: uppercase;
+}
+
+.combo-title-header-bonus {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-transform: capitalize;
+}
+
+.combo-title-footer {
+    display: flex;
+    gap: 4px;
+}
+
+.intermediates {
+    width: 50%;
+}
+
+.intermediate-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.intermediate-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    width: 100%;
+    gap: 3px;
+    padding-bottom: 4px;
+}
+
+.intermediate-title:not(.total) {
+    flex: 1 1 100%;
+    min-width: 0;
+}
+
+.total {
+    padding: 4px;
+    background: var(--active);
+    border-radius: 3px;
+}
+
+.combo-pays {
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.total .combo-pays {
+    color: rgb(255 255 255 / 0.75);
+}
+
+.combo-length {
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: var(--color-6);
+}
+
+.total .combo-length {
+    color: var(--text);
+}
+
+.outcome-wrapper {
+    width: 100%;
+    border: 1px solid var(--color-6);
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 16px 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    height: 52px;
+}
+
+.market-name {
+    flex: 1;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--virtual-sports-text);
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.ball.green {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%);
+}
+
+.ball.blue {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+}
+
+.ball.yellow {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-yellowPale) 0%, var(--virtual-sports-yellowPure2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+    color: var(--virtual-sports-black);
+}
+
+.ball.red {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-redSoft) 0%, var(--virtual-sports-redStrong2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-yellowPale) 0%, var(--virtual-sports-yellowPure2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+}

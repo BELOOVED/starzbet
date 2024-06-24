@@ -1,0 +1,54 @@
+.event-name {
+    display: flex;
+}
+
+.sport-icon {
+    margin-right: 10px;
+}
+
+.event-link {
+    max-width: 230px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0;
+    color: var(--active);
+    text-decoration: underline;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.event-link:hover,
+.event-link:focus {
+    text-decoration: none;
+}
+
+.virtual-event-info {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: var(--text);
+}
+
+.event-number {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .event-name {
+        align-items: center;
+    }
+    .event-link {
+        font-size: 10px;
+    }
+    .sport-icon {
+        margin-right: 6px;
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+}

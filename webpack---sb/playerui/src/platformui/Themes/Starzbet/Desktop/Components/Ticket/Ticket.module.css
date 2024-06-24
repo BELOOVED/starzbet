@@ -1,0 +1,76 @@
+.ticket {
+    background: var(--color-1);
+    display: flex;
+    border-radius: 10px;
+    padding: 16px;
+    width: 100%;
+    margin: 10px 0;
+    justify-content: space-between;
+}
+
+.ticket:hover {
+    box-shadow: 0 0 0 1px var(--active) inset;
+}
+
+.opened {
+    opacity: 1;
+}
+
+.closed {
+    opacity: .3;
+}
+
+.date {
+    color: var(--dark-text);
+    font-family: Rajdhani, sans-serif;
+    letter-spacing: -0.48px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.detail,
+.detail:hover {
+    color: var(--background);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    user-select: none;
+    margin-top: 16px;
+}
+
+.ticket-info {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 10px;
+}
+
+.name {
+    font-weight: 500;
+    line-height: 22px;
+    font-size: 16px;
+    color: var(--dark-text);
+}
+
+.text {
+    font-weight: 400;
+    line-height: 22px;
+    font-size: 14px;
+    color: var(--text);
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

@@ -1,0 +1,37 @@
+.switch {
+    display: flex;
+    border-radius: 8px;
+    padding: 2px;
+    background: var(--background);
+    align-items: center;
+    height: 44px;
+    gap: 8px;
+    width: 100%;
+    button {
+        width: 49%;
+        gap: 8px;
+        border-radius: 8px;
+        height: 100%;
+        font-size: 14px;
+        font-weight: 600;
+        padding: 6px 12px;
+        color: var(--dark-text);
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.active {
+    background: var(--orange-gradient);
+    color: white !important;
+    & path {
+        fill: white;
+    }
+}
+
+.disabled-link {
+    pointer-events: none;
+}

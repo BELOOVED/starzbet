@@ -1,0 +1,31 @@
+.icon {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 16px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    color: var(--text);
+    margin-bottom: 16px;
+}
+
+.subtext {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--dark-text);
+    margin-bottom: 16px;
+}
+
+.link {
+    width: 100%;
+}

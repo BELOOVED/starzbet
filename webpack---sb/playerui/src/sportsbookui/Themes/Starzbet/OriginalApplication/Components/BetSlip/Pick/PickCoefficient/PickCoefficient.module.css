@@ -1,0 +1,32 @@
+.coefficient {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    margin-bottom: var(--font-margin-3);
+    letter-spacing: -0.03em;
+    color: var(--active);
+    flex: 0 0 auto;
+}
+
+.coefficient.up {
+    color: var(--validation);
+}
+
+.coefficient.down {
+    color: var(--error);
+}
+
+.modal {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.48px;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .coefficient {
+        font-size: 10px;
+        line-height: 14px
+    }
+}

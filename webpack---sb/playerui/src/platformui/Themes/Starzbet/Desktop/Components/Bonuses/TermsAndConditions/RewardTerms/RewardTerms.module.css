@@ -1,0 +1,13 @@
+/* .rewardItem::before { */
+
+/*  display: inline-block; */
+
+/*  content: "-"; */
+
+/*  margin-right: 4px; */
+
+/* } */
+
+.reward-item:not(:last-of-type) {
+    margin-bottom: 8px;
+}

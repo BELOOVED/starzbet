@@ -1,0 +1,40 @@
+.modal-container {
+    position: fixed !important;
+    width: 100vw !important;
+    min-height: 100vh !important;
+    z-index: 1000 !important;
+    top: 0 !important;
+    left: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.overlay {
+    position: absolute;
+    background-color: rgb(0 0 0 / .5);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.children-container {
+    position: relative;
+    max-width: 100%;
+}
+
+.close-button {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-image: image-set( url("../../Assets/Images/close-24px.png") 1x, url("../../Assets/Images/close-24px@2x.png") 2x);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

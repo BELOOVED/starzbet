@@ -1,0 +1,3 @@
+const DEFAULT_PLAYER_GROUP_ID = "3b6f3f84-cf0e-11e9-bb65-2a2ae2dbcce4";
+
+export { DEFAULT_PLAYER_GROUP_ID };

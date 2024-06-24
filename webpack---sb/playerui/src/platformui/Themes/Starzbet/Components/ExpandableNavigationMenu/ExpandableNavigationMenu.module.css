@@ -1,0 +1,217 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    background: var(--color-5);
+    border: 2px solid var(--color-1);
+    padding: 0 0 18px;
+    box-sizing: border-box;
+    width: 320px;
+    height: fit-content;
+}
+
+.menu {
+    padding: 0 12px;
+}
+
+.mobile-sidebar {
+    width: 100%;
+    background: none;
+    padding-top: 0;
+    border: none;
+}
+
+.expandable-navigation-menu-help {
+    padding: 0;
+}
+
+.logout {
+    height: 42px;
+    border-radius: 8px;
+    background: var(--color-6);
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    gap: 12px;
+}
+
+.menu-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--dark-text);
+    text-transform: uppercase;
+    padding: 16px;
+}
+
+.expand-items {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--color-2);
+}
+
+.expand-title {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    user-select: none;
+    max-width: calc(100% - 32px);
+}
+
+.expand-preview {
+    cursor: pointer;
+    color: var(--dark-text);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 20px;
+    border-bottom: 1px solid var(--color-2);
+    height: 44px;
+}
+
+.dark .menu-element {
+    background: var(--color-6);
+}
+
+.name {
+    flex: 1 1 100%;
+    min-width: 0;
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: var(--font-margin-2);
+}
+
+.opener {
+    width: 12px;
+    min-width: 12px;
+    height: 7px;
+    margin-right: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: image-set( url("../../Assets-Optimized/Images/arrowDown.png") 1x, url("../../Assets-Optimized/Images/arrowDown@2x.png") 2x);
+}
+
+.expanded {
+    background-image: image-set( url("../../Assets-Optimized/Images/arrowUp.png") 1x, url("../../Assets-Optimized/Images/arrowUp@2x.png") 2x);
+}
+
+.not-verified {
+    opacity: 0.5;
+    cursor: default;
+    pointer-events: none;
+}
+
+.list-item {
+    padding: 8px 20px;
+    color: var(--text);
+    gap: 0;
+}
+
+.button-list {
+    margin-top: 12px;
+}
+
+.expended-item {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.42px;
+    height: 44px;
+    padding: 0 25px;
+    color: var(--text-3);
+    border-radius: 8px;
+}
+
+.expended-item-text {
+    margin-bottom: var(--font-margin-2);
+    max-width: 200px;
+}
+
+.dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: var(--text-3);
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.active {
+    background: var(--color-1);
+    & .expended-item-text {
+        color: var(--text);
+    }
+    & .dot {
+        background: var(--text);
+    }
+}
+
+.my-account {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    cursor: pointer;
+    padding: 18px 20px;
+    border-bottom: 1px solid var(--color-2);
+    background: var(--color-7);
+}
+
+.avatar {
+    width: 44px;
+    height: 44px;
+    background: var(--blue-gradient);
+    border-radius: 50%;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar::before {
+    content: "";
+    background-image: image-set( url("../../Desktop/Assets/Images/user.png") 1x, url("../../Desktop/Assets/Images/user@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 44px;
+    min-width: 44px;
+    height: 44px;
+}
+
+.username-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.username {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--text);
+    min-width: 80px;
+    max-width: 180px;
+    margin-bottom: var(--font-margin-2);
+    text-transform: capitalize;
+}
+
+.amount {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--active);
+    &>span {
+        text-align: left !important;
+    }
+}

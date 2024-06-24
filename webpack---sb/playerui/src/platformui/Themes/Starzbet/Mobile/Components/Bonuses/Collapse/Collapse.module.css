@@ -1,0 +1,18 @@
+.collapse {
+    background: var(--color-2);
+    border-radius: 4px;
+}
+
+div.header {
+    padding: 8px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    background: var(--color-6) !important;
+    border-radius: 4px;
+}
+
+.body {
+    padding: 8px;
+    color: var(--dark-text);
+}

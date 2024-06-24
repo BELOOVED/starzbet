@@ -1,0 +1,64 @@
+.themed-translate-record-html {
+    color: var(--text);
+    * {
+        min-width: 100%;
+    }
+    *:first-child {
+        margin-top: 0 !important;
+    }
+    *:last-child {
+        margin-bottom: 0 !important;
+    }
+    h1 {
+        margin: 16px 0;
+    }
+    h2 {
+        margin: 14px 0;
+    }
+    h3 {
+        margin: 12px 0;
+    }
+    h1,
+    h2,
+    h3 {
+        font-weight: 500;
+    }
+    p {
+        margin: 8px 0;
+    }
+    ol,
+    ul {
+        margin: 12px
+    }
+    ol {
+        margin-left: 20px;
+    }
+    ul {
+        margin-left: 20px;
+        li {
+            position: relative;
+            ::before {
+                content: "";
+                height: 4px;
+                width: 4px;
+                position: absolute;
+                top: 50%;
+                left: -12px;
+                transform: translateY(-50%);
+                background-color: #FFF;
+                border-radius: 50%;
+            }
+        }
+    }
+    li+li {
+        margin-top: 4px;
+    }
+    blockquote {
+        border-left: 4px solid var(--hover);
+        margin: 8px 8px 8px 12px;
+        padding-left: 8px;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+}

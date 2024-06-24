@@ -1,0 +1,17 @@
+.logo {
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    background-position: center;
+    background-image: image-set( url("../../../Assets/Images/Logo/Dark/mobile.png") 1x, url("../../../Assets/Images/Logo/Dark/mobile@2x.png") 2x);
+}
+
+.logged {
+    background-position: center;
+}
+
+[data-webp="true"] {
+    background-image: image-set( url("../../../Assets/Images/Logo/Dark/mobile.png_high.webp") 1x, url("../../../Assets/Images/Logo/Dark/mobile@2x.png_high.webp") 2x);
+}

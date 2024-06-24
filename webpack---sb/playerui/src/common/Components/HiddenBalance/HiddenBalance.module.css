@@ -1,0 +1,26 @@
+.balance {
+    position: relative;
+}
+
+.balance span:last-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+.hidden span:first-child {
+    opacity: 0;
+}
+
+.hidden span:last-child {
+    opacity: 1;
+}
+
+[data-mobile="true"] {
+    .balance {
+        min-width: 60px;
+    }
+}

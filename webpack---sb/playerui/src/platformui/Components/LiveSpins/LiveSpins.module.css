@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+}
+
+.track {
+    gap: 28px;
+}
+
+.title {
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    width: 100%;
+}
+
+.icon-container {
+    background-color: var(--background);
+    border: 1px solid var(--hover);
+    border-radius: 5px;
+    height: 45px;
+    margin-right: 22px;
+    padding: 11px;
+    width: 49px;
+}
+
+.top {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.wrapper {
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+}
+
+livespins-schedule-room,
+livespins-room {
+    --time-background: transparent;
+    --cta-action-color: var(--text);
+    --cta-variable-text-color: var(--text);
+}

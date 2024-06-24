@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 16px;
+    border: 1px solid var(--color-6);
+    border-radius: 8px;
+    background: var(--color-1);
+    max-width: 100%;
+}
+
+.card>*:last-child {
+    margin-top: auto;
+}
+
+.card.fixed-width {
+    width: 402px;
+}
+
+.expire-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expire-wrapper.without-expire {
+    justify-content: flex-end;
+}
+
+.expire-inner {
+    justify-content: initial;
+}

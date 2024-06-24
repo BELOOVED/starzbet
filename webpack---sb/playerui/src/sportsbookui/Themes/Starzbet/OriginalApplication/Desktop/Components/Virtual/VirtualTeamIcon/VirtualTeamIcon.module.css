@@ -1,0 +1,248 @@
+.team-icon {
+    background-size: 100%;
+    background-position: center center;
+    height: 32px;
+    min-width: 32px;
+    position: relative;
+    width: 32px;
+}
+
+.team-number {
+    width: 20px;
+    height: 20px;
+    background: var(--background);
+    border: 1px solid var(--active);
+    box-shadow: 0 2px 5px rgb(0 0 0 / 0.35);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--active);
+    padding-top: 2px;
+    left: -6px;
+    position: absolute;
+    top: -6px;
+}
+
+.hounds_p1 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p1.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p1@2x.png") 2x);
+}
+
+.hounds_p2 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p2.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p2@2x.png") 2x);
+}
+
+.hounds_p3 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p3.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p3@2x.png") 2x);
+}
+
+.hounds_p4 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p4.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p4@2x.png") 2x);
+}
+
+.hounds_p5 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p5.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p5@2x.png") 2x);
+}
+
+.hounds_p6 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p6.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p6@2x.png") 2x);
+}
+
+.hounds_p7 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p7.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p7@2x.png") 2x);
+}
+
+.hounds_p8 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/hounds-p8.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/hounds-p8@2x.png") 2x);
+}
+
+.motorbike_p1 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p1.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p1@2x.png") 2x);
+}
+
+.motorbike_p2 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p2.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p2@2x.png") 2x);
+}
+
+.motorbike_p3 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p3.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p3@2x.png") 2x);
+}
+
+.motorbike_p4 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p4.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p4@2x.png") 2x);
+}
+
+.motorbike_p5 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p5.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p5@2x.png") 2x);
+}
+
+.motorbike_p6 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p6.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p6@2x.png") 2x);
+}
+
+.motorbike_p7 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p7.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/motorbike_p7@2x.png") 2x);
+}
+
+.silk_1 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_01.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_01@2x.png") 2x);
+}
+
+.silk_2 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_02.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_02@2x.png") 2x);
+}
+
+.silk_3 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_03.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_03@2x.png") 2x);
+}
+
+.silk_4 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_04.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_04@2x.png") 2x);
+}
+
+.silk_5 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_05.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_05@2x.png") 2x);
+}
+
+.silk_6 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_06.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_06@2x.png") 2x);
+}
+
+.silk_7 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_07.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_07@2x.png") 2x);
+}
+
+.silk_8 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_08.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_08@2x.png") 2x);
+}
+
+.silk_9 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_09.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_09@2x.png") 2x);
+}
+
+.silk_10 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_10.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_10@2x.png") 2x);
+}
+
+.silk_11 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_11.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_11@2x.png") 2x);
+}
+
+.silk_12 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_12.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_12@2x.png") 2x);
+}
+
+.silk_13 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_13.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_13@2x.png") 2x);
+}
+
+.silk_14 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_14.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_14@2x.png") 2x);
+}
+
+.silk_15 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_15.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_15@2x.png") 2x);
+}
+
+.silk_16 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_16.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_16@2x.png") 2x);
+}
+
+.silk_17 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_17.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_17@2x.png") 2x);
+}
+
+.silk_18 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_18.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_18@2x.png") 2x);
+}
+
+.silk_19 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_19.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_19@2x.png") 2x);
+}
+
+.silk_20 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_20.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_20@2x.png") 2x);
+}
+
+.silk_21 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_21.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_21@2x.png") 2x);
+}
+
+.silk_22 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_22.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_22@2x.png") 2x);
+}
+
+.silk_23 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_23.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_23@2x.png") 2x);
+}
+
+.silk_24 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_24.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_24@2x.png") 2x);
+}
+
+.silk_25 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_25.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_25@2x.png") 2x);
+}
+
+.silk_26 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_26.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_26@2x.png") 2x);
+}
+
+.silk_27 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_27.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_27@2x.png") 2x);
+}
+
+.silk_28 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_28.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_28@2x.png") 2x);
+}
+
+.silk_29 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_29.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_29@2x.png") 2x);
+}
+
+.silk_30 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_30.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_30@2x.png") 2x);
+}
+
+.silk_31 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_31.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_31@2x.png") 2x);
+}
+
+.silk_32 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_32.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_32@2x.png") 2x);
+}
+
+.silk_33 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_33.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_33@2x.png") 2x);
+}
+
+.silk_34 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_34.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_34@2x.png") 2x);
+}
+
+.silk_35 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_35.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_35@2x.png") 2x);
+}
+
+.silk_36 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_36.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_36@2x.png") 2x);
+}
+
+.silk_37 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_37.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_37@2x.png") 2x);
+}
+
+.silk_38 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_38.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_38@2x.png") 2x);
+}
+
+.silk_39 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_39.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_39@2x.png") 2x);
+}
+
+.silk_40 {
+    background-image: image-set( url("../../../Assets-Optimized/RacingTeamIcon/silk_40.png") 1x, url("../../../Assets-Optimized/RacingTeamIcon/silk_40@2x.png") 2x);
+}

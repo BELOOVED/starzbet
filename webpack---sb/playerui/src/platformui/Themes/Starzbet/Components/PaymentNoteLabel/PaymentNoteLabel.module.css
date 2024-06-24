@@ -1,0 +1,46 @@
+.label-wrapper {
+    padding: 12px;
+    gap: 8px;
+    background: rgb(255 158 0 / 0.14);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.label-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--text);
+    text-transform: capitalize;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.45px;
+}
+
+.label-content {
+    color: var(--dark-text);
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: -0.48px;
+}
+
+.label-title {
+    padding-top: 4px;
+}
+
+[data-theme="light"] {
+    .label-icon {
+        color: var(--dark-text);
+    }
+}
+
+[data-theme="dark"] {
+    .label-icon {
+        color: var(--warning);
+    }
+}

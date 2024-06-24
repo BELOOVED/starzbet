@@ -1,0 +1,144 @@
+.tabs {
+    display: flex;
+    width: 100%;
+    gap: 8px;
+    margin-top: 4px;
+}
+
+.tab {
+    width: 100%;
+    height: 44px;
+    background: var(--color-1);
+    color: var(--text-3);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.42px;
+    cursor: pointer;
+    transition: opacity .2s;
+}
+
+.tab:hover {
+    opacity: .8;
+}
+
+.tab>div {
+    margin-bottom: -1.7px;
+    max-width: 250px;
+}
+
+.count {
+    margin-left: 16px;
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    color: var(--text);
+}
+
+.active {
+    background: var(--blue-gradient);
+    color: white;
+    .count {
+        color: white;
+    }
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.tournament-item {
+    display: flex;
+    align-items: center;
+    height: 56px;
+    border-radius: 8px;
+    justify-content: space-between;
+    background: var(--grey-gradient);
+    color: var(--text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: -0.42px;
+    padding: 8px 20px;
+}
+
+.left,
+.right {
+    display: flex;
+    align-items: center;
+    gap: 16px
+}
+
+.right>span {
+    transform: rotate(180deg);
+}
+
+.tournament-info {
+    display: flex;
+    max-width: 500px;
+    margin-bottom: var(--font-margin-2);
+}
+
+.total-events {
+    text-align: right;
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    color: var(--active);
+}
+
+@media screen and (max-width: 500px) {
+    .tournament-info {
+        max-width: 250px;
+    }
+    .tab>div {
+        margin-bottom: var(--font-margin-2);
+        max-width: 150px;
+    }
+    .container {
+        padding: 0;
+    }
+    .tabs {
+        padding: 0 16px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .tournament-info {
+        max-width: 220px;
+    }
+    .tab>div {
+        margin-bottom: var(--font-margin-2);
+        max-width: 100px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .tournament-info {
+        max-width: 200px;
+    }
+    .tabs {
+        padding: 0 4px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .tournament-info {
+        max-width: 170px;
+    }
+}

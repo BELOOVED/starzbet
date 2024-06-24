@@ -1,0 +1,35 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 16px;
+    border: 1px solid var(--color-6);
+    border-radius: 8px;
+    background: var(--color-1);
+    max-width: 100%;
+}
+
+.card.fixed-width {
+    width: 402px;
+}
+
+.status-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 6px;
+}
+
+.reward-item {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.description-block {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    color: var(--dark-text);
+}

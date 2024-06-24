@@ -1,0 +1,13 @@
+.back-button {
+    background: var(--color-1);
+    border: 1px solid var(--color-6);
+    box-sizing: border-box;
+    width: 32px;
+    min-width: 32px;
+    border-radius: 8px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text);
+}

@@ -1,0 +1,24 @@
+.star-rating {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--virtual-sports-yellowPure1);
+}
+
+.star {
+    width: 11px;
+    height: 10px;
+    margin-bottom: 4px;
+}
+
+.star-icon {
+    background-image: image-set( url("../../../../Desktop/Assets-Optimized/Icons/starRating.png") 1x, url("../../../../Desktop/Assets-Optimized/Icons/starRating@2x.png") 2x);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

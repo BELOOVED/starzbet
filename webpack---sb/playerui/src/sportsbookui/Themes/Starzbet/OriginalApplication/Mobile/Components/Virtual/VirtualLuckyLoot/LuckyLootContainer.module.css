@@ -1,0 +1,12 @@
+.container {
+    background: linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-greyVeryLight);
+}
+
+.market-container {
+    border: 1px solid var(--color-6);
+    border-radius: 0 0 5px 5px;
+    height: calc(100% - 50px);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}

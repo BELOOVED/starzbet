@@ -1,0 +1,105 @@
+.provider-icon {
+    width: 24px;
+    min-width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.check-icon {
+    width: 23px;
+    min-width: 23px;
+    height: 23px;
+    background-color: var(--color-1);
+    border: 1px solid var(--color-6);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+}
+
+.check-icon-active {
+    background-color: var(--active);
+}
+
+.left-content {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    flex: 1 1 100%;
+    min-width: 0;
+    text-align: left;
+    color: var(--light-300);
+    margin-bottom: var(--font-margin-2);
+    max-width: 80%;
+}
+
+.count {
+    color: var(--light-300);
+    text-align: right;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: var(--font-margin-2);
+}
+
+div[data-theme="light"] {
+    .name {
+        color: var(--light-300);
+    }
+    .count {
+        color: var(--light-300);
+    }
+    .active-name {
+        color: var(--dark-text);
+    }
+}
+
+.providers-checkbox-container {
+    overflow-y: scroll;
+    height: calc(100dvh - 240px);
+    border-radius: 8px;
+    margin-right: 6px;
+}
+
+.providers-checkbox {
+    position: relative;
+    display: grid;
+    grid-auto-rows: 50px;
+    grid-template-columns: 1fr;
+    column-gap: 16px;
+    background: var(--background);
+    margin: 0 0 0 16px;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+.providers-checkbox-container::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 6px;
+    margin-left: 50px;
+}
+
+.providers-checkbox-container::-webkit-scrollbar-thumb {
+    background: var(--color-3);
+    border-radius: 6px;
+    border: solid 1px var(--hover);
+    margin-left: 50px;
+}
+
+.checkbox-provider-item {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--color-3);
+    align-items: center;
+    padding: 14px 0;
+}

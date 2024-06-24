@@ -1,0 +1,192 @@
+.bet.modal {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100%;
+    width: 100%;
+}
+
+.bet-container {
+    position: relative;
+}
+
+.details-event {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    border-bottom: 1px solid var(--color-3);
+}
+
+.event-title {
+    color: var(--dark-text);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.6px;
+}
+
+.close-page {
+    cursor: pointer;
+    position: relative;
+}
+
+.money {
+    margin-right: 5px;
+}
+
+.total-stake-with-label {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    gap: 5px;
+    height: 100%;
+}
+
+.total-stake-with-label:last-child {
+    min-width: fit-content;
+}
+
+.bet-status {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: var(--dark-text);
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+    color: var(--dark-text);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 120% */
+    letter-spacing: -0.6px;
+    border: none;
+    cursor: initial;
+    text-transform: initial;
+}
+
+.head .status.cash_outed {
+    color: var(--dark-text);
+}
+
+.status {
+    display: flex;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 125% */
+    letter-spacing: -0.48px;
+}
+
+.status.win,
+.status.partial-win {
+    color: var(--validation-light);
+    font-weight: 600;
+    line-height: 14px;
+    font-size: 12px;
+}
+
+.status.loss,
+.status.partial-loss {
+    color: var(--error);
+    font-weight: 600;
+    line-height: 14px;
+    font-size: 12px;
+}
+
+.header-total {
+    margin-left: 5px;
+}
+
+.bet-scroll {
+    min-height: 124px !important;
+}
+
+.bet-scroll :global(.ScrollbarsCustom-TrackY) {
+    width: 4px !important;
+    right: 1px !important;
+    background: var(--color-5);
+}
+
+.bet-scroll :global(.ScrollbarsCustom-Wrapper) {
+    width: 100%;
+}
+
+.bet-scroll :global(.ScrollbarsCustom-Content) {
+    display: block !important;
+}
+
+.bet-scroll :global(.ScrollbarsCustom-ThumbY) {
+    background: var(--active) !important;
+}
+
+.bet-total {
+    border-top: 1px solid var(--color-6);
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.03em;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bet.modal .bet-total {
+    padding-top: 20px;
+}
+
+.ref-id-wrapper {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1 0 auto;
+    gap: 5px;
+}
+
+.ref-id-wrapper~div {
+    max-width: initial;
+}
+
+[data-theme="light"] .copy svg {
+    color: var(--active);
+}
+
+.id {
+    margin-bottom: var(--font-margin-3);
+}
+
+.arrow {
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.picks {
+    height: 100%;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .bet-total {
+        padding: 8px;
+        font-size: 10px;
+    }
+    .total-stake-with-label {
+        font-size: 10px;
+    }
+}

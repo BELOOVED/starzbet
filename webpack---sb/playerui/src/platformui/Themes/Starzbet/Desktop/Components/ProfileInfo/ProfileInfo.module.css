@@ -1,0 +1,154 @@
+.username {
+    color: var(--dark-text);
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    text-transform: none;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.avatar {
+    width: 44px;
+    height: 44px;
+    background: var(--blue-gradient);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar::before {
+    content: "";
+    background-image: image-set( url("../../Assets/Images/user.png") 1x, url("../../Assets/Images/user@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 44px;
+    min-width: 44px;
+    height: 44px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.detail {
+    display: flex;
+    flex-direction: column;
+    margin: 8px 0 14px;
+    gap: 2px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.block:last-child {
+    border-bottom: none;
+}
+
+.title-amount {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    max-width: 70%;
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.amount {
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: var(--active);
+    white-space: nowrap;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    padding: 0 20px;
+}
+
+.control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.block-update {
+    align-self: center;
+}
+
+.hidden {
+    text-align: right;
+    span:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        display: block;
+        max-width: 100px;
+    }
+}
+
+.update-balance {
+    width: 20px;
+    height: 20px;
+    background-image: image-set( url("../../../Assets/Images/sync.png") 1x, url("../../../Assets/Images/sync@2x.png") 2x);
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.update-balance:hover {
+    opacity: .8;
+}
+
+.rotate {
+    animation-duration: 0.5s;
+    animation-name: rotate;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.hide-balance,
+.show-balance {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    transition: .2s;
+    &:hover {
+        opacity: .8;
+    }
+}
+
+.hide-balance {
+    background-image: image-set( url("../../../Assets/Images/eye_open.png") 1x, url("../../../Assets/Images/eye_open@2x.png") 2x);
+}
+
+.show-balance {
+    background-image: image-set( url("../../../Assets/Images/eye_closed.png") 1x, url("../../../Assets/Images/eye_closed@2x.png") 2x);
+}

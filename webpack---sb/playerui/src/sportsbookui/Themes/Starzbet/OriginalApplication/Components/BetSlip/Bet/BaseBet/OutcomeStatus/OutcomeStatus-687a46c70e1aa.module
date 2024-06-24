@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"pick-status":"pick-status--U555X","pickStatus":"pick-status--U555X","half_loss":"half_loss--ZuyS7","halfLoss":"half_loss--ZuyS7","loss":"loss--rMiTG","head":"head--G5Kk5","status":"status--oMm5B","canceled":"canceled--LZcn8","return":"return--OaTM1","no_result":"no_result--L0xQZ","noResult":"no_result--L0xQZ","void":"void--FiV7r","status-text":"status-text--GcpTZ","statusText":"status-text--GcpTZ"};

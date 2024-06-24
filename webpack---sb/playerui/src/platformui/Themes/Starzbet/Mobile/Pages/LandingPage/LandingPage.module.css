@@ -1,0 +1,45 @@
+.landing-page {
+    padding-bottom: 0
+}
+
+.landing-page:not(:first-child)>.landing-page-products {
+    transform: translateY(-16px);
+    margin-bottom: 0;
+}
+
+[data-theme="dark"] .landing-page {
+    background: var(--dark-jungle);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 0 15px;
+}
+
+.landing-page-sections {
+    display: flex;
+    flex-direction: column;
+    width: 100dvw;
+    overflow: hidden;
+    gap: 4px;
+    padding: 0 16px 24px;
+}
+
+.separator {
+    height: 1px;
+    width: 100%;
+    background-color: var(--color-1);
+    display: none;
+}
+
+div:not(.separator)+.separator {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.landing-page-sections>div:last-child {
+    margin-bottom: 0;
+    border-bottom: none;
+}

@@ -1,0 +1,1361 @@
+.container {
+    height: 24px;
+    width: 24px;
+    min-width: 24px;
+    max-height: 24px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.THE_EAR_AMATIC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/amatic1x-light.png") 1x, url("../../Assets/Providers/Light/amatic2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/amatic1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/amatic2x-dark.png") 2x);
+}
+
+.THE_EAR_AINSWORTH_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ainsworth_games1x-light.png") 1x, url("../../Assets/Providers/Light/ainsworth_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ainsworth_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ainsworth_games2x-dark.png") 2x);
+}
+
+.THE_EAR_GENESIS_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/genesis1x-light.png") 1x, url("../../Assets/Providers/Light/genesis2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/genesis1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/genesis2x-dark.png") 2x);
+}
+
+.THE_EAR_TRIPPLE_CHERRY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/triple_cherry1x-light.png") 1x, url("../../Assets/Providers/Light/triple_cherry2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/triple_cherry1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/triple_cherry2x-dark.png") 2x);
+}
+
+.THE_EAR_HABANERO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/habanero1x-light.png") 1x, url("../../Assets/Providers/Light/habanero2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/habanero1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/habanero2x-dark.png") 2x);
+}
+
+.THE_EAR_STORMCRAFT_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/stormcraft1x-light.png") 1x, url("../../Assets/Providers/Light/stormcraft2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/stormcraft1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/stormcraft2x-dark.png") 2x);
+}
+
+.THE_EAR_GAMZIX_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/gamzix1x-light.png") 1x, url("../../Assets/Providers/Light/gamzix2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/gamzix1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/gamzix2x-dark.png") 2x);
+}
+
+.THE_EAR_MACAW_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/macaw1x-light.png") 1x, url("../../Assets/Providers/Light/macaw2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/macaw1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/macaw2x-dark.png") 2x);
+}
+
+.THE_EAR_BELATRA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/belatra1x-light.png") 1x, url("../../Assets/Providers/Light/belatra2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/belatra1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/belatra2x-dark.png") 2x);
+}
+
+.THE_EAR_MR_SLOTTY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/mrslotty1x-light.png") 1x, url("../../Assets/Providers/Light/mrslotty2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/mrslotty1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/mrslotty2x-dark.png") 2x);
+}
+
+.THE_EAR_PLAY_PEARLS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/playpearls1x-light.png") 1x, url("../../Assets/Providers/Light/playpearls2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/playpearls1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/playpearls2x-dark.png") 2x);
+}
+
+.THE_EAR_WOOHOO_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/woohoo1x-light.png") 1x, url("../../Assets/Providers/Light/woohoo2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/woohoo1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/woohoo2x-dark.png") 2x);
+}
+
+.THE_EAR_FELIX_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/felix1x-light.png") 1x, url("../../Assets/Providers/Light/felix2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/felix1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/felix2x-dark.png") 2x);
+}
+
+.THE_EAR_KA_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ka_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/ka_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ka_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ka_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_AUGUST_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/august1x-light.png") 1x, url("../../Assets/Providers/Light/august2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/august1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/august2x-dark.png") 2x);
+}
+
+.THE_EAR_GAMES_INC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/games_inc1x-light.png") 1x, url("../../Assets/Providers/Light/games_inc2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/games_inc1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/games_inc2x-dark.png") 2x);
+}
+
+.THE_EAR_GREEN_JADE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/green_jade1x-light.png") 1x, url("../../Assets/Providers/Light/green_jade2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/green_jade1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/green_jade2x-dark.png") 2x);
+}
+
+.THE_EAR_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/the_ear1x-light.png") 1x, url("../../Assets/Providers/Light/the_ear2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/the_ear1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/the_ear2x-dark.png") 2x);
+}
+
+.EVOPLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/evoplay1x-light.png") 1x, url("../../Assets/Providers/Light/evoplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/evoplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/evoplay2x-dark.png") 2x);
+}
+
+.BOLDPLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/boldplay1x-light.png") 1x, url("../../Assets/Providers/Light/boldplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/boldplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/boldplay2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/relax_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/relax_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/relax_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/relax_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_4THEPLAYER_ICON,
+.THE_EAR_4THEPLAYER_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/4theplayer1x-light.png") 1x, url("../../Assets/Providers/Light/4theplayer2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/4theplayer1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/4theplayer2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_BLUE_GURU_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/blue_guru_games1x-light.png") 1x, url("../../Assets/Providers/Light/blue_guru_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/blue_guru_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/blue_guru_games2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_ELECTRIC_ELEPHANT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/electric_elephant1x-light.png") 1x, url("../../Assets/Providers/Light/electric_elephant2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/electric_elephant1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/electric_elephant2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_FANTASMA_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/fantasma_games1x-light.png") 1x, url("../../Assets/Providers/Light/fantasma_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/fantasma_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/fantasma_games2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_FELT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/felt1x-light.png") 1x, url("../../Assets/Providers/Light/felt2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/felt1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/felt2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_FOUR_LEAF_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/four_leaf_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/four_leaf_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/four_leaf_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/four_leaf_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_KALAMBA_ICON,
+.KALAMBA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/kalamba_games1x-light.png") 1x, url("../../Assets/Providers/Light/kalamba_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/kalamba_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/kalamba_games2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_MAX_WIN_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/max_win_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/max_win_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/max_win_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/max_win_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_NORTHERN_LIGHTS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/northern_lights1x-light.png") 1x, url("../../Assets/Providers/Light/northern_lights2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/northern_lights1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/northern_lights2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_PRINT_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/print_studios1x-light.png") 1x, url("../../Assets/Providers/Light/print_studios2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/print_studios1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/print_studios2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_STHLMGAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/sthlm_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/sthlm_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/sthlm_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/sthlm_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_SILVERBACK_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/silverback1x-light.png") 1x, url("../../Assets/Providers/Light/silverback2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/silverback1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/silverback2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_STORM_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/storm_games1x-light.png") 1x, url("../../Assets/Providers/Light/storm_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/storm_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/storm_games2x-dark.png") 2x);
+}
+
+.VIVO_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/vivo_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/vivo_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/vivo_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/vivo_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_AWC68_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/AWC681x-light.png") 1x, url("../../Assets/Providers/Light/AWC682x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/AWC681x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/AWC682x-dark.png") 2x);
+}
+
+.THE_EAR_ALL41_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/all41studios1x-light.png") 1x, url("../../Assets/Providers/Light/all41studios2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/all41studios1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/all41studios2x-dark.png") 2x);
+}
+
+.THE_EAR_APOLLO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/apollo_games1x-light.png") 1x, url("../../Assets/Providers/Light/apollo_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/apollo_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/apollo_games2x-dark.png") 2x);
+}
+
+.THE_EAR_BOOMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/booming1x-light.png") 1x, url("../../Assets/Providers/Light/booming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/booming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/booming2x-dark.png") 2x);
+}
+
+.THE_EAR_BOOONGO_ICON,
+.LUCKY_STREAK_BOONGO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/booongo1x-light.png") 1x, url("../../Assets/Providers/Light/booongo2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/booongo1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/booongo2x-dark.png") 2x);
+}
+
+.THE_EAR_CONCEPT_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/concept_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/concept_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/concept_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/concept_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_CRAZY_TOOTH_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/crazy_tooth1x-light.png") 1x, url("../../Assets/Providers/Light/crazy_tooth2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/crazy_tooth1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/crazy_tooth2x-dark.png") 2x);
+}
+
+.THE_EAR_CT_INTERACTIVE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ct_interractive1x-light.png") 1x, url("../../Assets/Providers/Light/ct_interractive2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ct_interractive1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ct_interractive2x-dark.png") 2x);
+}
+
+.THE_EAR_ELECTRIC_ELEPHANT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/electric_elephant1x-light.png") 1x, url("../../Assets/Providers/Light/electric_elephant2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/electric_elephant1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/electric_elephant2x-dark.png") 2x);
+}
+
+.THE_EAR_EYECON_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/eyecon1x-light.png") 1x, url("../../Assets/Providers/Light/eyecon2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/eyecon1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/eyecon2x-dark.png") 2x);
+}
+
+.THE_EAR_FAZI_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/fazi1x-light.png") 1x, url("../../Assets/Providers/Light/fazi2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/fazi1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/fazi2x-dark.png") 2x);
+}
+
+.THE_EAR_FILS_GAME_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/fils_game1x-light.png") 1x, url("../../Assets/Providers/Light/fils_game2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/fils_game1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/fils_game2x-dark.png") 2x);
+}
+
+.THE_EAR_FORTUNE_FACTORY_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/fortune_factory1x-light.png") 1x, url("../../Assets/Providers/Light/fortune_factory2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/fortune_factory1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/fortune_factory2x-dark.png") 2x);
+}
+
+.THE_EAR_FOXIUM_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/foxium1x-light.png") 1x, url("../../Assets/Providers/Light/foxium2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/foxium1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/foxium2x-dark.png") 2x);
+}
+
+.THE_EAR_FUGASO_ICON,
+.LUCKY_STREAK_FUGASO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/fugaso1x-light.png") 1x, url("../../Assets/Providers/Light/fugaso2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/fugaso1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/fugaso2x-dark.png") 2x);
+}
+
+.THE_EAR_GAME_MEDIA_WORKS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/game_media_works1x-light.png") 1x, url("../../Assets/Providers/Light/game_media_works2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/game_media_works1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/game_media_works2x-dark.png") 2x);
+}
+
+.THE_EAR_GAME_ART_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/game_art1x-light.png") 1x, url("../../Assets/Providers/Light/game_art2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/game_art1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/game_art2x-dark.png") 2x);
+}
+
+.THE_EAR_GAMEBURGER_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/gamburger_studio1x-light.png") 1x, url("../../Assets/Providers/Light/gamburger_studio2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/gamburger_studio1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/gamburger_studio2x-dark.png") 2x);
+}
+
+.THE_EAR_GAME_FISH_GLOBAL_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/gamefish_global1x-light.png") 1x, url("../../Assets/Providers/Light/gamefish_global2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/gamefish_global1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/gamefish_global2x-dark.png") 2x);
+}
+
+.THE_EAR_GAMEVY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/gamevy1x-light.png") 1x, url("../../Assets/Providers/Light/gamevy2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/gamevy1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/gamevy2x-dark.png") 2x);
+}
+
+.THE_EAR_GOLDEN_ROCK_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/golden_rock1x-light.png") 1x, url("../../Assets/Providers/Light/golden_rock2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/golden_rock1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/golden_rock2x-dark.png") 2x);
+}
+
+.THE_EAR_HACKSAW_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/hacksaw_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/hacksaw_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/hacksaw_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/hacksaw_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_INSPIRED_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/inspired_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/inspired_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/inspired_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/inspired_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_IRON_DOG_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/irondog_studio1x-light.png") 1x, url("../../Assets/Providers/Light/irondog_studio2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/irondog_studio1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/irondog_studio2x-dark.png") 2x);
+}
+
+.THE_EAR_JFTW_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/jftw1x-light.png") 1x, url("../../Assets/Providers/Light/jftw2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/jftw1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/jftw2x-dark.png") 2x);
+}
+
+.THE_EAR_JUST_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/justplay1x-light.png") 1x, url("../../Assets/Providers/Light/justplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/justplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/justplay2x-dark.png") 2x);
+}
+
+.THE_EAR_KALAMBA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/kalamba_games1x-light.png") 1x, url("../../Assets/Providers/Light/kalamba_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/kalamba_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/kalamba_games2x-dark.png") 2x);
+}
+
+.THE_EAR_KING_MAKER_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/king_maker1x-light.png") 1x, url("../../Assets/Providers/Light/king_maker2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/king_maker1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/king_maker2x-dark.png") 2x);
+}
+
+.THE_EAR_LIGHTNING_BOX_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/lightning_box1x-light.png") 1x, url("../../Assets/Providers/Light/lightning_box2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/lightning_box1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/lightning_box2x-dark.png") 2x);
+}
+
+.THE_EAR_LIVE_G24_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/liveg241x-light.png") 1x, url("../../Assets/Providers/Light/liveg242x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/liveg241x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/liveg242x-dark.png") 2x);
+}
+
+.THE_EAR_MGA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/mga_games1x-light.png") 1x, url("../../Assets/Providers/Light/mga_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/mga_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/mga_games2x-dark.png") 2x);
+}
+
+.THE_EAR_NEMESIS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/nemesis1x-light.png") 1x, url("../../Assets/Providers/Light/nemesis2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/nemesis1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/nemesis2x-dark.png") 2x);
+}
+
+.THE_EAR_NEON_VALLEY_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/neon_valley_studios1x-light.png") 1x, url("../../Assets/Providers/Light/neon_valley_studios2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/neon_valley_studios1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/neon_valley_studios2x-dark.png") 2x);
+}
+
+.THE_EAR_NJOY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/njoy_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/njoy_gaming1x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/njoy_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/njoy_gaming1x-dark.png") 2x);
+}
+
+.THE_EAR_ONLY_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/only_play1x-light.png") 1x, url("../../Assets/Providers/Light/only_play2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/only_play1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/only_play2x-dark.png") 2x);
+}
+
+.THE_EAR_ORTIZ_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ortiz1x-light.png") 1x, url("../../Assets/Providers/Light/ortiz2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ortiz1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ortiz2x-dark.png") 2x);
+}
+
+.THE_EAR_PARIPLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/pariplay1x-light.png") 1x, url("../../Assets/Providers/Light/pariplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/pariplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/pariplay2x-dark.png") 2x);
+}
+
+.THE_EAR_PATAGONIA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/patagonia1x-light.png") 1x, url("../../Assets/Providers/Light/patagonia2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/patagonia1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/patagonia2x-dark.png") 2x);
+}
+
+.THE_EAR_PLANK_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/plank_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/plank_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/plank_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/plank_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_PLATIN_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/platin_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/platin_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/platin_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/platin_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_PROBABILITY_JONES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/probability_jones1x-light.png") 1x, url("../../Assets/Providers/Light/probability_jones2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/probability_jones1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/probability_jones2x-dark.png") 2x);
+}
+
+.THE_EAR_PULSE_8_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/pulse_81x-light.png") 1x, url("../../Assets/Providers/Light/pulse_82x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/pulse_81x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/pulse_82x-dark.png") 2x);
+}
+
+.THE_EAR_RABCAT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/rabcat1x-light.png") 1x, url("../../Assets/Providers/Light/rabcat2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/rabcat1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/rabcat2x-dark.png") 2x);
+}
+
+.THE_EAR_REALISTIC_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/realistic_games1x-light.png") 1x, url("../../Assets/Providers/Light/realistic_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/realistic_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/realistic_games2x-dark.png") 2x);
+}
+
+.THE_EAR_REEL_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/reel_play1x-light.png") 1x, url("../../Assets/Providers/Light/reel_play2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/reel_play1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/reel_play2x-dark.png") 2x);
+}
+
+.THE_EAR_SA_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/sa_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/sa_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/sa_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/sa_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_SLINGSHOT_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/sling_shot1x-light.png") 1x, url("../../Assets/Providers/Light/sling_shot2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/sling_shot1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/sling_shot2x-dark.png") 2x);
+}
+
+.THE_EAR_SPINOMENAL_ICON,
+.LUCKY_STREAK_SPINOMENAL_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/spinomeal1x-light.png") 1x, url("../../Assets/Providers/Light/spinomeal2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/spinomeal1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/spinomeal2x-dark.png") 2x);
+}
+
+.THE_EAR_SPINTHON_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/spinoth1x-light.png") 1x, url("../../Assets/Providers/Light/spinoth2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/spinoth1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/spinoth2x-dark.png") 2x);
+}
+
+.THE_EAR_STHLMGAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/sthlm_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/sthlm_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/sthlm_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/sthlm_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_SUPERNOVA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/supernova1x-light.png") 1x, url("../../Assets/Providers/Light/supernova2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/supernova1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/supernova2x-dark.png") 2x);
+}
+
+.THE_EAR_SWITCH_STUDIOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/switch1x-light.png") 1x, url("../../Assets/Providers/Light/switch2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/switch1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/switch2x-dark.png") 2x);
+}
+
+.THE_EAR_TGC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/TGC1x-light.png") 1x, url("../../Assets/Providers/Light/TGC2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/TGC1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/TGC2x-dark.png") 2x);
+}
+
+.THE_EAR_TOM_HORN_ICON,
+.LUCKY_STREAK_TOM_HORN_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/tom_horn1x-light.png") 1x, url("../../Assets/Providers/Light/tom_horn2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/tom_horn1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/tom_horn2x-dark.png") 2x);
+}
+
+.THE_EAR_TRIPLE_EDGE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/triple_edge1x-light.png") 1x, url("../../Assets/Providers/Light/triple_edge2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/triple_edge1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/triple_edge2x-dark.png") 2x);
+}
+
+.THE_EAR_TWO_BY_TWO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/two_by_two1x-light.png") 1x, url("../../Assets/Providers/Light/two_by_two2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/two_by_two1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/two_by_two2x-dark.png") 2x);
+}
+
+.THE_EAR_VIBRA_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/vibra_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/vibra_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/vibra_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/vibra_gaming2x-dark.png") 2x);
+}
+
+.THE_EAR_WE_ARE_CASINO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/we_are_casino1x-light.png") 1x, url("../../Assets/Providers/Light/we_are_casino2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/we_are_casino1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/we_are_casino2x-dark.png") 2x);
+}
+
+.WAZDAN_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/wazdan1x-light.png") 1x, url("../../Assets/Providers/Light/wazdan2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/wazdan1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/wazdan2x-dark.png") 2x);
+}
+
+.REEVO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/reevo1x-light.png") 1x, url("../../Assets/Providers/Light/reevo2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/reevo1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/reevo2x-dark.png") 2x);
+}
+
+.BET_SOLUTIONS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/bet_solutions1x-light.png") 1x, url("../../Assets/Providers/Light/bet_solutions2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/bet_solutions1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/bet_solutions2x-dark.png") 2x);
+}
+
+.THE_EAR_MPLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/mplay1x-light.png") 1x, url("../../Assets/Providers/Light/mplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/mplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/mplay2x-dark.png") 2x);
+}
+
+.THE_EAR_SUPER_SPADE_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/super_spade_games1x-light.png") 1x, url("../../Assets/Providers/Light/super_spade_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/super_spade_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/super_spade_games2x-dark.png") 2x);
+}
+
+.LUCKY_STREAK_TURBO_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/turbo_games1x-light.png") 1x, url("../../Assets/Providers/Light/turbo_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/turbo_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/turbo_games2x-dark.png") 2x);
+}
+
+.LUCKY_STREAK_YGGDRASIL_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/yggdrasil1x-light.png") 1x, url("../../Assets/Providers/Light/yggdrasil2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/yggdrasil1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/yggdrasil2x-dark.png") 2x);
+}
+
+.RUBY_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ruby_play1x-light.png") 1x, url("../../Assets/Providers/Light/ruby_play2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ruby_play1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ruby_play2x-dark.png") 2x);
+}
+
+.AMUSNET_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/amusnet1x-light.png") 1x, url("../../Assets/Providers/Light/amusnet2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/amusnet1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/amusnet2x-dark.png") 2x);
+}
+
+.GMAG_BLUEPRINT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/blueprint1x-light.png") 1x, url("../../Assets/Providers/Light/blueprint2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/blueprint1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/blueprint2x-dark.png") 2x);
+}
+
+.GMAG_GAMES_GLOBAL_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/games_global1x-light.png") 1x, url("../../Assets/Providers/Light/games_global2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/games_global1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/games_global2x-dark.png") 2x);
+}
+
+.GMAG_MICROGAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/microgaming1x-light.png") 1x, url("../../Assets/Providers/Light/microgaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/microgaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/microgaming2x-dark.png") 2x);
+}
+
+.GMAG_PLAY_AND_GO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/play_and_go1x-light.png") 1x, url("../../Assets/Providers/Light/play_and_go2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/play_and_go1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/play_and_go2x-dark.png") 2x);
+}
+
+.GMAG_PLAYTECH_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/playtech1x-light.png") 1x, url("../../Assets/Providers/Light/playtech2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/playtech1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/playtech2x-dark.png") 2x);
+}
+
+.GMAG_PLAYTECH_N_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/playtech1x-light.png") 1x, url("../../Assets/Providers/Light/playtech2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/playtech1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/playtech2x-dark.png") 2x);
+}
+
+.BETSOFT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/betsoft1x-light.png") 1x, url("../../Assets/Providers/Light/betsoft2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/betsoft1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/betsoft2x-dark.png") 2x);
+}
+
+.BET_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/betgames1x-light.png") 1x, url("../../Assets/Providers/Light/betgames2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/betgames1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/betgames2x-dark.png") 2x);
+}
+
+.PLAYSON_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/playson1x-light.png") 1x, url("../../Assets/Providers/Light/playson2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/playson1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/playson2x-dark.png") 2x);
+}
+
+.SPRIBE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/spribe1x-light.png") 1x, url("../../Assets/Providers/Light/spribe2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/spribe1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/spribe2x-dark.png") 2x);
+}
+
+.NLC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/no_limit_city1x-light.png") 1x, url("../../Assets/Providers/Light/no_limit_city2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/no_limit_city1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/no_limit_city2x-dark.png") 2x);
+}
+
+.LIVE_SPINS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/live_spins1x-light.png") 1x, url("../../Assets/Providers/Light/live_spins2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/live_spins1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/live_spins2x-dark.png") 2x);
+}
+
+.SPADEGAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/spadegaming1x-light.png") 1x, url("../../Assets/Providers/Light/spadegaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/spadegaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/spadegaming2x-dark.png") 2x);
+}
+
+.PLATIPUS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/platipus1x-light.png") 1x, url("../../Assets/Providers/Light/platipus2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/platipus1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/platipus2x-dark.png") 2x);
+}
+
+.TVBET_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/tvbet1x-light.png") 1x, url("../../Assets/Providers/Light/tvbet2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/tvbet1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/tvbet2x-dark.png") 2x);
+}
+
+.RED_RAKE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/redrake1x-light.png") 1x, url("../../Assets/Providers/Light/redrake2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/redrake1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/redrake2x-dark.png") 2x);
+}
+
+.KIRON_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/kiron1x-light.png") 1x, url("../../Assets/Providers/Light/kiron2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/kiron1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/kiron2x-dark.png") 2x);
+}
+
+.TVBET_SPINMATIC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/spinmatic1x-light.png") 1x, url("../../Assets/Providers/Light/spinmatic2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/spinmatic1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/spinmatic2x-dark.png") 2x);
+}
+
+.TVBET_GOLDEN_RACE_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/goldenrace1x-light.png") 1x, url("../../Assets/Providers/Light/goldenrace2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/goldenrace1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/goldenrace2x-dark.png") 2x);
+}
+
+.ZEUS_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/zeusgaming1x-light.png") 1x, url("../../Assets/Providers/Light/zeusgaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/zeusgaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/zeusgaming2x-dark.png") 2x);
+}
+
+.BET_GAMES_TWAIN_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/twain1x-light.png") 1x, url("../../Assets/Providers/Light/twain2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/twain1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/twain2x-dark.png") 2x);
+}
+
+.SGTV_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/sgtv1x-light.png") 1x, url("../../Assets/Providers/Light/sgtv2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/sgtv1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/sgtv2x-dark.png") 2x);
+}
+
+.ELYSIUM_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/elysium1x-light.png") 1x, url("../../Assets/Providers/Light/elysium2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/elysium1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/elysium2x-dark.png") 2x);
+}
+
+.GGAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ggames1x-light.png") 1x, url("../../Assets/Providers/Light/ggames2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ggames1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ggames2x-dark.png") 2x);
+}
+
+.ONE_X_TWO_NETWORK_PROSPECT_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/prospect_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/prospect_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/prospect_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/prospect_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_NET_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/net_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/net_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/net_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/net_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_LADY_LUCK_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/lady_luck1x-light.png") 1x, url("../../Assets/Providers/Light/lady_luck2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/lady_luck1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/lady_luck2x-dark.png") 2x);
+}
+
+.ONE_X_TWO_NETWORK_IRON_DOG_STUDIO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/irondog_studio1x-light.png") 1x, url("../../Assets/Providers/Light/irondog_studio2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/irondog_studio1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/irondog_studio2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_HACKSAW_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/hacksaw_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/hacksaw_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/hacksaw_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/hacksaw_gaming2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_BOOMING_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/booming1x-light.png") 1x, url("../../Assets/Providers/Light/booming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/booming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/booming2x-dark.png") 2x);
+}
+
+.BF_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/bf_games1x-light.png") 1x, url("../../Assets/Providers/Light/bf_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/bf_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/bf_games2x-dark.png") 2x);
+}
+
+.ONE_X_TWO_NETWORK_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/1x2_network1x-light.png") 1x, url("../../Assets/Providers/Light/1x2_network2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/1x2_network1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/1x2_network2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_APOLLO_GAMES_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/apollo_games1x-light.png") 1x, url("../../Assets/Providers/Light/apollo_games2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/apollo_games1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/apollo_games2x-dark.png") 2x);
+}
+
+.THE_EAR_PLAYN_GO_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/play_and_go1x-light.png") 1x, url("../../Assets/Providers/Light/play_and_go2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/play_and_go1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/play_and_go2x-dark.png") 2x);
+}
+
+.SLOTMATRIX_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/slotmatrix1x-light.png") 1x, url("../../Assets/Providers/Light/slotmatrix2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/slotmatrix1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/slotmatrix2x-dark.png") 2x);
+}
+
+.ONE_X_TWO_NETWORK_AD_LUNAM_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ad_lunam1x-light.png") 1x, url("../../Assets/Providers/Light/ad_lunam2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ad_lunam1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ad_lunam2x-dark.png") 2x);
+}
+
+.OCTOPLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/octoplay1x-light.png") 1x, url("../../Assets/Providers/Light/octoplay2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/octoplay1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/octoplay2x-dark.png") 2x);
+}
+
+.PGSOFT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/pgsoft1x-light.png") 1x, url("../../Assets/Providers/Light/pgsoft2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/pgsoft1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/pgsoft2x-dark.png") 2x);
+}
+
+.PRAGMATIC_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/pragmatic_play1x-light.png") 1x, url("../../Assets/Providers/Light/pragmatic_play2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/pragmatic_play1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/pragmatic_play2x-dark.png") 2x);
+}
+
+.ONE_TOUCH_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/one_touch1x-light.png") 1x, url("../../Assets/Providers/Light/one_touch2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/one_touch1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/one_touch2x-dark.png") 2x);
+}
+
+.EVOLUTION_REDTIGER_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/red_tiger1x-light.png") 1x, url("../../Assets/Providers/Light/red_tiger2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/red_tiger1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/red_tiger2x-dark.png") 2x);
+}
+
+.EVOLUTION_NETENT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/netent1x-light.png") 1x, url("../../Assets/Providers/Light/netent2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/netent1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/netent2x-dark.png") 2x);
+}
+
+.EVOLUTION_BTG_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/btg1x-light.png") 1x, url("../../Assets/Providers/Light/btg2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/btg1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/btg2x-dark.png") 2x);
+}
+
+.EZUGI_EVOLUTION_ICON,
+.EVOLUTION_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/evolution1x-light.png") 1x, url("../../Assets/Providers/Light/evolution2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/evolution1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/evolution2x-dark.png") 2x);
+}
+
+.EZUGI_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/ezugi1x-light.png") 1x, url("../../Assets/Providers/Light/ezugi2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/ezugi1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/ezugi2x-dark.png") 2x);
+}
+
+.ABSOLUTE_LIVE_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/absolute_live_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/absolute_live_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/absolute_live_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/absolute_live_gaming2x-dark.png") 2x);
+}
+
+.LUCKY_STREAK_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/lucky_streak1x-light.png") 1x, url("../../Assets/Providers/Light/lucky_streak2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/lucky_streak1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/lucky_streak2x-dark.png") 2x);
+}
+
+.FALCON_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/falcon_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/falcon_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/falcon_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/falcon_gaming2x-dark.png") 2x);
+}
+
+.ABSOLUTE_LIVE_GAMING_7_MOJOS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/absolute_live_gaming_7_mojos1x-light.png") 1x, url("../../Assets/Providers/Light/absolute_live_gaming_7_mojos2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/absolute_live_gaming_7_mojos1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/absolute_live_gaming_7_mojos2x-dark.png") 2x);
+}
+
+.ENDORPHINA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/endorphina1x-light.png") 1x, url("../../Assets/Providers/Light/endorphina2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/endorphina1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/endorphina2x-dark.png") 2x);
+}
+
+.LEAP_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/leap_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/leap_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/leap_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/leap_gaming2x-dark.png") 2x);
+}
+
+.BGAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/bgaming1x-light.png") 1x, url("../../Assets/Providers/Light/bgaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/bgaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/bgaming2x-dark.png") 2x);
+}
+
+.SMARTSOFT_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/smartsoft1x-light.png") 1x, url("../../Assets/Providers/Light/smartsoft2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/smartsoft1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/smartsoft2x-dark.png") 2x);
+}
+
+.EVOLUTION_NLC_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/nlc1x-light.png") 1x, url("../../Assets/Providers/Light/nlc2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/nlc1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/nlc2x-dark.png") 2x);
+}
+
+.CALETA_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/caleta1x-light.png") 1x, url("../../Assets/Providers/Light/caleta2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/caleta1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/caleta2x-dark.png") 2x);
+}
+
+.YOLTED_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/yolted1x-light.png") 1x, url("../../Assets/Providers/Light/yolted1x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/yolted1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/yolted2x-dark.png") 2x);
+}
+
+.RELAX_GAMING_HIGH5_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/high51x-light.png") 1x, url("../../Assets/Providers/Light/high52x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/high51x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/high52x-dark.png") 2x);
+}
+
+.SLOTMATRIX_RIVAL_POWERED_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/rival_powered1x-light.png") 1x, url("../../Assets/Providers/Light/rival_powered2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/rival_powered1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/rival_powered2x-dark.png") 2x);
+}
+
+.GALAXSYS_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/galaxsys1x-light.png") 1x, url("../../Assets/Providers/Light/galaxsys2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/galaxsys1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/galaxsys2x-dark.png") 2x);
+}
+
+.QUICKSPIN_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/quickspin1x-light.png") 1x, url("../../Assets/Providers/Light/quickspin2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/quickspin1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/quickspin2x-dark.png") 2x);
+}
+
+.ASPECT_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/aspect_gaming1x-light.png") 1x, url("../../Assets/Providers/Light/aspect_gaming2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/aspect_gaming1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/aspect_gaming2x-dark.png") 2x);
+}
+
+.COZMO_PLAY_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/comza_play1x-light.png") 1x, url("../../Assets/Providers/Light/comza_play2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/comza_play1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/comza_play2x-dark.png") 2x);
+}
+
+.EXA_GAMING_ICON {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/exa1x-light.png") 1x, url("../../Assets/Providers/Light/exa2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/exa1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/exa2x-dark.png") 2x);
+}
+
+.baywin {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/baywin1x-light.png") 1x, url("../../Assets/Providers/Light/baywin2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/baywin1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/baywin2x-dark.png") 2x);
+}
+
+.betorspin {
+    [data-theme="light"] & {
+        background-image: image-set( url("../../Assets/Providers/Light/betorspin1x-light.png") 1x, url("../../Assets/Providers/Light/betorspin2x-light.png") 2x);
+    }
+    background-image: image-set( url("../../Assets/Providers/Dark/betorspin1x-dark.png") 1x,
+    url("../../Assets/Providers/Dark/betorspin2x-dark.png") 2x);
+}

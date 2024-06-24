@@ -1,0 +1,24 @@
+.eye-wrapper {
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .2s;
+    border-radius: 50%;
+    border: 1px solid var(--color-3);
+}
+
+[data-touch="false"] {
+    .eye-wrapper:hover {
+        border: 1px solid var(--brand) !important;
+        .eye {
+            color: var(--brand);
+        }
+    }
+}
+
+.eye {
+    transition: all .2s;
+}

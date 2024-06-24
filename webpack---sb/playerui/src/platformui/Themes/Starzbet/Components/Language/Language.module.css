@@ -1,0 +1,114 @@
+.select {
+    border-radius: 10px;
+    height: 48px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: relative;
+    color: var(--dark-text);
+    display: inline-flex;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    background: var(--color-1);
+    border: 1px solid var(--color-6);
+    user-select: none;
+}
+
+.flag {
+    height: 18px;
+    background-repeat: no-repeat;
+    margin-right: 12px;
+    min-width: 21px;
+    width: 21px;
+    background-size: contain;
+}
+
+.current>.max-width {
+    max-width: 100%;
+}
+
+.current {
+    width: 100%;
+    margin-right: 24px;
+    max-width: 150px;
+}
+
+.dropdown {
+    background: var(--color-1);
+    border: 1px solid var(--color-6);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    z-index: 5;
+    min-width: 160px;
+}
+
+[data-theme="light"] {
+    .select,
+    .dropdown {
+        background-color: var(--color-2);
+        border: 1px solid var(--color-2);
+    }
+}
+
+.max-width {
+    max-width: calc(100% - 42px);
+}
+
+.option {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    padding: 8px 0 8px 20px;
+    border-bottom: 1px solid var(--color-6);
+}
+
+.option:last-child {
+    border-bottom: none;
+}
+
+.en-us {
+    background-image: image-set( url("../../Assets/Images/Flags/EN.png") 1x, url("../../Assets/Images/Flags/EN@2x.png") 2x);
+}
+
+.tr-tr {
+    background-image: image-set( url("../../Assets/Images/Flags/TR.png") 1x, url("../../Assets/Images/Flags/TR@2x.png") 2x);
+}
+
+.ru-ru {
+    background-image: image-set( url("../../Assets/Images/Flags/RU.png") 1x, url("../../Assets/Images/Flags/RU@2x.png") 2x);
+}
+
+.language {
+    flex: 1;
+}
+
+.top .dropdown {
+    top: initial;
+    bottom: calc(100% + 6px);
+}
+
+@media screen and (max-width: 768px) {
+    .select {
+        width: calc(50% + 32px);
+        margin: 0 auto;
+    }
+    .current {
+        max-width: calc(50% + 45px);
+        margin-right: 0;
+    }
+    .current>.max-width {
+        max-width: 100%;
+    }
+}

@@ -1,0 +1,63 @@
+.nav-link-base {
+    display: inline-block;
+    padding: 10px 24px;
+    color: var(--text);
+    border-radius: 8px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.42px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+[data-kg-env="true"] .nav-link-base {
+    padding: 0 24px;
+    height: 42px;
+    line-height: 40px;
+}
+
+.wide {
+    width: 100%;
+}
+
+/* orange-gradient */
+
+.orange-gradient {
+    composes: nav-link-base;
+    background: var(--color-1);
+    border: 1px solid var(--color-3);
+}
+
+.orange-gradient-active {
+    composes: nav-link-base;
+    background: var(--orange-gradient);
+    border: 1px solid var(--active);
+    color: white;
+}
+
+/* orangeGradientMobile */
+
+.orange-gradient-mobile {
+    composes: orange-gradient;
+    height: 32px;
+    padding: 8px 16px;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.33px;
+}
+
+.orange-gradient-mobile-active {
+    composes: orange-gradient-active;
+    height: 32px;
+    padding: 8px 16px;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.33px;
+    color: white;
+}

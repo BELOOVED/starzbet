@@ -1,0 +1,30 @@
+.scroll-container {
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    overflow: var(--scrollbar-overflow-x) var(--scrollbar-overflow-y);
+    scrollbar-gutter: var(--scrollbar-gutter);
+}
+
+.scroll-content {
+    cursor: auto;
+    height: 100%;
+}
+
+.scroll-container::-webkit-scrollbar {
+    width: var(--scrollbar-width);
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb-color);
+    border-radius: var(--scrollbar-border-radius);
+    height: 32px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+    background: transparent;
+    box-shadow: inset 0 0 calc(var(--scrollbar-width) * 10) var(--scrollbar-background);
+    border-radius: var(--scrollbar-border-radius);
+    border-left: var(--scrollbar-track-width) solid transparent;
+    border-right: var(--scrollbar-track-width) solid transparent;
+}

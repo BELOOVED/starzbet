@@ -1,0 +1,61 @@
+.progress-metric-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 2px;
+    left: 8px;
+    z-index: 100;
+    color: var(--text);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px;
+}
+
+.progress-bar-wrapper {
+    grid-area: progress;
+    position: relative;
+    height: 16px;
+    background: var(--color-6);
+    border-radius: 8px;
+    overflow: hidden;
+    padding-bottom: 4px;
+}
+
+div[data-theme="light"] {
+    .progress-bar-wrapper {
+        background: var(--color-1);
+    }
+    .progress-bar-wrapper.dark {
+        background: var(--color-3);
+    }
+}
+
+.current-progress-bar {
+    background: var(--active);
+    background-image: repeating-linear-gradient(120deg, rgb(255 255 255 / 0.20) 10%, rgb(255 255 255 / 0.00) 15%, transparent 12px);
+    height: 16px;
+    position: absolute;
+    max-width: 100% !important;
+}
+
+@media (max-width: 500px) {
+    .current-progress {
+        position: absolute;
+        top: 4px;
+        left: 22px;
+        z-index: 2;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .progress-bar-wrapper {
+        height: 10px;
+    }
+    .progress-metric-container {
+        top: -1px;
+        font-size: 8px;
+    }
+}

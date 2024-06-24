@@ -1,0 +1,73 @@
+.account-type-title {
+    padding: 16px 0;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+
+.account-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.add-card,
+.account-card {
+    border-radius: 8px;
+    width: 350px;
+    height: 140px;
+    max-width: calc(50% - 8px);
+}
+
+.account-card {
+    background: var(--color-1);
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border: 1px solid var(--color-6);
+}
+
+.add-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(255 158 0 / 0.20);
+    background: linear-gradient(90deg, rgb(255 158 0 / 0.10) 0%, rgb(255 109 0 / 0.10) 100%);
+}
+
+.account-title {
+    color: var(--text);
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.39px;
+}
+
+.account-sub-title {
+    color: var(--dark-text);
+    max-width: 100%;
+    font-weight: 500;
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.36px;
+}
+
+.actions {
+    display: flex;
+    gap: 16px;
+    color: var(--dark-text);
+}
+
+[data-touch="false"] {
+    .icon:hover,
+    .add-card:hover {
+        color: var(--active);
+    }
+}

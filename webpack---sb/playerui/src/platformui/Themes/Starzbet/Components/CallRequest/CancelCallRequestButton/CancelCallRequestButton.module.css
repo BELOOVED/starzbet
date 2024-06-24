@@ -1,0 +1,8 @@
+.cancel-button {
+    cursor: pointer;
+    color: var(--light-300);
+}
+
+.cancel-button:hover {
+    color: var(--text);
+}

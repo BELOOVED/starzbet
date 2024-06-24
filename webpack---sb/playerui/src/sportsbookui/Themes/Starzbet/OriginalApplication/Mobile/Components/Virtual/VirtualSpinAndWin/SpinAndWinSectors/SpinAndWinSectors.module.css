@@ -1,0 +1,141 @@
+.selector {
+    background: linear-gradient(0deg, var(--virtual-sports-background), var(--virtual-sports-background)), linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-redPure);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 1px solid var(--virtual-sports-greyLight);
+    border-top: 1px solid var(--virtual-sports-greyLight);
+    padding: 18px 8px;
+    color: var(--virtual-sports-text);
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.sector-twelve {
+    display: grid;
+    grid-template-rows: repeat(12, 54px) 55px 54px;
+}
+
+.selector-first-twelve {
+    grid-row: 2 / 6;
+}
+
+.selector-second-twelve {
+    grid-row: 6 / 10;
+}
+
+.selector-third-twelve {
+    grid-row: 10 / 14;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.sectors-half {
+    grid-row: 2 / 3;
+    grid-column: 1 / 5;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.selector-first-half {
+    grid-column: 1 / 2;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector-last-half {
+    grid-column: 6 / 7;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+    border-right: 1px solid var(--virtual-sports-greyLight);
+}
+
+.sectors-combo {
+    grid-row: 3 / 4;
+    grid-column: 1 / 5;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+    border-right: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector-orange-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-orange), var(--virtual-sports-orange)), linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-redPure);
+}
+
+.selector-blue-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-blueBright), var(--virtual-sports-blueBright)), linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-redPure);
+}
+
+.selector-rose-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-rose), var(--virtual-sports-rose)), var(--virtual-sports-redPure);
+}
+
+.selector-green-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-greenCyan), var(--virtual-sports-greenCyan)), linear-gradient(0deg, var(--virtual-sports-black), var(--virtual-sports-black)), var(--virtual-sports-redPure);
+}
+
+.selector-yellow-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-yellowSoft), var(--virtual-sports-yellowSoft)), linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-redPure);
+    color: #000;
+}
+
+.selector-white-sector {
+    background: linear-gradient(0deg, var(--virtual-sports-text), var(--virtual-sports-text)), var(--virtual-sports-redPure);
+    color: #000;
+}
+
+.selector-even {
+    grid-column: 2 / 3;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector-red {
+    grid-column: 3 / 4;
+    background: #f00;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector-black {
+    grid-column: 4 / 5;
+    background: linear-gradient(0deg, var(--virtual-sports-black), var(--virtual-sports-black)), var(--virtual-sports-redPure);
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector-odd {
+    grid-column: 5 / 6;
+    border-bottom: 1px solid var(--virtual-sports-greyLight);
+}
+
+.selector.selected::after {
+    content: '';
+    width: 16px;
+    height: 16px;
+    border-radius: 16px;
+    position: absolute;
+    z-index: 3;
+    cursor: pointer;
+    background: url("../../../../../Desktop/Assets-Optimized/Icons/chips.svg") no-repeat;
+}
+
+.sector-inside {
+    grid-row: 2 / 3;
+    grid-column: 1 / 5;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.selector-first-twelve.selected::after,
+.selector-second-twelve.selected::after,
+.selector-third-twelve.selected::after {
+    bottom: 3px;
+    right: 3px;
+}
+
+.selected:not(.selector-first-twelve,
+.selector-second-twelve,
+.selector-third-twelve)::after {
+    top: 3px;
+    right: 3px;
+}

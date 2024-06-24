@@ -1,0 +1,107 @@
+div.bet-settings {
+    min-width: 453px;
+    max-width: 453px;
+    position: relative;
+}
+
+.bet-settings-mobile {
+    align-items: flex-start;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: var(--color-1);
+    height: 80%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.radio-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    z-index: 10;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    gap: 10px;
+}
+
+.separator {
+    height: 1px;
+    width: 100%;
+    background-color: var(--color-3);
+}
+
+.stake-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    z-index: 10;
+}
+
+.stake-text {
+    flex: 1;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    color: var(--dark-text)
+}
+
+.warn-wrapper {
+    position: relative;
+    left: 0;
+    display: flex;
+    align-items: center;
+    width: calc(100% + 40px);
+    gap: 16px;
+    padding: 16px;
+    color: var(--warning);
+    background-color: rgba(255 222 0 / .1);
+    border-color: rgba(255 222 0 / .1);
+    border-width: 1px 0;
+    border-style: solid;
+    z-index: 10;
+}
+
+[data-theme="light"] .warn-wrapper {
+    color: var(--active);
+    background-color: rgba(255 158 0 / .1);
+    border-color: rgba(255 158 0 / .1);
+}
+
+.warn {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.button {
+    text-transform: capitalize;
+}
+
+.bet-settings-mobile .body {
+    justify-content: flex-start;
+    padding: 0;
+}
+
+.buttons-row.mobile {
+    flex: 1;
+    justify-content: flex-end;
+}

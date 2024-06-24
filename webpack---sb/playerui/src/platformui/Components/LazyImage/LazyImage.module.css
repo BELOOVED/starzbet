@@ -1,0 +1,49 @@
+.lazy-game-img {
+    position: relative;
+    overflow: hidden;
+    .gradient-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(45deg, var(--brand), rgb(81 81 173));
+        opacity: .5;
+        animation: gradient-animation 3s infinite alternate;
+        transition: opacity 0.3s ease-in-out;
+    }
+    .img-high {
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+    }
+    .img-low {
+        filter: blur(5px);
+        opacity: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+}
+
+.lazy-game-img.loaded {
+    .gradient-overlay {
+        animation: none;
+        opacity: 0;
+    }
+    .img-low {
+        opacity: 0;
+    }
+    .img-high {
+        opacity: 1;
+    }
+}
+
+@keyframes gradient-animation {
+    0% {
+        opacity: .5;
+    }
+    100% {
+        opacity: .1;
+    }
+}

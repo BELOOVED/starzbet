@@ -1,0 +1,40 @@
+.circle-check {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--color-6);
+    border-radius: 50%;
+    width: 22px;
+    min-width: 22px;
+    height: 22px;
+}
+
+.checked {
+    background: var(--orange-gradient);
+    color: var(--text);
+    border: none;
+}
+
+.failed {
+    background-color: var(--error);
+    border: none;
+}
+
+.icon {
+    width: 10px !important;
+    min-width: 10px !important;
+    height: 10px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .circle-check {
+        width: 16px;
+        min-width: 16px;
+        height: 16px;
+    }
+    .icon {
+        width: 6px !important;
+        min-width: 6px !important;
+        height: 6px !important;
+    }
+}

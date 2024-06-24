@@ -1,0 +1,315 @@
+.event-row {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--color-6);
+    cursor: pointer;
+    color: var(--dark-text);
+    background: var(--color-1);
+}
+
+.teams {
+    flex: 1 1 100%;
+    min-width: 0;
+    overflow: hidden;
+    padding-left: 10px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text);
+    border-right: 1px solid var(--color-6);
+}
+
+.teams-icons {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 16px;
+}
+
+.team-logo {
+    align-items: center;
+    background: var(--color-2);
+    border-radius: 14px;
+    display: flex;
+    height: 16px;
+    justify-content: center;
+    min-width: 16px;
+    width: 16px;
+    position: relative;
+}
+
+.team-logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.event-number {
+    min-width: fit-content;
+    font-family: Rajdhani, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.36px;
+    color: var(--dark-text);
+}
+
+.full-name>div:first-child {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+}
+
+.full-name>.event-number {
+    text-align: left;
+}
+
+.full-name {
+    flex: 1 1 100%;
+    min-width: 0;
+    height: 100%;
+    border-right: 1px solid var(--color-6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 14px 10px 10px;
+    text-align: left;
+}
+
+.event-name {
+    border-right: 1px solid var(--color-6);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 102px;
+    min-width: 102px;
+}
+
+.total-markets {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    font-family: Rajdhani, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.36px;
+    padding: 0 10px;
+    color: var(--active);
+    width: 60px;
+    min-width: 60px;
+}
+
+.markets {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-right: 10px;
+}
+
+.market {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.market-name {
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 11px;
+    text-transform: capitalize;
+}
+
+.market-outcome-list {
+    display: flex;
+    gap: 5px;
+}
+
+.cell {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.outcome,
+.params {
+    user-select: none;
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 44px;
+    height: 52px;
+    border-radius: 8px;
+    font-family: Rajdhani, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.outcome {
+    flex-direction: column;
+    justify-content: space-between;
+    background: var(--color-2);
+    color: var(--text);
+}
+
+.params {
+    justify-content: center;
+    color: var(--dark-text);
+    background: var(--color-6);
+}
+
+.odds {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.outcome.active:not(.locked) {
+    background: var(--blue-gradient);
+    color: white;
+}
+
+.outcome.locked {
+    cursor: default;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.outcome-props {
+    width: 100%;
+    text-transform: capitalize;
+    color: var(--dark-text);
+    background: var(--color-1);
+    border: 1px solid var(--color-2);
+    font-size: 11px;
+    line-height: 16px;
+    border-radius: 8px 8px 0 0;
+    text-align: center;
+}
+
+.outcome.finished {
+    pointer-events: none;
+    position: relative;
+}
+
+.lock-label {
+    position: absolute;
+    right: 4px;
+    top: 8px;
+}
+
+.outcome.finished.won {
+    border: 1px solid var(--active);
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.live-box {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.scope {
+    font-weight: 500;
+    font-size: 9px;
+    text-transform: uppercase;
+    color: var(--validation);
+    text-align: right;
+    padding-right: 15px;
+}
+
+.minute {
+    font-weight: 500;
+    color: var(--error);
+    text-align: right;
+    margin-right: 2px;
+}
+
+.score {
+    color: var(--active);
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    width: 17px;
+    text-align: center;
+}
+
+.team-info {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: -0.39px;
+}
+
+.status {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.outcome.up:not(.locked) {
+    box-shadow: 1px 0 0 var(--validation);
+}
+
+.outcome.down:not(.locked) {
+    box-shadow: inset 1px 0 var(--error);
+}
+
+.odd-down {
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    color: var(--red);
+}
+
+.odd-up {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    color: var(--green);
+}
+
+.market-group {
+    display: flex;
+    height: 100%;
+    gap: 4px;
+}

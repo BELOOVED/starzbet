@@ -1,0 +1,84 @@
+.modal-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay {
+    background: rgb(0 0 0 / 0.2);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(10px);
+}
+
+@supports not (backdrop-filter: none) {
+    .modal-wrapper+div {
+        filter: blur(10px);
+    }
+}
+
+.modal {
+    position: absolute;
+    width: 100%;
+    height: 439px;
+    bottom: 0;
+    left: 0;
+    z-index: 1001;
+    background: var(--color-6);
+    border-radius: 30px 30px 0 0;
+    padding: 39px 20px 0;
+    color: var(--text);
+}
+
+.modal::before {
+    content: "";
+    position: absolute;
+    top: 17px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 130px;
+    height: 5px;
+    background: var(--color-6);
+    border-radius: 10px;
+}
+
+.tabs {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.tab {
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(180deg, var(--color-6) 0%, var(--color-6) 100%);
+    border: 1px solid var(--color-6);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 0.2), 0 2px 2px rgb(0 0 0 / 0.12), 0 0 2px rgb(0 0 0 / 0.14);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
+
+.tab.active {
+    background: linear-gradient(0deg, rgb(30 255 147 / 0.15), rgb(30 255 147 / 0.15)), linear-gradient(180deg, var(--color-6) 0%, var(--color-6) 100%);
+}
+
+.tab:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+.tab:last-child {
+    border-radius: 0 10px 10px 0;
+}

@@ -1,0 +1,23 @@
+.skeleton-loader {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 2000px;
+}
+
+.skeleton-loader-item {
+    width: 100%;
+    border-radius: 8px;
+    background: var(--dark-text);
+    animation: skeleton .8s linear infinite alternate;
+}
+
+@keyframes skeleton {
+    0% {
+        background: var(--skeleton-start);
+    }
+    100% {
+        background: var(--skeleton-end);
+    }
+}

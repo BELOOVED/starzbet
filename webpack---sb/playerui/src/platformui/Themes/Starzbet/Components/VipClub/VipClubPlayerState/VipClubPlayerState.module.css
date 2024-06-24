@@ -1,0 +1,12 @@
+.vip-club-player-state {
+    padding-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 730px;
+}
+
+[data-widget="true"] .vip-club-player-state,
+[data-mobile="true"] .vip-club-player-state {
+    padding: 0;
+}

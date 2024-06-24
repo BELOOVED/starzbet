@@ -1,0 +1,32 @@
+* {
+    --virtual-sports-text: #fff;
+    --virtual-sports-black: #000;
+    --virtual-sports-grey: #C4C4C4;
+    --virtual-sports-greyLight: #E4E4E4;
+    --virtual-sports-greyVeryLight: #FBFBFB;
+    --virtual-sports-greenStrong: #91cc30;
+    --virtual-sports-greenDark1: #3B7E21;
+    --virtual-sports-greenDark2: #3E7E21;
+    --virtual-sports-greenDarkLime: #1CB110;
+    --virtual-sports-greenDarkModerate: #48972F;
+    --virtual-sports-greenSoft: #81E360;
+    --virtual-sports-greenCyan: #63CCA1;
+    --virtual-sports-redPure: #E01200;
+    --virtual-sports-redStrong1: #C61010;
+    --virtual-sports-redStrong2: #BF0808;
+    --virtual-sports-redSoft: #FA9090;
+    --virtual-sports-rose: #EA67F8;
+    --virtual-sports-yellowSoft: #FDF350;
+    --virtual-sports-yellowPure1: #FFD600;
+    --virtual-sports-yellowPure2: #E1CB00;
+    --virtual-sports-yellowPale: #FFF8BA;
+    --virtual-sports-yellowVivid: #FFD60A;
+    --virtual-sports-orange: #EE943C;
+    --virtual-sports-orangeDark: #FF6100;
+    --virtual-sports-orangePure: #E88700;
+    --virtual-sports-orangeVivid: #FF9F0A;
+    --virtual-sports-blueSoft: #6590FE;
+    --virtual-sports-blueVivid: #0845E1;
+    --virtual-sports-blueBright: #2642F6;
+    --virtual-sports-background: #263F1F;
+}

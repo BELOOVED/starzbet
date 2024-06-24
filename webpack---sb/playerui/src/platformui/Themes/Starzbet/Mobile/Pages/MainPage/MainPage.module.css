@@ -1,0 +1,7 @@
+.side-menu-wrapper {
+    position: absolute;
+}
+
+.without-padding {
+    padding: 0 !important;
+}

@@ -1,0 +1,12 @@
+.container {
+    background: var(--virtual-sports-text);
+}
+
+.market-container {
+    padding: 26px 15px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 756px 54px 165px;
+    row-gap: 25px;
+    background: var(--virtual-sports-background);
+}

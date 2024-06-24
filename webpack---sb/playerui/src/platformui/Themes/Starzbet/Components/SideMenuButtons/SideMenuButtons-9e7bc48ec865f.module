@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"buttons":"buttons--Wodi5","deposit":"deposit--e4rBo","withdraw":"withdraw--yrdoY","deposit-mobile":"deposit-mobile--Senzs","depositMobile":"deposit-mobile--Senzs","withdraw-mobile":"withdraw-mobile--iOrBP","withdrawMobile":"withdraw-mobile--iOrBP","not-verified":"not-verified--hnrlZ","notVerified":"not-verified--hnrlZ","arrow-down":"arrow-down--CSr8j","arrowDown":"arrow-down--CSr8j","arrow-up":"arrow-up--QVDG0","arrowUp":"arrow-up--QVDG0"};

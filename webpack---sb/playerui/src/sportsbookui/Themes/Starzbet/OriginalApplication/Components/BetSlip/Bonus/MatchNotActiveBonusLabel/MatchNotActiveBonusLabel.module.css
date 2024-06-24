@@ -1,0 +1,18 @@
+.match-not-active-bonus-label {
+    position: relative;
+    color: var(--validation);
+    font-size: 12px;
+    letter-spacing: -.03em;
+    line-height: 18px;
+}
+
+.match-not-active-bonus-label li {
+    text-align: left;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .match-not-active-bonus-label {
+        font-size: 10px;
+        line-height: 17px;
+    }
+}

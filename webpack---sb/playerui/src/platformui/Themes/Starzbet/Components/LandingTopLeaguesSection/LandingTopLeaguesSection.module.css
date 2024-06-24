@@ -1,0 +1,120 @@
+.landing-top-leagues-section {
+    position: relative;
+    width: 100%;
+    padding: 34px 28px 0;
+    background: linear-gradient(96.01deg, #131519 0.38%, #927505 100%);
+    border-radius: 12px;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 6px;
+    text-align: left;
+}
+
+.section-track {
+    display: flex;
+    align-items: flex-start;
+    width: max-content;
+    gap: 22px;
+}
+
+.section-scroll {
+    text-align: left;
+    margin: 0 6px;
+}
+
+[data-mobile="true"] .section-scroll {
+    margin: 0 6px;
+}
+
+[data-mobile="true"] .landing-top-leagues-section {
+    margin-bottom: 24px;
+    padding: 24px 10px;
+}
+
+[data-mobile="true"] .section-header {
+    padding: 0;
+}
+
+.section-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.top-league {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 18px 18px 18px 30px;
+    height: 84px;
+    gap: 15px;
+    background-color: var(--grey);
+    border-radius: 8px;
+    box-shadow: 0 6px 12px 0 #0000004D;
+    max-width: 289px;
+    min-width: 289px;
+    margin-bottom: 34px;
+    margin-right: 6px;
+}
+
+[data-mobile="true"] .top-league {
+    padding: 14px 10px 14px 22px;
+    max-width: 208px;
+    min-width: 208px;
+    height: 61px;
+    margin-bottom: 18px;
+}
+
+.top-league-img-container {
+    min-width: 70px;
+    max-width: 70px;
+    height: 46px;
+    padding-right: 23px;
+    border-right: 1px solid var(--grey-150)
+}
+
+[data-mobile="true"] .top-league-img-container {
+    min-width: 50px;
+    max-width: 50px;
+    height: 33px;
+    padding-right: 17px;
+}
+
+.top-league-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.top-league-name {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: var(--text);
+    overflow: hidden;
+}
+
+[data-mobile="true"] .top-league-name {
+    font-size: 11px;
+    line-height: 18px;
+}
+
+[data-theme="light"] .landing-top-leagues-section {
+    background: linear-gradient(96.01deg, #FFF 0.38%, #927505 100%);
+}
+
+[data-theme="light"] .top-league {
+    background-color: var(--anti-flash-white);
+}

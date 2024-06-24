@@ -1,0 +1,71 @@
+.bonus-header {
+    display: grid;
+    grid-template: "title progress postfix" auto / minmax(100px, auto) minmax(100px, 40%) auto;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+}
+
+@media (max-width: 500px) {
+    .bonus-header {
+        grid-row-gap: 2px;
+        grid-template: "title postfix" minmax(31px, auto) "progress progress" min-content / minmax(50px, auto) auto;
+        padding: 2px 16px;
+    }
+}
+
+.title {
+    grid-area: title;
+    display: flex;
+    gap: 4px;
+    min-width: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--text);
+    white-space: nowrap;
+}
+
+.header-postfix {
+    grid-area: postfix;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.block {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.title-amount {
+    color: var(--text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    max-width: 70%;
+    text-transform: capitalize;
+}
+
+.amount {
+    color: var(--active);
+    font-family: Rajdhani, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.modal {
+    color: var(--text);
+    min-height: initial !important;
+}
+
+.info-button {
+    text-transform: uppercase;
+    padding: 4px 12px;
+}

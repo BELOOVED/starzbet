@@ -1,0 +1,17 @@
+.initial {
+    position: absolute;
+    visibility: hidden;
+}
+
+.after-load {
+    position: initial;
+    visibility: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.base {
+    width: 100%;
+    height: 100%;
+}

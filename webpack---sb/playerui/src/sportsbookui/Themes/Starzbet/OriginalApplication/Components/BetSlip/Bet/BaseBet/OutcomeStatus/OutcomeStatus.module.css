@@ -1,0 +1,33 @@
+.pick-status {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 5px;
+    padding-right: 11px;
+    height: 100%;
+}
+
+.pick-status.loss,
+.pick-status.half_loss {
+    color: var(--error);
+}
+
+.head .status.return,
+.head .status.canceled {
+    color: var(--dark-text);
+}
+
+.pick-status.return,
+.pick-status.void {
+    color: var(--dark-text);
+}
+
+.pick-status.no_result {
+    color: var(--dark-text);
+}
+
+.status-text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

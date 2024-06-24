@@ -1,0 +1,125 @@
+/* PICK */
+
+.pick {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    border-top: 1px solid var(--color-6);
+    border-left: 2px solid transparent;
+}
+
+.pick.added {
+    border-left: 2px solid var(--active);
+}
+
+.pick.edited {
+    border-left: 2px solid var(--blue);
+}
+
+.pick.removed {
+    opacity: 0.3;
+}
+
+.pick-info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    gap: 5px;
+}
+
+.pick-name {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+}
+
+.coefficient-and-remove {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.market-name {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    color: var(--light-400);
+}
+
+.teams-and-time {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    overflow: hidden;
+}
+
+.teams,
+.time-and-status {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    overflow: hidden;
+}
+
+.teams {
+    height: 22px;
+}
+
+.label {
+    height: 22px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0;
+    color: var(--text);
+    text-transform: capitalize;
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.label.edited {
+    background-color: var(--blue);
+}
+
+.label.added {
+    background-color: var(--active);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .pick {
+        padding: 8px;
+        gap: 5px;
+    }
+    .teams,
+    .time-and-status {
+        height: 14px;
+        gap: 6px;
+    }
+    .sport-icon {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+    .pick-name,
+    .market-name {
+        font-size: 10px;
+    }
+    .label {
+        height: 12px;
+        font-size: 8px;
+        padding: 0 7px;
+    }
+}

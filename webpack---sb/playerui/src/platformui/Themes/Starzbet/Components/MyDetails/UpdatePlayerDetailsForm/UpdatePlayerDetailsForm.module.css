@@ -1,0 +1,45 @@
+.container {
+    display: grid;
+    width: 100%;
+    grid-template-areas: "name surname" "identityNumber identityNumber" "login login" "email email" "phoneNumber phoneNumber" "dateOfBirth dateOfBirth" "country country" "townCity townCity" "address address" "postcode postcode";
+    column-gap: 16px;
+}
+
+.hint {
+    display: flex;
+    align-items: center;
+    color: var(--warning);
+    font-size: 12px;
+    height: 40px;
+    gap: 5px;
+}
+
+.verify-now {
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.icon-wrapper {
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    align-items: center;
+    border: 1px solid var(--color-3);
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    height: 24px;
+    justify-content: center;
+    transition: all .2s;
+    width: 24px;
+}
+
+.icon-wrapper:hover {
+    border: 1px solid var(--brand);
+}
+
+[data-mobile="true"] .container {
+    padding: 16px;
+    grid-template-areas: "name name" "surname surname" "identityNumber identityNumber" "login login" "email email" "phoneNumber phoneNumber" "dateOfBirth dateOfBirth" "country country" "townCity townCity" "address address" "postcode postcode";
+}

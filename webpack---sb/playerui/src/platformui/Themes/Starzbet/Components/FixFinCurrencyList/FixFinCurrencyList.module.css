@@ -1,0 +1,14 @@
+.choose-currency-title {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    color: var(--text);
+    text-transform: capitalize;
+    padding-bottom: 16px;
+}
+
+.payment-method-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}

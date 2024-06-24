@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"button-play":"button-play--oDOq6","buttonPlay":"button-play--oDOq6","fav-button":"fav-button--ew8wi","favButton":"fav-button--ew8wi","game-overlay":"game-overlay--ZW8Ud","gameOverlay":"game-overlay--ZW8Ud","game-overlay-visible":"game-overlay-visible--oKS0E","gameOverlayVisible":"game-overlay-visible--oKS0E","button-demo-play-content":"button-demo-play-content--QVNhF","buttonDemoPlayContent":"button-demo-play-content--QVNhF","button-demo-play":"button-demo-play--TxMhg","buttonDemoPlay":"button-demo-play--TxMhg"};

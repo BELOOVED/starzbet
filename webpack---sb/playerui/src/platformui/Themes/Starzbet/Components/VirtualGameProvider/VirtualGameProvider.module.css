@@ -1,0 +1,29 @@
+.list {
+    background: var(--color-6);
+}
+
+[data-mobile="false"] .list {
+    margin: 16px 0;
+}
+
+.game {
+    color: var(--dark-text);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    height: 50px;
+    letter-spacing: -.03em;
+    line-height: 20px;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+}
+
+.game.active {
+    box-shadow: inset 0 -2px 0 -1px var(--active);
+    color: var(--text);
+}
+
+[data-theme="light"] .game {
+    color: var(--dark-gunmetal);
+}

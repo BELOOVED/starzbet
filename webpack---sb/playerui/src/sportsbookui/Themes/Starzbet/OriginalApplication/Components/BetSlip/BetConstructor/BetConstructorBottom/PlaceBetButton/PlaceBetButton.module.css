@@ -1,0 +1,30 @@
+.button-wrapper {
+    padding: 10px;
+    border-top: 1px solid var(--color-6);
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button-text {
+    text-transform: capitalize;
+    margin-bottom: var(--font-margin-3);
+}
+
+.placing {
+    z-index: 11;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .button-wrapper {
+        padding: 8px;
+    }
+    .button {
+        height: 31px;
+        font-size: 11px;
+    }
+}

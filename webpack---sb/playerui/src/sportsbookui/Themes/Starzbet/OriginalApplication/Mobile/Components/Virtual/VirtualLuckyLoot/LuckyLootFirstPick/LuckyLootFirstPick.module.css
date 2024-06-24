@@ -1,0 +1,54 @@
+.first-pick-container {
+    display: flex;
+    width: 100%;
+}
+
+.outcomes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.outcome-wrapper {
+    width: 100%;
+    border: 1px solid var(--color-6);
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 16px 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    height: 52px;
+}
+
+.market-name {
+    flex: 1;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ball.green {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%);
+}
+
+.ball.blue {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+}
+
+.ball.yellow {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-yellowPale) 0%, var(--virtual-sports-yellowPure2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+}
+
+.ball.red {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-redSoft) 0%, var(--virtual-sports-redStrong2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-yellowPale) 0%, var(--virtual-sports-yellowPure2) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%), radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%), var(--virtual-sports-grey);
+}

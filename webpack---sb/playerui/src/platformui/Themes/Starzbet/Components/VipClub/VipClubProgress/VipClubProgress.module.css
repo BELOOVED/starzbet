@@ -1,0 +1,105 @@
+.vip-club-progress-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.vip-club-progress-head {
+    display: flex;
+    align-items: center;
+    padding: 0 5px 0 20px;
+    justify-content: space-between;
+    width: 100%;
+    overflow: hidden;
+    gap: 10px;
+}
+
+[data-mobile="true"] .vip-club-progress-head {
+    padding-left: 0;
+    flex-direction: column;
+}
+
+.vip-club-progress-title {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    text-transform: capitalize;
+    color: var(--text);
+    flex: 1;
+    padding-bottom: 6px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-progress-title {
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 0;
+}
+
+.vip-club-progress-text {
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: -0.03em;
+    color: #666E79;
+    font-family: Rajdhani, sans-serif;
+    font-variant-numeric: tabular-nums;
+    text-align: center;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-progress-text {
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.vip-club-progress-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.vip-club-progress {
+    background-color: var(--grey);
+    box-shadow: 0 4px 4px 0 #00000040 inset;
+    width: 100%;
+    position: relative;
+    height: 27px;
+    z-index: 1;
+    overflow: hidden;
+    padding: 5px;
+    border-radius: 14px;
+}
+
+.vip-club-progress-header>.vip-club-progress {
+    height: 15px;
+    padding: 3px;
+}
+
+[data-theme="light"] .vip-club-progress {
+    background-color: #fff;
+}
+
+.vip-club-progress-line {
+    transition: width .6s ease-in-out;
+    background: var(--orange-gradient);
+    height: 100%;
+    border-radius: 14px;
+    position: relative;
+}
+
+[aria-valuenow="100"].vip-club-progress-line {
+    animation: none;
+}

@@ -1,0 +1,28 @@
+.placing {
+    pointer-events: none;
+    opacity: .6;
+}
+
+.content.mobile {
+    overflow-y: auto;
+    flex: 1 1 auto;
+}
+
+.content.mobile>div:last-child {
+    border-bottom: 1px solid var(--color-6);
+}
+
+.bet-constructor-container :global(.ScrollbarsCustom-Wrapper) {
+    right: 0 !important;
+}
+
+.bet-constructor-container.placing {
+    pointer-events: none;
+    opacity: .6;
+    cursor: default;
+}
+
+.bet-constructor-locked {
+    backdrop-filter: blur(1px);
+    background-color: transparent !important;
+}

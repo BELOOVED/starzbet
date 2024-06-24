@@ -1,0 +1,14 @@
+.banker {
+    height: 26px;
+    padding: 8px;
+    background-color: var(--color-6);
+    color: var(--text);
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    border-radius: 6px;
+}
+
+.active {
+    background-color: var(--active);
+}

@@ -1,0 +1,19 @@
+.container {
+    height: 100vh;
+    position: relative;
+}
+
+.spin-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iframe {
+    border: none;
+}

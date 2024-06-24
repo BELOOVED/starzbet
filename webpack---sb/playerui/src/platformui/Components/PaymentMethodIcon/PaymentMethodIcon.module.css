@@ -1,0 +1,353 @@
+.method-icon {
+    height: 48px;
+    width: 70px;
+    min-width: 70px;
+    position: relative;
+}
+
+.method-icon div {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.bank-transfer {
+    background-image: image-set( url("../../Assets/PaymentMethods/bankTransfer.png") 1x, url("../../Assets/PaymentMethods/bankTransfer@2x.png") 2x);
+}
+
+.kolay-pay {
+    background-image: image-set( url("../../Assets/PaymentMethods/kolayPay.png") 1x, url("../../Assets/PaymentMethods/kolayPay@2x.png") 2x);
+}
+
+.astro-pay {
+    background-image: image-set( url("../../Assets/PaymentMethods/astropay.png") 1x, url("../../Assets/PaymentMethods/astropay@2x.png") 2x);
+}
+
+.much-better {
+    background-image: image-set( url("../../Assets/PaymentMethods/muchBetter.png") 1x, url("../../Assets/PaymentMethods/muchBetter@2x.png") 2x);
+}
+
+.crypto {
+    background-image: image-set( url("../../Assets/PaymentMethods/crypto.png") 1x, url("../../Assets/PaymentMethods/crypto@2x.png") 2x);
+}
+
+.ceppay {
+    background-image: image-set( url("../../Assets/PaymentMethods/ceppay.png") 1x, url("../../Assets/PaymentMethods/ceppay@2x.png") 2x);
+}
+
+.payfix {
+    background-image: image-set( url("../../Assets/PaymentMethods/payfix.png") 1x, url("../../Assets/PaymentMethods/payfix@2x.png") 2x);
+}
+
+.vegapay {
+    background-image: image-set( url("../../Assets/PaymentMethods/vegapay.png") 1x, url("../../Assets/PaymentMethods/vegapay@2x.png") 2x);
+}
+
+.ltc {
+    background-image: image-set( url("../../Assets/PaymentMethods/lightcoin.png") 1x, url("../../Assets/PaymentMethods/lightcoin@2x.png") 2x);
+}
+
+.dash {
+    background-image: image-set( url("../../Assets/PaymentMethods/dash.png") 1x, url("../../Assets/PaymentMethods/dash@2x.png") 2x);
+}
+
+.btc {
+    background-image: image-set( url("../../Assets/PaymentMethods/bitcoin.png") 1x, url("../../Assets/PaymentMethods/bitcoin@2x.png") 2x);
+}
+
+.doge {
+    background-image: image-set( url("../../Assets/PaymentMethods/dogecoin.png") 1x, url("../../Assets/PaymentMethods/dogecoin@2x.png") 2x);
+}
+
+.usdt {
+    background-image: image-set( url("../../Assets/PaymentMethods/USDT.png") 1x, url("../../Assets/PaymentMethods/USDT@2x.png") 2x);
+}
+
+.eth {
+    background-image: image-set( url("../../Assets/PaymentMethods/etherium.png") 1x, url("../../Assets/PaymentMethods/etherium@2x.png") 2x);
+}
+
+.trx {
+    background-image: image-set( url("../../Assets/PaymentMethods/TRX.png") 1x, url("../../Assets/PaymentMethods/TRX@2x.png") 2x);
+}
+
+.usdc {
+    background-image: image-set( url("../../Assets/PaymentMethods/USDC.png") 1x, url("../../Assets/PaymentMethods/USDC@2x.png") 2x);
+}
+
+.btt {
+    background-image: image-set( url("../../Assets/PaymentMethods/BTT.png") 1x, url("../../Assets/PaymentMethods/BTT@2x.png") 2x);
+}
+
+.bch {
+    background-image: image-set( url("../../Assets/PaymentMethods/BCH.png") 1x, url("../../Assets/PaymentMethods/BCH@2x.png") 2x);
+}
+
+.rvn {
+    background-image: url("../../Assets/PaymentMethods/RVN.png");
+}
+
+.ton {
+    background-image: url("../../Assets/PaymentMethods/TON.png");
+}
+
+.xmr {
+    background-image: image-set( url("../../Assets/PaymentMethods/XMR.png") 1x, url("../../Assets/PaymentMethods/XMR@2x.png") 2x);
+}
+
+.card {
+    background-image: image-set( url("../../Assets/PaymentMethods/cardPayment.png") 1x, url("../../Assets/PaymentMethods/cardPayment@2x.png") 2x);
+}
+
+.mefete {
+    background-image: image-set( url("../../Assets/PaymentMethods/mefete.png") 1x, url("../../Assets/PaymentMethods/mefete@2x.png") 2x);
+}
+
+.ultrapay-papara,
+.ultrapay-auto-papara {
+    background-image: image-set( url("../../Assets/PaymentMethods/ultrapayPapara.png") 1x, url("../../Assets/PaymentMethods/ultrapayPapara@2x.png") 2x);
+}
+
+.ultrapay-auto-papara::before {
+    content: "";
+    background-image: image-set( url("../../Assets/PaymentMethods/autoLabel.png") 1x, url("../../Assets/PaymentMethods/autoLabel@2x.png") 2x);
+    position: absolute;
+    top: 0;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 20%;
+    left: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.ultrapay-havale {
+    background-image: image-set( url("../../Assets/PaymentMethods/ultrapayHavale.png") 1x, url("../../Assets/PaymentMethods/ultrapayHavale@2x.png") 2x);
+}
+
+.sanalpay {
+    background-image: image-set( url("../../Assets/PaymentMethods/sanalpay.png") 1x, url("../../Assets/PaymentMethods/sanalpay@2x.png") 2x);
+}
+
+.multipay-pep {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayPep.png") 1x, url("../../Assets/PaymentMethods/multipayPep@2x.png") 2x);
+}
+
+.multipay-havale {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayHavale.png") 1x, url("../../Assets/PaymentMethods/multipayHavale@2x.png") 2x);
+}
+
+.multipay-hayhay {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayHayhay.png") 1x, url("../../Assets/PaymentMethods/multipayHayhay@2x.png") 2x);
+}
+
+.multipay-paycell {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayPaycell.png") 1x, url("../../Assets/PaymentMethods/multipayPaycell@2x.png") 2x);
+}
+
+.multipay-parazula {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayParazula.png") 1x, url("../../Assets/PaymentMethods/multipayParazula@2x.png") 2x);
+}
+
+.multipay-parola-para {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayParolaPara.png") 1x, url("../../Assets/PaymentMethods/multipayParolaPara@2x.png") 2x);
+}
+
+.multipay-paybol {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayPaybol.png") 1x, url("../../Assets/PaymentMethods/multipayPaybol@2x.png") 2x);
+}
+
+.multipay-papel {
+    background-image: image-set( url("../../Assets/PaymentMethods/multipayPapel.png") 1x, url("../../Assets/PaymentMethods/multipayPapel@2x.png") 2x);
+}
+
+.pay-retailers {
+    background-image: image-set( url("../../Assets/PaymentMethods/payRetailers.png") 1x, url("../../Assets/PaymentMethods/payRetailers@2x.png") 2x);
+}
+
+.vpag {
+    background-image: image-set( url("../../Assets/PaymentMethods/pix.png") 1x, url("../../Assets/PaymentMethods/pix@2x.png") 2x);
+}
+
+.popypara {
+    background-image: image-set( url("../../Assets/PaymentMethods/popypara.png") 1x, url("../../Assets/PaymentMethods/popypara@2x.png") 2x);
+}
+
+.tr-havale-eft {
+    background-image: image-set( url("../../Assets/PaymentMethods/trHavaleEft.png") 1x, url("../../Assets/PaymentMethods/trHavaleEft@2x.png") 2x);
+}
+
+.fastline-qr {
+    background-image: image-set( url("../../Assets/PaymentMethods/fastlineQr.png") 1x, url("../../Assets/PaymentMethods/fastlineQr@2x.png") 2x);
+}
+
+.fastline-cepbank {
+    background-image: image-set( url("../../Assets/PaymentMethods/fastlineCepbank.png") 1x, url("../../Assets/PaymentMethods/fastlineCepbank@2x.png") 2x);
+}
+
+.kolaypay-cred {
+    background-image: image-set( url("../../Assets/PaymentMethods/kolaypayCred.png") 1x, url("../../Assets/PaymentMethods/kolaypayCred@2x.png") 2x);
+}
+
+.kolaypay-papara {
+    background-image: image-set( url("../../Assets/PaymentMethods/kolaypayPapara.png") 1x, url("../../Assets/PaymentMethods/kolaypayPapara@2x.png") 2x);
+}
+
+.kolaypay-havale {
+    background-image: image-set( url("../../Assets/PaymentMethods/kolaypayHavale.png") 1x, url("../../Assets/PaymentMethods/kolaypayHavale@2x.png") 2x);
+}
+
+.sistemnakit-havale {
+    background-image: image-set( url("../../Assets/PaymentMethods/sistemnakitHavale.png") 1x, url("../../Assets/PaymentMethods/sistemnakitHavale@2x.png") 2x);
+}
+
+.anspacepay {
+    background-image: image-set( url("../../Assets/PaymentMethods/anspacepay.png") 1x, url("../../Assets/PaymentMethods/anspacepay@2x.png") 2x);
+}
+
+.luxon-pay {
+    background-image: image-set( url("../../Assets/PaymentMethods/luxonPay.png") 1x, url("../../Assets/PaymentMethods/luxonPay@2x.png") 2x);
+}
+
+.digital-wallet {
+    background-image: image-set( url("../../Assets/PaymentMethods/skrilldigitalwallet.png") 1x, url("../../Assets/PaymentMethods/skrilldigitalwallet@2x.png") 2x);
+}
+
+.neteller {
+    background-image: image-set( url("../../Assets/PaymentMethods/netellerbyskrill.png") 1x, url("../../Assets/PaymentMethods/netellerbyskrill@2x.png") 2x);
+}
+
+.paysafecard {
+    background-image: image-set( url("../../Assets/PaymentMethods/paysafecardbyskrill.png") 1x, url("../../Assets/PaymentMethods/paysafecardbyskrill@2x.png") 2x);
+}
+
+.sepa {
+    background-image: image-set( url("../../Assets/PaymentMethods/sepa.png") 1x, url("../../Assets/PaymentMethods/sepa@2x.png") 2x);
+}
+
+.swift {
+    background-image: image-set( url("../../Assets/PaymentMethods/swift.png") 1x, url("../../Assets/PaymentMethods/swift@2x.png") 2x);
+}
+
+.payment-clip {
+    background-image: image-set( url("../../Assets/PaymentMethods/paymentClip.png") 1x, url("../../Assets/PaymentMethods/paymentClip@2x.png") 2x);
+}
+
+.sofort {
+    background-image: image-set( url("../../Assets/PaymentMethods/sofort.png") 1x, url("../../Assets/PaymentMethods/sofort@2x.png") 2x);
+}
+
+.giropay {
+    background-image: image-set( url("../../Assets/PaymentMethods/giropay.png") 1x, url("../../Assets/PaymentMethods/giropay@2x.png") 2x);
+}
+
+.payqasa {
+    background-image: image-set( url("../../Assets/PaymentMethods/payqasa.png") 1x, url("../../Assets/PaymentMethods/payqasa@2x.png") 2x);
+}
+
+.finpay {
+    background-image: image-set( url("../../Assets/PaymentMethods/finpay.png") 1x, url("../../Assets/PaymentMethods/finpay@2x.png") 2x);
+}
+
+.vevo {
+    background-image: image-set( url("../../Assets/PaymentMethods/vevo.png") 1x, url("../../Assets/PaymentMethods/vevo@2x.png") 2x);
+}
+
+.vevo-parazula {
+    background-image: image-set( url("../../Assets/PaymentMethods/vevoParazula.png") 1x, url("../../Assets/PaymentMethods/vevoParazula@2x.png") 2x);
+}
+
+.atm-qr {
+    background-image: image-set( url("../../Assets/PaymentMethods/atmQR.png") 1x, url("../../Assets/PaymentMethods/atmQR@2x.png") 2x);
+}
+
+.fin2 {
+    background-image: image-set( url("../../Assets/PaymentMethods/fin2.png") 1x, url("../../Assets/PaymentMethods/fin2@2x.png") 2x);
+}
+
+.seripay1 {
+    background-image: image-set( url("../../Assets/PaymentMethods/seripay1.png") 1x, url("../../Assets/PaymentMethods/seripay@2x.png") 2x);
+}
+
+.payport {
+    background-image: url("../../Assets/PaymentMethods/payport.png");
+}
+
+.mypayz {
+    background-image: image-set( url("../../Assets/PaymentMethods/mypayz1x.png") 1x, url("../../Assets/PaymentMethods/mypayz2x.png") 2x);
+}
+
+.payfuture {
+    background-image: image-set( url("../../Assets/PaymentMethods/payfuture1x.png") 1x, url("../../Assets/PaymentMethods/payfuture2x.png") 2x);
+}
+
+.turkpay-papara {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayPapara1x.png") 1x, url("../../Assets/PaymentMethods/turkpayPapara2x.png") 2x);
+}
+
+.turkpay-payfix {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayPayfix1x.png") 1x, url("../../Assets/PaymentMethods/turkpayPayfix2x.png") 2x);
+}
+
+.turkpay-payco {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayPayco1x.png") 1x, url("../../Assets/PaymentMethods/turkpayPayco2x.png") 2x);
+}
+
+.turkpay-ininal {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayIninal1x.png") 1x, url("../../Assets/PaymentMethods/turkpayIninal2x.png") 2x);
+}
+
+.turkpay-bank-transfer {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayBankTransfer1x.png") 1x, url("../../Assets/PaymentMethods/turkpayBankTransfer2x.png") 2x);
+}
+
+.turkpay-vizyonpay {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayVizyonpay1x.png") 1x, url("../../Assets/PaymentMethods/turkpayVizyonpay2x.png") 2x);
+}
+
+.turkpay-aypara {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayAypara1x.png") 1x, url("../../Assets/PaymentMethods/turkpayAypara2x.png") 2x);
+}
+
+.turkpay-sipay {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpaySipay1x.png") 1x, url("../../Assets/PaymentMethods/turkpaySipay2x.png") 2x);
+}
+
+.turkpay-paycell {
+    background-image: image-set( url("../../Assets/PaymentMethods/turkpayPaycell1x.png") 1x, url("../../Assets/PaymentMethods/turkpayPaycell2x.png") 2x);
+}
+
+.exxogate-upi-9 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateUpi9.png") 1x, url("../../Assets/PaymentMethods/exxogateUpi9@2x.png") 2x);
+}
+
+.exxogate-upi-29 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateUpi29.png") 1x, url("../../Assets/PaymentMethods/exxogateUpi29@2x.png") 2x);
+}
+
+.exxogate-upi-41 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateUpi41.png") 1x, url("../../Assets/PaymentMethods/exxogateUpi41@2x.png") 2x);
+}
+
+.exxogate-upi-43 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateUpi43.png") 1x, url("../../Assets/PaymentMethods/exxogateUpi43@2x.png") 2x);
+}
+
+.exxogate-imps-9 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateImps9.png") 1x, url("../../Assets/PaymentMethods/exxogateImps9@2x.png") 2x);
+}
+
+.exxogate-imps-29 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateImps29.png") 1x, url("../../Assets/PaymentMethods/exxogateImps29@2x.png") 2x);
+}
+
+.exxogate-imps-41 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateImps41.png") 1x, url("../../Assets/PaymentMethods/exxogateImps41@2x.png") 2x);
+}
+
+.exxogate-imps-43 {
+    background-image: image-set( url("../../Assets/PaymentMethods/exxogateImps43.png") 1x, url("../../Assets/PaymentMethods/exxogateImps43@2x.png") 2x);
+}

@@ -1,0 +1,97 @@
+.copy {
+    cursor: pointer;
+    display: flex;
+}
+
+.copy-icon {
+    cursor: pointer;
+    color: var(--light-600);
+}
+
+.message-wrapper {
+    position: absolute;
+}
+
+.message {
+    max-width: 320px;
+    height: 32px;
+    border-radius: 8px;
+    padding: 8px 17px;
+    position: relative;
+    right: 80%;
+    bottom: -10px;
+    z-index: 10000;
+    animation-name: backInDown;
+    animation-duration: 0.4s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--color-5);
+    border: 1px solid var(--color-6);
+}
+
+.message-right {
+    right: 17%;
+}
+
+.rectangle {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    background: var(--color-5);
+    border-top: 1px solid var(--color-6);
+    border-left: 1px solid var(--color-6);
+    top: -6px;
+    right: 11%;
+}
+
+.rectangle-right {
+    right: 72% !important;
+}
+
+.rectangle-mobile {
+    right: 13% !important;
+}
+
+.rectangle-mobile-right {
+    right: 76% !important;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text);
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--text);
+    max-width: 270px;
+    margin-bottom: var(--font-margin-3);
+}
+
+@media screen and (max-width: 1439px) {
+    [data-location="betSlip"] .copy-icon {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+    [data-location="betSlip"] .message {
+        padding: 6px 12px;
+        gap: 6px;
+    }
+    [data-location="betSlip"] .text {
+        font-size: 12px;
+    }
+    [data-location="betSlip"] .tick-icon {
+        width: 12px !important;
+        min-width: 12px !important;
+        height: 12px !important;
+    }
+}

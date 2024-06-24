@@ -1,0 +1,41 @@
+.section-controls {
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 64px;
+}
+
+.prev-button,
+.next-button {
+    top: 0;
+    right: 0;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: var(--color-11);
+    border-radius: 50%;
+    cursor: pointer;
+    color: var(--dark-text);
+    transition: background-color .1s ease-in;
+}
+
+.next-button {
+    transform: rotate(180deg);
+}
+
+.prev-button {
+    right: 34px;
+}
+
+.prev-button:disabled,
+.next-button:disabled {
+    opacity: .5;
+}
+
+.prev-button:hover:not(:disabled),
+.next-button:hover:not(:disabled) {
+    background-color: var(--color-2);
+}

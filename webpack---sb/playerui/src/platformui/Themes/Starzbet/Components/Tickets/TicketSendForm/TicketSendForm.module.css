@@ -1,0 +1,122 @@
+.send-form {
+    position: relative;
+}
+
+.textarea {
+    width: 100%;
+    & textarea {
+        border-radius: 0;
+    }
+}
+
+.attach {
+    color: var(--active);
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: 40px;
+    cursor: pointer;
+}
+
+.input::before {
+    color: var(--dark-text);
+}
+
+.attach-label {
+    input {
+        display: none;
+    }
+}
+
+.send {
+    padding: 4px;
+    border-radius: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 5;
+    color: var(--dark-text);
+}
+
+.file-scroll {
+    width: 300px;
+    max-width: 300px;
+}
+
+.attach:hover,
+.send:hover {
+    opacity: 0.8;
+}
+
+.disabled {
+    cursor: none;
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.send-form textarea::input-placeholder {
+    color: var(--text);
+}
+
+.send-form textarea::placeholder {
+    color: var(--text);
+}
+
+.send-form textarea::placeholder {
+    color: var(--text);
+}
+
+.parent {
+    min-height: 50px;
+    border-left: 2px solid var(--text);
+}
+
+.errors {
+    color: var(--error);
+    margin: 10px 0;
+}
+
+.container {
+    border-top: 1px solid var(--color-4);
+}
+
+.wrapper {
+    position: relative;
+    border-top: none;
+    min-height: 52px;
+}
+
+.loader-wrapper {
+    position: fixed;
+    bottom: 450px;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .loader-wrapper {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        bottom: 300px;
+    }
+}
+
+.file-footer {
+    padding: 10px 16px;
+    background-color: var(--color-4);
+    border: 1px solid var(--color-3);
+    border-top: none;
+    display: flex;
+    gap: 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+[data-mobile="true"] .file-footer {
+    border: none;
+    border-radius: 0;
+    max-height: 80px;
+    overflow: hidden auto;
+}

@@ -1,0 +1,10 @@
+.icon {
+    cursor: pointer;
+    color: var(--dark-text);
+}
+
+[data-touch="false"] {
+    .icon:hover {
+        color: var(--active);
+    }
+}

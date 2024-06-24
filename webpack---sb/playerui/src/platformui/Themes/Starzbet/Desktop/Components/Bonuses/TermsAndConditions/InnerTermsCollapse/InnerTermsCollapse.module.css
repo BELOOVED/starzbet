@@ -1,0 +1,30 @@
+.inner-collapse {
+    background: var(--color-3) !important;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.inner-header {
+    padding: 10px 16px !important;
+}
+
+.inner-terms-title {
+    color: var(--text);
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.33px;
+}
+
+.inner-terms-body {
+    padding: 16px;
+}
+
+div[data-theme="light"] {
+    .inner-collapse {
+        background: var(--color-6) !important;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+}

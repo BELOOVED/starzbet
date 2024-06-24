@@ -1,0 +1,76 @@
+.wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 16px;
+    max-width: 100%;
+}
+
+.wrapper label {
+    cursor: pointer;
+    max-width: 100%;
+}
+
+.title {
+    display: flex;
+    align-items: baseline;
+    gap: 3px;
+    color: var(--dark-text);
+    padding-left: 30px;
+    flex-wrap: wrap;
+}
+
+.title span {
+    white-space: nowrap;
+}
+
+.input {
+    display: none;
+}
+
+.link,
+.link:hover {
+    color: var(--active);
+    line-height: 18px;
+    max-width: 100px;
+}
+
+.brand {
+    color: var(--active);
+}
+
+.checkbox {
+    background: var(--dark-text);
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.checkbox svg {
+    opacity: 0;
+}
+
+input:checked+.checkbox {
+    background: var(--orange-gradient);
+}
+
+input:checked+.checkbox svg {
+    opacity: 1;
+}
+
+.bonus-label {
+    height: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}

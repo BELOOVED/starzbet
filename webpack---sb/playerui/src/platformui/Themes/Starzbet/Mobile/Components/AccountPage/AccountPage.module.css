@@ -1,0 +1,16 @@
+.account-page {
+    background: var(--background);
+    min-height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: column;
+}
+
+.children-container {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    max-width: calc(100% - 100px);
+}

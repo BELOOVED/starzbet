@@ -1,0 +1,107 @@
+.button-play {
+    border: 2px solid rgb(255 158 0 / 0.3);
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    pointer-events: initial;
+    transition: opacity .2s ease-out;
+}
+
+.button-play:hover {
+    opacity: 0.8;
+}
+
+.fav-button {
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity .2s ease-out;
+}
+
+.fav-button:hover {
+    opacity: 0.8;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity .2s ease-out;
+    background: var(--grey-50);
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    backdrop-filter: blur(2px);
+    box-shadow: inset 0 0 0 1px rgba(117 131 149 / .5);
+}
+
+.border {
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(90deg, var(--blue) 0%, var(--purple) 100%);
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.buttons {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    opacity: 0;
+    position: absolute;
+    right: 16px;
+    top: 0;
+    transition: opacity .2s ease-out;
+}
+
+.button-play-without-demo {
+    top: 28px;
+}
+
+.game-overlay:hover .overlay {
+    opacity: 0.12;
+}
+
+.game-overlay:hover .buttons {
+    opacity: 1;
+}
+
+.game-overlay:hover .border {
+    opacity: 1;
+}
+
+.button-demo-play-content {
+    border-radius: 0 !important;
+    color: var(--active);
+    border-bottom: 1px solid rgb(255 255 255 / 0.2);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+.button-demo-play {
+    border-radius: 5px;
+    padding: 5px;
+    transition: opacity .2s ease-out;
+    background: var(--blue-gradient);
+}
+
+.button-demo-play:hover {
+    opacity: 0.8;
+}

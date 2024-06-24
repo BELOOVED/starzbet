@@ -1,0 +1,23 @@
+.space {
+    display: flex;
+}
+
+.vertical {
+    flex-direction: column;
+}
+
+.wide {
+    width: 100%;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex-end {
+    align-items: flex-end;
+}
+
+.space-between {
+    justify-content: space-between;
+}

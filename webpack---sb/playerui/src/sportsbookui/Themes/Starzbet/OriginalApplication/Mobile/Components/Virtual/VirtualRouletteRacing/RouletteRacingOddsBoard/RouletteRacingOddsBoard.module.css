@@ -1,0 +1,130 @@
+.market-container {
+    border: 1px solid var(--color-6);
+    border-radius: 0 0 5px 5px;
+    height: calc(100% - 50px);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.outcome {
+    display: flex;
+    border-radius: 5px;
+    width: 58px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    padding: 1px 0;
+}
+
+.outcome.active {
+    color: var(--text);
+    background: var(--purple-gradient);
+}
+
+.outcome-wrapper {
+    width: calc(100% / 3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.market-head-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    width: 25%;
+    padding: 12px 0 12px 15px;
+}
+
+.market-border .market-list {
+    border-left: 1px solid var(--color-6);
+}
+
+.head-color-box {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--virtual-sports-text);
+    text-shadow: 0 1px 3px rgb(0 0 0 / 0.57);
+}
+
+.red {
+    background: var(--virtual-sports-redPure);
+}
+
+.black {
+    background: linear-gradient(0deg, var(--virtual-sports-black), var(--virtual-sports-black)), var(--virtual-sports-redPure);
+}
+
+.green {
+    background: linear-gradient(0deg, var(--virtual-sports-greenDark2), var(--virtual-sports-greenDark2)), var(--virtual-sports-redPure);
+}
+
+.main-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px 0;
+    background: var(--active);
+    border-radius: 5px 5px 0 0;
+}
+
+.market-title {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--virtual-sports-greyVeryLight);
+    width: 25%;
+    text-align: center;
+    padding: 0 20px;
+    text-transform: capitalize;
+}
+
+.market-group {
+    display: flex;
+    align-items: stretch;
+    background: var(--virtual-sports-greyVeryLight);
+}
+
+.market-group:not(:last-child) {
+    border-bottom: 1px solid var(--color-6);
+}
+
+.market-group:last-child {
+    border-radius: 0 0 5px 5px;
+}
+
+.market-list {
+    display: flex;
+    width: 100%;
+    padding: 12px 0;
+}
+
+.market-wrapper {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
+.market-head {
+    display: flex;
+    width: 100%;
+    background: var(--active);
+    padding: 6px 0;
+}
+
+.market-head .market-title {
+    width: calc(100% / 3);
+}

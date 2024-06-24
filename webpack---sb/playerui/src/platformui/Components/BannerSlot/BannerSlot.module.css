@@ -1,0 +1,50 @@
+.banner {
+    float: left;
+    clear: both;
+    position: relative;
+}
+
+.link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    -webkit-user-drag: none;
+}
+
+.title {
+    color: #fff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: auto;
+}
+
+.banner-container {
+    height: min-content;
+    min-height: min-content;
+    width: 100%;
+    padding-bottom: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+.noop {
+    padding-bottom: 0 !important;
+    padding: 0 !important;
+}
+
+[data-mobile="true"] {
+    .banner-container {
+        padding: 20px 0 0;
+    }
+}

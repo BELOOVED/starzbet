@@ -1,0 +1,4 @@
+.mobile-app {
+    background: var(--background);
+    min-height: calc(100vh - 53px);
+}

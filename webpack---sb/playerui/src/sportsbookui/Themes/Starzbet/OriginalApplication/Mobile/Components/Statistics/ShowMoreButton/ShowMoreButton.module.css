@@ -1,0 +1,28 @@
+.show-more {
+    cursor: pointer;
+    display: flex;
+    width: 30%;
+    min-width: 140px;
+    height: 44px;
+    justify-content: center;
+    margin: 18px auto auto;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: var(--text-3);
+    background: var(--color-1);
+    align-items: center;
+    padding: 10px 24px;
+    &:hover {
+        opacity: .8;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .show-more {
+        width: 100%;
+    }
+}

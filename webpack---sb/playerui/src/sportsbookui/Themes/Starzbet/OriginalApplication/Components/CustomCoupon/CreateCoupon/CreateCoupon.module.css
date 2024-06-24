@@ -1,0 +1,460 @@
+.container {
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.icon-container {
+    padding: 45px 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    text-align: center;
+    color: var(--text);
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: var(--dark-text);
+}
+
+.indicator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.point {
+    width: 28px;
+    min-width: 28px;
+    height: 28px;
+    border-radius: 100%;
+    border: 2px solid var(--color-6);
+}
+
+.line {
+    width: 80px;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--color-6);
+}
+
+.active-step {
+    background: var(--blue);
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 23px;
+    row-gap: 8px;
+}
+
+.item {
+    min-width: 0;
+    display: flex;
+    height: 48px;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--color-1);
+    border-radius: 8px;
+    border: 1px solid var(--color-2);
+    color: var(--text);
+    padding: 12px 24px;
+    user-select: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    gap: 8px;
+}
+
+.item.short {
+    flex: 0 0 calc((100% - 50px) / 3);
+}
+
+.item.large {
+    flex: 0 0 100%;
+}
+
+.item-title {
+    flex: 1 1 100%;
+    min-width: 0;
+    margin-bottom: var(--font-margin-2);
+}
+
+.sports-count {
+    font-family: Rajdhani, sans-serif;
+}
+
+.count-result {
+    color: var(--dark-text);
+    line-height: 140%;
+    padding-bottom: 8px;
+}
+
+.scroll {
+    flex: 1;
+}
+
+.scroll-footer {
+    padding: 0;
+    max-height: 200px;
+}
+
+.scroll :global(.ScrollbarsCustom-Wrapper) {
+    right: 0 !important;
+}
+
+.scroll :global(.ScrollbarsCustom-TrackY) {
+    right: -14px !important;
+    top: 0 !important;
+    height: 100% !important;
+    width: 4px !important;
+    border-radius: 5px !important;
+    background: var(--background) !important;
+}
+
+.scroll :global(.ScrollbarsCustom-ThumbY) {
+    background: var(--color-2) !important;
+    border-radius: 5px !important;
+}
+
+.scroll :global(.ScrollbarsCustom.trackYVisible) :global(.ScrollbarsCustom-Scroller) {
+    margin-right: -15px !important;
+}
+
+.back {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    cursor: pointer;
+    user-select: none;
+    background: var(--color-1);
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text-3);
+    gap: 8px;
+    max-width: 200px;
+}
+
+.category-icon {
+    width: 20px;
+    min-width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.category-icon img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.item.active {
+    background: rgb(255 158 0 / 0.04);
+    border: 1px solid var(--active);
+}
+
+.bottom-line {
+    width: 878px;
+    height: 1px;
+    background: var(--color-1);
+}
+
+.bottom {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    background: var(--background);
+    width: 100%;
+    height: 100px;
+    padding-top: 30px;
+}
+
+.final-bottom {
+    padding-top: 0;
+    height: 60px;
+}
+
+.tournament-selected {
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    gap: 8px;
+}
+
+.tournament-count {
+    color: var(--active);
+}
+
+.tournament-selected-title {
+    color: var(--text);
+}
+
+.tournaments-wrapper {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    height: 100%;
+}
+
+.tournament-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    row-gap: 8px;
+}
+
+.tournament-button {
+    width: 120px;
+}
+
+.selected-tournament {
+    border-radius: 8px;
+    border: 1px solid rgb(255 158 0 / 0.10);
+    background: rgb(255 158 0 / 0.06);
+    box-sizing: border-box;
+    height: 34px;
+    flex: 0 0 calc((100% - 16px) / 3);
+    min-width: 0;
+    font-size: 13px;
+    color: var(--active);
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    line-height: 1;
+    user-select: none;
+}
+
+.save-form .selected-tournament {
+    flex: 0 0 calc((100% - 16px) / 2);
+}
+
+.name {
+    margin-bottom: var(--font-margin-2);
+    max-width: 140px;
+}
+
+.save-form .name {
+    max-width: 100px;
+}
+
+.center-tournament-list {
+    max-width: 80%;
+    margin: 32px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.save-form {
+    width: 326px;
+    padding: 66px 0 40px;
+    margin: 0 auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 225px;
+}
+
+.save-input {
+    position: relative;
+    margin: 16px 0 30px;
+}
+
+.save-input input {
+    display: block;
+    width: 100%;
+    height: 48px;
+    background: var(--color-1);
+    border-radius: 8px;
+    color: var(--dark-text);
+    font: inherit;
+    padding: 8px 25px;
+    border: 1px solid var(--color-5);
+}
+
+.save-button {
+    margin: 0 auto;
+}
+
+.disable {
+    background: var(--color-1);
+}
+
+.save-scroll {
+    height: auto;
+    min-height: 40px
+}
+
+.tournament-list-scroll {
+    padding: 0;
+}
+
+.tournament-list-scroll :global(.ScrollbarsCustom-TrackY) {
+    right: -5px !important;
+    top: 0 !important;
+    height: 100% !important;
+    width: 4px !important;
+    border-radius: 5px !important;
+    background: var(--background) !important;
+}
+
+.tournament-list-scroll :global(.ScrollbarsCustom-ThumbY) {
+    background: var(--active) !important;
+    width: 4px !important;
+}
+
+.placeholder {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 25px;
+    margin: auto 0;
+    display: flex;
+    align-items: center;
+    pointer-events: none;
+}
+
+.add-more {
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 1px solid var(--color-1);
+    padding: 10px 24px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text);
+    height: 42px;
+    max-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.plus {
+    transition: .2s;
+}
+
+.close {
+    transform: rotate(45deg);
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        width: auto;
+        min-height: 350px;
+        height: 78vh;
+    }
+    .header {
+        padding-top: 0;
+    }
+    .columns {
+        flex-flow: column nowrap;
+    }
+    .bottom-line {
+        width: auto;
+    }
+    .bottom {
+        height: 155px;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .item {
+        height: 40px;
+    }
+    .item.large {
+        flex: none;
+    }
+    .item.short {
+        flex: none;
+    }
+    .title {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .text {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .indicator {
+        gap: 7px;
+    }
+    .point {
+        width: 20px;
+        min-width: 20px;
+        height: 20px;
+    }
+    .line {
+        width: 50px;
+        height: 3px;
+    }
+    .back {
+        left: 16px;
+    }
+    .name {
+        max-width: 100px;
+    }
+    .tournaments-wrapper {
+        width: 100%;
+    }
+    .selected-tournament {
+        flex: none;
+        gap: 7px;
+    }
+    .add-more {
+        margin-top: 16px;
+    }
+    .save-form {
+        height: 266px;
+    }
+    .save-scroll {
+        min-height: 50px;
+    }
+}

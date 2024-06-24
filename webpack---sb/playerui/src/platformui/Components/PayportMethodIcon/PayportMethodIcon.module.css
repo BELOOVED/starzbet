@@ -1,0 +1,46 @@
+.method-icon {
+    height: 48px;
+    width: 70px;
+    min-width: 70px;
+    position: relative;
+}
+
+.method-icon div {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.fallback {
+    background-image: image-set( url("../../Assets/PaymentMethods/bankTransfer.png") 1x, url("../../Assets/PaymentMethods/bankTransfer@2x.png") 2x);
+}
+
+.payport-upi {
+    background-image: url("../../Assets/PaymentMethods/payportUPI.png");
+}
+
+.payport-rtgs {
+    background-image: url("../../Assets/PaymentMethods/payportRTGS.png");
+}
+
+.payport-phonepe {
+    background-image: url("../../Assets/PaymentMethods/payportPhonepe.png");
+}
+
+.payport-paytim {
+    background-image: url("../../Assets/PaymentMethods/payportPAYTIM.png");
+}
+
+.payport-neft {
+    background-image: url("../../Assets/PaymentMethods/payportNEFT.png");
+}
+
+.payport-imps {
+    background-image: url("../../Assets/PaymentMethods/payportIMPS.png");
+}
+
+.payport-cash {
+    background-image: url("../../Assets/PaymentMethods/payportCash.png");
+}

@@ -1,0 +1,23 @@
+.details {
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+[data-mobile="true"] .details {
+    width: 100%;
+    height: 100%;
+    padding: 16px;
+}
+
+.no-data {
+    color: var(--text);
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+[data-mobile="true"] .no-data {
+    padding: 16px;
+}

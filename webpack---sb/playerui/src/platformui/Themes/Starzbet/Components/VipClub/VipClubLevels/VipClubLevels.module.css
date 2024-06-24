@@ -1,0 +1,89 @@
+.vip-club-level {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: var(--grey);
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-level {
+    width: 100%;
+    padding: 14px;
+}
+
+[data-theme="light"] .vip-club-level {
+    background-color: #fff;
+}
+
+.vip-club-level-text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+    overflow: hidden;
+    width: 100%;
+}
+
+.vip-club-level-title {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    text-align: left;
+    text-transform: capitalize;
+    color: #828282;
+    overflow: hidden;
+    width: 100%;
+}
+
+.vip-club-level-value {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: var(--text);
+    overflow: hidden;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-level-title {
+    font-size: 12px;
+}
+
+[data-mobile="true"] .vip-club-level-value {
+    font-size: 14px;
+}
+
+.vip-club-level-expandable .vip-club-level-value {
+    font-size: 14px;
+}
+
+.vip-club-current-and-next-levels {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+    max-width: 726px;
+    padding-top: 32px;
+}
+
+[data-mobile="true"] .vip-club-current-and-next-levels {
+    flex-direction: column;
+    gap: 12px;
+}
+
+.vip-club-level-image-container {
+    min-width: 49px;
+    min-height: 49px;
+    max-width: 49px;
+    max-height: 49px;
+    overflow: hidden;
+}
+
+.vip-club-level-image-container>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

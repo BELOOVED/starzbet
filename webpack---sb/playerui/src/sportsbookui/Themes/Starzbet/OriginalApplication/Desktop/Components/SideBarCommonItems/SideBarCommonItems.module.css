@@ -1,0 +1,145 @@
+.side-common-items {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.side-common-items-mobile {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    width: 100%;
+}
+
+.side-item,
+.side-item-mobile {
+    padding: 4px 20px 4px 4px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    color: var(--text-3);
+    background: var(--color-1);
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    user-select: none;
+    height: 44px;
+    letter-spacing: 1px;
+}
+
+.side-item.active {
+    background: var(--color-1);
+    color: var(--text);
+}
+
+.side-item-mobile {
+    gap: 12px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mobile-button {
+    width: 100%;
+}
+
+.side-text {
+    flex: 1 1 100%;
+    min-width: 0;
+    margin-bottom: var(--font-margin-2);
+}
+
+.icon {
+    background: var(--background);
+    min-width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+@media screen and (max-width: 410px) {
+    .short-side-text {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .side-common-items-mobile-pre-live .short-side-text {
+        display: none;
+    }
+}
+
+.events-count {
+    font-size: 16px;
+    color: var(--text-3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 52px;
+    font-family: Rajdhani, sans-serif;
+    font-weight: 700;
+    line-height: 17px;
+}
+
+.favs-active,
+.home-active,
+.live-active {
+    background: var(--color-6);
+    box-shadow: 0 2px 3px 0 var(--color-1) inset;
+    color: var(--text);
+}
+
+.favs-active .icon {
+    background: var(--dark-orange);
+}
+
+.favs-active .icon path {
+    fill: white;
+}
+
+.live-active .icon {
+    background: #FF4C00;
+}
+
+.live-active .icon path {
+    fill: white;
+}
+
+.home-active .icon {
+    background: var(--blue);
+}
+
+.home-active .icon path {
+    fill: white;
+}
+
+.side-item.favs-active:hover,
+.side-item.home-active:hover,
+.side-item.live-active:hover {
+    opacity: 1;
+}
+
+.side-item:hover {
+    opacity: .8;
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .side-item {
+            height: 31px;
+            padding: 3px 14px 3px 3px;
+            font-size: 10px;
+        }
+        .icon {
+            min-width: 26px;
+            max-width: 26px;
+            height: 100%;
+        }
+        .events-count {
+            font-size: 10px;
+        }
+    }
+}

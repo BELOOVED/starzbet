@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"tabs":"tabs--TJtwy","tab":"tab--ZMMZz","count":"count--tMJUp","active":"active--cC7f6","list":"list--mk6D9","tournament-item":"tournament-item--CzlJ6","tournamentItem":"tournament-item--CzlJ6","left":"left--lxLEm","right":"right--UPJVk","tournament-info":"tournament-info--mzXD1","tournamentInfo":"tournament-info--mzXD1","total-events":"total-events--zwvPu","totalEvents":"total-events--zwvPu","container":"container--d9zuq"};

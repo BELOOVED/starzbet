@@ -1,0 +1,101 @@
+.choose-bank-title {
+    padding-bottom: 16px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    color: var(--text);
+}
+
+.bank-account-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.bank-account-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background: var(--color-1);
+    border-radius: 8px;
+    padding: 24px;
+    font-size: 16px;
+    cursor: pointer;
+    color: var(--text);
+}
+
+[data-mobile="false"] .bank-account-card {
+    width: 288px;
+    max-width: calc(50% - 4px);
+}
+
+[data-mobile="true"] .bank-account-card {
+    width: 100%;
+}
+
+.bank-account-header {
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bank-name {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.42px;
+}
+
+.bank-account-icon {
+    width: 70px;
+    height: 48px;
+}
+
+.bank-account-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.bank-account-description {
+    display: flex;
+    gap: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -0.36px;
+    color: var(--light-150);
+}
+
+.select-button {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.03em;
+    min-width: 85px;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid var(--color-2);
+    color: var(--light-150);
+    border-radius: 8px;
+}
+
+[data-theme="light"] {
+    .bank-account-description,
+    .select-button {
+        color: var(--light-700);
+    }
+}
+
+[data-touch="false"] {
+    .bank-account-card:hover {
+        background: var(--color-3);
+        .select-button {
+            background: var(--purple-gradient);
+            color: white;
+        }
+    }
+}

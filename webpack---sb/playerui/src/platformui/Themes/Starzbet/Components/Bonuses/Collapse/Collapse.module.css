@@ -1,0 +1,48 @@
+.collapse {
+    background: var(--color-6);
+}
+
+.collapse-header {
+    padding: 16px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    color: var(--text);
+    background: var(--color-1);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: -0.42px;
+}
+
+.collapse-header.expanded {
+    background: var(--color-1);
+}
+
+div[data-theme="light"] {
+    .collapse {
+        background: var(--color-3);
+    }
+}
+
+.collapse-content {
+    height: fit-content;
+}
+
+.hidden {
+    display: none;
+}
+
+.postfix {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.collapse-icon {
+    color: var(--light-600);
+    width: 10px;
+}

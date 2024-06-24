@@ -1,0 +1,48 @@
+.vip-club-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    height: 100%;
+    padding: 50px 100px;
+}
+
+[data-mobile="true"] .vip-club-empty {
+    padding: 10px;
+    gap: 10px
+}
+
+.vip-club-empty-logo {
+    height: 60px;
+    width: 60px;
+    background-size: contain;
+}
+
+.vip-club-empty-title {
+    font-size: 25px;
+    line-height: 36px;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text);
+}
+
+[data-mobile="true"] .vip-club-empty-title {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.vip-club-empty-text {
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: center;
+    color: var(--text);
+}
+
+[data-mobile="true"] .vip-club-empty-text {
+    font-size: 14px;
+    line-height: 18px;
+}

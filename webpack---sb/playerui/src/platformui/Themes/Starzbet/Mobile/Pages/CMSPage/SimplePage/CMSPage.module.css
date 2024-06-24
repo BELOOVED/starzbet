@@ -1,0 +1,126 @@
+.background-wrapper {
+    display: flex;
+    max-height: 100%;
+    position: relative;
+    width: calc(100% - 32px);
+    border-radius: 10px;
+    margin: 0 16px;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.title-content {
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: absolute;
+    top: 0;
+    padding: 0 24px;
+}
+
+.footer-page-content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px 16px;
+}
+
+.game-text-wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 20px 0;
+    justify-content: space-between;
+}
+
+.cms-footer-page-wrapper {
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.title-wrapper {
+    text-transform: capitalize;
+    font-size: 36px;
+    color: var(--text);
+    line-height: 50px;
+    font-weight: 600;
+    max-width: 250px;
+}
+
+.logo-wrapper {
+    margin-bottom: 28px;
+    height: 80px;
+    width: 80px;
+}
+
+.game-wrapper {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 160px;
+    display: flex;
+}
+
+.select-with-content {
+    display: flex;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text);
+    flex-direction: column;
+    font-style: normal;
+    font-weight: 600;
+    margin-right: 20px;
+    width: 200px;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 16px;
+}
+
+.content-wrapper {
+    color: var(--dark-text);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.content-wrapper p {
+    max-width: 100%;
+}
+
+.question-wrapper,
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.answer-to-question {
+    background: var(--color-1);
+    border-radius: 0 0 10px 10px;
+    color: var(--dark-text);
+    padding: 16px;
+    overflow-wrap: anywhere;
+}
+
+.active-question {
+    border-radius: 10px 10px 0 0 !important;
+}
+
+.question {
+    overflow-wrap: anywhere;
+    align-items: center;
+    background: var(--color-2);
+    border-radius: 10px;
+    color: var(--text);
+    display: flex;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: space-between;
+    line-height: 24px;
+    padding: 8px 16px;
+}

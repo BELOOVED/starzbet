@@ -1,0 +1,28 @@
+.empty-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 16px;
+    align-items: center;
+}
+
+.empty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: var(--text-3);
+    padding: 16px;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    min-width: 70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-bottom: 16px;
+    margin-top: 20px;
+}

@@ -1,0 +1,14 @@
+const META_CONTENT = "metaContent";
+
+const EMPTY_URL = "/";
+
+const CMS_URL = "/cms";
+
+const PROMO_PAGE_CONTENT_CALL_MANAGER_ID = "PROMO_PAGE_CONTENT_CALL_MANAGER_ID";
+
+export {
+  CMS_URL,
+  META_CONTENT,
+  EMPTY_URL,
+  PROMO_PAGE_CONTENT_CALL_MANAGER_ID,
+};

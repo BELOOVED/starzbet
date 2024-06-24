@@ -1,0 +1,38 @@
+.vip-club-pagination {
+    display: flex;
+    gap: 5px;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.vip-club-pagination-item {
+    font-family: Rajdhani, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    background: var(--color-1);
+    border-radius: 8px;
+    color: var(--text);
+    transition: .3s opacity;
+}
+
+.margin-bottom {
+    margin-bottom: var(--font-margin-3);
+}
+
+.vip-club-pagination-item:global(.active) {
+    background: var(--orange-gradient);
+    color: var(--text);
+}
+
+[data-touch="false"] .vip-club-pagination-item:not(:global(.active)):hover {
+    opacity: .8;
+}
+
+[data-touch="false"] .vip-club-pagination-item:not(:global(.active)):active {
+    opacity: .5;
+}

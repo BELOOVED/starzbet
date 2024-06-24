@@ -1,0 +1,181 @@
+.top-events {
+    height: 188px;
+    position: relative;
+    margin-bottom: 16px;
+}
+
+.coupons {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+}
+
+.coupon {
+    color: var(--text);
+    border-radius: 5px;
+    padding: 16px 8px;
+    border: 1px solid var(--color-6);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 280px;
+    min-width: 280px;
+}
+
+[data-location="landing"] .coupon {
+    margin-bottom: 44px;
+    background-color: var(--grey);
+    box-shadow: 0 6px 12px 0 rgb(0 0 0 / 0.3);
+}
+
+[data-theme="light"] [data-location="landing"] .coupon {
+    background-color: var(--anti-flash-white);
+}
+
+[data-mobile="true"] [data-location="landing"] .coupon {
+    margin-bottom: 28px;
+}
+
+.team {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.teams {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    height: 110px;
+}
+
+.icon-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    min-width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid var(--color-3);
+}
+
+.icon-wrapper img {
+    max-height: 35px !important;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--color-3);
+}
+
+.markets {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    padding: 0 4px;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--text);
+    font-weight: 400;
+    margin-bottom: var(--font-margin-3);
+}
+
+.tournament {
+    max-width: 155px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: 400;
+    color: var(--dark-text);
+}
+
+.button {
+    width: 100%;
+    min-height: 42px;
+    max-height: 42px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-3);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text);
+    text-transform: capitalize;
+    overflow: hidden;
+    padding: 0 7px;
+    &:hover {
+        background: var(--blue-gradient);
+    }
+}
+
+[data-theme="light"] {
+    & .button {
+        color: var(--dark-text);
+        &:hover {
+            color: var(--white);
+        }
+    }
+    & .time {
+        color: var(--dark-text);
+    }
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .coupon {
+            max-width: 200px;
+            min-width: 200px;
+            padding: 13px 9px;
+            gap: 8px;
+        }
+        .header {
+            padding-bottom: 11px;
+        }
+        .tournament {
+            font-size: 11px;
+            line-height: 16px;
+        }
+        .time {
+            font-size: 10px;
+            line-height: 11px;
+        }
+        .teams {
+            height: auto;
+            gap: 7px;
+        }
+        .team {
+            height: 35px;
+        }
+        .icon-wrapper {
+            height: 35px;
+            width: 35px;
+            min-width: 35px;
+        }
+        .icon-wrapper>img {
+            max-height: 21px !important;
+        }
+        .button {
+            max-height: 31px;
+            min-height: 31px;
+            font-size: 10px;
+            padding: 0 7px;
+        }
+    }
+}

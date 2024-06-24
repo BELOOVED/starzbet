@@ -1,0 +1,28 @@
+.button {
+    user-select: none;
+    cursor: pointer;
+    background: var(--orange-gradient);
+    border-radius: 10px;
+    display: inline-flex;
+    padding: 11px 16px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text);
+}
+
+.large {
+    width: 100%;
+}
+
+.fit {
+    width: 113px;
+    display: flex;
+}

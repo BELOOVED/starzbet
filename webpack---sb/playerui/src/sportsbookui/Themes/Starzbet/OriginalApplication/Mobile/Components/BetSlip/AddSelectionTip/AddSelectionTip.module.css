@@ -1,0 +1,24 @@
+.add-selection-tip div {
+    overflow: hidden;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.checkbox-group>span {
+    flex: 0 0 auto;
+}
+
+.checkbox-group-text {
+    margin-bottom: var(--font-margin-3);
+    color: var(--text);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}

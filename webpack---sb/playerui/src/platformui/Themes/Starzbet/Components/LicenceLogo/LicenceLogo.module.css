@@ -1,0 +1,39 @@
+.license-text {
+    padding-left: 30px;
+}
+
+.section-with-license {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.block-with-license {
+    display: flex;
+    align-items: center;
+}
+
+.license-img {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    max-width: 120px;
+    min-width: 120px;
+}
+
+@media screen and (max-width: 768px) {
+    .section-with-license {
+        flex-direction: column;
+        gap: 16px;
+    }
+    .license-text {
+        max-width: 100%;
+        padding: 0;
+    }
+}
+
+.text {
+    font-size: 12px;
+    line-height: 24px;
+    color: var(--text);
+}

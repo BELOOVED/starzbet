@@ -1,0 +1,2 @@
+// extracted by mini-css-extract-plugin
+export default {"sequenceName":"sequenceName--bGSbJ","teamSequence":"teamSequence--eJKf6","field":"field--bWOgv","greenBall":"greenBall--E_Gve","blueBall":"blueBall--hD62W","yellowBall":"yellowBall--ZpkXY","redBall":"redBall--OYoTs","redBox":"redBox--q3TpZ","blackBox":"blackBox--RDWnn","sequenceIconList":"sequenceIconList--kROyb","teamNumber":"teamNumber--FIrXC","scoreRacingTitle":"scoreRacingTitle--oGebG","scoreRacingNumber":"scoreRacingNumber--IEDTl"};

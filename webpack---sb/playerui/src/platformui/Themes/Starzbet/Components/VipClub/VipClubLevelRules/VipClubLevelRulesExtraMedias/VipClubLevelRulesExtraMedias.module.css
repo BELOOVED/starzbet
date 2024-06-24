@@ -1,0 +1,27 @@
+.vip-club-level-rules-extra-medias {
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+}
+
+.extra-media {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icon-wrapper {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.icon-wrapper>img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.name {
+    flex: 1;
+}

@@ -1,0 +1,372 @@
+.vip-club-leader-board {
+    border: 2px solid var(--color-1);
+    border-radius: 20px;
+    position: relative;
+    max-width: 1168px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.vip-club-leader-board-head {
+    padding: 30px 30px 26px;
+    border-bottom: 2px solid var(--periwinkle-opacity-7);
+}
+
+.vip-club-leader-board-title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.vip-club-leader-board-body {
+    padding: 0 26px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-leader-board-body {
+    padding: 5px 10px 26px;
+}
+
+.vip-club-leader-cards {
+    display: flex;
+    gap: 20px 44px;
+    flex-wrap: wrap;
+}
+
+.vip-club-leader-card {
+    position: relative;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: var(--color-1);
+    border: 1px solid var(--color-1);
+    flex: 1 1 340px;
+}
+
+[data-place="4"] {
+    margin-top: 40px;
+}
+
+.vip-club-leader-card-head {
+    display: flex;
+    gap: 15px;
+    overflow: hidden;
+    padding: 30px 35px 0 30px;
+    border-bottom: 1px dashed var(--periwinkle-opacity-14);
+}
+
+[data-mobile="true"] .vip-club-leader-card-head {
+    padding: 16px 22px 0 16px;
+}
+
+.vip-club-leader-card-avatar {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.vip-club-leader-card-avatar>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+[data-mobile="true"] .vip-club-leader-card-avatar {
+    width: 60px;
+    height: 60px;
+}
+
+.vip-club-leader-card-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 5px;
+    overflow: hidden;
+}
+
+.vip-club-leader-card-name {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+}
+
+.vip-club-leader-card-points {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+}
+
+.vip-club-leader-card-num {
+    font-family: Rajdhani, sans-serif;
+    font-variant-numeric: tabular-nums;
+    color: var(--golder-glow);
+}
+
+.vip-club-leader-card-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+}
+
+.vip-club-leader-card-badge>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+[data-mobile="true"] .vip-club-leader-card-badge {
+    width: 40px;
+    height: 40px;
+}
+
+.vip-club-leader-card-body {
+    padding: 24px 20px 22px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+[data-mobile="true"] .vip-club-leader-card-body {
+    padding: 16px;
+}
+
+.vip-club-leader-card-text {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--dark-text);
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-leader-card-text {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.vip-club-leader-card-money {
+    font-family: Rajdhani, sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+[data-mobile="true"] .vip-club-leader-card-money {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.vip-club-leader-card[data-place="1"] .vip-club-leader-card-money {
+    background: linear-gradient(90deg, #F7EF8A 0%, #EDC967 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vip-club-leader-card[data-place="2"] .vip-club-leader-card-money {
+    background: #CBEEFF;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vip-club-leader-card[data-place="3"] .vip-club-leader-card-money {
+    background: linear-gradient(180deg, #FFDE9D 0%, #9C5B50 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vip-club-leader-board-subtitle {
+    position: absolute;
+    top: -39px;
+    left: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    text-transform: capitalize;
+    color: var(--dark-text);
+}
+
+.vip-club-leader-rows {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.vip-club-leader-row {
+    position: relative;
+    display: flex;
+    height: 70px;
+    border-radius: 12px;
+    align-items: center;
+    width: 100%;
+    background-color: var(--color-1);
+    border: 1px solid var(--color-1);
+}
+
+.player-row {
+    border: 1px solid var(--active);
+}
+
+.vip-club-leader-row-num {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: var(--active);
+    width: 100px;
+    border-right: 1px dashed var(--color-2);
+    height: 100%;
+    text-align: center;
+    line-height: 68px;
+}
+
+[data-mobile="true"] .vip-club-leader-row-num {
+    font-size: 18px;
+    width: 40px;
+}
+
+.vip-club-leader-row-content {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 31px 0 46px;
+    width: 100%;
+    gap: 20px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-leader-row-content {
+    padding: 0 10px;
+    gap: 10px;
+}
+
+.vip-club-leader-row-info {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    flex: 1;
+}
+
+.vip-club-leader-row-avatar {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.vip-club-leader-row-name-and-points {
+    padding-left: 24px;
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+    flex: 1;
+}
+
+[data-mobile="true"] .vip-club-leader-row-name-and-points {
+    padding-left: 10px;
+    flex-direction: column;
+    gap: 0;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.vip-club-leader-row-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    color: var(--text);
+    overflow: hidden;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-leader-row-name {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.vip-club-leader-row-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: space-between;
+}
+
+.vip-club-leader-row-text {
+    font-family: Rajdhani, sans-serif;
+    font-variant-numeric: tabular-nums;
+    align-items: center;
+    color: var(--active);
+    display: flex;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 22px;
+    overflow: hidden;
+    width: 100%;
+    gap: 2px;
+    text-align: right;
+}
+
+[data-mobile="true"] .vip-club-leader-row-text {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.vip-club-leader-row-title {
+    color: var(--dark-text);
+    font-size: 14px;
+    text-align: left;
+}
+
+[data-mobile="true"] .vip-club-leader-row-title {
+    display: none;
+}
+
+.vip-club-leader-board-show-more-button {
+    width: 300px;
+}
+
+.vip-club-leader-board-show-more-button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.vip-club-leader-avatar-img {
+    border-radius: 8px;
+}

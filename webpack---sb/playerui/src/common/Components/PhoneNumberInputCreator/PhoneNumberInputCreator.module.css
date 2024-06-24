@@ -1,0 +1,21 @@
+.phone-number-input {
+    display: flex;
+    width: 100%;
+}
+
+.phone-number-input>div:first-child {
+    width: auto;
+}
+
+.phone-number-input [data-item="select-input"] {
+    border-right-width: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.phone-number-input [data-item="text-input"] {
+    border-left-color: transparent;
+    border-top-left-radius: 0;
+    border-left-width: 0;
+    border-bottom-left-radius: 0;
+}

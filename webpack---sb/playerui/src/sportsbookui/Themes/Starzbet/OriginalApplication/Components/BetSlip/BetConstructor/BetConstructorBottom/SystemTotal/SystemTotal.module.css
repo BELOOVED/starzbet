@@ -1,0 +1,77 @@
+.system-select,
+.option {
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    border-top: 1px solid var(--color-6);
+}
+
+.system-select {
+    position: relative;
+    z-index: 1;
+}
+
+.input,
+.option {
+    width: 100%;
+    position: relative;
+    border-radius: 8px;
+    background-color: var(--color-3);
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 0 10px;
+}
+
+.options {
+    background-color: var(--color-5);
+    border-radius: 8px;
+    position: absolute;
+    width: 100%;
+    top: 48px;
+    left: 0;
+}
+
+.option {
+    border-radius: 0;
+}
+
+.option.active {
+    background: var(--orange-gradient);
+}
+
+.option:first-child {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top: none;
+}
+
+.option:last-child {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .system-select,
+    option {
+        padding: 8px;
+    }
+    .input,
+    .option {
+        height: 29px;
+        font-size: 10px;
+    }
+    .chevron-icon {
+        width: 16px !important;
+        min-width: 16px !important;
+        height: 16px !important;
+    }
+    .options {
+        top: 34px;
+    }
+}

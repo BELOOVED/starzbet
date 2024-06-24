@@ -1,0 +1,69 @@
+.button {
+    position: relative;
+}
+
+.select {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background: var(--color-2);
+    border-radius: 3px;
+    padding: 7px;
+    width: 100px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    color: var(--text);
+    cursor: pointer;
+}
+
+.select-text {
+    padding-top: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-variant-numeric: tabular-nums;
+}
+
+.drop-down {
+    position: absolute;
+    width: 100%;
+    top: calc(100% + 3px);
+    background: var(--color-2);
+    box-shadow: 0 5px 11px rgb(0 0 0 / 0.35);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--text);
+    z-index: 10;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    padding: 6px 0;
+}
+
+.counter.active,
+.counter:hover {
+    color: var(--dark-text);
+}
+
+@media screen and (max-width: 768px) {
+    .drop-down {
+        top: initial;
+        bottom: calc(100% + 3px);
+    }
+}

@@ -1,0 +1,355 @@
+.circle {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.side-menu-item {
+    min-width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .side-menu-item {
+            min-width: 26px;
+            max-width: 26px;
+            height: 100%;
+        }
+    }
+}
+
+.sport-header {
+    min-width: 6px;
+    height: 6px;
+    border-radius: 3px;
+}
+
+.soccer {
+    background: #36A900;
+}
+
+.soccer.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 184 169 / 0.6) 14.45%, rgb(233 184 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(30.21% 28.13% at 67.71% 71.87%, rgb(134 8 25 / 0.6) 23.44%, rgb(134 8 31 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #E95121;
+}
+
+.tennis {
+    background: #6FC51A;
+}
+
+.tennis.active {
+    background: radial-gradient(45.83% 45.83% at 32.29% 34.38%, rgb(249 235 164 / 0.7) 22.03%, rgb(249 235 164 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 164 200 / 0.6) 0%, rgb(2 164 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #A5E63C;
+}
+
+.basketball {
+    background: #F55B39;
+}
+
+.basketball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 207 169 / 0.6) 14.45%, rgb(233 207 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 101 2 / 0.6) 0%, rgb(200 84 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF9142;
+}
+
+.american_football {
+    background: #EC8F21;
+}
+
+.american_football.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 226 169 / 0.6) 14.45%, rgb(233 226 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 160 2 / 0.6) 0%, rgb(200 143 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FFCA42;
+}
+
+.volleyball {
+    background: #65B137;
+}
+
+.volleyball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(207 233 169 / 0.6) 14.45%, rgb(208 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(141 200 2 / 0.6) 0%, rgb(158 200 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #D6FF42;
+}
+
+.baseball {
+    background: #977861;
+}
+
+.baseball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 169 206 / 0.6) 14.45%, rgb(233 169 207 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 2 138 / 0.6) 0%, rgb(200 2 154 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF42D3;
+}
+
+.ice_hockey {
+    background: #1DAEDC;
+}
+
+.ice_hockey.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(199 169 233 / 0.6) 14.45%, rgb(198 169 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(74 2 200 / 0.6) 0%, rgb(58 2 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #7842FF;
+}
+
+.beach_volleyball {
+    background: #65B137;
+}
+
+.beach_volleyball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 233 194 / 0.6) 14.45%, rgb(169 233 194 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 200 61 / 0.6) 0%, rgb(2 200 44 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42FF6B;
+}
+
+.snooker {
+    background: #428AFF;
+}
+
+.snooker.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 181 233 / 0.6) 14.45%, rgb(169 182 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 62 200 / 0.6) 0%, rgb(2 78 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #428AFF;
+}
+
+.cricket {
+    background: #957148;
+}
+
+.cricket.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(227 233 169 / 0.6) 14.45%, rgb(228 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 196 2 / 0.6) 0%, rgb(200 180 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FFEC42;
+}
+
+.rugby {
+    background: #A9B523;
+}
+
+.rugby.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 194 233 / 0.6) 14.45%, rgb(169 195 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 102 200 / 0.6) 0%, rgb(2 118 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42B0FF;
+}
+
+.squash {
+    background: #42FFE9;
+}
+
+.squash.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 228 233 / 0.6) 14.45%, rgb(169 229 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 200 193 / 0.6) 0%, rgb(2 200 176 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42FFE9;
+}
+
+.bandy {
+    background: #FF4258;
+}
+
+.bandy.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 173 169 / 0.6) 14.45%, rgb(233 173 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 2 9 / 0.6) 0%, rgb(200 2 26 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF4258;
+}
+
+.floorball {
+    background: #9DFF42;
+}
+
+.floorball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(188 233 169 / 0.6) 14.45%, rgb(189 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(82 200 2 / 0.6) 0%, rgb(98 200 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #9DFF42;
+}
+
+.water_polo {
+    background: #FFBA42;
+}
+
+.water_polo.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 221 169 / 0.6) 14.45%, rgb(233 221 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 143 2 / 0.6) 0%, rgb(200 127 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FFBA42;
+}
+
+.table_tennis {
+    background: #04C500;
+}
+
+.table_tennis.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(188 233 169 / 0.6) 14.45%, rgb(189 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(82 200 2 / 0.6) 0%, rgb(98 200 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #9DFF42;
+}
+
+.darts {
+    background: #FF9142;
+}
+
+.darts.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 207 169 / 0.6) 14.45%, rgb(233 207 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 101 2 / 0.6) 0%, rgb(200 84 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF9142;
+}
+
+.handball {
+    background: #7A98C6;
+}
+
+.handball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(209 169 233 / 0.6) 14.45%, rgb(209 169 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(107 2 200 / 0.6) 0%, rgb(91 2 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #9742FF;
+}
+
+.futsal {
+    background: #FF42D6;
+}
+
+.futsal.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 169 207 / 0.6) 14.45%, rgb(233 169 208 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 2 141 / 0.6) 0%, rgb(200 2 158 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF42D6;
+}
+
+.golf {
+    background: #42FFF0;
+}
+
+.golf.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 226 233 / 0.6) 14.45%, rgb(169 227 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 200 199 / 0.6) 0%, rgb(2 200 183 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42FFF0;
+}
+
+.dota2 {
+    background: #FF3A3A;
+}
+
+.dota2.active {
+    background: radial-gradient(45.83% 45.83% at 32.29% 34.38%, rgb(249 235 164 / 0.7) 22.03%, rgb(249 235 164 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 164 200 / 0.6) 0%, rgb(2 164 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #A5E63C;
+}
+
+.lol {
+    background: #156DF1;
+}
+
+.lol.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 207 169 / 0.6) 14.45%, rgb(233 207 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 101 2 / 0.6) 0%, rgb(200 84 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF9142;
+}
+
+.overwatch {
+    background: #F57F29;
+}
+
+.overwatch.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 169 206 / 0.6) 14.45%, rgb(233 169 207 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 2 138 / 0.6) 0%, rgb(200 2 154 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FF42D3;
+}
+
+.starcraft {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 194 233 / 0.6) 14.45%, rgb(169 195 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 102 200 / 0.6) 0%, rgb(2 118 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #383D44;
+    border: 1px solid #42B0FF;
+}
+
+.starcraft.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 194 233 / 0.6) 14.45%, rgb(169 195 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 102 200 / 0.6) 0%, rgb(2 118 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42B0FF;
+}
+
+.hearthstone {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(188 233 169 / 0.6) 14.45%, rgb(189 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(82 200 2 / 0.6) 0%, rgb(98 200 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #383D44;
+    border: 1px solid #9DFF42;
+}
+
+.hearthstone.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(188 233 169 / 0.6) 14.45%, rgb(189 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(82 200 2 / 0.6) 0%, rgb(98 200 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #9DFF42;
+}
+
+.csgo {
+    background: #6A798A;
+}
+
+.csgo.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 184 169 / 0.6) 14.45%, rgb(233 184 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(30.21% 28.13% at 67.71% 71.87%, rgb(134 8 25 / 0.6) 23.44%, rgb(134 8 31 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #E95121;
+}
+
+.rainbow6 {
+    background: #6A798A;
+}
+
+.rainbow6.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(199 169 233 / 0.6) 14.45%, rgb(198 169 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(74 2 200 / 0.6) 0%, rgb(58 2 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #7842FF;
+}
+
+.rocket_league {
+    background: #0076C9;
+}
+
+.rocket_league.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(227 233 169 / 0.6) 14.45%, rgb(228 233 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 196 2 / 0.6) 0%, rgb(200 180 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FFEC42;
+}
+
+.warcraft3 {
+    background: #EAA800;
+}
+
+.warcraft3.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(233 221 169 / 0.6) 14.45%, rgb(233 221 169 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(200 143 2 / 0.6) 0%, rgb(200 127 2 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #FFBA42;
+}
+
+.e_soccer {
+    background: #6D38FF;
+}
+
+.e_soccer.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 233 194 / 0.6) 14.45%, rgb(169 233 194 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 200 61 / 0.6) 0%, rgb(2 200 44 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #42FF6B;
+}
+
+.e_basketball {
+    background: #6D38FF;
+}
+
+.e_basketball.active {
+    background: radial-gradient(40.63% 40.63% at 36.46% 39.58%, rgb(169 181 233 / 0.6) 14.45%, rgb(169 182 233 / 0) 89.77%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , radial-gradient(22.92% 30.21% at 67.71% 66.67%, rgb(2 62 200 / 0.6) 0%, rgb(2 78 200 / 0) 93.63%)/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #428AFF;
+}
+
+.disabled {
+    background: var(--hover);
+    border-color: var(--hover);
+    color: rgb(203 215 230 / 0.5);
+}

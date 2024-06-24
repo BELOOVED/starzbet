@@ -1,0 +1,25 @@
+.tag {
+    height: 22px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.3px;
+}
+
+.green {
+    background-color: var(--validation);
+    color: white;
+}
+
+.yellow {
+    background-color: var(--warning);
+    color: black;
+}
+
+.red {
+    background-color: var(--error);
+    color: white;
+}

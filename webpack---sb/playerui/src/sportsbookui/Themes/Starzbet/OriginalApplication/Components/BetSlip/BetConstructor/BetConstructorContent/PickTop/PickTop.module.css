@@ -1,0 +1,33 @@
+.pick-top {
+    display: flex;
+    align-items: center;
+    height: 36px;
+    gap: 10px;
+}
+
+.outcome-name {
+    flex: 1;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .pick-top {
+        height: 24px;
+    }
+    .outcome-name {
+        font-size: 10px;
+        line-height: 17px;
+    }
+}

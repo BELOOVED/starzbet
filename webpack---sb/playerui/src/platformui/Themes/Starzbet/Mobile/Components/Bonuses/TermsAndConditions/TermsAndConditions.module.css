@@ -1,0 +1,36 @@
+.children-container {
+    width: 100%;
+}
+
+.terms-modal {
+    background-color: var(--color-6);
+    border-radius: 8px;
+    margin: 0 16px;
+    color: var(--text);
+}
+
+.header {
+    padding: 16px 10px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.terms-collapse-body {
+    padding: 0 10px 16px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    max-height: calc(100vh - 80px);
+    gap: 8px;
+}
+
+.tc-apply {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    text-decoration-line: underline;
+    color: var(--active);
+}

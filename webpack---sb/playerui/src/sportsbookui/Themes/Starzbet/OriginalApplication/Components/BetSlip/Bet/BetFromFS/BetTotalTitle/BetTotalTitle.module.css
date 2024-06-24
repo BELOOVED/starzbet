@@ -1,0 +1,17 @@
+.edit-bet-info {
+    color: var(--text-3);
+    padding: 10px;
+    background: var(--color-3);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.03em;
+    border-top: 1px solid var(--color-6);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .edit-bet-info {
+        padding: 8px;
+        font-size: 10px;
+    }
+}

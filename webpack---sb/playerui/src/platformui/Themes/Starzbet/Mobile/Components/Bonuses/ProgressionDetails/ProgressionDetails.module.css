@@ -1,0 +1,25 @@
+.collapse {
+    margin-top: 8px;
+    color: var(--text);
+    overflow: hidden;
+    background: var(--color-6);
+    border-radius: 4px;
+}
+
+.collapse-body {
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.collapse-header {
+    padding: 8px;
+    background: var(--color-3) !important;
+    border-radius: 4px;
+}
+
+.mobile-title {
+    display: flex;
+    flex-direction: column;
+}

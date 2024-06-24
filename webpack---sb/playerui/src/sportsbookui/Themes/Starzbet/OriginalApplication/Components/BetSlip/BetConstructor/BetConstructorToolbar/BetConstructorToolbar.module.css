@@ -1,0 +1,44 @@
+.toolbar {
+    display: flex;
+    background-color: var(--color-6);
+    height: 38px;
+    padding: 0 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remove-all-pick-button {
+    color: var(--dark-text);
+    font-size: 11px;
+    line-height: 41px;
+    cursor: pointer;
+    height: 100%;
+    text-align: center;
+}
+
+.share-settings-wrapper {
+    display: flex;
+    gap: 10px;
+    color: var(--text);
+}
+
+.settings {
+    cursor: pointer;
+    height: 18px !important;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .toolbar {
+        height: 28px;
+    }
+    .remove-all-pick-button {
+        font-size: 8px;
+        line-height: 28px;
+    }
+    .share-settings-wrapper {
+        gap: 3px;
+    }
+    .settings {
+        height: 12px !important;
+    }
+}

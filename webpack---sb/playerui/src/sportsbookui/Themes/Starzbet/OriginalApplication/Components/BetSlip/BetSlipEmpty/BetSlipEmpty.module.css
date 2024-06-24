@@ -1,0 +1,54 @@
+.empty {
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: var(--text);
+}
+
+.empty.mobile {
+    height: 100%;
+    gap: 30px;
+    padding: 40px 10px 20px;
+}
+
+.text-block {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.title,
+.subtitle {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.03em;
+    text-align: center;
+}
+
+.title {
+    text-transform: capitalize;
+}
+
+.subtitle {
+    color: var(--dark-text);
+}
+
+.button {
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .title,
+    .subtitle {
+        font-size: 10px;
+    }
+    .button {
+        height: 31px;
+        font-size: 11px;
+        padding: 0 7px;
+    }
+}

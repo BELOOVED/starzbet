@@ -1,0 +1,32 @@
+.second-line-tabs {
+    width: 100%;
+    display: flex;
+}
+
+.tab {
+    color: var(--light-600);
+    height: 36px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid var(--color-6);
+    border-radius: 0;
+    text-transform: capitalize;
+    flex: 1;
+    overflow: hidden;
+    padding-left: 5px;
+}
+
+.active {
+    color: var(--text);
+    border-bottom: 1px solid var(--active);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) and (min-width: 600px) {
+    .tab {
+        height: 28px;
+        font-size: 9px;
+        line-height: 28px;
+    }
+}

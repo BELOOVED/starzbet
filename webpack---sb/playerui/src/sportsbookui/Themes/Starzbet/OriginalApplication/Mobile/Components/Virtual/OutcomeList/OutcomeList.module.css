@@ -1,0 +1,260 @@
+.outcomes {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    margin: 0 -4px;
+}
+
+.outcome-wrapper {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 4px;
+}
+
+.outcomes:not(.large) .outcome-wrapper {
+    min-width: 33.33%;
+    flex: 1;
+}
+
+.correct-score-group .outcome-wrapper {
+    width: 100%;
+}
+
+.large .outcome-wrapper {
+    width: 50%;
+}
+
+.outcome {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    cursor: pointer;
+    padding: 0 9px;
+    box-sizing: border-box;
+    color: var(--text);
+    background: var(--color-2);
+    border-radius: 8px;
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    height: 36px;
+    line-height: 18px;
+}
+
+.outcome-text {
+    display: flex;
+    gap: 5px;
+}
+
+.name,
+.outcome-text {
+    font-size: 12px;
+}
+
+.odds {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.name {
+    overflow: hidden;
+}
+
+.parameter {
+    color: var(--dark-text);
+}
+
+.outcome.active:not(.locked) {
+    background: var(--blue-gradient);
+    color: white;
+}
+
+.outcome.locked {
+    cursor: default;
+    pointer-events: none;
+}
+
+.outcome.up:not(.locked) {
+    background: rgb(7 197 94 / 0.1);
+    color: var(--validation);
+}
+
+.outcome.up:not(.locked) .odds::after,
+.outcome.down:not(.locked) .odds::after {
+    content: "";
+    width: 9px;
+    height: 10px;
+    display: block;
+    margin-left: 6px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 2px;
+}
+
+.outcome.down:not(.locked) {
+    background: rgb(248 45 45 / 0.1);
+    color: var(--error);
+}
+
+.correct-score-group {
+    flex: 1;
+    box-sizing: border-box;
+    min-width: 33.33%;
+}
+
+.correct-score-group-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    align-self: center;
+    box-sizing: border-box;
+    font-weight: 500;
+    padding: 10px 0;
+    color: var(--text);
+}
+
+.outcome-winner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.racing-outcome {
+    background: var(--color-2);
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 8px;
+    font-family: Rajdhani, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    height: 52px;
+    line-height: 24px;
+    user-select: none;
+    width: 53px;
+}
+
+.racing-outcome.active:not(.locked) {
+    background: var(--blue-gradient);
+    color: white;
+}
+
+.racing-outcome.locked {
+    cursor: default;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.racing-outcome.finished.won {
+    border: 1px solid var(--active);
+}
+
+.racing-outcome.up:not(.locked) {
+    box-shadow: 1px 0 0 var(--validation);
+}
+
+.racing-outcome.down:not(.locked) {
+    box-shadow: inset 1px 0 var(--error);
+}
+
+.racing-outcome.finished {
+    pointer-events: none;
+    position: relative;
+}
+
+.outcome-props {
+    padding: 4px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid var(--color-6);
+    text-transform: capitalize;
+}
+
+.racing-name {
+    background: var(--color-1);
+    border: 1px solid var(--color-2);
+    border-radius: 8px 8px 0 0;
+    color: var(--dark-text);
+    font-size: 11px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    width: 100%;
+}
+
+.racing-odds {
+    align-items: center;
+    display: flex;
+    flex: 1;
+}
+
+.coefficient {
+    width: 40px;
+    min-width: 40px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.outcome.finished .coefficient {
+    cursor: default;
+    pointer-events: none;
+}
+
+.outcome.finished.won {
+    border: 1px solid var(--active);
+}
+
+.outcome.finished.won .coefficient {
+    box-sizing: border-box;
+    color: var(--active);
+    border-radius: 5px;
+}
+
+.lock-label {
+    position: absolute;
+    right: 2px;
+    top: 10px;
+}
+
+.odd-down {
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    color: var(--red);
+}
+
+.odd-up {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    color: var(--green);
+}
+
+@media screen and (max-width: 570px) {
+    .outcome {
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 50px;
+    }
+    .outcome-wrapper {
+        height: 60px;
+    }
+    .coefficient {
+        height: auto;
+    }
+}

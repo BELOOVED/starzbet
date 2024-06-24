@@ -1,0 +1,24 @@
+.list {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.file-button {
+    padding: 4px 8px;
+    background: var(--brand-opacity);
+    color: var(--text);
+    border-radius: 5px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.image {
+    max-width: 80dvw;
+    max-height: 80dvh;
+    z-index: 1;
+}

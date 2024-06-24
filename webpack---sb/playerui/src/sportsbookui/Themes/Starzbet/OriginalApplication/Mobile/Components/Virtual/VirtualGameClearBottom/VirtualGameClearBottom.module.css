@@ -1,0 +1,15 @@
+.clear-all {
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.clear-all.disable {
+    border: 1px solid rgb(198 16 16 / 0.15);
+    color: rgb(198 16 16 / 0.15);
+    cursor: default;
+    pointer-events: none;
+}

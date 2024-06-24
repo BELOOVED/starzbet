@@ -1,0 +1,220 @@
+.nav-menu {
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.carousel-container {
+    width: 500px;
+    overflow: hidden;
+    position: relative;
+    padding: 0 25px;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.prev-arrow,
+.next-arrow {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: var(--text);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.prev-arrow {
+    left: 0;
+}
+
+.next-arrow {
+    right: 0;
+}
+
+.sport-carousel {
+    flex: 1;
+    position: relative;
+    display: flex;
+    gap: 10px;
+}
+
+.stub {
+    min-width: 1px;
+    height: 1px;
+}
+
+.sport-carousel-mobile {
+    overflow: hidden;
+}
+
+.sport-slide {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-size: 12px;
+    line-height: 88%;
+    text-align: center;
+    color: var(--text);
+    min-width: 36px;
+    max-width: 50px;
+    min-height: 36px;
+    cursor: pointer;
+    height: 36px;
+}
+
+.esport .sport-slide {
+    max-width: 100px;
+}
+
+.sport-name {
+    margin-top: 2px;
+    max-width: 100%;
+    max-height: 22px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.select {
+    height: 42px;
+    border-radius: 8px;
+    background: var(--blue-gradient);
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: var(--text-3);
+    min-width: 155px;
+    cursor: pointer;
+}
+
+.current-select {
+    width: 100px;
+    max-width: 100px;
+    margin-bottom: var(--font-margin-2);
+    color: white;
+}
+
+.dropdown {
+    position: absolute;
+    right: 0;
+    top: 110%;
+    width: 100%;
+    border-radius: 8px;
+    padding: 12px;
+    background: var(--color-5);
+    z-index: 3;
+    border: 1px solid var(--color-2);
+}
+
+.dropdown-item {
+    padding: 0 10px;
+    height: 30px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-item:hover,
+.prev-arrow:hover,
+.next-arrow:hover {
+    opacity: .8;
+}
+
+.active-dropdown {
+    color: var(--text);
+}
+
+.active-dropdown:hover {
+    opacity: 1;
+}
+
+.buttons {
+    display: flex;
+    gap: 4px;
+    padding: 4px 0;
+}
+
+.mobile-nav-menu {
+    margin: 15px 0 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.mobile-controls {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 16px;
+}
+
+.sport-icon {
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .sport-slide:first-child {
+        padding-left: 16px;
+        min-width: 53px;
+    }
+    .select {
+        width: 100%;
+        margin-left: 4px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .dropdown {
+        width: 150px;
+    }
+    .sport-slide:first-child {
+        padding-left: 4px;
+        min-width: 41px;
+    }
+    .select {
+        min-width: 135px;
+    }
+    .mobile-controls {
+        padding: 0 4px;
+    }
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .carousel-container {
+            width: 100%
+        }
+        .sport-slide {
+            max-width: 26px;
+            min-width: 26px;
+            min-height: 26px;
+            max-height: 26px;
+        }
+        .sport-icon {
+            width: 16px !important;
+            height: 16px !important;
+            min-width: 16px !important;
+        }
+        .select {
+            height: 31px;
+            font-size: 10px;
+            min-width: 100px;
+            gap: 0;
+            justify-content: space-between;
+            padding: 0 7px;
+        }
+        .dropdown {
+            padding: 0;
+        }
+    }
+}

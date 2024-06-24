@@ -1,0 +1,72 @@
+.rule-title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--text);
+}
+
+.title {
+    display: inline-block;
+    color: var(--text);
+    font-weight: 600;
+}
+
+.note {
+    color: var(--light-400);
+}
+
+.mb8 {
+    margin-bottom: 8px;
+}
+
+.mt8 {
+    margin-top: 8px;
+}
+
+.tab-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.tab-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 100%;
+    height: 50px;
+    background: var(--color-5);
+    border-radius: 10px;
+    cursor: pointer;
+    color: var(--light-200);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.tab-item.active {
+    background: var(--orange-gradient);
+    color: var(--text);
+}
+
+div[data-theme="light"] {
+    .dark {
+        background: var(--color-3);
+    }
+}
+
+.rule-checked-icon {
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    width: 12px;
+}

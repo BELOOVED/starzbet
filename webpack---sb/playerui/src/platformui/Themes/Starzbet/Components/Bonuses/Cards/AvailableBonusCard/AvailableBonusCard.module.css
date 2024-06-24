@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 100%;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--color-6);
+    background: var(--color-1);
+    overflow: hidden;
+}
+
+.card.fixed-width {
+    width: 402px;
+}
+
+.card>*:last-child {
+    margin-top: auto;
+}

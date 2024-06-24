@@ -1,0 +1,11 @@
+.vip-club-overview {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+[data-mobile="true"] .vip-club-overview {
+    gap: 30px;
+}

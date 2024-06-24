@@ -1,0 +1,50 @@
+.bonus-toggle {
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    background-color: var(--color-1);
+    border-top: 1px solid var(--color-6);
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.input {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.label {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+    text-transform: capitalize;
+    user-select: none;
+}
+
+.postfix {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: var(--text);
+    margin-bottom: var(--font-margin-3);
+    text-transform: capitalize;
+    flex: 0 0 fit-content;
+    max-width: 50%;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .bonus-toggle {
+        padding: 8px;
+    }
+}

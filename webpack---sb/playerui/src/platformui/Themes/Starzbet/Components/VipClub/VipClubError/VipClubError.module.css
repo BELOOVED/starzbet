@@ -1,0 +1,31 @@
+.vip-club-error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    height: 100%;
+    padding: 50px 100px;
+}
+
+[data-mobile="true"] .vip-club-error {
+    padding: 20px;
+}
+
+.vip-club-error-title {
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text);
+}
+
+.vip-club-error-text {
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: center;
+    color: var(--text);
+}

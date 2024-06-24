@@ -1,0 +1,23 @@
+@font-face {
+    font-family: rajdhani;
+    src: url('Assets/rajdhani-v15-latin_latin-ext-500.eot');
+    src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url('Assets/rajdhani-v15-latin_latin-ext-500.woff') format('woff'), url('Assets/rajdhani-v15-latin_latin-ext-500.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: rajdhani;
+    src: url('Assets/rajdhani-v15-latin_latin-ext-600.eot');
+    src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url('Assets/rajdhani-v15-latin_latin-ext-600.woff') format('woff'), url('Assets/rajdhani-v15-latin_latin-ext-600.ttf') format('truetype');
+    font-weight: auto;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: rajdhani;
+    src: url('Assets/rajdhani-v15-latin_latin-ext-700.eot');
+    src: local('Rajdhani Bold'), local('Rajdhani-Bold'), url('Assets/rajdhani-v15-latin_latin-ext-700.woff') format('woff'), url('Assets/rajdhani-v15-latin_latin-ext-700.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

@@ -1,0 +1,215 @@
+.vip-club-bonuses {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+[data-mobile="true"] .vip-club-bonuses {
+    padding-top: 0;
+}
+
+.vip-club-bonus {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-bonus {
+    margin: 0
+}
+
+.vip-club-bonus-head {
+    display: flex;
+    padding: 26px 10px;
+    border-bottom: 1px solid rgba(256 256 256 / .1);
+    align-items: center;
+}
+
+.vip-club-bonus-title {
+    font-style: normal;
+    color: var(--text);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.vip-club-bonus-body {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 20px 0;
+    gap: 20px;
+    width: 100%;
+}
+
+[data-mobile="true"] .vip-club-bonus-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.vip-club-bonus-text,
+.vip-club-bonus-description {
+    color: var(--text);
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 143.5%;
+}
+
+.vip-club-bonus-description {
+    font-size: 15px;
+}
+
+[data-mobile="true"] .vip-club-bonus-button {
+    width: 100%;
+}
+
+.vip-club-bonus-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 19px;
+    background: var(--color-13);
+    padding: 26px 20px 24px;
+    gap: 14px;
+    flex: 1;
+    min-width: 320px;
+    overflow: hidden;
+}
+
+[data-mobile="true"] .vip-club-bonus-card {
+    width: 100%;
+    max-width: 100%;
+}
+
+.vip-club-bonus-card-name {
+    color: var(--text);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0;
+    text-align: left;
+    flex: 1;
+    overflow: hidden;
+}
+
+[data-theme="light"] .vip-club-bonus-card-name {
+    color: var(--light-900)
+}
+
+.vip-club-bonus-card-description {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #A3B1D0;
+    flex: 1;
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+.vip-club-bonus-card-count-numbers {
+    color: var(--active);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.vip-club-bonus-card-count-text {
+    color: var(--text);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+[data-theme="light"] .vip-club-bonus-card-count-text {
+    color: var(--light-600)
+}
+
+.vip-club-bonus-card-button-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+    padding-top: 25px;
+    border-top: 1px solid rgba(256 256 256 / .2);
+}
+
+.vip-club-bonus-card-cashback {
+    border-radius: 8px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -.42px;
+    line-height: normal;
+    padding: 10px 24px;
+    text-align: center;
+    transition: transform .2s ease-out;
+    background-color: var(--blue);
+}
+
+.vip-club-bonus-card-cashback>div {
+    margin-bottom: var(--font-margin-3);
+}
+
+.vip-club-bonus-card-cashback:disabled {
+    cursor: not-allowed;
+    opacity: .5;
+}
+
+[data-touch="false"] .vip-club-bonus-card-cashback:active:not(:disabled) {
+    opacity: .5;
+}
+
+[data-touch="false"] .vip-club-bonus-card-cashback:hover:not(:disabled) {
+    opacity: .8;
+}
+
+.wide {
+    width: 100%;
+}
+
+.error {
+    color: var(--error);
+}
+
+.warning {
+    color: var(--text);
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    align-items: center;
+    flex: 1;
+}
+
+.rules {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 10px;
+    overflow: auto;
+    width: 100%;
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+    &::-webkit-scrollbar-track {
+        background-color: var(--background);
+    }
+    &::-webkit-scrollbar-thumb {
+        background: var(--brand);
+        border-radius: 10px;
+    }
+}

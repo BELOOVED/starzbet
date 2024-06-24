@@ -1,0 +1,8 @@
+.lock {
+    background: image-set( url("../../../Assets-Optimized/icon_block.png") 1x, url("../../../Assets-Optimized/icon_block@2x.png") 2x);
+    background-size: cover;
+    background-position: 50%;
+    filter: brightness(0) saturate(100%) invert(60%) sepia(37%) saturate(4483%) hue-rotate(342deg) brightness(99%) contrast(105%);
+    width: 11px;
+    height: 13px;
+}

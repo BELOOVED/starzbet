@@ -1,0 +1,125 @@
+.select {
+    width: 100%;
+    position: relative;
+}
+
+.select-input {
+    color: var(--dark-text);
+    background: var(--color-1);
+    border: 1px solid var(--color-6);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    user-select: none;
+    font-size: 14px;
+    height: 48px;
+    line-height: 38px;
+    border-radius: 8px;
+    font-weight: 400;
+    padding: 0 24px;
+    &.expanded {
+        background: var(--hover);
+    }
+    &.disabled {
+        opacity: .5;
+        pointer-events: none;
+    }
+    &.error {
+        border-color: var(--error);
+    }
+    &.selected {
+        color: var(--text);
+        text-transform: capitalize;
+    }
+    .select-value {
+        flex: 1;
+    }
+}
+
+.icon-control {
+    cursor: pointer;
+}
+
+.options {
+    border: 1px solid var(--color-6);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 0;
+    top: calc(100% + 8px);
+    width: 100%;
+    z-index: 2;
+    overflow: hidden;
+    background: var(--color-1);
+    &.revert-direction {
+        top: initial;
+        bottom: calc(100% + 8px);
+    }
+}
+
+.option-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.option {
+    cursor: pointer;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    color: var(--dark-text);
+    font-style: normal;
+    text-transform: capitalize;
+    padding: 0 16px;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    letter-spacing: -.03em;
+    line-height: 24px;
+    &:not(:first-child) {
+        border-top: 1px solid var(--color-6);
+    }
+    .option-value {
+        flex: 1;
+    }
+    &.selected {
+        color: var(--text);
+    }
+    &.disabled {
+        opacity: .5;
+        pointer-events: none;
+    }
+}
+
+[data-theme="light"] {
+    .options {
+        border: 1px solid var(--color-6);
+    }
+    .option {
+        &:not(:first-child) {
+            border-top: 1px solid var(--color-6);
+        }
+    }
+    .select-input.expanded {
+        background-color: rgba(220 224 228 / .5);
+    }
+}
+
+[data-touch="false"] {
+    .select-input:hover:not(.disabled) {
+        background: var(--hover);
+    }
+    [data-theme="light"] {
+        .select-input:hover:not(.disabled) {
+            background-color: rgba(220 224 228 / .5);
+        }
+    }
+    .option:hover:not(.disabled) {
+        background: var(--hover);
+    }
+}
+
+.scrollbar {
+    max-height: 190px;
+}

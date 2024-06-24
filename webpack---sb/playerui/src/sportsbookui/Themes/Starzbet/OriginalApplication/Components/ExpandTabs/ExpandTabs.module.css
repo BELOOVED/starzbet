@@ -1,0 +1,53 @@
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--dark-text);
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.total-outcomes {
+    color: var(--text);
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.expand-tabs {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    &>button {
+        text-transform: capitalize;
+        &>span {
+            position: relative;
+            top: 1px;
+        }
+    }
+}
+
+[data-mobile="true"] {
+    .expand-tabs {
+        width: 100%;
+        justify-content: space-between;
+        padding: 0 16px;
+        &>button {
+            width: 50%;
+        }
+    }
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .controls {
+            font-size: 13px;
+        }
+        .expand-tabs>button {
+            height: 31px;
+            font-size: 10px;
+            padding: 0 7px;
+        }
+    }
+}

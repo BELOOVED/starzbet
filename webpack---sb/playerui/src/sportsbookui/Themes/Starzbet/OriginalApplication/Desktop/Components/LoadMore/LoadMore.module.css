@@ -1,0 +1,35 @@
+.button {
+    background-color: var(--color-2);
+    color: var(--text);
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+    user-select: none;
+    margin: 20px auto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    width: calc(100% - 32px);
+    max-width: 232px;
+}
+
+.button.fit {
+    width: 50%;
+}
+
+[data-touch="false"] .button:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 1379px) {
+    .button {
+        height: 31px;
+        font-size: 10px;
+        padding: 0 7px;
+        margin: 12px auto;
+    }
+}

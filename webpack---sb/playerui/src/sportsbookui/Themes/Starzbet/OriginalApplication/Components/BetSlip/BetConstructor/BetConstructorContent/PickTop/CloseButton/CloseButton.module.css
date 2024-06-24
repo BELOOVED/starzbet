@@ -1,0 +1,12 @@
+.close-button {
+    cursor: pointer;
+    color: var(--dark-text);
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .close-button {
+        width: 10px !important;
+        min-width: 10px !important;
+        height: 10px !important;
+    }
+}

@@ -1,0 +1,31 @@
+.vip-club-page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.vip-club-promo-page {
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 1190px;
+    margin: 0 auto;
+}
+
+[data-mobile="true"] {
+    .vip-club-page {
+        padding: 10px 10px 34px;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        gap: 10px;
+    }
+    .vip-club-promo-page {
+        padding: 16px 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+}

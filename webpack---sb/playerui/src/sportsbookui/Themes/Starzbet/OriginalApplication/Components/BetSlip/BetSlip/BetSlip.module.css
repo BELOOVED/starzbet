@@ -1,0 +1,22 @@
+.bet-slip {
+    width: 100%;
+    border-radius: 8px;
+    position: relative;
+    background-color: var(--color-1);
+}
+
+.bet-slip-mobile {
+    background-color: var(--color-1);
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+
+.bet-slip :global(.ScrollbarsCustom-TrackY) {
+    visibility: hidden;
+    opacity: 0;
+}

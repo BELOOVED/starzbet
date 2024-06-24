@@ -1,0 +1,37 @@
+.pick-container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+}
+
+.pick-container:not(:first-child) {
+    border-top: 1px solid var(--color-6);
+}
+
+.pick-container.conflicted::before {
+    content: "";
+    position: absolute;
+    z-index: 5;
+    left: 0;
+    top: 0;
+    background: var(--error);
+    width: 3px;
+    height: 100%;
+}
+
+.pick-container.locked {
+    opacity: 0.5;
+}
+
+.pick-container.disable {
+    opacity: 0.3;
+}
+
+@media screen and (max-width: 1379px) and (min-width: 600px) {
+    .pick-container {
+        gap: 6px;
+        padding: 8px;
+    }
+}

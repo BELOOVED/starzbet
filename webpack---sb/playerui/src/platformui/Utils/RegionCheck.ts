@@ -1,0 +1,3 @@
+const IS_BRAZIL = process.env.SERVER_ENVIRONMENT_CODE === "BETORSPIN_BR__PRD__PL_SB";
+
+export { IS_BRAZIL };

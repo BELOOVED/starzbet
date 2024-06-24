@@ -1,0 +1,126 @@
+.row {
+    display: flex;
+    margin: 0 -10px;
+}
+
+.header {
+    color: var(--dark-text);
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.col {
+    flex: 1;
+    padding: 0 10px 16px;
+    max-width: 100%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.submit {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+[data-mobile="true"] {
+    .submit {
+        width: 100%;
+    }
+    .row {
+        flex-direction: column;
+    }
+}
+
+.attach-btn {
+    padding: 10px 24px;
+    color: var(--text);
+    border-radius: 8px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.42px;
+    text-align: center;
+    border: 1px solid var(--color-2);
+    cursor: pointer;
+    text-transform: capitalize;
+    height: 44px;
+    width: fit-content;
+    background: var(--color-1);
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 16px;
+}
+
+.attach input,
+.attach-btn input {
+    visibility: hidden;
+    display: none;
+}
+
+.errors {
+    color: var(--error);
+    margin: 10px 0;
+}
+
+.m-top {
+    margin-bottom: -8px;
+    margin-top: 20px;
+}
+
+.fields {
+    min-width: 514px;
+}
+
+.field-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.tickets-text-area {
+    border-radius: 8px 8px 0 0 !important;
+    margin-bottom: 0 !important;
+    border: none !important;
+    padding: 24px !important;
+}
+
+.tickets-text-area:hover {
+    box-shadow: none !important;
+}
+
+.message-col {
+    flex: 1;
+    margin: 0 10px 16px;
+    max-width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    border: 1px solid var(--color-6);
+    border-radius: 8px;
+    overflow: hidden;
+    & textarea {
+        border: none;
+    }
+    &>div:first-child {
+        background: var(--color-1);
+    }
+}
+
+.tickets-text-area:focus {
+    box-shadow: none !important;
+}
+
+.tickets-text-area-bottom {
+    display: flex;
+    flex-direction: column;
+    border-radius: 0 0 8px 8px;
+    background: var(--color-1);
+    gap: 16px;
+    padding: 0 24px 24px;
+}

@@ -1,0 +1,15 @@
+.iframe {
+    height: calc(100vh - 155px);
+}
+
+.container {
+    min-height: 720px;
+}
+
+[data-mobile="true"] .container {
+    min-height: 616px;
+}
+
+[data-mobile="true"] .iframe {
+    height: calc(100dvh - 120px);
+}

@@ -1,0 +1,90 @@
+.main-container {
+    border-radius: 8px;
+    padding-bottom: 15px;
+}
+
+.table {
+    border-radius: 8px 8px 0 0;
+}
+
+.table-grey {
+    background: var(--color-1);
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-2);
+    border-radius: 8px;
+    padding: 8px 20px;
+    height: 36px;
+}
+
+.tournament {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text);
+    overflow: hidden;
+    font-size: 14px;
+    margin-bottom: var(--font-margin-2);
+}
+
+.tournament:not(.outright-tournament) {
+    max-width: 250px;
+    width: 250px;
+}
+
+.info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    text-transform: capitalize;
+    color: var(--text);
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.category-logo {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    position: relative;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-top: var(--font-margin-2);
+}
+
+.category-logo img {
+    width: 100%;
+    display: block;
+    border-radius: 100%;
+}
+
+.sport-icon {
+    min-width: 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.markets {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.expand-category {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+}

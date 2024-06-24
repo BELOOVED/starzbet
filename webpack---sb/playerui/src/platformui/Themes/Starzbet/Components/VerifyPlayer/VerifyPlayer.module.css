@@ -1,0 +1,74 @@
+.verify-page {
+    padding-top: 72px;
+    padding-bottom: 45px;
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.image {
+    width: 100%;
+    height: 100px;
+    background-image: url("../../Assets/Images/Logo/Dark/desktop.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    color: var(--text);
+    position: relative;
+    box-sizing: border-box;
+}
+
+.text {
+    text-align: center;
+    padding: 40px 0 30px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    padding: 40px 0 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.confirm {
+    width: 635px;
+    height: 394px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    color: var(--text);
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.error-sub-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--dark-text);
+    margin-bottom: 10px;
+}
+
+.error-icon {
+    width: 60px;
+    height: 60px;
+    margin: 20px 0 0;
+}

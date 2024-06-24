@@ -1,0 +1,62 @@
+.detail {
+    padding: 16px;
+    color: var(--text);
+    height: calc(100vh - 315px);
+    overflow-y: auto;
+}
+
+.messages {
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+.account-page {
+    padding-top: 68px;
+    position: relative;
+}
+
+.scroll-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: calc(100% - 40px);
+    bottom: 20px;
+    width: 32px;
+    height: 32px;
+    background: var(--orange-gradient);
+    opacity: 0.7;
+    transition: all 0.3s ease-in;
+    z-index: 5;
+    border-radius: 50%;
+    top: calc(100% - 170px);
+}
+
+.top-bar {
+    top: 0;
+    position: fixed;
+    width: 100vw;
+}
+
+.fixed {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: var(--color-5);
+    background: var(--color-6);
+}
+
+@media screen and (max-width: 768px) {
+    .message-header {
+        padding: 0;
+        background: none;
+        border: none;
+        border-radius: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .scroll-button {
+        top: calc(100% - 290px);
+    }
+}

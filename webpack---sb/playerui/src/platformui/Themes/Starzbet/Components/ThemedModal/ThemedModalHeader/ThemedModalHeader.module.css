@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 24px;
+    width: 100%;
+    position: relative;
+}
+
+.close-icon-color {
+    color: var(--text)
+}
+
+.header-content {
+    width: fit-content;
+    color: var(--text);
+}
+
+.separator {
+    width: 100%;
+    min-height: 1px;
+    max-height: 1px;
+    background-color: var(--color-6);
+}
+
+.large-hit-box {
+    position: relative;
+    right: -10px;
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

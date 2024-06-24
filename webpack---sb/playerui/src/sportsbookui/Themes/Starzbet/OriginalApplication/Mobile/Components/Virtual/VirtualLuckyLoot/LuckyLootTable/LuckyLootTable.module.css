@@ -1,0 +1,133 @@
+.container {
+    padding: 25px 15px;
+}
+
+.table-container {
+    display: grid;
+    grid-template-columns: repeat(6, 48px);
+    gap: 11px 11px;
+    justify-items: center;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.field {
+    display: flex;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    padding: 14px 0;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--virtual-sports-text);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.field:not(.active) {
+    box-shadow: -1px -3px 7px var(--virtual-sports-text), 1px 3px 7px rgb(0 0 0 / 0.35);
+    text-shadow: 0 2px 5px rgb(0 0 0 / 0.35);
+}
+
+.green:not(.active) {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-greenSoft) 0%, var(--virtual-sports-greenDarkModerate) 100%);
+}
+
+.green.active {
+    border: 3px solid var(--virtual-sports-greenDarkModerate);
+    color: var(--virtual-sports-greenDarkModerate)
+}
+
+.blue:not(.active) {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-blueSoft) 0%, var(--virtual-sports-blueVivid) 100%);
+}
+
+.blue.active {
+    border: 3px solid var(--virtual-sports-blueVivid);
+    color: var(--virtual-sports-blueVivid)
+}
+
+.yellow:not(.active) {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-yellowPale) 0%, var(--virtual-sports-yellowPure2) 100%);
+    color: var(--virtual-sports-black);
+}
+
+.yellow.active {
+    border: 3px solid var(--virtual-sports-yellowPure2);
+    color: var(--virtual-sports-yellowPure2)
+}
+
+.red:not(.active) {
+    background: radial-gradient(50% 50% at 50% 50%, var(--virtual-sports-redSoft) 0%, var(--virtual-sports-redStrong2) 100%);
+}
+
+.red.active {
+    border: 3px solid var(--virtual-sports-redStrong2);
+    color: var(--virtual-sports-redStrong2)
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--color-6);
+    justify-content: space-between;
+    gap: 15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.buttons-left-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    max-width: calc(100% - 95px);
+}
+
+.quick-title {
+    flex: 1 1 100%;
+    min-width: 0;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.clear-button {
+    border: 1px solid var(--virtual-sports-redStrong1);
+    color: var(--virtual-sports-redStrong1);
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    width: 80px;
+    min-width: 80px;
+    cursor: pointer;
+}
+
+.retry-btn {
+    width: 36px;
+    min-width: 36px;
+    height: 36px;
+    padding: 3px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    border-radius: 5px;
+    color: var(--green);
+}
+
+.retry-count {
+    background: url("../../../../../Desktop/Assets-Optimized/arrowRotate.svg") no-repeat;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

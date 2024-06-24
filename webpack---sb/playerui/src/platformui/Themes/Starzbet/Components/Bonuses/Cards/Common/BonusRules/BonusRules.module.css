@@ -1,0 +1,28 @@
+.bonus-rules {
+    padding: 20px;
+    background: var(--color-5);
+    border-radius: 6px;
+    color: var(--light-400);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.42px;
+}
+
+.bonus-rules-title {
+    margin-bottom: 20px;
+    color: var(--text);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: -0.48px;
+}
+
+div[data-theme="light"] {
+    .bonus-rules {
+        background: var(--color-3);
+        color: var(--dark-text);
+    }
+}

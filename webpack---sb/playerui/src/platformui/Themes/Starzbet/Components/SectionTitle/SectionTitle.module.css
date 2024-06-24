@@ -1,0 +1,35 @@
+.section-title {
+    display: flex;
+    align-items: center;
+    flex: 1 1 auto;
+    overflow: hidden;
+}
+
+.section-title-marker {
+    border-radius: 2px;
+    height: 30px;
+    width: 4px;
+    min-width: 4px;
+    margin-right: 12px;
+}
+
+.section-title-logo {
+    margin-right: 12px;
+}
+
+.section-title-text {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    color: var(--text);
+    text-transform: capitalize;
+    margin-bottom: -5px;
+}
+
+.section-title.mobile .section-title-text {
+    font-size: 18px;
+    line-height: 29px;
+}

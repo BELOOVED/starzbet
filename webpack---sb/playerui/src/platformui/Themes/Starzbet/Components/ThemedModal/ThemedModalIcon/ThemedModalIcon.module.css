@@ -1,0 +1,14 @@
+.modal-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.bonus-icon {
+    color: #19BA46;
+}

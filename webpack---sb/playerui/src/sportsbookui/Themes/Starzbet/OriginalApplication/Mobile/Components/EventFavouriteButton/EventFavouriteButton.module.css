@@ -1,0 +1,33 @@
+.fav path {
+    fill: var(--color-2);
+}
+
+.active path {
+    fill: var(--active);
+}
+
+.fav,
+.active {
+    cursor: pointer;
+}
+
+.fav:hover,
+.active:hover {
+    opacity: .8;
+}
+
+.fav-icon {
+    min-width: 20px !important;
+    width: 20px !important;
+    height: 20px !important;
+}
+
+[data-mobile="false"] {
+    @media screen and (max-width: 1379px) {
+        .fav-icon {
+            min-width: 12px !important;
+            width: 12px !important;
+            height: 12px !important;
+        }
+    }
+}

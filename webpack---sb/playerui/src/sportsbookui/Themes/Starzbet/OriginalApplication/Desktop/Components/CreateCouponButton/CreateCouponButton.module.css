@@ -1,0 +1,74 @@
+.coupon-button {
+    padding: 4px 20px 4px 4px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    color: var(--text-3);
+    background: var(--color-1);
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    user-select: none;
+    height: 44px;
+    letter-spacing: 1px;
+}
+
+.coupon-button:hover {
+    opacity: .8;
+}
+
+.icon {
+    background: var(--background);
+    min-width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.text {
+    margin-bottom: var(--font-margin-2);
+}
+
+.mobile-coupon-button {
+    background: var(--background);
+    box-shadow: inset 0 -1px 0 var(--color-5);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-transform: uppercase;
+    color: var(--dark-text);
+    height: 50px;
+    padding: 16px;
+    width: 100%;
+    cursor: pointer;
+    user-select: none;
+    gap: 8px;
+}
+
+.mobile-coupon-button-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1379px) {
+    .coupon-button {
+        height: 31px;
+        padding: 3px 14px 3px 3px;
+        font-size: 10px;
+    }
+    .icon {
+        min-width: 26px;
+        max-width: 26px;
+        height: 100%;
+    }
+}

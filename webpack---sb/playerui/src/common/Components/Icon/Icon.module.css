@@ -1,0 +1,120 @@
+.wrapper {
+    display: flex;
+}
+
+.wrapper svg {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper svg g {
+    clip-path: initial;
+}
+
+.text-color {
+    color: var(--text);
+}
+
+.dark-text-color {
+    color: var(--dark-text);
+}
+
+.brand-color {
+    color: var(--brand);
+}
+
+.validation-color {
+    color: var(--validation);
+}
+
+.error-color {
+    color: var(--error);
+}
+
+.warning-color {
+    color: var(--warning);
+}
+
+.verified-color {
+    color: var(--verified)
+}
+
+.hover-color {
+    color: var(--hover);
+}
+
+.background-color {
+    color: var(--background);
+}
+
+.blue-color {
+    color: var(--blue);
+}
+
+.active-color {
+    color: var(--active);
+}
+
+.gray-color {
+    color: var(--grey);
+}
+
+.purple-color {
+    color: var(--purple);
+}
+
+.green-color {
+    color: var(--green);
+}
+
+.success {
+    color: var(--success);
+}
+
+.black {
+    color: black;
+}
+
+.light-grey {
+    color: var(--light-grey);
+}
+
+.white {
+    color: white;
+}
+
+.color-6 {
+    color: var(--color-6)
+}
+
+.color-1 {
+    color: var(--color-1);
+}
+
+.color-5 {
+    color: var(--color-5);
+}
+
+.color-17 {
+    color: var(--color-17);
+}
+
+.color-8 {
+    color: var(--color-8);
+}
+
+.orange {
+    color: var(--orange)
+}
+
+.secondary-opacity {
+    color: var(--neutral-500);
+}
+
+.neutral-500 {
+    color: var(--neutral-500);
+}
+
+.neutral-300 {
+    color: var(--neutral-300);
+}

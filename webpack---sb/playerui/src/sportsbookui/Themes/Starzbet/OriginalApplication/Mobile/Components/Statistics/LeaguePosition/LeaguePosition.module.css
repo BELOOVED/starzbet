@@ -1,0 +1,197 @@
+.league-position-short {
+    background: var(--color-2);
+    padding: 16px;
+    border-radius: 10px;
+    margin: 8px 0;
+    color: var(--letters-color);
+    height: 200px;
+}
+
+.three-buttons {
+    display: flex;
+    margin: 17px -5px 15px;
+    text-align: center;
+    align-items: center;
+}
+
+.tab {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 8px;
+    width: 33.33%;
+    height: 42px;
+    margin: 0 5px;
+    background: var(--color-1);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--text);
+}
+
+.active-tab {
+    background: var(--orange-gradient);
+    color: white;
+}
+
+.position-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--text);
+    margin-bottom: 19px;
+}
+
+.position-head {
+    background: var(--color-1);
+    font-style: normal;
+    font-size: 12px;
+    height: 34px;
+    border-radius: 8px;
+    overflow: hidden;
+    line-height: 18px;
+    color: var(--dark-text);
+    text-transform: capitalize;
+}
+
+.position-head tr th {
+    font-weight: 400;
+}
+
+.position-head tr th:first-child {
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.position-head tr th:last-child {
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.league-position thead th {
+    height: 32px;
+    font-weight: 400;
+}
+
+.league-position thead th:first-child {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 3px;
+}
+
+.league-position thead th:last-child {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-right: 3px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.league-position td {
+    padding-top: 5px;
+}
+
+.line-vertical {
+    width: 0.5%;
+}
+
+.position-short {
+    width: 10%;
+    max-width: 26px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.arrow-icon {
+    width: 5%;
+    text-align: center;
+}
+
+.team-title {
+    width: 16%;
+    text-align: left;
+}
+
+.stat-index {
+    width: 8%;
+}
+
+.team-position-info:first-child {
+    padding-top: 20px;
+}
+
+.team-position-info:last-child {}
+
+.team-position-info td {
+    height: 40px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: var(--text);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.team-position-info td.vertical-line {
+    width: 1%;
+}
+
+.team-position-info td.win-green-line>div {
+    width: 100%;
+    height: 100%;
+    background: green;
+}
+
+.team-position-info td.loss-red-line>div {
+    width: 100%;
+    height: 100%;
+    background: red;
+}
+
+.up,
+.down,
+.zero {
+    width: 14px;
+    height: 14px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.up {
+    background-image: image-set( url("../../../Assets-Optimized/arrow-left_green.png") 1x, url("../../../Assets-Optimized/arrow-left_green@2x.png") 2x);
+}
+
+.down {
+    background-image: image-set( url("../../../Assets-Optimized/arrow-left_red.png") 1x, url("../../../Assets-Optimized/arrow-left_red@2x.png") 2x);
+}
+
+.team-position-info {
+    box-shadow: inset 0 -1px 0 var(--color-5);
+    padding: 8px 16px;
+}
+
+.zero {
+    margin: 2px;
+    border: 1px solid var(--text);
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.position-short-number {
+    text-align: center;
+}

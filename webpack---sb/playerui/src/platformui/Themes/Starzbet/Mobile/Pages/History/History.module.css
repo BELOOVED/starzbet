@@ -1,0 +1,82 @@
+.history {
+    background: var(--background);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    flex-grow: 1;
+    color: var(--text);
+    padding: 0 16px 16px 0;
+}
+
+.products {
+    display: flex;
+    gap: 6px;
+    margin: 10px 2px;
+    padding-right: 17px;
+}
+
+.scroll {
+    margin-left: 12px;
+    padding-bottom: 12px;
+}
+
+.product {
+    color: var(--dark-text);
+    padding: 9px 20px 7px;
+    transition: opacity 0.3s linear 2s;
+    background: var(--color-1);
+    box-shadow: 0 0 0 1px var(--color-2);
+    border-radius: 8px;
+    width: max-content;
+}
+
+.product:hover {
+    opacity: 0.8;
+}
+
+.active-product {
+    color: var(--text);
+    background: rgb(72 145 255 / 0.6);
+    box-shadow: 0 0 0 1px rgb(72 145 255 / 1)
+}
+
+.cancel,
+.submit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 33px;
+    box-sizing: border-box;
+    user-select: none;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    height: 45px;
+}
+
+.cancel {
+    color: var(--text);
+    border: 1px solid var(--color-6);
+}
+
+.submit {
+    background: var(--active);
+    color: var(--text);
+}
+
+.calendar {
+    cursor: pointer;
+    padding: 13px 24px 11px;
+    width: 100%;
+    position: relative;
+    border: 1px solid var(--color-2);
+    background-color: var(--color-1);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.calendar-date {
+    font-size: 14px;
+    line-height: 20px;
+}

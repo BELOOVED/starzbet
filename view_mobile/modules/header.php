@@ -146,7 +146,7 @@ div:where(.swal2-icon).swal2-warning {
                                  <div class="side-menu-wrapper--OD41n side-menu-wrapper-mobile--J64ws" data-cy="player_ui__side_menu__container__full">
                                     <div class="mobile-header--TpGnx">
                                        <div class="logo--ZDngH"></div>
-                                       <div data-cy="player_ui__side_menu__button__close" onclick="openmobileusermenu()">
+                                       <div data-cy="player_ui__side_menu__button__close" onclick="closemobileusermenu()">
                                           <span class="wrapper--fQhcx" style="height: 12px; width: 12px; min-width: 12px;">
                                              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="currentColor">
                                                 <g clip-path="url(#clip0_1794_210862)">
@@ -166,7 +166,7 @@ div:where(.swal2-icon).swal2-warning {
                                           <div class="profile-container--QLoJn">
                                              <div class="avatar--ImFjX"></div>
                                              <div class="username--cmWeq">
-                                                <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username">Pisikooo3434</div>
+                                                <div class="ellipsis--EjZIN" data-cy="player_ui__side_menu__value__username"><?=$us['login']?></div>
                                                 <div class="control--lNbvN">
                                                    <div class="update-balance--zJCjz" data-cy="player_ui__side_menu__button__update_balance"></div>
                                                    <div class="hide-balance--ikDy_" data-cy="player_ui__side_menu__button__show_hide_balance"></div>
@@ -175,10 +175,10 @@ div:where(.swal2-icon).swal2-warning {
                                           </div>
                                        </div>
                                        <div class="buttons--Wodi5">
-                                          <a class="deposit--e4rBo" data-cy="player_ui__side_menu__button__deposit" href="/tr-tr/banking/deposit">
+                                          <a class="deposit--e4rBo" data-cy="player_ui__side_menu__button__deposit" href="/deposit">
                                              <div class="ellipsis--EjZIN">Yatırım</div>
                                           </a>
-                                          <a class="withdraw--yrdoY" data-cy="player_ui__side_menu__button__withdraw" href="/tr-tr/banking/withdraw">
+                                          <a class="withdraw--yrdoY" data-cy="player_ui__side_menu__button__withdraw" href="/withdraw">
                                              <div class="ellipsis--EjZIN">Çekim</div>
                                           </a>
                                        </div>
@@ -187,7 +187,7 @@ div:where(.swal2-icon).swal2-warning {
                                           <div class="block--xp4SI">
                                              <div class="ellipsis--EjZIN title-amount--BUlhw">Bakiye</div>
                                              <div class="ellipsis--EjZIN amount--tAmhJ">
-                                                <div class="hidden--EQoAu balance--jXXVM"><span data-cy="player_ui__side_menu__value__main_balance">₺ 0.00</span><span>••••</span></div>
+                                                <div class="hidden--EQoAu balance--jXXVM"><span data-cy="player_ui__side_menu__value__main_balance">₺ <?=$us['balance']?></span><span>••••</span></div>
                                              </div>
                                           </div>
                                        </div>

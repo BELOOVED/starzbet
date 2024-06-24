@@ -206,3 +206,7 @@ $(document).ready(function() {
    $("#usermenux").toggleClass("overlay-active--DdB_P");
    $("body").toggleClass("ohidden");
  }
+ function closemobileusermenu(){
+   $("#usermenux").removeClass("overlay-active--DdB_P");
+   $("body").removeClass("ohidden");
+ }

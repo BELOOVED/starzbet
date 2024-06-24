@@ -202,3 +202,7 @@ $(document).ready(function() {
    $("body").toggleClass("ohidden");
    $("#xmenu").toggleClass("navbar-active--HCx__");
  }
+ function openmobileusermenu(){
+   $("#usermenux").toggleClass("overlay-active--DdB_P");
+   $("body").toggleClass("ohidden");
+ }

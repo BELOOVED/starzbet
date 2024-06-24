@@ -39,6 +39,14 @@
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_2.css" crossorigin=anonymous>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_1.css" crossorigin=anonymous>
    <link rel=stylesheet type=text/css href="/assets/css/stylesheet_0.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/1.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/2.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/3.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/4.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/5.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/6.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/7.css" crossorigin=anonymous>
+
    <link rel="apple-touch-icon" sizes="57x57"
       href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-57x57.png">
    <link rel="apple-touch-icon" sizes="60x60"
@@ -64,26 +72,7 @@
    <meta name="apple-mobile-web-app-capable" content="yes">
    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
    <meta name="apple-mobile-web-app-title" content="Starzbet">
-   <link href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5011.860f7d71c9f0580b8eb7.css"
-      rel="stylesheet">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/8263.1d6f844d5e0d8ad6009f.css"
-      crossorigin="anonymous">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/8625.f96cccbbd74613387d6c.css"
-      crossorigin="anonymous">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5891.dd3159815c660d10fe3c.css"
-      crossorigin="anonymous">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3469.18488adfa138e058131e.css"
-      crossorigin="anonymous">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/6853.d78efc563b8f9433ee71.css"
-      crossorigin="anonymous">
-   <link rel="stylesheet" type="text/css"
-      href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/9242.5de703bc04473eaab9fe.css"
-      crossorigin="anonymous">
+   
    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

@@ -26,14 +26,14 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Starzbet">
-      <link href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5011.860f7d71c9f0580b8eb7.css" rel="stylesheet">
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/8263.1d6f844d5e0d8ad6009f.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/8625.f96cccbbd74613387d6c.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5891.dd3159815c660d10fe3c.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3469.18488adfa138e058131e.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/1960.846ff94c5e821cd92e90.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/4550.02f4c058d7b4c2d15557.css" crossorigin="anonymous">
+      <link rel=stylesheet type=text/css href="/assets/css/1.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/2.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/3.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/4.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/5.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/6.css" crossorigin=anonymous>
+   <link rel=stylesheet type=text/css href="/assets/css/7.css" crossorigin=anonymous>
       <script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-b4522da4e5736fb99a84.js" async="" defer=""></script>
       <script src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>

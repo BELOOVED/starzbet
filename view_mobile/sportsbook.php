@@ -405,7 +405,7 @@
             <div>
                <div style="height: 100%;">
                   <div style="height: 9606px;">
-                     <div data-virtuoso-scroller="true" style="position: relative; height: 20346.4px;">
+                     <div data-virtuoso-scroller="true" style="position: relative; height: 0px;">
                         <div data-test-id="virtuoso-top-item-list">
                            <div data-index="0" data-known-size="48" data-item-index="0" style="position: sticky; z-index: 1; overflow-anchor: none;">
                               <div class="sport-header--sTjd6 mobile-header--ElDws">

@@ -27,13 +27,13 @@
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Starzbet">
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
-      <link rel=stylesheet type=text/css href="/assets/css/1.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/2.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/3.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/4.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/5.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/6.css" crossorigin=anonymous>
-   <link rel=stylesheet type=text/css href="/assets/css/7.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/8.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/9.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/10.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/11.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/12.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/13.css" crossorigin=anonymous>
+      <link rel=stylesheet type=text/css href="/assets/css/14.css" crossorigin=anonymous>
       <script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-b4522da4e5736fb99a84.js" async="" defer=""></script>
       <script src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>

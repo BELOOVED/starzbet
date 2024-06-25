@@ -26,9 +26,9 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
          <div class="header-title--FKONC" data-cy="player_ui__page__title">
             <div class="ellipsis--EjZIN">Yatırım</div>
          </div>
-         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Yatırım</span></div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Yatırım</span></div>
       </div>
-      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="/tr-tr/my_account">
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="/my_account">
          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                <g clip-path="url(#clip0_9336_569)">
@@ -362,7 +362,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
          <div class="header-title--FKONC" data-cy="player_ui__page__title">
             <div class="ellipsis--EjZIN">Yatırım</div>
          </div>
-         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Sistemnakit Havale</span></div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Sistemnakit Havale</span></div>
       </div>
       <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
@@ -668,4 +668,1744 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
          </div>
       </div>
    </div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="papara">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Vegapay Papara</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('papara')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="payfix">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Payfix</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" action="https://kolaydeposit.com/payfix/">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="crypto">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Vegapay Papara</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('papara')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="popypara">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">PopyPara</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('popypara')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">PopyPara hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['popypara_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Popypara tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['popypara_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="hayhay">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Hayhay</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('hayhay')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Hayhay hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['hayhay_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Hayhay tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['hayhay_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="pep">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Pep</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('pep')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Pep hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['pep_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Pep tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['pep_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="payco">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Payco</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('payco')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Payco hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['payco_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Payco tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['payco_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="mypayz">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Mypayz</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('mypayz')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Mypayz hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['mypayz_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Mypayz tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['mypayz_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="parazula">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Parazula</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('parazula')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Parazula hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['parazula_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Parazula tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['parazula_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="creditcard">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Vegapay Papara</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" action="https://kolaydeposit.com/payment/creditcard">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Papara tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['papara_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="paycell">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Paycell</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('paycell')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Paycell hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['paycell_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Paycell tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['paycell_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="payqasa">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Payqasa</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c" step="2">
+      <div class="container--Y_FfV">
+         <div>
+            <form id="depositForm" novalidate="" class="formsa" onsubmit="setPayment('payqasa')">
+               <div>
+                  <div class="form-group--mhi_H footer--NWSIY">
+                     <div class="form-group-item--iaMzP">
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Para yatırma miktarı</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="form-item--n0mHj">
+                                 <div class="amount-list--xFr8v">
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 200.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 800.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 4,000.00</div>
+                                    </div>
+                                    <div class="amount--Tk4d4">
+                                       <div class="ellipsis--EjZIN">₺ 5,000.00</div>
+                                    </div>
+                                 </div>
+                                 <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <div class="field--O6vAn">
+                           <div class="field-header--Fu_9j">
+                              <div class="label-group--Bl2OB"><label class="label--UCGot">Yatırım Bonusunu Seç</label></div>
+                           </div>
+                           <div class="input-container--wGVcQ">
+                              <div class="select--Y0e4l">
+                                 <div class="select-input--dIp51" data-item="select-input">
+                                    <div class="ellipsis--EjZIN select-value--S3v2z">Bonus istemiyorum</div>
+                                    <div class="icon--Z3mH6">
+                                       <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <g>
+                                             <path d="M8.62633 0L5 3.41372L1.37367 0L0 1.29314L5 6L10 1.29314L8.62633 0Z" fill="#97A2AF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath>
+                                                <rect width="10" height="6" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="field-footer--MxQJp"></div>
+                        </div>
+                        <button class="button--AFbbH orange-gradient--N2nu6 button--Xk1Ls wide--nlvc7" type="submit">
+                           <div class="content--zBAVh">Yatırım</div>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+   <div class="children-container--tgv6c hidden" step="3">
+   <div class="container--Y_FfV">
+      <div>
+         <form id="depositForm" novalidate="">
+            <div class="form-group--mhi_H">
+               <div class="form-group-item--iaMzP">
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Payqasa hesap numarası</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['payqasa_number']?></div>
+                        <div class="copy--qGwNJ">
+                           <div>
+                              <span class="wrapper--fQhcx copy-icon--_9IPL" style="height: 16px; width: 16px; min-width: 16px;">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1711_86883)">
+                                       <path d="M14.3877 0H5.30462C4.8775 0.00162093 4.46835 0.172009 4.16633 0.474025C3.86432 0.77604 3.69393 1.1852 3.69231 1.61231V3.69231H1.61231C1.1852 3.69393 0.77604 3.86432 0.474025 4.16633C0.172009 4.46835 0.00162093 4.8775 0 5.30462V14.3877C0.00162093 14.8148 0.172009 15.224 0.474025 15.526C0.77604 15.828 1.1852 15.9984 1.61231 16H10.6954C11.1225 15.9984 11.5317 15.828 11.8337 15.526C12.1357 15.224 12.3061 14.8148 12.3077 14.3877V12.3077H14.3877C14.8148 12.3061 15.224 12.1357 15.526 11.8337C15.828 11.5317 15.9984 11.1225 16 10.6954V1.61231C15.9984 1.1852 15.828 0.77604 15.526 0.474025C15.224 0.172009 14.8148 0.00162093 14.3877 0ZM11.0769 14.3877C11.0769 14.4889 11.0367 14.5859 10.9652 14.6575C10.8936 14.729 10.7966 14.7692 10.6954 14.7692H1.61231C1.51112 14.7692 1.41407 14.729 1.34252 14.6575C1.27097 14.5859 1.23077 14.4889 1.23077 14.3877V5.30462C1.23077 5.20343 1.27097 5.10638 1.34252 5.03483C1.41407 4.96327 1.51112 4.92308 1.61231 4.92308H10.6954C10.7966 4.92308 10.8936 4.96327 10.9652 5.03483C11.0367 5.10638 11.0769 5.20343 11.0769 5.30462V14.3877ZM14.7692 10.6954C14.7692 10.7966 14.729 10.8936 14.6575 10.9652C14.5859 11.0367 14.4889 11.0769 14.3877 11.0769H12.3077V5.30462C12.3061 4.8775 12.1357 4.46835 11.8337 4.16633C11.5317 3.86432 11.1225 3.69393 10.6954 3.69231H4.92308V1.61231C4.92308 1.51112 4.96327 1.41407 5.03483 1.34252C5.10638 1.27097 5.20343 1.23077 5.30462 1.23077H14.3877C14.4889 1.23077 14.5859 1.27097 14.6575 1.34252C14.729 1.41407 14.7692 1.51112 14.7692 1.61231V10.6954Z" fill="currentColor"></path>
+                                    </g>
+                                    <defs>
+                                       <clipPath id="clip0_1711_86883">
+                                          <rect width="16" height="16" fill="white"></rect>
+                                       </clipPath>
+                                    </defs>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="form-item--n0mHj padding-bottom--kWh9K">
+                     <div class="form-item-title--DWn8Q">Payqasa tam adı</div>
+                     <div class="form-item-content--_NgyH">
+                        <div class="ellipsis--EjZIN"><?=$query1['payqasa_holder']?></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</div>
 </div>

@@ -578,7 +578,7 @@
                                     <div class="ellipsis--EjZIN">₺ 1,250.00</div>
                                  </div>
                               </div>
-                              <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" value=""></div>
+                              <div class="money-input-container--ZuMoj"><input type="number" autocomplete="off" inputmode="decimal" placeholder="Miktar girin" name="amount" value=""></div>
                            </div>
                         </div>
                         <div class="field-footer--MxQJp"></div>

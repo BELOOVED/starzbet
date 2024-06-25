@@ -1,4 +1,4 @@
-<div class="account-page--ncXf9" style="margin-top: 80px;" data-cy="player_ui__page__content">
+<div class="account-page--ncXf9 opne" style="margin-top: 80px;" data-cy="player_ui__page__content" id="methods">
    <div class="header--vYF1H">
       <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
          <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -60,7 +60,7 @@
                   <input placeholder="Ara..." class="sb__reset_input search-input--qlNdC" value="">
                </div>
             </div>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/CRYPTO">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="crypto--_gx8J"></div>
@@ -70,7 +70,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">10.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">1,000,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/0df3f2c7-8cb7-4023-9031-d290313c01a8">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('popypara')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="popypara--nVm39"></div>
@@ -80,7 +80,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">250,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/11f53063-69cc-4d78-acbd-3a6c5cf39971">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="sistemnakit-havale--OZCxE"></div>
@@ -90,7 +90,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/d32c610d-c390-4d50-9b37-fad91971d708">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('papara')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="vegapay--gl7Vh"></div>
@@ -100,7 +100,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/7ba51637-bf37-4659-9f05-dee2b6ca0df9">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('papara')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="bank-transfer--AgSsw"></div>
@@ -110,7 +110,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/78e8a4a8-f385-48bb-b053-1bd55055fc66">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('mypayz')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="mypayz--v3BOq"></div>
@@ -120,7 +120,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">25.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">250,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/8d494cf5-e5d1-411f-97ed-742dfedf3e6d">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="vevo--e_jXr"></div>
@@ -130,7 +130,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/de2fdecb-b04c-409b-8412-d76015e46eca">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="kolaypay-havale--wsR24"></div>
@@ -140,7 +140,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/5ae302ee-359d-47e4-b225-a53ca70d1950">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('payco')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="ceppay--B34I8"></div>
@@ -150,7 +150,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">10.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">1,000,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/5e9126b8-c8aa-49f6-8dd6-00e9559185ab">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="tr-havale-eft--yPzTJ"></div>
@@ -160,7 +160,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/4259619a-c642-4709-91d9-786d2e692b96">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="vegapay--gl7Vh"></div>
@@ -170,7 +170,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/2effe16c-10c9-4fac-bc2a-5249356c4a4b">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('payfix')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="payfix--YOuxh"></div>
@@ -180,7 +180,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">25.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/38cfd99b-2af8-4827-8463-1ec1d2ee304b">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-havale--n_Mdk"></div>
@@ -190,7 +190,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/2ed519b8-415b-4467-8cff-bd8761b17bb8">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('parazula')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="vevo-parazula--rl3b4"></div>
@@ -200,7 +200,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/e5eee1b8-ddf3-432a-8c8c-8b0ad017397b">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('papara')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="bank-transfer--AgSsw"></div>
@@ -210,7 +210,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">30,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/0b842fef-24f2-4cc6-adb6-d604ddd8dde9">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('creditcard')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="card--NX8Qt"></div>
@@ -220,7 +220,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">2,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/9b6e5e5c-68a5-406f-aaa1-baa2237fecd5">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('creditcard')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="kolaypay-cred--y1YKM"></div>
@@ -230,7 +230,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/7aa78733-91fb-411c-8e3c-15f11b314a53">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('pep')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-pep--dSK_g"></div>
@@ -240,7 +240,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">20,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/485993c2-d2b3-434c-a561-c893fe07e02c">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('hayhay')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-hayhay--T8O2H"></div>
@@ -250,7 +250,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/a31c0fe1-b249-4469-8599-111d9dc02597">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('paycell')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-paycell--HCZUh"></div>
@@ -260,7 +260,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/fe9ba016-795a-474e-bd0a-a2e1190b0f5a">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="finpay--mQ3ED"></div>
@@ -270,7 +270,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/d5a3fb82-ce4f-4aea-ad96-24d7ed1b60fe">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('payqasa')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="payqasa--t3bZO"></div>
@@ -280,7 +280,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">10.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/459c0e21-9c64-4b3d-a628-e6c22273fcf0">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="atm-qr--Jl7Az"></div>
@@ -290,7 +290,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/6df35a09-8de2-46cd-b440-cc2261506b87">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="ultrapay-havale--ohItw"></div>
@@ -300,7 +300,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">250.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/4feab48a-15f8-4c7e-b93c-3303c5867064">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('papara')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="ultrapay-papara--YkATd"></div>
@@ -310,7 +310,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/70dcba23-4033-4977-991d-bddd46eed4ad">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="seripay1--uiCPt"></div>
@@ -320,7 +320,7 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="/tr-tr/banking/deposit/1cfc9169-ebbb-4978-a2c2-b8acbd812337">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('havale')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="ultrapay-auto-papara--s1ryr"></div>
@@ -330,6 +330,223 @@
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="account-page--ncXf9 opne hidden" style="margin-top: 80px;" data-cy="player_ui__page__content" id="havale">
+   <div class="header--vYF1H">
+      <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">
+         <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+               <g clip-path="url(#clip0_117_5324)">
+                  <path d="M10.2857 16V12.5714H0V9.14286H16C14.0914 11.4286 12.1943 13.7143 10.2857 16ZM16 6.85714H0C1.90857 4.57143 3.80571 2.28571 5.71429 0V3.42857H16V6.85714Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_117_5324">
+                     <rect width="16" height="16" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </div>
+      <div class="header-content--noKvf">
+         <div class="header-title--FKONC" data-cy="player_ui__page__title">
+            <div class="ellipsis--EjZIN">Yatırım</div>
+         </div>
+         <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Sistemnakit Havale</span></div>
+      </div>
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="/tr-tr/banking/deposit">
+         <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <g clip-path="url(#clip0_9336_569)">
+                  <path d="M20 11H7.83L13.42 5.41L12 4L4 12L12 20L13.41 18.59L7.83 13H20V11Z" fill="currentColor"></path>
+               </g>
+               <defs>
+                  <clipPath id="clip0_9336_569">
+                     <rect width="24" height="24" fill="white"></rect>
+                  </clipPath>
+               </defs>
+            </svg>
+         </span>
+      </a>
+   </div>
+   <div class="children-container--tgv6c">
+      <div class="container--Y_FfV">
+         <div>
+            <div class="choose-bank-title--aW1Hu">Bankanızı seçin</div>
+            <div class="bank-account-list--jiBrh">
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687339958.svg" alt="Akbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Akbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340773.svg" alt="Albaraka Türk" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Albaraka Türk</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687349079.svg" alt="Alternatif Bank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Alternatif Bank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687349211.svg" alt="Anadolubank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Anadolubank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo">
+                     <div class="default-icon--Ufudt"></div>
+                  </div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Asya Katılım Bankası</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1694859964.svg" alt="Burganbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Burganbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340763.svg" alt="DenizBank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">DenizBank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340190.svg" alt="Enpara" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Enpara</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340807.svg" alt="Fibabanka" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Fibabanka</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340107.svg" alt="HSBC" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">HSBC</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340183.svg" alt="İNG" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">İNG</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340116.svg" alt="Kuveyt Türk" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Kuveyt Türk</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340014.svg" alt="QNB Finansbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">QNB Finansbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340126.svg" alt="Şekerbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Şekerbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340023.svg" alt="Garanti BBVA" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Garanti BBVA</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340031.svg" alt="Halkbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Halkbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340785.svg" alt="İşbank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">İşbank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340210.svg" alt="VakıfBank" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">VakıfBank</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340142.svg" alt="Ziraat Bankası" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Ziraat Bankası</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340795.svg" alt="TEB" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">TEB</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687348674.svg" alt="Türkiye Finans Bankası" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Türkiye Finans Bankası</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687349140.svg" alt="Vakıf Katılım Bankası" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Vakıf Katılım Bankası</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1687340221.svg" alt="Yapı Kredi" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Yapı Kredi</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+               <div class="card--JiQ_T">
+                  <div class="card-icon--P5bA1 fixed-size--rRxXo"><img src="https://www.fixfin.co/uploads/bank_logo/1692605035.svg" alt="Ziraat Katılım" loading="lazy"></div>
+                  <div class="content--EI6pT">
+                     <div class="card-title--mM9MT">Ziraat Katılım</div>
+                  </div>
+                  <div class="select-button--ubxWp">Seç</div>
+               </div>
+            </div>
          </div>
       </div>
    </div>

@@ -1,0 +1,7 @@
+<main class="main--cV6bz">
+   <div class="">
+      <div class="container--oRvJS">
+         <div class="iframe-container--bCz71 iframe--duJG0"><iframe title="game" src="https://yummy.falcongaming.io?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYmM5Y2VkOGYzZDM5ZjM2MzA1MGZmODFhNmUwZWQwMDg0ZWY3MjA4OWVkNDNlNTdmNzVjNjExOTgyYTY3ZDQ5MTc0ZGU0YWQwM2RlZmY3ZDYiLCJpYXQiOjE3MTkzMDM4ODcuMjA4MzQ3LCJuYmYiOjE3MTkzMDM4ODcuMjA4MzUsImV4cCI6MTc1MDgzOTg4Ny4yMDIzOTIsInN1YiI6IjE5ODA4MjciLCJzY29wZXMiOltdfQ.WfEOA8GgiJAnkN58CF-VUgT8_znZMSOva8-aHN6omPnX3VSLcydJ5Hcjh0GH9LSMCvXXBEx6UdRcbIkfph0JRenNptbH1OBG4_e-v8Hb6eRkO4KhA44QaW_tCGYRqrkcAEtVMdTppLZge9UJSYRrUOxq4hmkU0UJ29G5IiLClC-_fZ7_nHogxsZilNWVN7GD9fHA6zpu4dSwsOnRkWgQfCUBVeGXUyNJJmpd-0U3zxD8L994YX6cMuWTPNZQLBgbzISqYuDTEojPYbo24hEcj5sBS1S_8C6tL1FNpZic4-FvDlkE_gz2JmPQi8iOGE2WlW1nTOD247V1Qh0snim_yUM1PpHpipGPYpIhO565kcZ-Xn2jLd4I5i7iHW-QTmEMNdjH3VceCmx2YdRPv-ajV4LFXvLOtLMDm_GL7Ico7UllFWTOPcVxR8lqnQyUoMDmbfgzqxv_XvGzQis0tUqgzryzJTQY9hZmm4c6TIYWWEp2InbR92kDhL5q86cOuwF4iVlclrHmXcb6B7flDRckG2u-IMkem7MxvI9GxM5fqOm35j_Fy5WlQgiqnBspFOn5tlhdy40dyDdVNxobPrQAfBPRWjjtU7D_qY0VQEyrwWkk3wfUIFtuhFUzpjDWoAm54l54f0bslJOUCAa0VAewEsraOZi5rh4zLcgK7isgH4Q&amp;lang=tr" frameborder="0" width="100%" height="100%" scrolling="no" referrerpolicy="no-referrer"></iframe></div>
+      </div>
+   </div>
+</main>

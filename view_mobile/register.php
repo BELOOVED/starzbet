@@ -29,7 +29,7 @@
                <div class="ellipsis--EjZIN">Gizli Üyelik</div>
             </div>
          </div>
-         <form id="registration" novalidate="">
+         <form novalidate="" id="register_form" action="javascript:;" onsubmit="signUp()">
             <div class="register-form--KKteM" data-cy="player_ui__auth__page__form">
                <div class="form-container--i5dbf">
                   <div class="column--w8NGa">
@@ -53,7 +53,7 @@
                                     </svg>
                                  </span>
                               </div>
-                              <input data-item="text-input" class="input--juThV with-prefix--q0l9I" placeholder="Kullanıcı Adı" data-cy="player_ui__sign_up__input__username" value="">
+                              <input data-item="text-input" class="input--juThV with-prefix--q0l9I" name="login" placeholder="Kullanıcı Adı" data-cy="player_ui__sign_up__input__username" value="">
                            </div>
                         </div>
                         <div class="field-footer--MxQJp"></div>
@@ -180,7 +180,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" placeholder="Telefon Numarası" data-cy="player_ui__sign_up__input__phone_number" value=""></div>
+                              <div class="container--qcH5W"><input data-item="text-input" name="phone" class="input--juThV" placeholder="Telefon Numarası" data-cy="player_ui__sign_up__input__phone_number" value=""></div>
                            </div>
                         </div>
                         <div class="field-footer--MxQJp"></div>
@@ -205,7 +205,7 @@
                                     </svg>
                                  </span>
                               </div>
-                              <input data-item="text-input" class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre" autocomplete="new-password" type="password" data-cy="player_ui__sign_up__input__password" value="">
+                              <input data-item="text-input" name="password" class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre" autocomplete="new-password" type="password" data-cy="player_ui__sign_up__input__password" value="">
                               <div class="eye-wrapper--uayiJ hidden--8_3Ly" data-cy="player_ui__sign_up__button__show_hide_password">
                                  <span class="wrapper--fQhcx brand-color--gAy8e eye--DlAWv" style="height: 16px; width: 16px; min-width: 16px;">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -356,7 +356,7 @@
                   <div class="captcha-inner--ckagy"></div>
                </div>
                <div class="buttons--K20PS">
-                  <div class="button--p6BOj login-button--bIyGj" data-cy="player_ui__auth__button__sign_in">
+                  <div class="button--p6BOj login-button--bIyGj" data-cy="player_ui__auth__button__sign_in"  onclick="window.location.href ='/login'">
                      <div class="ellipsis--EjZIN">GİRİŞ</div>
                      <span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="8" viewBox="0 0 16 8" fill="none">

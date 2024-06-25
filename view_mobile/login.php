@@ -25,7 +25,7 @@
                </div>
             </div>
          </div>
-         <form id="login" novalidate="">
+         <form novalidate=""  id="login_form" action="javascript:;" onsubmit="logIn()">
             <div class="login-form--o_gFn" data-cy="player_ui__auth__page__form">
                <div>
                   <div class="field--O6vAn">
@@ -48,7 +48,7 @@
                                  </svg>
                               </span>
                            </div>
-                           <input data-item="text-input" class="input--juThV with-prefix--q0l9I" placeholder="Kullanıcı Adı" data-cy="player_ui__sign_in__input__username" value="">
+                           <input data-item="text-input" class="input--juThV with-prefix--q0l9I" name="login" placeholder="Kullanıcı Adı" data-cy="player_ui__sign_in__input__username" value="">
                         </div>
                      </div>
                      <div class="field-footer--MxQJp"></div>
@@ -73,7 +73,7 @@
                                  </svg>
                               </span>
                            </div>
-                           <input data-item="text-input" class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre" type="password" data-cy="player_ui__sign_in__input__password" value="">
+                           <input data-item="text-input" class="input--juThV with-prefix--q0l9I with-postfix--vrmOT" placeholder="Şifre" name="password" type="password" data-cy="player_ui__sign_in__input__password" value="">
                            <div class="eye-wrapper--uayiJ hidden--8_3Ly" data-cy="player_ui__sign_in__button__show_hide_password">
                               <span class="wrapper--fQhcx brand-color--gAy8e eye--DlAWv" style="height: 16px; width: 16px; min-width: 16px;">
                                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -103,7 +103,7 @@
                   </button>
                </div>
                <div class="buttons--hJxI8">
-                  <div class="button--erynX register-button--eBmn4" data-cy="player_ui__auth__button__sign_up">
+                  <div class="button--erynX register-button--eBmn4" data-cy="player_ui__auth__button__sign_up" onclick="window.location.href ='/register'">
                      <div>
                         <div class="ellipsis--EjZIN">Kayıt ol</div>
                      </div>
@@ -120,7 +120,7 @@
                         </svg>
                      </span>
                   </div>
-                  <button class="button--erynX blue-gradient--N3l7m button--Xk1Ls" data-cy="player_ui__auth__button__sign_in">
+                  <button class="button--erynX blue-gradient--N3l7m button--Xk1Ls" type="submit" data-cy="player_ui__auth__button__sign_in">
                      <div class="content--zBAVh main-button-content--Z93sZ">
                         <div class="ellipsis--EjZIN">GİRİŞ</div>
                         <span class="wrapper--fQhcx text-color--WQCrS" style="height: 16px; width: 16px; min-width: 16px;">

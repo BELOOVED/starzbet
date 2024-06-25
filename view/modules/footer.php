@@ -851,7 +851,7 @@
                      <div class="ellipsis--EjZIN">Üye Ol</div>
                   </div>
                </div>
-               <form id="registration" novalidate="" id="register_form" action="javascript:;" onsubmit="signUp()">
+               <form novalidate="" id="register_form" action="javascript:;" onsubmit="signUp()">
                   <div class="register-form--KKteM" data-cy="player_ui__auth__page__form">
                      <div class="form-container--i5dbf">
                         <div class="column--w8NGa">

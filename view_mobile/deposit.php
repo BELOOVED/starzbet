@@ -1,3 +1,11 @@
+<?php
+$query = $db -> query("SELECT * from banks WHERE name= 'ziraatbank'");
+$query2 = $db -> query("SELECT * from cryptoacc");
+
+$query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
+
+
+?>
 <div class="account-page--ncXf9 opne" style="margin-top: 80px;" data-cy="player_ui__page__content" id="methods">
    <div class="header--vYF1H">
       <div class="header-icon-container--YW7yB purple-header-icon--KVFt8">

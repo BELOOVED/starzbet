@@ -364,7 +364,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
          </div>
          <div class="header-subtitle--iKAlD"><a class="sb__reset_link " href="/tr-tr/my_account">Hesabım</a>&nbsp; / / &nbsp;<a aria-current="page" class="sb__reset_link  active" href="/tr-tr/banking/deposit">Yatırım</a>&nbsp; / / &nbsp;<span class="active-route--TfYYn">Sistemnakit Havale</span></div>
       </div>
-      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="/tr-tr/banking/deposit">
+      <a class="back-button--lzFYE" data-cy="player_ui__my_account_menu__button__go_back" href="#" onclick="closepayment1()">
          <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                <g clip-path="url(#clip0_9336_569)">

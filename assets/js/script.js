@@ -97,7 +97,7 @@ function closepayment1(){
    $("#methods").removeClass("hidden");
    $('[step="1"]').removeClass('hidden');
 
-   $('[step="2"]').toggleClass('hidden');
+   $('[step="2"]').removeClass('hidden');
 
 }
 function openpayment1(id){

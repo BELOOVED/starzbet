@@ -78,7 +78,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">10.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">1,000,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('popypara')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="popypara--nVm39"></div>
@@ -118,7 +118,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('mypayz')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="mypayz--v3BOq"></div>
@@ -148,7 +148,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">500,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('payco')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="ceppay--B34I8"></div>
@@ -198,7 +198,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('parazula')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="vevo-parazula--rl3b4"></div>
@@ -238,7 +238,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('pep')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-pep--dSK_g"></div>
@@ -248,7 +248,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">20,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('hayhay')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-hayhay--T8O2H"></div>
@@ -258,7 +258,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">50.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">5,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('paycell')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="multipay-paycell--HCZUh"></div>
@@ -278,7 +278,7 @@ $query1 = $db -> query("SELECT * from accounts WHERE id='1'")->fetch_assoc();
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">100.00 ₺</div>
                <div class="ellipsis--EjZIN payment-method-description-item--n6EU4">200,000.00 ₺</div>
             </a>
-            <a class="payment-method-card--mHu5K" href="#" onclick="openpayment('payqasa')">
+            <a class="payment-method-card--mHu5K" href="#" onclick="openmodal('errorModal')">
                <div class="payment-method-card-content--q2G7C">
                   <div class="method-icon--BCH9Z icon--cDHQ3">
                      <div class="payqasa--t3bZO"></div>

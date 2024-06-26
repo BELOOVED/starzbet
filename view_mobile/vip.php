@@ -1,10 +1,10 @@
-<?php if(isset($us['id'])){ 
+<?php if(!isset($us['id'])){ 
    header('location: /')
    ?>
 <?php
    }else{?>
    
-   <?php }?>
+  
 <main class="main--cV6bz">
    <div class="account-page--ncXf9" data-cy="player_ui__page__content">
       <div class="header--vYF1H">
@@ -121,3 +121,4 @@
       </div>
    </div>
 </main>
+<?php }?>

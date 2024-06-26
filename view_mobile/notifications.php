@@ -1,4 +1,4 @@
-<div class="account-page--ncXf9" data-cy="player_ui__page__content">
+<div class="account-page--ncXf9" data-cy="player_ui__page__content" style="margin-top: 80px;">
    <div class="header--vYF1H">
       <div class="header-icon-container--YW7yB blue-header-icon--gRb9O">
          <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">

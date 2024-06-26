@@ -1,4 +1,4 @@
-<div class="account-page--ncXf9" data-cy="player_ui__page__content">
+<div class="account-page--ncXf9" data-cy="player_ui__page__content" style="margin-top: 80px;">
    <div class="header--vYF1H">
       <div class="header-icon-container--YW7yB orange-header-icon--LM9sE">
          <span class="wrapper--fQhcx white--ivynY" style="height: 16px; width: 16px; min-width: 16px;">
@@ -41,7 +41,7 @@
                   <div class="label-group--Bl2OB"><label class="label--UCGot">Ad</label></div>
                </div>
                <div class="input-container--wGVcQ">
-                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="Gökhan"></div>
+                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="****"></div>
                </div>
                <div class="field-footer--MxQJp"></div>
             </div>
@@ -50,7 +50,7 @@
                   <div class="label-group--Bl2OB"><label class="label--UCGot">Soyad</label></div>
                </div>
                <div class="input-container--wGVcQ">
-                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="Aktaş"></div>
+                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="*****"></div>
                </div>
                <div class="field-footer--MxQJp"></div>
             </div>
@@ -68,7 +68,7 @@
                   <div class="label-group--Bl2OB"><label class="label--UCGot">Kullanıcı Adı</label></div>
                </div>
                <div class="input-container--wGVcQ">
-                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" data-cy="player_ui__details__input__username" value="Pisikooo3434"></div>
+                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" data-cy="player_ui__details__input__username" value="<?=$us['login']?>"></div>
                </div>
                <div class="field-footer--MxQJp"></div>
             </div>
@@ -78,7 +78,7 @@
                </div>
                <div class="input-container--wGVcQ">
                   <div class="container--qcH5W">
-                     <input data-item="text-input" class="input--juThV with-postfix--vrmOT" type="text" disabled="" data-cy="player_ui__details__input__email" value="aktasgkn3003@gmail.com">
+                     <input data-item="text-input" class="input--juThV with-postfix--vrmOT" type="text" disabled="" data-cy="player_ui__details__input__email" value="******@gmail.com">
                      <div class="icon-wrapper--aQiKo">
                         <span class="wrapper--fQhcx brand-color--gAy8e" style="height: 12px; width: 12px; min-width: 12px;">
                            <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,7 +105,7 @@
                </div>
                <div class="input-container--wGVcQ">
                   <div class="container--qcH5W">
-                     <input data-item="text-input" class="input--juThV with-postfix--vrmOT" type="text" disabled="" data-cy="player_ui__details__input__mobile_number" value="+905317664405">
+                     <input data-item="text-input" class="input--juThV with-postfix--vrmOT" type="text" disabled="" data-cy="player_ui__details__input__mobile_number" value="+90**********">
                      <div class="icon-wrapper--aQiKo">
                         <span class="wrapper--fQhcx brand-color--gAy8e" style="height: 12px; width: 12px; min-width: 12px;">
                            <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -133,7 +133,7 @@
                   </div>
                </div>
                <div class="input-container--wGVcQ">
-                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="1991-03-16"></div>
+                  <div class="container--qcH5W"><input data-item="text-input" class="input--juThV" type="text" disabled="" value="****-**-**"></div>
                </div>
                <div class="field-footer--MxQJp"></div>
             </div>

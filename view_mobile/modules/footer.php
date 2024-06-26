@@ -432,6 +432,35 @@
                         </div>
                      </footer>
                   </div>
+                  <div class="container--y1s2k mobile--say2L hidden" data-cy="player_ui__modal__container">
+                     <div class="header--nYFpP">
+                        <div class="header-content--YJxnk">
+                           <div class="text--GU5EC lg--BsUpN error--yUlPg">Başarısız!</div>
+                        </div>
+                        <div class="large-hit-box--Cfdvu" data-cy="player_ui__modal__button__close">
+                           <span class="wrapper--fQhcx close-icon-color--KmDRF" style="height: 12px; width: 12px; min-width: 12px;">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="none">
+                                 <path d="M5.32 4.00026L7.79491 1.52535C8.06836 1.2519 8.06836 0.808563 7.79491 0.535538L7.46497 0.205602C7.19144 -0.0679357 6.7481 -0.0679357 6.47508 0.205602L4.00026 2.68042L1.52535 0.205089C1.2519 -0.0683629 0.808563 -0.0683629 0.535538 0.205089L0.205089 0.535025C-0.0683629 0.808563 -0.0683629 1.2519 0.205089 1.52492L2.68042 4.00026L0.205602 6.47508C-0.0679357 6.74862 -0.0679357 7.19195 0.205602 7.46497L0.535538 7.79491C0.80899 8.06836 1.25232 8.06836 1.52535 7.79491L4.00026 5.32L6.47508 7.79491C6.74862 8.06836 7.19195 8.06836 7.46497 7.79491L7.79491 7.46497C8.06836 7.19144 8.06836 6.7481 7.79491 6.47508L5.32 4.00026Z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </div>
+                     </div>
+                     <div class="separator--G7CVF"></div>
+                     <div class="body--T66Be mobile--WhnxL">
+                        <div class="modal-icon--X67VT">
+                           <span class="wrapper--fQhcx error-color--r1Lip" style="height: 60px; width: 60px; min-width: 60px;">
+                              <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M21.1758 21.1758C21.9023 20.4375 23.0977 20.4375 23.8242 21.1758L30 27.3516L36.1758 21.1758C36.9023 20.4375 38.0977 20.4375 38.8242 21.1758C39.5625 21.9023 39.5625 23.0977 38.8242 23.8242L32.6484 30L38.8242 36.1758C39.5625 36.9023 39.5625 38.0977 38.8242 38.8242C38.0977 39.5625 36.9023 39.5625 36.1758 38.8242L30 32.6484L23.8242 38.8242C23.0977 39.5625 21.9023 39.5625 21.1758 38.8242C20.4375 38.0977 20.4375 36.9023 21.1758 36.1758L27.3516 30L21.1758 23.8242C20.4375 23.0977 20.4375 21.9023 21.1758 21.1758ZM60 30C60 46.5703 46.5703 60 30 60C13.4297 60 0 46.5703 0 30C0 13.4297 13.4297 0 30 0C46.5703 0 60 13.4297 60 30ZM30 3.75C15.5039 3.75 3.75 15.5039 3.75 30C3.75 44.4961 15.5039 56.25 30 56.25C44.4961 56.25 56.25 44.4961 56.25 30C56.25 15.5039 44.4961 3.75 30 3.75Z" fill="#FF0248"></path>
+                              </svg>
+                           </span>
+                        </div>
+                        <div class="text-block--vlkqJ mobile--JXY4I">
+                           <div class="text--GU5EC xl--VQvEU white--zkdMJ">Başarısız!</div>
+                           <div class="text--GU5EC md--poR8X dark--uUUpv">Para Yatırma Talebiniz sağlayıcı tarafından reddedildi. Daha fazla yardım için lütfen müşteri hizmetleri ile iletişime geçin.</div>
+                        </div>
+                        <div class="buttons-row--M__dn mobile--WzQ11"><button class="button--rTmbf primary--SpqJ4 mobile--PK2vy" data-cy="player_ui__modal__button__ok">Anladım!</button></div>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>

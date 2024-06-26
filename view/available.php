@@ -1,4 +1,4 @@
-<div class="main--v7Pd2 main-landing--F1yhb" style="margin-top: 80px">
+<div class="main--v7Pd2 main-landing--F1yhb" >
    <div class="page-container--WGJiz">
       <div class="my-account--eQezn">
       <?php

@@ -1520,7 +1520,7 @@
             </div>
          </div>
          <div class="casino-bottom-menu--LKJXa">
-            <button class="btn--MHyIm button--s7oN6">
+            <button class="btn--MHyIm button--s7oN6" onclick="window.location.href = '/casino'">
                <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                   <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                      <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447715 0 0 0.447715 0 1V5C0 5.55228 0.447715 6 1 6H5C5.55228 6 6 5.55228 6 5V1C6 0.447715 5.55228 0 5 0H1ZM1 10C0.447715 10 0 10.4477 0 11V15C0 15.5523 0.447715 16 1 16H5C5.55228 16 6 15.5523 6 15V11C6 10.4477 5.55228 10 5 10H1ZM10 1C10 0.447715 10.4477 0 11 0H15C15.5523 0 16 0.447715 16 1V5C16 5.55228 15.5523 6 15 6H11C10.4477 6 10 5.55228 10 5V1ZM11 10C10.4477 10 10 10.4477 10 11V15C10 15.5523 10.4477 16 11 16H15C15.5523 16 16 15.5523 16 15V11C16 10.4477 15.5523 10 15 10H11Z" fill="currentColor"></path>
@@ -1530,7 +1530,7 @@
                   <div class="ellipsis--EjZIN">Sağlayıcılar</div>
                </div>
             </button>
-            <a class="sb__reset_link button--s7oN6" href="/tr-tr/live_casino/live_casino_search">
+            <a class="sb__reset_link button--s7oN6" href="/casino">
                <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                   <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
                      <g clip-path="url(#clip0_123_3871)">
@@ -1547,7 +1547,7 @@
                   <div class="ellipsis--EjZIN">Arama Yap</div>
                </div>
             </a>
-            <a class="sb__reset_link button--s7oN6" href="/tr-tr/live_casino/label/52b3706c-b35a-415b-b5da-9045bf70d5e9">
+            <a class="sb__reset_link button--s7oN6" href="/casino">
                <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                      <g clip-path="url(#clip0_8_88331)">
@@ -1564,7 +1564,33 @@
                   <div class="ellipsis--EjZIN">Favoriler</div>
                </div>
             </a>
-            <a class="sb__reset_link button--s7oN6" href="/tr-tr/login">
+            <a class="sb__reset_link button--s7oN6" href="/games">
+               <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
+                  <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <g clip-path="url(#clip0_1076_122253)">
+                        <path d="M12.2505 18.252C14.95 18.252 16.7525 18.6816 17.5509 19.0544C17.6908 19.1193 17.6908 19.3138 17.5509 19.3705C16.7607 19.7353 14.95 20.173 12.2505 20.173C9.55086 20.173 7.74839 19.7434 6.95004 19.3705C6.81012 19.3057 6.81012 19.1112 6.95004 19.0544C7.74016 18.6897 9.55086 18.252 12.2505 18.252ZM12.2505 17.4414C8.65374 17.4414 5.73193 18.2358 5.73193 19.2084C5.73193 20.1811 8.65374 20.9754 12.2505 20.9754C15.8472 20.9754 18.769 20.1811 18.769 19.2084C18.769 18.2358 15.8472 17.4414 12.2505 17.4414Z" fill="currentColor"></path>
+                        <path d="M22.25 10.2358L19.4846 16.6068L19.1636 17.3525C18.9496 17.239 18.6944 17.1336 18.4064 17.0283C17.9619 16.8661 17.4352 16.704 16.8097 16.5743C15.6163 16.315 14.0936 16.1366 12.25 16.1366C10.4064 16.1366 8.88375 16.315 7.69033 16.5743C7.06482 16.704 6.53807 16.8661 6.09362 17.0283C5.80556 17.1336 5.55041 17.239 5.33642 17.3525L5.01543 16.6068L2.25 10.2358L7.7644 12.2378L12.25 3.5L16.7356 12.2378L22.25 10.2358Z" fill="currentColor"></path>
+                        <path d="M5 10.0706L6.79424 10.7271L7.61728 8.88714L5.44444 7.20117L5 10.0706Z" fill="currentColor"></path>
+                        <path d="M19.2345 10.0706L17.4402 10.7271L16.6172 8.88714L18.79 7.20117L19.2345 10.0706Z" fill="currentColor"></path>
+                     </g>
+                     <defs>
+                        <clipPath id="clip0_1076_122253">
+                           <rect width="20" height="18" fill="white" transform="translate(2.25 3.5)"></rect>
+                        </clipPath>
+                     </defs>
+                  </svg>
+               </span>
+               <div class="name--pm45z">
+                  <div class="ellipsis--EjZIN">Drop&amp;Wins</div>
+               </div>
+            </a>
+            <a class="sb__reset_link button--s7oN6"
+            <?php if(isset($us['id'])){ ?>
+            href="/deposit"
+            <?php }else{?>
+            href="/login"
+            <?php }?>   
+            >
                <span class="wrapper--fQhcx" style="height: 16px; width: 16px; min-width: 16px;">
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                      <path d="M18.9945 4.64243C18.3813 4.44913 17.6921 4.35528 16.896 4.30615C15.986 4.25 14.8801 4.25 13.5233 4.25H10.4607C8.85735 4.24999 7.60039 4.24999 6.5962 4.34547C5.57265 4.44279 4.73455 4.64457 3.99573 5.09732C3.22203 5.57144 2.57153 6.22194 2.09741 6.99563C2.08062 7.02304 2.06416 7.05059 2.04805 7.07828C2.12534 5.63513 2.32723 4.67932 2.85454 3.92267C3.13049 3.5267 3.46451 3.17848 3.84432 2.89079C5.02036 2 6.69796 2 10.0532 2H15.4219C17.1091 2 17.9527 2 18.4769 2.54645C18.8794 2.96614 18.9728 3.58228 18.9945 4.64243Z" fill="currentColor"></path>

